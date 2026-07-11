@@ -16,4 +16,4 @@ CREDIBILITY_WEIGHTS = {
 
 # Pipeline log paths (using relative paths)
 LOG_FILE_PATH = os.path.join("data", "sentiment_log.csv")
-MODEL_PATH = os.path.join("models", "finbert_tuned")
+MODEL_PATH = "aryanchauhan08/Indi-FinBERT-Model"

@@ -4,3 +4,8 @@ Date,Ticker,Headline,Predicted_Class,Confidence,Action_Type
 2026-07-11 08:30:06,INFY.NS,Infosys shares slide on cautious revenue guidance revision.,negative,0.82,AUTO_ACCEPTED
 2026-07-11 03:30:06,TCS.NS,TCS announces major multi-million dollar cloud migration deal with UK retailer.,positive,0.88,AUTO_ACCEPTED
 2026-07-10 21:30:06,TATAMOTORS.NS,"Tata Motors EV sales drop slightly in domestic market, utility vehicles strong.",neutral,0.62,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-11 16:19:49,RELIANCE.NS,Reliance Industries expands retail footprint with new digital platform launch.,positive,0.88,AUTO_ACCEPTED
+2026-07-11 13:19:49,HDFCBANK.NS,"HDFC Bank Q1 net profit rises 15%, matching analyst estimates.",positive,0.88,AUTO_ACCEPTED
+2026-07-11 09:19:49,INFY.NS,Infosys shares slide on cautious revenue guidance revision.,negative,0.82,AUTO_ACCEPTED
+2026-07-11 04:19:49,TCS.NS,TCS announces major multi-million dollar cloud migration deal with UK retailer.,positive,0.88,AUTO_ACCEPTED
+2026-07-10 22:19:49,TATAMOTORS.NS,"Tata Motors EV sales drop slightly in domestic market, utility vehicles strong.",neutral,0.62,FLAGGED_FOR_HUMAN_REVIEW

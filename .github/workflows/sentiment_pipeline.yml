@@ -34,6 +34,8 @@ jobs:
           fi
 
       - name: Run live inference
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python live_inference.py
 
       - name: Commit and push updated sentiment logs

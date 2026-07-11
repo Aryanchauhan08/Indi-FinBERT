@@ -2,7 +2,7 @@ import os
 import csv
 import logging
 import datetime
-from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH
+from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH, MODEL_PATH
 
 # Configure logging
 logging.basicConfig(
@@ -10,9 +10,21 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+# Hugging Face Hub Login block
+try:
+    from huggingface_hub import login
+    hf_token = os.getenv("HF_TOKEN")
+    if hf_token:
+        logging.info("HF_TOKEN found. Authenticating with Hugging Face Hub...")
+        login(token=hf_token)
+    else:
+        logging.warning("HF_TOKEN environment variable not set. Authenticated access to Hugging Face Hub might fail.")
+except ImportError:
+    logging.warning("huggingface_hub library not installed. HF Hub login step skipped.")
+
 # Attempt to import transformers for HuggingFace model pipeline
 try:
-    from transformers import pipeline
+    from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
     TRANSFORMERS_AVAILABLE = True
 except ImportError:
     TRANSFORMERS_AVAILABLE = False
@@ -86,7 +98,8 @@ def predict_sentiment_fallback(headline):
 
 def load_sentiment_pipeline():
     """
-    Loads the HuggingFace sentiment pipeline using the ProsusAI/finbert model.
+    Loads the HuggingFace sentiment pipeline using the private model from the Hugging Face Hub.
+    Uses AutoTokenizer and AutoModelForSequenceClassification.
     Falls back gracefully to None if transformers isn't available.
     """
     if not TRANSFORMERS_AVAILABLE:
@@ -94,13 +107,18 @@ def load_sentiment_pipeline():
         return None
         
     try:
-        logging.info("Initializing HuggingFace sentiment analysis pipeline ('ProsusAI/finbert')...")
-        # Initialize pipeline (this will download model on first run if not cached)
-        nlp = pipeline("sentiment-analysis", model="ProsusAI/finbert")
-        logging.info("HuggingFace pipeline loaded successfully.")
+        logging.info(f"Initializing HuggingFace sentiment analysis pipeline from HF repository: '{MODEL_PATH}'...")
+        
+        # Load model and tokenizer using Auto classes
+        tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
+        model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
+        
+        # Build pipeline
+        nlp = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
+        logging.info("HuggingFace model and tokenizer loaded successfully from HF Hub.")
         return nlp
     except Exception as e:
-        logging.error(f"Failed to load HuggingFace model pipeline: {e}. Falling back to rule-based classifier.")
+        logging.error(f"Failed to load HuggingFace model from HF Hub: {e}. Falling back to rule-based classifier.")
         return None
 
 
