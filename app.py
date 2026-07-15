@@ -992,12 +992,12 @@ resetScroll();
 setTimeout(resetScroll, 50);
 setTimeout(resetScroll, 150);
 
-// ── 2. Live IST Clock ── FIXED: Clock interval owned by parent frame — survives iframe recreation on panel switches
-if (window.parent._clockInterval) {{  // FIXED: Always clear stale interval before re-registering
-    window.parent.clearInterval(window.parent._clockInterval);
-    window.parent._clockInterval = null;
+// ── 2. Live IST Clock ── Always clear and restart so it survives iframe recreation on every tab switch
+if (window._clockInterval) {{
+    window.parent.clearInterval(window._clockInterval);
+    window._clockInterval = null;
 }}
-window.parent._clockInterval = window.parent.setInterval(function() {{  // FIXED: setInterval lives in parent, survives iframe teardown
+window._clockInterval = window.parent.setInterval(function() {{
     var now = new Date();
     var timeString = now.toLocaleTimeString('en-US', {{
         timeZone: 'Asia/Kolkata',
@@ -1006,10 +1006,9 @@ window.parent._clockInterval = window.parent.setInterval(function() {{  // FIXED
         second: '2-digit',
         hour12: false
     }});
-    var clockEl = window.parent.document.getElementById('ist-clock');
+    var clockEl = document.getElementById('ist-clock');
     if (clockEl) clockEl.innerText = timeString + ' IST';
 }}, 1000);
-// Fire immediately so clock shows on first render without waiting 1s
 window.parent.setTimeout(function() {{
     var now = new Date();
     var timeString = now.toLocaleTimeString('en-US', {{
@@ -1019,7 +1018,7 @@ window.parent.setTimeout(function() {{
         second: '2-digit',
         hour12: false
     }});
-    var clockEl = window.parent.document.getElementById('ist-clock');
+    var clockEl = document.getElementById('ist-clock');
     if (clockEl) clockEl.innerText = timeString + ' IST';
 }}, 30);
 
@@ -1155,30 +1154,26 @@ try {{
     }});
 }} catch(e) {{}}
 
-// FIXED: Guaranteed fallback — if observer never fires (cross-frame issues), force all .scroll-animate elements visible after 1.5s
-window.parent.setTimeout(function() {{  // FIXED: Part B of Fix 3 — guaranteed visibility fallback
-    var els = window.parent.document.querySelectorAll('.scroll-animate');
+// Guaranteed fallback: force all .scroll-animate elements visible after 1.5s
+window.setTimeout(function() {{
+    var els = document.querySelectorAll('.scroll-animate');
     els.forEach(function(el) {{
         el.classList.add('visible');
     }});
 }}, 1500);
 
 // ── 7. Typewriter Terminal Observer ──
-// FIXED: Reset flag on every render so typewriter replays on each LIVE PIPELINE visit
-window.parent._typewriterStarted = false;  // FIXED: Clear stale guard so animation replays on navigation return
+window._typewriterStarted = false;
 
 const startTypewriter = () => {{
-    // FIXED: Guard prevents double-fire within same render cycle only
-    if (window.parent._typewriterStarted) return;
-    window.parent._typewriterStarted = true;
+    if (window._typewriterStarted) return;
+    window._typewriterStarted = true;
 
-    var el = window.parent.document.getElementById('terminal-body');  // FIXED: Use parent document reference
+    var el = document.getElementById('terminal-body');
     if (!el) return;
 
-    // Clear previous content so replay works cleanly
     el.innerHTML = '';
 
-    // FIXED: Generate timestamp at runtime in JS so it stays current on each replay
     var now_ts_js = new Date().toLocaleTimeString('en-US', {{
         timeZone: 'Asia/Kolkata',
         hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
@@ -1210,13 +1205,13 @@ const startTypewriter = () => {{
         if (lineIdx >= lines.length) return;
         var line = lines[lineIdx];
         if (line.text === '') {{
-            el.appendChild(window.parent.document.createElement('br'));  // FIXED: parent document reference
+            el.appendChild(document.createElement('br'));
             lineIdx++; charIdx = 0;
-            window.parent.setTimeout(typeNext, 100);  // FIXED: parent setTimeout survives iframe teardown
+            window.setTimeout(typeNext, 100);
             return;
         }}
         if (charIdx === 0) {{
-            var span = window.parent.document.createElement('span');  // FIXED: parent document reference
+            var span = document.createElement('span');
             span.style.color = line.color;
             span.id = 'cur-line';
             el.appendChild(span);
@@ -1226,41 +1221,39 @@ const startTypewriter = () => {{
         charIdx++;
         if (charIdx >= line.text.length) {{
             if (cur) cur.id = '';
-            el.appendChild(window.parent.document.createElement('br'));  // FIXED: parent document reference
+            el.appendChild(document.createElement('br'));
             lineIdx++; charIdx = 0;
-            window.parent.setTimeout(typeNext, 280);  // FIXED: parent setTimeout
+            window.setTimeout(typeNext, 280);
         }} else {{
-            window.parent.setTimeout(typeNext, 16);  // FIXED: parent setTimeout
+            window.setTimeout(typeNext, 16);
         }}
     }}
-    window.parent.setTimeout(typeNext, 500);  // FIXED: parent setTimeout
+    window.setTimeout(typeNext, 500);
 }};
 
-// Only trigger when terminal is at least 40% in the viewport — prevents premature fire before scroll
 (function() {{
     function tryObserveTerminal() {{
-        var termEl = window.parent.document.getElementById('terminal-body');  // FIXED: parent document reference
+        var termEl = document.getElementById('terminal-body');
         if (!termEl) {{
-            window.parent.setTimeout(tryObserveTerminal, 200);  // FIXED: retry via parent setTimeout
+            window.setTimeout(tryObserveTerminal, 200);
             return;
         }}
         try {{
-            var termObserver = new window.parent.IntersectionObserver(function(entries, obs) {{
+            var termObserver = new IntersectionObserver(function(entries, obs) {{
                 entries.forEach(function(entry) {{
-                    if (entry.intersectionRatio >= 0.4) {{  // FIXED: raised threshold from 0.1 to 0.4 so animation only fires when well in view
+                    if (entry.intersectionRatio >= 0.4) {{
                         startTypewriter();
                         obs.unobserve(entry.target);
                     }}
                 }});
             }}, {{
                 root: null,
-                rootMargin: '0px 0px -20% 0px',  // FIXED: negative bottom margin ensures element is truly in view, not just peeking
+                rootMargin: '0px 0px -20% 0px',
                 threshold: [0.4]
             }});
             termObserver.observe(termEl);
         }} catch(e) {{
-            // FIXED: Fallback if IntersectionObserver not available — start after delay
-            window.parent.setTimeout(startTypewriter, 2000);
+            window.setTimeout(startTypewriter, 2000);
         }}
     }}
     tryObserveTerminal();
