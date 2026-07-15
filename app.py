@@ -14,6 +14,7 @@ import streamlit.components.v1 as components
 import plotly.express as px
 import plotly.graph_objects as go
 import time
+st.iframe = components.iframe
 try:
     from config import TICKER_LIST, CONFIDENCE_THRESHOLD
 except ImportError:
@@ -482,7 +483,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-components.iframe("about:blank", height=0)
+st.iframe("about:blank", height=0)
 
 st.html(f"""
 <script>
@@ -1276,7 +1277,7 @@ typewriter_js = f"""
 }})();
 """
 
-components.iframe("about:blank", height=0)
+st.iframe("about:blank", height=0)
 
 st.html(f"""
 <script>
