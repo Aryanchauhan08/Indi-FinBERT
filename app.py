@@ -439,13 +439,13 @@ st.markdown("""
         z-index: 5;
     }
     .scroll-animate {
-        opacity: 1;
-        transform: none;
+        opacity: 0;
+        transform: translateY(30px);
         transition: all 0.8s ease-out;
     }
     .scroll-animate.visible {
         opacity: 1;
-        transform: none;
+        transform: translateY(0);
     }
     .premium-terminal {
         font-family: 'Geist Mono', monospace !important;
@@ -480,65 +480,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-components.html(f"""
-<script>
-(function() {{
-    let win = window;
-    let doc = document;
-    try {{
-        if (window.parent && window.parent.document.body) {{
-            win = window.parent;
-            doc = window.parent.document;
-        }}
-    }} catch(e) {{
-        // CORS blocked, fall back to local context
-    }}
-
-    win.setPage = function(pageName) {{
-        try {{
-            let btns = doc.querySelectorAll("button");
-            btns.forEach(function(btn) {{
-                let txt = btn.innerText || btn.textContent || "";
-                if (txt.trim() === pageName) {{
-                    btn.click();
-                }}
-            }});
-        }} catch(e) {{}}
-    }};
-    
-    try {{
-        let observerOptions = {{
-            root: null,
-            rootMargin: "0px",
-            threshold: 0.15
-        }};
-        let observerCallback = function(entries, observer) {{
-            entries.forEach(function(entry) {{
-                if (entry.isIntersecting) {{
-                    entry.target.classList.add("visible");
-                    observer.unobserve(entry.target);
-                }}
-            }});
-        }};
-        let observer = new win.IntersectionObserver(observerCallback, observerOptions);
-        let animateEls = doc.querySelectorAll(".scroll-animate");
-        animateEls.forEach(function(el) {{
-            observer.observe(el);
-        }});
-        setInterval(function() {{
-            let currentEls = doc.querySelectorAll(".scroll-animate");
-            currentEls.forEach(function(el) {{
-                if (!el.classList.contains("visible")) {{
-                    observer.observe(el);
-                }}
-            }});
-        }}, 1000);
-    }} catch(e) {{
-        console.error("IntersectionObserver failed:", e);
-    }}
-}})();
-</script>
-""", height=0, width=0)
+# Consolidated Javascript injector moved to bottom of page for parent execution context
 
 
 def generate_mock_historical_data():
@@ -1024,210 +966,189 @@ st.markdown(f"""
 <div class="finbert-content-push"></div>
 """, unsafe_allow_html=True)
 
-# Javascript injector variables for consolidated script execution
-scroll_reset_js = """
-// ── 1. Scroll reset ──
-const resetScroll = () => {
-    try {
-        if (window.parent) {
-            window.parent.scrollTo(0, 0);
-            const parentDoc = window.parent.document;
-            const selectors = [
-                'div[data-testid="stAppViewContainer"]',
-                'section.main',
-                'div.main',
-                '.stApp'
-            ];
-            selectors.forEach(sel => {
-                const el = parentDoc.querySelector(sel);
-                if (el) {
-                    el.scrollTop = 0;
-                }
-            });
-        }
-    } catch (e) {
+# ── Consolidated parent-scope Javascript execution wrapper ──
+now_ts = datetime.datetime.now().strftime("%H:%M:%S")
+
+js_payload = f"""
+// ── 1. Scroll Reset ──
+const resetScroll = () => {{
+    try {{
         window.scrollTo(0, 0);
-    }
-};
+        const selectors = [
+            'div[data-testid="stAppViewContainer"]',
+            'section.main',
+            'div.main',
+            '.stApp'
+        ];
+        selectors.forEach(sel => {{
+            const el = document.querySelector(sel);
+            if (el) el.scrollTop = 0;
+        }});
+    }} catch (e) {{}}
+}};
 resetScroll();
 setTimeout(resetScroll, 50);
 setTimeout(resetScroll, 150);
-setTimeout(resetScroll, 300);
-"""
 
-clock_js = """
-// ── 2. Live IST clock ──
-const updateClock = () => {
+// ── 2. Live IST Clock ──
+const updateClock = () => {{
     const now = new Date();
-    const timeString = now.toLocaleTimeString('en-US', {
+    const timeString = now.toLocaleTimeString('en-US', {{
         timeZone: 'Asia/Kolkata',
         hour: '2-digit',
         minute: '2-digit',
         second: '2-digit',
         hour12: false
-    });
-    try {
-        if (window.parent && window.parent.document) {
-            const parentDoc = window.parent.document;
-            const clockEl = parentDoc.getElementById('ist-clock');
-            if (clockEl) {
-                clockEl.innerText = timeString + ' IST';
-            }
-        }
-    } catch(e) {
-        // Silent fallback for cross-origin sites
-    }
-};
-setInterval(updateClock, 1000);
-setTimeout(updateClock, 100);
-"""
-
-counter_js = f"""
-// ── 3. Stat counter animation ──
-(function() {{
-    var VOLUME    = {total_volume};
-    var COVERAGE  = {asset_coverage};
-    var AUTOMATION = {automation_rate};
-
-    function easeOutExpo(elapsed, start, change, duration) {{
-        return elapsed === duration
-            ? start + change
-            : change * (-Math.pow(2, -10 * elapsed / duration) + 1) + start;
+    }});
+    const clockEl = document.getElementById('ist-clock');
+    if (clockEl) {{
+        clockEl.innerText = timeString + ' IST';
     }}
+}};
+if (!window._clockInterval) {{
+    window._clockInterval = setInterval(updateClock, 1000);
+    setTimeout(updateClock, 50);
+}}
 
-    function animateCounter(id, target, duration, isDecimal) {{
-        function tryAnimate() {{
-            try {{
-                if (window.parent && window.parent.document) {{
-                    var el = window.parent.document.getElementById(id);
-                    if (!el) {{ setTimeout(tryAnimate, 80); return; }}
-                    var startTime = null;
-                    function frame(ts) {{
-                        if (!startTime) startTime = ts;
-                        var elapsed = Math.min(ts - startTime, duration);
-                        var val = easeOutExpo(elapsed, 0, target, duration);
-                        el.innerText = isDecimal
-                            ? val.toFixed(1) + '%'
-                            : Math.floor(val).toLocaleString();
-                        if (elapsed < duration) requestAnimationFrame(frame);
-                        else el.innerText = isDecimal
-                            ? target.toFixed(1) + '%'
-                            : target.toLocaleString();
-                    }}
-                    requestAnimationFrame(frame);
+// ── 3. Stat Counter Animation ──
+const easeOutExpo = (elapsed, start, change, duration) => {{
+    return elapsed === duration
+        ? start + change
+        : change * (-Math.pow(2, -10 * elapsed / duration) + 1) + start;
+}};
+const animateCounter = (id, target, duration, isDecimal) => {{
+    const tryAnimate = () => {{
+        var el = document.getElementById(id);
+        if (!el) {{ setTimeout(tryAnimate, 80); return; }}
+        var startTime = null;
+        function frame(ts) {{
+            if (!startTime) startTime = ts;
+            var elapsed = Math.min(ts - startTime, duration);
+            var val = easeOutExpo(elapsed, 0, target, duration);
+            el.innerText = isDecimal
+                ? val.toFixed(1) + '%'
+                : Math.floor(val).toLocaleString();
+            if (elapsed < duration) requestAnimationFrame(frame);
+            else el.innerText = isDecimal
+                ? target.toFixed(1) + '%'
+                : target.toLocaleString();
+        }}
+        requestAnimationFrame(frame);
+    }};
+    tryAnimate();
+}};
+if (!window._countersAnimated) {{
+    window._countersAnimated = true;
+    animateCounter('stat-volume', {total_volume}, 1800, false);
+    animateCounter('stat-coverage', {asset_coverage}, 1800, false);
+    animateCounter('stat-automation', {automation_rate}, 1800, true);
+}}
+
+// ── 4. Particle Network Canvas ──
+const initParticles = () => {{
+    let canvas = document.getElementById('particle-canvas');
+    if (!canvas) {{
+        canvas = document.createElement('canvas');
+        canvas.id = 'particle-canvas';
+        canvas.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;pointer-events:none;z-index:0;opacity:0.35;';
+        document.body.appendChild(canvas);
+    }}
+    var ctx = canvas.getContext('2d');
+    canvas.width  = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    if (!window._particlesInitialized) {{
+        window._particlesInitialized = true;
+        window._particleNodes = Array.from({{length: 60}}, function() {{
+            return {{
+                x:  Math.random() * canvas.width,
+                y:  Math.random() * canvas.height,
+                vx: (Math.random() - 0.5) * 0.4,
+                vy: (Math.random() - 0.5) * 0.4,
+                r:  Math.random() * 2 + 1
+            }};
+        }});
+        window.addEventListener('resize', function() {{
+            canvas.width  = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }});
+    }}
+    var particles = window._particleNodes;
+    if (window._particleRAF) {{
+        cancelAnimationFrame(window._particleRAF);
+    }}
+    function draw() {{
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        particles.forEach(function(p) {{
+            p.x += p.vx; p.y += p.vy;
+            if (p.x < 0 || p.x > canvas.width)  p.vx *= -1;
+            if (p.y < 0 || p.y > canvas.height)  p.vy *= -1;
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+            ctx.fillStyle = 'rgba(0,242,255,0.7)';
+            ctx.fill();
+        }});
+        for (var i = 0; i < particles.length; i++) {{
+            for (var j = i + 1; j < particles.length; j++) {{
+                var dist = Math.hypot(particles[i].x - particles[j].x, particles[i].y - particles[j].y);
+                if (dist < 120) {{
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(0,242,255,' + (1 - dist/120) + ')';
+                    ctx.lineWidth = 0.4;
+                    ctx.stroke();
                 }}
-            }} catch(e) {{
-                // Silent fallback for cross-origin sites
             }}
         }}
-        tryAnimate();
+        window._particleRAF = requestAnimationFrame(draw);
     }}
+    draw();
+}};
+initParticles();
 
-    animateCounter('stat-volume',     VOLUME,     1800, false);
-    animateCounter('stat-coverage',   COVERAGE,   1800, false);
-    animateCounter('stat-automation', AUTOMATION, 1800, true);
-}})();
-"""
+// ── 5. Page Navigation Helper ──
+window.setPage = function(pageName) {{
+    try {{
+        let btns = document.querySelectorAll("button");
+        btns.forEach(function(btn) {{
+            let txt = btn.innerText || btn.textContent || "";
+            if (txt.trim() === pageName) {{
+                btn.click();
+            }}
+        }});
+    }} catch(e) {{}}
+}};
 
-particle_js = """
-// ── 4. Particle network canvas ──
-(function() {
-    function initParticles() {
-        let parentDoc = null;
-        let win = window;
-        try {
-            if (window.parent && window.parent.document.body) {
-                parentDoc = window.parent.document;
-                win = window.parent;
-            }
-        } catch(e) {
-            // CORS blocked, fall back to local context
-        }
+// ── 6. IntersectionObserver scroll animation ──
+try {{
+    let observerOptions = {{
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.15
+    }};
+    let observerCallback = function(entries, observer) {{
+        entries.forEach(function(entry) {{
+            if (entry.isIntersecting) {{
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+            }}
+        }});
+    }};
+    let observer = new IntersectionObserver(observerCallback, observerOptions);
+    let animateEls = document.querySelectorAll('.scroll-animate');
+    animateEls.forEach(function(el) {{
+        observer.observe(el);
+    }});
+}} catch(e) {{}}
 
-        let doc = parentDoc || document;
-        let canvas = doc.getElementById('particle-canvas');
-        if (!canvas) {
-            canvas = document.createElement('canvas');
-            canvas.id = 'particle-canvas';
-            canvas.style.cssText = [
-                'position:fixed','top:0','left:0',
-                'width:100vw','height:100vh',
-                'pointer-events:none','z-index:0','opacity:0.35'
-            ].join(';');
-            doc.body.appendChild(canvas);
-        }
-
-        var ctx = canvas.getContext('2d');
-        canvas.width  = win.innerWidth || window.innerWidth;
-        canvas.height = win.innerHeight || window.innerHeight;
-
-        if (!win._particlesInitialized) {
-            win._particlesInitialized = true;
-            win._particleNodes = Array.from({length: 60}, function() {
-                return {
-                    x:  Math.random() * canvas.width,
-                    y:  Math.random() * canvas.height,
-                    vx: (Math.random() - 0.5) * 0.4,
-                    vy: (Math.random() - 0.5) * 0.4,
-                    r:  Math.random() * 2 + 1
-                };
-            });
-            win.addEventListener('resize', function() {
-                canvas.width  = win.innerWidth || window.innerWidth;
-                canvas.height = win.innerHeight || window.innerHeight;
-            });
-        }
-
-        var particles = win._particleNodes;
-
-        if (win._particleRAF) {
-            cancelAnimationFrame(win._particleRAF);
-            win._particleRAF = null;
-        }
-
-        function draw() {
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            particles.forEach(function(p) {
-                p.x += p.vx; p.y += p.vy;
-                if (p.x < 0 || p.x > canvas.width)  p.vx *= -1;
-                if (p.y < 0 || p.y > canvas.height)  p.vy *= -1;
-                ctx.beginPath();
-                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-                ctx.fillStyle = 'rgba(0,242,255,0.7)';
-                ctx.fill();
-            });
-            for (var i = 0; i < particles.length; i++) {
-                for (var j = i + 1; j < particles.length; j++) {
-                    var dist = Math.hypot(
-                        particles[i].x - particles[j].x,
-                        particles[i].y - particles[j].y
-                    );
-                    if (dist < 120) {
-                        ctx.beginPath();
-                        ctx.moveTo(particles[i].x, particles[i].y);
-                        ctx.lineTo(particles[j].x, particles[j].y);
-                        ctx.strokeStyle = 'rgba(0,242,255,' + (1 - dist/120) + ')';
-                        ctx.lineWidth = 0.4;
-                        ctx.stroke();
-                    }
-                }
-            }
-            win._particleRAF = requestAnimationFrame(draw);
-        }
-        draw();
-    }
-    initParticles();
-})();
-"""
-
-now_ts = datetime.datetime.now().strftime("%H:%M:%S")
-
-typewriter_js = f"""
-// ── 5. Typewriter terminal ──
-(function() {{
+// ── 7. Typewriter Terminal Observer ──
+const startTypewriter = () => {{
+    if (window._typewriterStarted) return;
+    window._typewriterStarted = true;
     var lines = [
         {{ text: '[{now_ts}] INFO: Ingesting raw event stream...', color: '#64748B' }},
-        {{ text: '{{ "source": "gnews_rss", "id": "evt_8921a" }}', color: '#60A5FA' }},
+        {{ text: '{{ \\"source\\": \\"gnews_rss\\", \\"id\\": \\"evt_8921a\\" }}', color: '#60A5FA' }},
         {{ text: '', color: '' }},
         {{ text: '[{now_ts}] PROCESS: Running LLM classification...', color: '#64748B' }},
         {{ text: 'Model: fine-tuned-finbert-v2.5', color: '#00F2FF' }},
@@ -1235,57 +1156,19 @@ typewriter_js = f"""
         {{ text: '', color: '' }},
         {{ text: '[{now_ts}] OUTPUT: Vectorized Event Payload', color: '#64748B' }},
         {{ text: '{{', color: '#F8FAFC' }},
-        {{ text: '  "classification": "market_expansion",', color: '#F472B6' }},
-        {{ text: '  "confidence_score": 0.8800,', color: '#A78BFA' }},
-        {{ text: '  "entities": ["RELIANCE", "Retail Group"],', color: '#60A5FA' }},
-        {{ text: '  "action_type": "AUTO_ACCEPTED"', color: '#FB923C' }},
+        {{ text: '  \\"classification\\": \\"market_expansion\\",', color: '#F472B6' }},
+        {{ text: '  \\"confidence_score\\": 0.8800,', color: '#A78BFA' }},
+        {{ text: '  \\"entities\\": [\\"RELIANCE\\", \\"Retail Group\\"],', color: '#60A5FA' }},
+        {{ text: '  \\"action_type\\": \\"AUTO_ACCEPTED\\"', color: '#FB923C' }},
         {{ text: '}}', color: '#F8FAFC' }},
         {{ text: '', color: '' }},
         {{ text: '\\u25cf Signals dispatched to local ledger successfully.', color: '#34D399' }}
     ];
-
-    let win = window;
-    try {{
-        if (window.parent && window.parent.document.body) {{
-            win = window.parent;
-        }}
-    }} catch(e) {{}}
-
-    function getEl() {{
-        try {{
-            return win.document.getElementById('terminal-body');
-        }} catch(e) {{
-            return null;
-        }}
-    }}
-
-    if (win._terminalDone) {{
-        var el = getEl();
-        if (el) {{
-            el.innerHTML = '';
-            lines.forEach(function(line) {{
-                if (line.text === '') {{
-                    el.appendChild(document.createElement('br'));
-                }} else {{
-                    var span = document.createElement('span');
-                    span.style.color = line.color;
-                    span.innerText = line.text;
-                    el.appendChild(span);
-                    el.appendChild(document.createElement('br'));
-                }}
-            }});
-        }}
-        return;
-    }}
-
-    var lineIdx = 0, charIdx = 0;
-
+    var el = document.getElementById('terminal-body');
+    if (!el) return;
+    el.innerHTML = '';
     function typeNext() {{
-        var el = getEl();
-        if (!el || lineIdx >= lines.length) {{
-            if (el) win._terminalDone = true;
-            return;
-        }}
+        if (lineIdx >= lines.length) return;
         var line = lines[lineIdx];
         if (line.text === '') {{
             el.appendChild(document.createElement('br'));
@@ -1311,19 +1194,25 @@ typewriter_js = f"""
             setTimeout(typeNext, 16);
         }}
     }}
-    setTimeout(typeNext, 800);
-}})();
+    setTimeout(typeNext, 500);
+}};
+let termEl = document.getElementById('terminal-body');
+if (termEl) {{
+    let termObserver = new IntersectionObserver(function(entries, observer) {{
+        entries.forEach(function(entry) {{
+            if (entry.isIntersecting) {{
+                startTypewriter();
+                observer.unobserve(entry.target);
+            }}
+        }});
+    }}, {{ threshold: 0.1 }});
+    termObserver.observe(termEl);
+}}
 """
 
-components.html(f"""
-<script>
-{scroll_reset_js}
-{clock_js}
-{counter_js}
-{particle_js}
-{typewriter_js}
-</script>
-""", height=0, width=0)
+escaped_js = js_payload.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
+js_injector_html = f'<img src="x" style="display:none;" onerror="{escaped_js}">'
+st.markdown(js_injector_html, unsafe_allow_html=True)
 
 # ── Navigation radio (Fixed to top via CSS) ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
