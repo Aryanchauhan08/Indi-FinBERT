@@ -9,6 +9,6 @@ __pycache__/
 *.bin
 venv/
 env/
-data/sentiment_log.csv
-data/feedback_log.csv
-data/waitlist.csv
+!data/sentiment_log.csv
+!data/feedback_log.csv
+!data/waitlist.csv
