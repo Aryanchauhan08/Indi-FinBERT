@@ -2,7 +2,17 @@ import os
 import csv
 import logging
 import datetime
-from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH, MODEL_PATH
+import urllib.request
+import hashlib
+import email.utils
+import requests
+from bs4 import BeautifulSoup
+import feedparser
+from dotenv import load_dotenv
+from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH, MODEL_PATH, TICKER_KEYWORDS, TICKER_QUERIES
+
+# Load environment variables from local .env file
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
@@ -29,17 +39,260 @@ try:
 except ImportError:
     TRANSFORMERS_AVAILABLE = False
 
+# Quality filters shared across all sources (aligned with notebooks)
+NOISE_WORDS = [
+    "cricket", "bollywood", "recipe", "horoscope", "fashion",
+    "travel", "weather", "lifestyle", "us-iran", "ukraine",
+    "gaza", "election", "sports", "entertainment"
+]
+SKIP_PREFIXES = [
+    "sensex today", "stock market highlights", "market highlights",
+    "ahead of market", "top stocks to watch", "stocks in news",
+    "buzzing stocks", "10 things that will", "week ahead",
+    "trading guide", "market wrap", "top business & market headlines",
+    "bl morning report", "morning report", "dalal street watch",
+]
+JUNK_PHRASES = [
+    "day’s trial", "subscribe", "sign up", "download the app",
+    "advisory alert", "read also", "also read", "newsletter",
+]
 
-def fetch_latest_news():
+
+
+def is_valid_headline(title):
     """
-    Mock the news fetching logic for Indian tickers.
-    Fetches the latest 24 hours of news.
+    Returns True if the headline passes all quality and length filters from the notebooks.
     """
-    logging.info("Fetching latest 24 hours of news for Indian tickers...")
+    if not title or title.strip() == "" or title == "[Removed]":
+        return False
+    words = title.split()
+    if len(words) < 6 or len(words) > 45:
+        return False
+    low = title.lower()
+    if any(w in low for w in NOISE_WORDS):
+        return False
+    if any(low.startswith(p) for p in SKIP_PREFIXES):
+        return False
+    if any(phrase in low for phrase in JUNK_PHRASES):
+        return False
+    return True
+
+
+def parse_rss_date(date_str):
+    """
+    Parses RSS dates (RFC 822 / standard strings) safely.
+    """
+    try:
+        dt = email.utils.parsedate_to_datetime(date_str)
+        return dt
+    except Exception:
+        try:
+            from dateutil import parser as date_parser
+            return date_parser.parse(date_str)
+        except Exception:
+            return datetime.datetime.now()
+
+
+def is_within_last_24_hours(published_dt):
+    """
+    Determines if a parsed datetime falls within the last 24 hours.
+    """
+    if published_dt.tzinfo is not None:
+        published_dt = published_dt.replace(tzinfo=None)
     now = datetime.datetime.now()
+    diff = now - published_dt
+    return diff <= datetime.timedelta(hours=24)
+
+
+def fetch_moneycontrol_news():
+    """
+    Scrapes the front page sections of MoneyControl and filters/aligns headlines by ticker.
+    """
+    logging.info("Source A: Starting MoneyControl Scraping...")
+    results = []
     
-    # 5 dummy sample headlines representing various tickers and sources
-    mock_news = [
+    BASE_URLS = [
+        "https://www.moneycontrol.com/news/business/stocks/page-1/",
+        "https://www.moneycontrol.com/news/business/markets/page-1/",
+    ]
+    HEADERS = {"User-Agent": "Mozilla/5.0"}
+    
+    for url in BASE_URLS:
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            h2_elements = soup.find_all('h2')
+            
+            for h2 in h2_elements:
+                headline_text = h2.text.strip()
+                if not is_valid_headline(headline_text):
+                    continue
+                
+                # Assign to relevant tickers if keywords match
+                for ticker, keywords in TICKER_KEYWORDS.items():
+                    if any(kw in headline_text.lower() for kw in keywords):
+                        # Front page items are current within 24 hours
+                        now_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                        results.append({
+                            "Date": now_str,
+                            "Ticker": ticker,
+                            "Headline": headline_text,
+                            "Source": "moneycontrol"
+                        })
+                        logging.info(f"  [MoneyControl] Matched {ticker} -> {headline_text[:40]}...")
+        except Exception as e:
+            logging.error(f"  Error scraping MoneyControl URL {url}: {e}")
+            
+    return results
+
+
+def fetch_gnews_rss():
+    """
+    Fetches and parses Google News RSS feeds for targeted tickers.
+    """
+    logging.info("Source B: Starting Google News RSS Fetching...")
+    results = []
+    
+    GNEWS_BASE = "https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, */*"
+    }
+    
+    for ticker in TICKER_LIST:
+        try:
+            queries = TICKER_QUERIES.get(ticker, [ticker])
+            for query in queries:
+                url = GNEWS_BASE.format(q=query.replace(" ", "+"))
+                req = urllib.request.Request(url, headers=HEADERS)
+                
+                with urllib.request.urlopen(req, timeout=10) as response:
+                    data = response.read()
+                
+                feed = feedparser.parse(data)
+                added_count = 0
+                
+                for entry in feed.entries:
+                    title = (entry.get("title") or "").strip()
+                    # Strip standard "- Source" suffix Google appends to RSS titles
+                    if " - " in title:
+                        title = title.rsplit(" - ", 1)[0].strip()
+                    
+                    if not is_valid_headline(title):
+                        continue
+                        
+                    pub_date_str = entry.get("published", "")
+                    pub_dt = parse_rss_date(pub_date_str)
+                    
+                    if not is_within_last_24_hours(pub_dt):
+                        continue
+                        
+                    source = entry.get("source", {}).get("title", "Google News")
+                    
+                    results.append({
+                        "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                        "Ticker": ticker,
+                        "Headline": title,
+                        "Source": source
+                    })
+                    added_count += 1
+                    
+                if added_count > 0:
+                    logging.info(f"  [GNews] Fetched {added_count} articles for {ticker} using query '{query}'")
+        except Exception as e:
+            logging.error(f"  Error fetching GNews RSS for {ticker}: {e}")
+            
+    return results
+
+
+def fetch_news_api():
+    """
+    Fetches articles from NewsAPI for targeted tickers (requires NEWS_API_KEY environment variable).
+    """
+    news_api_key = os.getenv("NEWS_API_KEY")
+    if not news_api_key:
+        logging.info("Source C: NEWS_API_KEY environment variable not set. NewsAPI fetching skipped.")
+        return []
+        
+    logging.info("Source C: Starting NewsAPI Fetching...")
+    results = []
+    domains = "economictimes.indiatimes.com,livemint.com,business-standard.com,thehindubusinessline.com,financialexpress.com"
+    
+    for ticker in TICKER_LIST:
+        try:
+            url = "https://newsapi.org/v2/everything"
+            params = {
+                "q": ticker,
+                "domains": domains,
+                "language": "en",
+                "sortBy": "publishedAt",
+                "pageSize": 20,
+                "apiKey": news_api_key
+            }
+            
+            response = requests.get(url, params=params, timeout=10)
+            if response.status_code != 200:
+                logging.error(f"  NewsAPI request failed (status {response.status_code}): {response.text}")
+                continue
+                
+            articles = response.json().get("articles", [])
+            added_count = 0
+            
+            for art in articles:
+                title = (art.get("title") or "").strip()
+                if not is_valid_headline(title):
+                    continue
+                    
+                pub_date_str = art.get("publishedAt", "")
+                try:
+                    pub_dt = datetime.datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
+                except Exception:
+                    pub_dt = datetime.datetime.now()
+                    
+                if not is_within_last_24_hours(pub_dt):
+                    continue
+                    
+                source = art.get("source", {}).get("name", "NewsAPI")
+                
+                results.append({
+                    "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                    "Ticker": ticker,
+                    "Headline": title,
+                    "Source": source
+                })
+                added_count += 1
+                
+            if added_count > 0:
+                logging.info(f"  [NewsAPI] Fetched {added_count} articles for {ticker}")
+        except Exception as e:
+            logging.error(f"  Error fetching NewsAPI for {ticker}: {e}")
+            
+    return results
+
+
+def deduplicate_news(news_list):
+    """
+    Deduplicates fetched articles by Ticker and Headline content.
+    """
+    seen_hashes = set()
+    deduped = []
+    for item in news_list:
+        key = f"{item['Ticker']}_{item['Headline'].lower().strip()}"
+        h = hashlib.md5(key.encode()).hexdigest()
+        if h not in seen_hashes:
+            seen_hashes.add(h)
+            deduped.append(item)
+    return deduped
+
+
+def generate_mock_news_fallback():
+    """
+    Generates dummy news headlines if all scraper outputs are empty.
+    Prevents pipeline crashes under network restriction or sparse news days.
+    """
+    logging.warning("All scraping sources returned empty. Generating 5 mock news items as pipeline fallback.")
+    now = datetime.datetime.now()
+    return [
         {
             "Date": (now - datetime.timedelta(hours=2)).strftime("%Y-%m-%d %H:%M:%S"),
             "Ticker": "RELIANCE.NS",
@@ -71,15 +324,42 @@ def fetch_latest_news():
             "Source": "livemint"
         }
     ]
+
+
+def fetch_latest_news():
+    """
+    Refactored live news fetching logic incorporating notebook scraping.
+    Pulls from MoneyControl, Google News RSS, and NewsAPI.
+    """
+    logging.info("Initiating news collection loops for Indian tickers...")
+    collected_articles = []
     
-    logging.info(f"Successfully fetched {len(mock_news)} sample headlines.")
-    return mock_news
+    # 1. Scrape MoneyControl
+    mc_articles = fetch_moneycontrol_news()
+    collected_articles.extend(mc_articles)
+    
+    # 2. Fetch GNews RSS
+    gnews_articles = fetch_gnews_rss()
+    collected_articles.extend(gnews_articles)
+    
+    # 3. Fetch NewsAPI (optional)
+    newsapi_articles = fetch_news_api()
+    collected_articles.extend(newsapi_articles)
+    
+    # 4. Deduplicate
+    deduped_articles = deduplicate_news(collected_articles)
+    logging.info(f"Total unique articles crawled: {len(deduped_articles)}")
+    
+    # 5. Resiliency Fallback check
+    if not deduped_articles:
+        return generate_mock_news_fallback()
+        
+    return deduped_articles
 
 
 def predict_sentiment_fallback(headline):
     """
     Fallback rule-based heuristic prediction in case HuggingFace pipeline fails or is not installed.
-    Useful for local off-line development/runs.
     """
     headline_lower = headline.lower()
     positive_words = ["rise", "high", "growth", "profit", "deal", "expand", "gain", "strong", "launch"]
@@ -100,7 +380,6 @@ def load_sentiment_pipeline():
     """
     Loads the HuggingFace sentiment pipeline using the private model from the Hugging Face Hub.
     Uses AutoTokenizer and AutoModelForSequenceClassification.
-    Falls back gracefully to None if transformers isn't available.
     """
     if not TRANSFORMERS_AVAILABLE:
         logging.warning("Transformers library is not installed. Using rule-based fallback classifier.")
@@ -148,7 +427,6 @@ def run_inference(news_items, nlp):
         # Run model inference or fallback
         if nlp is not None:
             try:
-                # pipeline returns e.g. [{'label': 'positive', 'score': 0.95}]
                 pred = nlp(headline)[0]
                 predicted_class = pred["label"].lower()
                 confidence = float(pred["score"])
@@ -167,6 +445,7 @@ def run_inference(news_items, nlp):
             "Date": date,
             "Ticker": ticker,
             "Headline": headline,
+            "Source": item.get("Source", "Unknown"),
             "Predicted_Class": predicted_class,
             "Confidence": round(confidence, 4),
             "Action_Type": action_type
@@ -178,7 +457,6 @@ def run_inference(news_items, nlp):
 def append_to_csv(results, file_path):
     """
     Appends execution results to the target sentiment log CSV.
-    Creates directory and file if they do not exist.
     """
     logging.info(f"Logging output results to CSV file: {file_path}")
     dir_name = os.path.dirname(file_path)
@@ -186,7 +464,7 @@ def append_to_csv(results, file_path):
         os.makedirs(dir_name, exist_ok=True)
         
     file_exists = os.path.isfile(file_path)
-    headers = ["Date", "Ticker", "Headline", "Predicted_Class", "Confidence", "Action_Type"]
+    headers = ["Date", "Ticker", "Headline", "Source", "Predicted_Class", "Confidence", "Action_Type"]
     
     try:
         with open(file_path, mode="a", newline="", encoding="utf-8") as f:

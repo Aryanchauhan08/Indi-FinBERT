@@ -1,19 +1,8 @@
-# Local models directory containing downloaded model weights
-models/
-
-# Python caching
+.env
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Operating system files
 .DS_Store
-Thumbs.db
-
-# Local environment variables/secrets
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+data/sentiment_log.csv
+data/feedback_log.csv
+data/waitlist.csv
+models/

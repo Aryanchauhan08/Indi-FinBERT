@@ -1,0 +1,55 @@
+name: Daily FinBERT Inference Pipeline
+
+on:
+  schedule:
+    - cron: '30 2 * * 1-5'   # 02:30 UTC = 08:00 IST, Mon–Fri
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-inference:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        else
+          echo "ERROR: requirements.txt not found" && exit 1
+        fi
+
+    - name: Execute Live Inference Engine
+      timeout-minutes: 15
+      env:
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: |
+        python live_inference.py
+
+    - name: Commit and Push Updated Ledger
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "FinBERT Automation Bot"
+        git add data/
+        git commit -m "MDS202513: Automated data ingestion and sentiment scoring [skip ci]" || echo "No new headlines to commit"
+        git push
+
+    - name: Upload Sentiment Log Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: sentiment-log-${{ github.run_id }}
+        path: data/sentiment_log.csv
+        if-no-files-found: warn
