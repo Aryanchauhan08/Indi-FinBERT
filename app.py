@@ -482,7 +482,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-components.iframe("about:blank", height=0, width=0)
+st.iframe("about:blank", height=0, width='content')
 
 st.html(f"""
 <script>
@@ -1276,7 +1276,7 @@ typewriter_js = f"""
 }})();
 """
 
-components.iframe("about:blank", height=0, width=0)
+st.iframe("about:blank", height=0, width='content')
 
 st.html(f"""
 <script>
