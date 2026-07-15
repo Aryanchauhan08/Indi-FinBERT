@@ -1,7 +1,7 @@
 # ── Dependencies ─────────────────────────────────────────────
 # Install via: pip install -r requirements.txt
-# Core: streamlit>=1.35.0, pandas>=2.0.0, numpy>=1.26.0
-#        plotly>=5.20.0
+# Core: streamlit>=1.35.0, pandas>=2.2.0, numpy>=1.26.0
+#        plotly>=5.24.0
 # ───────────────────────────────────────────────────
 import os
 import sys
@@ -14,8 +14,6 @@ import streamlit.components.v1 as components
 import plotly.express as px
 import plotly.graph_objects as go
 import time
-if not hasattr(st, "iframe"):
-    st.iframe = components.iframe
 try:
     from config import TICKER_LIST, CONFIDENCE_THRESHOLD
 except ImportError:
@@ -571,6 +569,14 @@ def _day_net_sentiment(group):
     neg = (group["Predicted_Class"].str.lower() == "negative").sum()
     total = len(group)
     return (pos - neg) / total if total > 0 else 0.0
+
+
+# FIXED: include_groups=False compatibility wrapper for pandas < 2.2.0
+def _safe_groupby_apply(grouped, func):
+    try:
+        return grouped.apply(func, include_groups=False)
+    except TypeError:
+        return grouped.apply(func)
 
 
 @st.cache_data(ttl=300)
@@ -1211,10 +1217,20 @@ if (termEl) {{
 }}
 """
 
-import base64
-encoded_js = base64.b64encode(js_payload.encode("utf-8")).decode("utf-8")
-js_injector_html = f'<img src="x" style="display:none;" onerror="eval(atob(\'{encoded_js}\'))">'
-st.markdown(js_injector_html, unsafe_allow_html=True)
+# FIXED: Replaced onerror CSP-blocked injection with components.html iframe approach
+_js_for_iframe = js_payload \
+    .replace("window.addEventListener(", "window.parent.addEventListener(") \
+    .replace("document.getElementById(", "window.parent.document.getElementById(") \
+    .replace("document.createElement(", "window.parent.document.createElement(") \
+    .replace("document.body.appendChild(", "window.parent.document.body.appendChild(") \
+    .replace("document.querySelectorAll(", "window.parent.document.querySelectorAll(") \
+    .replace("document.querySelector(", "window.parent.document.querySelector(") \
+    .replace("window._", "window.parent._") \
+    .replace("window.setPage", "window.parent.setPage") \
+    .replace("window.innerWidth", "window.parent.innerWidth") \
+    .replace("window.innerHeight", "window.parent.innerHeight")
+
+components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
 # ── Navigation radio (Fixed to top via CSS) ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
@@ -1282,9 +1298,6 @@ st.radio(
     label_visibility="collapsed"
 )
 
-# -----------------
-# SPA View Router
-# -----------------
 # -----------------
 # Mock API Inference Helper
 # -----------------
@@ -1427,13 +1440,14 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         </div>
                     </div>
                     """
+                # FIXED: Removed double-braces — not an f-string, literal {{ breaks CSS
                 st.markdown(
                     """
                     <style>
-                    @keyframes fillBar {{
-                        from {{ width: 0%; }}
-                        to   {{ width: var(--target-width); }}
-                    }}
+                    @keyframes fillBar {
+                        from { width: 0%; }
+                        to   { width: var(--target-width); }
+                    }
                     </style>
                     """ +
                     animated_prob_bar("🟢 Positive", probs["positive"], "#00FF66") +
@@ -1989,7 +2003,8 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         if trend_df.empty:
             st.info("No data found for the selected filters.")
         else:
-            daily = trend_df.groupby("Date_Only").apply(_day_net_sentiment, include_groups=False).reset_index()
+            # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
+            daily = trend_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
             daily.columns = ["Date_Only", "net_sentiment"]
             daily = daily.sort_values("Date_Only")
             date_list = list(daily["Date_Only"])
@@ -1998,7 +2013,8 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             # High-confidence scatter overlay (Confidence >= 0.85)
             hc_df = trend_df[trend_df["Confidence"] >= 0.85].copy()
             if not hc_df.empty:
-                hc_daily = hc_df.groupby("Date_Only").apply(_day_net_sentiment, include_groups=False).reset_index()
+                # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
+                hc_daily = hc_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
                 hc_daily.columns = ["Date_Only", "net_sentiment"]
                 scatter_dates = list(hc_daily["Date_Only"])
                 scatter_y     = list(hc_daily["net_sentiment"])
@@ -2143,32 +2159,30 @@ map_data = pd.DataFrame({
     "Regional_Latency": ["12ms", "15ms", "14ms", "16ms", "18ms", "20ms"]
 })
 
-fig_map = px.scatter_map(
-    map_data,
-    lat="Lat",
-    lon="Lon",
-    hover_name="City",
-    size="Market_Volume",
-    color="Net_Sentiment",
-    zoom=3.5,
-    hover_data={
-        "Lat": False,
-        "Lon": False,
-        "Market_Volume": True,
-        "Net_Sentiment": True,
-        "Active_News_Nodes": True,
-        "Regional_Latency": True
-    },
-    color_continuous_scale=[
-        [0.0, "#EF4444"],
-        [0.5, "#64748B"],
-        [1.0, "#00FF66"]
-    ],
-    range_color=[-1.0, 1.0]
-)
+# FIXED: Compatibility fallback for plotly < 5.24.0
+try:
+    fig_map = px.scatter_map(
+        map_data, lat="Lat", lon="Lon", hover_name="City",
+        size="Market_Volume", color="Net_Sentiment", zoom=3.5,
+        hover_data={"Lat": False, "Lon": False, "Market_Volume": True,
+                    "Net_Sentiment": True, "Active_News_Nodes": True, "Regional_Latency": True},
+        color_continuous_scale=[[0.0, "#EF4444"], [0.5, "#64748B"], [1.0, "#00FF66"]],
+        range_color=[-1.0, 1.0]
+    )
+    fig_map.update_layout(map_style="open-street-map")
+except AttributeError:
+    # Fallback for plotly < 5.24.0
+    fig_map = px.scatter_mapbox(
+        map_data, lat="Lat", lon="Lon", hover_name="City",
+        size="Market_Volume", color="Net_Sentiment", zoom=3.5,
+        hover_data={"Lat": False, "Lon": False, "Market_Volume": True,
+                    "Net_Sentiment": True, "Active_News_Nodes": True, "Regional_Latency": True},
+        color_continuous_scale=[[0.0, "#EF4444"], [0.5, "#64748B"], [1.0, "#00FF66"]],
+        range_color=[-1.0, 1.0]
+    )
+    fig_map.update_layout(mapbox_style="open-street-map")
 
 fig_map.update_layout(
-    map_style="open-street-map",
     margin=dict(l=0, r=0, t=0, b=0),
     paper_bgcolor="#0A0F1D",
     plot_bgcolor="#050811",
@@ -2188,7 +2202,8 @@ if not df.empty:
         _heat_df["Date"] = pd.to_datetime(_heat_df["Date"], errors="coerce")
     _heat_df["Date_Only"] = _heat_df["Date"].dt.date
 
-    _daily = _heat_df.groupby("Date_Only").apply(_day_net_sentiment, include_groups=False).reset_index()
+    # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
+    _daily = _heat_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
     _daily.columns = ["Date_Only", "NetSentiment"]
 
     _full_range = pd.DataFrame({"Date_Only": [d.date() for d in _date_range]})
