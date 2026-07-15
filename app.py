@@ -480,20 +480,30 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.iframe("about:blank", height=0)
-
-st.html(f"""
+components.html(f"""
 <script>
 (function() {{
-    let maxScrollY = 0;
-    window.parent.setPage = function(pageName) {{
-        let btns = window.parent.document.querySelectorAll("button");
-        btns.forEach(function(btn) {{
-            let txt = btn.innerText || btn.textContent || "";
-            if (txt.trim() === pageName) {{
-                btn.click();
-            }}
-        }});
+    let win = window;
+    let doc = document;
+    try {{
+        if (window.parent && window.parent.document.body) {{
+            win = window.parent;
+            doc = window.parent.document;
+        }}
+    }} catch(e) {{
+        // CORS blocked, fall back to local context
+    }}
+
+    win.setPage = function(pageName) {{
+        try {{
+            let btns = doc.querySelectorAll("button");
+            btns.forEach(function(btn) {{
+                let txt = btn.innerText || btn.textContent || "";
+                if (txt.trim() === pageName) {{
+                    btn.click();
+                }}
+            }});
+        }} catch(e) {{}}
     }};
     
     try {{
@@ -510,13 +520,13 @@ st.html(f"""
                 }}
             }});
         }};
-        let observer = new window.parent.IntersectionObserver(observerCallback, observerOptions);
-        let animateEls = window.parent.document.querySelectorAll(".scroll-animate");
+        let observer = new win.IntersectionObserver(observerCallback, observerOptions);
+        let animateEls = doc.querySelectorAll(".scroll-animate");
         animateEls.forEach(function(el) {{
             observer.observe(el);
         }});
         setInterval(function() {{
-            let currentEls = window.parent.document.querySelectorAll(".scroll-animate");
+            let currentEls = doc.querySelectorAll(".scroll-animate");
             currentEls.forEach(function(el) {{
                 if (!el.classList.contains("visible")) {{
                     observer.observe(el);
@@ -528,7 +538,7 @@ st.html(f"""
     }}
 }})();
 </script>
-""")
+""", height=0, width=0)
 
 
 def generate_mock_historical_data():
@@ -1019,22 +1029,24 @@ scroll_reset_js = """
 // ── 1. Scroll reset ──
 const resetScroll = () => {
     try {
-        window.parent.scrollTo(0, 0);
-        const parentDoc = window.parent.document;
-        const selectors = [
-            'div[data-testid="stAppViewContainer"]',
-            'section.main',
-            'div.main',
-            '.stApp'
-        ];
-        selectors.forEach(sel => {
-            const el = parentDoc.querySelector(sel);
-            if (el) {
-                el.scrollTop = 0;
-            }
-        });
+        if (window.parent) {
+            window.parent.scrollTo(0, 0);
+            const parentDoc = window.parent.document;
+            const selectors = [
+                'div[data-testid="stAppViewContainer"]',
+                'section.main',
+                'div.main',
+                '.stApp'
+            ];
+            selectors.forEach(sel => {
+                const el = parentDoc.querySelector(sel);
+                if (el) {
+                    el.scrollTop = 0;
+                }
+            });
+        }
     } catch (e) {
-        console.warn("Scroll reset skipped:", e);
+        window.scrollTo(0, 0);
     }
 };
 resetScroll();
@@ -1054,10 +1066,16 @@ const updateClock = () => {
         second: '2-digit',
         hour12: false
     });
-    const parentDoc = window.parent.document;
-    const clockEl = parentDoc.getElementById('ist-clock');
-    if (clockEl) {
-        clockEl.innerText = timeString + ' IST';
+    try {
+        if (window.parent && window.parent.document) {
+            const parentDoc = window.parent.document;
+            const clockEl = parentDoc.getElementById('ist-clock');
+            if (clockEl) {
+                clockEl.innerText = timeString + ' IST';
+            }
+        }
+    } catch(e) {
+        // Silent fallback for cross-origin sites
     }
 };
 setInterval(updateClock, 1000);
@@ -1079,22 +1097,28 @@ counter_js = f"""
 
     function animateCounter(id, target, duration, isDecimal) {{
         function tryAnimate() {{
-            var el = window.parent.document.getElementById(id);
-            if (!el) {{ setTimeout(tryAnimate, 80); return; }}
-            var startTime = null;
-            function frame(ts) {{
-                if (!startTime) startTime = ts;
-                var elapsed = Math.min(ts - startTime, duration);
-                var val = easeOutExpo(elapsed, 0, target, duration);
-                el.innerText = isDecimal
-                    ? val.toFixed(1) + '%'
-                    : Math.floor(val).toLocaleString();
-                if (elapsed < duration) requestAnimationFrame(frame);
-                else el.innerText = isDecimal
-                    ? target.toFixed(1) + '%'
-                    : target.toLocaleString();
+            try {{
+                if (window.parent && window.parent.document) {{
+                    var el = window.parent.document.getElementById(id);
+                    if (!el) {{ setTimeout(tryAnimate, 80); return; }}
+                    var startTime = null;
+                    function frame(ts) {{
+                        if (!startTime) startTime = ts;
+                        var elapsed = Math.min(ts - startTime, duration);
+                        var val = easeOutExpo(elapsed, 0, target, duration);
+                        el.innerText = isDecimal
+                            ? val.toFixed(1) + '%'
+                            : Math.floor(val).toLocaleString();
+                        if (elapsed < duration) requestAnimationFrame(frame);
+                        else el.innerText = isDecimal
+                            ? target.toFixed(1) + '%'
+                            : target.toLocaleString();
+                    }}
+                    requestAnimationFrame(frame);
+                }}
+            }} catch(e) {{
+                // Silent fallback for cross-origin sites
             }}
-            requestAnimationFrame(frame);
         }}
         tryAnimate();
     }}
@@ -1109,12 +1133,19 @@ particle_js = """
 // ── 4. Particle network canvas ──
 (function() {
     function initParticles() {
-        if (!window.parent || !window.parent.document.body) {
-            setTimeout(initParticles, 100);
-            return;
+        let parentDoc = null;
+        let win = window;
+        try {
+            if (window.parent && window.parent.document.body) {
+                parentDoc = window.parent.document;
+                win = window.parent;
+            }
+        } catch(e) {
+            // CORS blocked, fall back to local context
         }
 
-        let canvas = window.parent.document.getElementById('particle-canvas');
+        let doc = parentDoc || document;
+        let canvas = doc.getElementById('particle-canvas');
         if (!canvas) {
             canvas = document.createElement('canvas');
             canvas.id = 'particle-canvas';
@@ -1123,16 +1154,16 @@ particle_js = """
                 'width:100vw','height:100vh',
                 'pointer-events:none','z-index:0','opacity:0.35'
             ].join(';');
-            window.parent.document.body.appendChild(canvas);
+            doc.body.appendChild(canvas);
         }
 
         var ctx = canvas.getContext('2d');
-        canvas.width  = window.parent.innerWidth;
-        canvas.height = window.parent.innerHeight;
+        canvas.width  = win.innerWidth || window.innerWidth;
+        canvas.height = win.innerHeight || window.innerHeight;
 
-        if (!window.parent._particlesInitialized) {
-            window.parent._particlesInitialized = true;
-            window.parent._particleNodes = Array.from({length: 60}, function() {
+        if (!win._particlesInitialized) {
+            win._particlesInitialized = true;
+            win._particleNodes = Array.from({length: 60}, function() {
                 return {
                     x:  Math.random() * canvas.width,
                     y:  Math.random() * canvas.height,
@@ -1141,18 +1172,17 @@ particle_js = """
                     r:  Math.random() * 2 + 1
                 };
             });
-            window.parent.addEventListener('resize', function() {
-                canvas.width  = window.parent.innerWidth;
-                canvas.height = window.parent.innerHeight;
+            win.addEventListener('resize', function() {
+                canvas.width  = win.innerWidth || window.innerWidth;
+                canvas.height = win.innerHeight || window.innerHeight;
             });
         }
 
-        var particles = window.parent._particleNodes;
+        var particles = win._particleNodes;
 
-        // so we never have two loops running simultaneously
-        if (window.parent._particleRAF) {
-            cancelAnimationFrame(window.parent._particleRAF);
-            window.parent._particleRAF = null;
+        if (win._particleRAF) {
+            cancelAnimationFrame(win._particleRAF);
+            win._particleRAF = null;
         }
 
         function draw() {
@@ -1182,7 +1212,7 @@ particle_js = """
                     }
                 }
             }
-            window.parent._particleRAF = requestAnimationFrame(draw);
+            win._particleRAF = requestAnimationFrame(draw);
         }
         draw();
     }
@@ -1214,11 +1244,22 @@ typewriter_js = f"""
         {{ text: '\\u25cf Signals dispatched to local ledger successfully.', color: '#34D399' }}
     ];
 
+    let win = window;
+    try {{
+        if (window.parent && window.parent.document.body) {{
+            win = window.parent;
+        }}
+    }} catch(e) {{}}
+
     function getEl() {{
-        return window.parent.document.getElementById('terminal-body');
+        try {{
+            return win.document.getElementById('terminal-body');
+        }} catch(e) {{
+            return null;
+        }}
     }}
 
-    if (window.parent._terminalDone) {{
+    if (win._terminalDone) {{
         var el = getEl();
         if (el) {{
             el.innerHTML = '';
@@ -1242,7 +1283,7 @@ typewriter_js = f"""
     function typeNext() {{
         var el = getEl();
         if (!el || lineIdx >= lines.length) {{
-            if (el) window.parent._terminalDone = true;
+            if (el) win._terminalDone = true;
             return;
         }}
         var line = lines[lineIdx];
@@ -1274,9 +1315,7 @@ typewriter_js = f"""
 }})();
 """
 
-st.iframe("about:blank", height=0)
-
-st.html(f"""
+components.html(f"""
 <script>
 {scroll_reset_js}
 {clock_js}
@@ -1284,7 +1323,7 @@ st.html(f"""
 {particle_js}
 {typewriter_js}
 </script>
-""")
+""", height=0, width=0)
 
 # ── Navigation radio (Fixed to top via CSS) ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
