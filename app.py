@@ -482,62 +482,55 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+components.iframe("about:blank", height=0, width=0)
 
-# VISUAL: Replace static star/comet divs with a particle network canvas injected via components.html
-# VISUAL: Old separate particle network components.html removed (consolidated below navbar)
-
-components.html(
-    f"""
-    <script>
-    (function() {{
-        let maxScrollY = 0;
-        
-        window.parent.setPage = function(pageName) {{
-            let btns = window.parent.document.querySelectorAll("button");
-            btns.forEach(function(btn) {{
-                let txt = btn.innerText || btn.textContent || "";
-                if (txt.trim() === pageName) {{
-                    btn.click();
+st.html(f"""
+<script>
+(function() {{
+    let maxScrollY = 0;
+    window.parent.setPage = function(pageName) {{
+        let btns = window.parent.document.querySelectorAll("button");
+        btns.forEach(function(btn) {{
+            let txt = btn.innerText || btn.textContent || "";
+            if (txt.trim() === pageName) {{
+                btn.click();
+            }}
+        }});
+    }};
+    
+    try {{
+        let observerOptions = {{
+            root: null,
+            rootMargin: "0px",
+            threshold: 0.15
+        }};
+        let observerCallback = function(entries, observer) {{
+            entries.forEach(function(entry) {{
+                if (entry.isIntersecting) {{
+                    entry.target.classList.add("visible");
+                    observer.unobserve(entry.target);
                 }}
             }});
         }};
-        
-        try {{
-            let observerOptions = {{
-                root: null,
-                rootMargin: "0px",
-                threshold: 0.15
-            }};
-            let observerCallback = function(entries, observer) {{
-                entries.forEach(function(entry) {{
-                    if (entry.isIntersecting) {{
-                        entry.target.classList.add("visible");
-                        observer.unobserve(entry.target);
-                    }}
-                }});
-            }};
-            let observer = new window.parent.IntersectionObserver(observerCallback, observerOptions);
-            let animateEls = window.parent.document.querySelectorAll(".scroll-animate");
-            animateEls.forEach(function(el) {{
-                observer.observe(el);
+        let observer = new window.parent.IntersectionObserver(observerCallback, observerOptions);
+        let animateEls = window.parent.document.querySelectorAll(".scroll-animate");
+        animateEls.forEach(function(el) {{
+            observer.observe(el);
+        }});
+        setInterval(function() {{
+            let currentEls = window.parent.document.querySelectorAll(".scroll-animate");
+            currentEls.forEach(function(el) {{
+                if (!el.classList.contains("visible")) {{
+                    observer.observe(el);
+                }}
             }});
-            setInterval(function() {{
-                let currentEls = window.parent.document.querySelectorAll(".scroll-animate");
-                currentEls.forEach(function(el) {{
-                    if (!el.classList.contains("visible")) {{
-                        observer.observe(el);
-                    }}
-                }});
-            }}, 1000);
-        }} catch(e) {{
-            console.error("IntersectionObserver failed:", e);
-        }}
-    }})();
-    </script>
-    """,
-    height=0,
-    width=0
-)
+        }}, 1000);
+    }} catch(e) {{
+        console.error("IntersectionObserver failed:", e);
+    }}
+}})();
+</script>
+""")
 
 
 def generate_mock_historical_data():
@@ -1283,24 +1276,17 @@ typewriter_js = f"""
 }})();
 """
 
-components.html(f"""
+components.iframe("about:blank", height=0, width=0)
+
+st.html(f"""
 <script>
-// ── 1. Scroll reset ──
 {scroll_reset_js}
-
-// ── 2. Live IST clock ──
 {clock_js}
-
-// ── 3. Stat counter animation ──
 {counter_js}
-
-// ── 4. Particle network canvas ──
 {particle_js}
-
-// ── 5. Typewriter terminal ──
 {typewriter_js}
 </script>
-""", height=0)
+""")
 
 # ── Navigation radio (Fixed to top via CSS) ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
@@ -2229,7 +2215,7 @@ map_data = pd.DataFrame({
     "Regional_Latency": ["12ms", "15ms", "14ms", "16ms", "18ms", "20ms"]
 })
 
-fig_map = px.scatter_mapbox(
+fig_map = px.scatter_map(
     map_data,
     lat="Lat",
     lon="Lon",
@@ -2254,14 +2240,14 @@ fig_map = px.scatter_mapbox(
 )
 
 fig_map.update_layout(
-    mapbox_style="open-street-map",
+    map_style="open-street-map",
     margin=dict(l=0, r=0, t=0, b=0),
     paper_bgcolor="#0A0F1D",
     plot_bgcolor="#050811",
     coloraxis_showscale=False
 )
 
-st.plotly_chart(fig_map, use_container_width=True)
+st.plotly_chart(fig_map, width='stretch')
 
 # VISUAL: 90-Day Sentiment Heatmap Calendar above the data table
 if not df.empty:
@@ -2307,7 +2293,7 @@ if not df.empty:
         )
     )
     st.markdown("#### 📅 90-Day Sentiment Heatmap")
-    st.plotly_chart(fig_heat, use_container_width=True)
+    st.plotly_chart(fig_heat, width='stretch')
 
 # No user filters — display full latest data autonomously
 df_filtered = df.copy()
@@ -2502,7 +2488,7 @@ if not filtered_headlines.empty:
         .format({"Confidence": "{:.4f}"})
     )
     
-    st.dataframe(styled_df, use_container_width=True, height=350)
+    st.dataframe(styled_df, width='stretch', height=350)
     
     # Download matrix export button
     csv_bytes = display_df.to_csv(index=False).encode("utf-8")
@@ -2517,7 +2503,7 @@ else:
     st.info(f"No headlines found for the latest evaluation date ({latest_run_date}).")
 
 st.markdown("---")
-if st.button("⚡ Run Live Inference Pipeline", use_container_width=True, type="primary"):
+if st.button("⚡ Run Live Inference Pipeline", width='stretch', type="primary"):
     with st.spinner("Executing pipeline subprocess..."):
         try:
             result = subprocess.run(
