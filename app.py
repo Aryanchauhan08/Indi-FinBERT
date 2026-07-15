@@ -439,11 +439,11 @@ st.markdown("""
     .scroll-animate {
         opacity: 0;
         transform: translateY(30px);
-        transition: all 0.8s ease-out;
+        transition: opacity 0.7s ease-out, transform 0.7s ease-out;  /* FIXED: Shorter transition, split properties for better browser support */
     }
     .scroll-animate.visible {
-        opacity: 1;
-        transform: translateY(0);
+        opacity: 1 !important;  /* FIXED: !important ensures JS class addition always overrides opacity: 0 */
+        transform: translateY(0) !important;  /* FIXED: !important ensures JS class addition always overrides transform */
     }
     .premium-terminal {
         font-family: 'Geist Mono', monospace !important;
@@ -996,25 +996,36 @@ resetScroll();
 setTimeout(resetScroll, 50);
 setTimeout(resetScroll, 150);
 
-// ── 2. Live IST Clock ──
-const updateClock = () => {{
-    const now = new Date();
-    const timeString = now.toLocaleTimeString('en-US', {{
+// ── 2. Live IST Clock ── FIXED: Clock interval owned by parent frame — survives iframe recreation on panel switches
+if (window.parent._clockInterval) {{  // FIXED: Always clear stale interval before re-registering
+    window.parent.clearInterval(window.parent._clockInterval);
+    window.parent._clockInterval = null;
+}}
+window.parent._clockInterval = window.parent.setInterval(function() {{  // FIXED: setInterval lives in parent, survives iframe teardown
+    var now = new Date();
+    var timeString = now.toLocaleTimeString('en-US', {{
         timeZone: 'Asia/Kolkata',
         hour: '2-digit',
         minute: '2-digit',
         second: '2-digit',
         hour12: false
     }});
-    const clockEl = document.getElementById('ist-clock');
-    if (clockEl) {{
-        clockEl.innerText = timeString + ' IST';
-    }}
-}};
-if (!window._clockInterval) {{
-    window._clockInterval = setInterval(updateClock, 1000);
-    setTimeout(updateClock, 50);
-}}
+    var clockEl = window.parent.document.getElementById('ist-clock');
+    if (clockEl) clockEl.innerText = timeString + ' IST';
+}}, 1000);
+// FIXED: Fire immediately so clock shows on first render without waiting 1s
+window.parent.setTimeout(function() {{
+    var now = new Date();
+    var timeString = now.toLocaleTimeString('en-US', {{
+        timeZone: 'Asia/Kolkata',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+    }});
+    var clockEl = window.parent.document.getElementById('ist-clock');
+    if (clockEl) clockEl.innerText = timeString + ' IST';
+}}, 30);
 
 // ── 3. Stat Counter Animation ──
 const easeOutExpo = (elapsed, start, change, duration) => {{
@@ -1148,43 +1159,68 @@ try {{
     }});
 }} catch(e) {{}}
 
+// FIXED: Guaranteed fallback — if observer never fires (cross-frame issues), force all .scroll-animate elements visible after 1.5s
+window.parent.setTimeout(function() {{  // FIXED: Part B of Fix 3 — guaranteed visibility fallback
+    var els = window.parent.document.querySelectorAll('.scroll-animate');
+    els.forEach(function(el) {{
+        el.classList.add('visible');
+    }});
+}}, 1500);
+
 // ── 7. Typewriter Terminal Observer ──
+// FIXED: Reset flag on every render so typewriter replays on each LIVE PIPELINE visit
+window.parent._typewriterStarted = false;  // FIXED: Clear stale guard so animation replays on navigation return
+
 const startTypewriter = () => {{
-    if (window._typewriterStarted) return;
-    window._typewriterStarted = true;
+    // FIXED: Guard prevents double-fire within same render cycle only
+    if (window.parent._typewriterStarted) return;
+    window.parent._typewriterStarted = true;
+
+    var el = window.parent.document.getElementById('terminal-body');  // FIXED: Use parent document reference
+    if (!el) return;
+
+    // Clear previous content so replay works cleanly
+    el.innerHTML = '';
+
+    // FIXED: Generate timestamp at runtime in JS so it stays current on each replay
+    var now_ts_js = new Date().toLocaleTimeString('en-US', {{
+        timeZone: 'Asia/Kolkata',
+        hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
+    }});
+
     var lines = [
-        {{ text: '[{now_ts}] INFO: Ingesting raw event stream...', color: '#64748B' }},
-        {{ text: '{{ \\"source\\": \\"gnews_rss\\", \\"id\\": \\"evt_8921a\\" }}', color: '#60A5FA' }},
+        {{ text: '[' + now_ts_js + '] INFO: Ingesting raw event stream...', color: '#64748B' }},
+        {{ text: '{{ "source": "gnews_rss", "id": "evt_8921a" }}', color: '#60A5FA' }},
         {{ text: '', color: '' }},
-        {{ text: '[{now_ts}] PROCESS: Running LLM classification...', color: '#64748B' }},
+        {{ text: '[' + now_ts_js + '] PROCESS: Running LLM classification...', color: '#64748B' }},
         {{ text: 'Model: fine-tuned-finbert-v2.5', color: '#00F2FF' }},
         {{ text: 'Latency: 42ms', color: '#34D399' }},
         {{ text: '', color: '' }},
-        {{ text: '[{now_ts}] OUTPUT: Vectorized Event Payload', color: '#64748B' }},
+        {{ text: '[' + now_ts_js + '] OUTPUT: Vectorized Event Payload', color: '#64748B' }},
         {{ text: '{{', color: '#F8FAFC' }},
-        {{ text: '  \\"classification\\": \\"market_expansion\\",', color: '#F472B6' }},
-        {{ text: '  \\"confidence_score\\": 0.8800,', color: '#A78BFA' }},
-        {{ text: '  \\"entities\\": [\\"RELIANCE\\", \\"Retail Group\\"],', color: '#60A5FA' }},
-        {{ text: '  \\"action_type\\": \\"AUTO_ACCEPTED\\"', color: '#FB923C' }},
+        {{ text: '  "classification": "market_expansion",', color: '#F472B6' }},
+        {{ text: '  "confidence_score": 0.8800,', color: '#A78BFA' }},
+        {{ text: '  "entities": ["RELIANCE", "Retail Group"],', color: '#60A5FA' }},
+        {{ text: '  "action_type": "AUTO_ACCEPTED"', color: '#FB923C' }},
         {{ text: '}}', color: '#F8FAFC' }},
         {{ text: '', color: '' }},
-        {{ text: '\\u25cf Signals dispatched to local ledger successfully.', color: '#34D399' }}
+        {{ text: '\u25cf Signals dispatched to local ledger successfully.', color: '#34D399' }}
     ];
-    var el = document.getElementById('terminal-body');
-    if (!el) return;
-    el.innerHTML = '';
-    var lineIdx = 0, charIdx = 0;
+
+    var lineIdx = 0;
+    var charIdx = 0;
+
     function typeNext() {{
         if (lineIdx >= lines.length) return;
         var line = lines[lineIdx];
         if (line.text === '') {{
-            el.appendChild(document.createElement('br'));
+            el.appendChild(window.parent.document.createElement('br'));  // FIXED: parent document reference
             lineIdx++; charIdx = 0;
-            setTimeout(typeNext, 100);
+            window.parent.setTimeout(typeNext, 100);  // FIXED: parent setTimeout survives iframe teardown
             return;
         }}
         if (charIdx === 0) {{
-            var span = document.createElement('span');
+            var span = window.parent.document.createElement('span');  // FIXED: parent document reference
             span.style.color = line.color;
             span.id = 'cur-line';
             el.appendChild(span);
@@ -1194,27 +1230,45 @@ const startTypewriter = () => {{
         charIdx++;
         if (charIdx >= line.text.length) {{
             if (cur) cur.id = '';
-            el.appendChild(document.createElement('br'));
+            el.appendChild(window.parent.document.createElement('br'));  // FIXED: parent document reference
             lineIdx++; charIdx = 0;
-            setTimeout(typeNext, 280);
+            window.parent.setTimeout(typeNext, 280);  // FIXED: parent setTimeout
         }} else {{
-            setTimeout(typeNext, 16);
+            window.parent.setTimeout(typeNext, 16);  // FIXED: parent setTimeout
         }}
     }}
-    setTimeout(typeNext, 500);
+    window.parent.setTimeout(typeNext, 500);  // FIXED: parent setTimeout
 }};
-let termEl = document.getElementById('terminal-body');
-if (termEl) {{
-    let termObserver = new IntersectionObserver(function(entries, observer) {{
-        entries.forEach(function(entry) {{
-            if (entry.isIntersecting) {{
-                startTypewriter();
-                observer.unobserve(entry.target);
-            }}
-        }});
-    }}, {{ threshold: 0.1 }});
-    termObserver.observe(termEl);
-}}
+
+// FIXED: Only trigger when terminal is at least 40% in the viewport — prevents premature fire before scroll
+(function() {{
+    function tryObserveTerminal() {{
+        var termEl = window.parent.document.getElementById('terminal-body');  // FIXED: parent document reference
+        if (!termEl) {{
+            window.parent.setTimeout(tryObserveTerminal, 200);  // FIXED: retry via parent setTimeout
+            return;
+        }}
+        try {{
+            var termObserver = new window.parent.IntersectionObserver(function(entries, obs) {{
+                entries.forEach(function(entry) {{
+                    if (entry.intersectionRatio >= 0.4) {{  // FIXED: raised threshold from 0.1 to 0.4 so animation only fires when well in view
+                        startTypewriter();
+                        obs.unobserve(entry.target);
+                    }}
+                }});
+            }}, {{
+                root: null,
+                rootMargin: '0px 0px -20% 0px',  // FIXED: negative bottom margin ensures element is truly in view, not just peeking
+                threshold: [0.4]
+            }});
+            termObserver.observe(termEl);
+        }} catch(e) {{
+            // FIXED: Fallback if IntersectionObserver not available — start after delay
+            window.parent.setTimeout(startTypewriter, 2000);
+        }}
+    }}
+    tryObserveTerminal();
+}})();
 """
 
 # FIXED: Replaced onerror CSP-blocked injection with components.html iframe approach
@@ -2283,9 +2337,9 @@ with col_timeline:
                         <path d="M3 12c0 1.66 4 3 9 3s9-1.34 9-3"></path>
                     </svg>
                 </div>
-                <div class="timeline-content">
-                    <h3>1. Multi-Modal News Ingestion</h3>
-                    <p>Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p>
+                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
+                    <h3 style="color: #FFFFFF !important;">1. Multi-Modal News Ingestion</h3><!-- FIXED: inline color fallback -->
+                    <p style="color: #94A3B8 !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p><!-- FIXED: inline color fallback -->
                     <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Throughput: 5,000+ events/sec</span>
                 </div>
             </div>
@@ -2302,9 +2356,9 @@ with col_timeline:
                         <circle cx="22" cy="15" r="1.5" fill="currentColor"></circle>
                     </svg>
                 </div>
-                <div class="timeline-content">
-                    <h3>2. NLP Engine — ProsusAI FinBERT Stack</h3>
-                    <p>Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p>
+                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
+                    <h3 style="color: #FFFFFF !important;">2. NLP Engine — ProsusAI FinBERT Stack</h3><!-- FIXED: inline color fallback -->
+                    <p style="color: #94A3B8 !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p><!-- FIXED: inline color fallback -->
                     <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: 42ms</span>
                 </div>
             </div>
@@ -2315,9 +2369,9 @@ with col_timeline:
                         <path d="M3 12h3l3-9 4 18 3-12h5"></path>
                     </svg>
                 </div>
-                <div class="timeline-content">
-                    <h3>3. Cascading HITL Guardrails</h3>
-                    <p>Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p>
+                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
+                    <h3 style="color: #FFFFFF !important;">3. Cascading HITL Guardrails</h3><!-- FIXED: inline color fallback -->
+                    <p style="color: #94A3B8 !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p><!-- FIXED: inline color fallback -->
                     <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Brier accuracy score tracked</span>
                 </div>
             </div>
@@ -2331,9 +2385,9 @@ with col_timeline:
                         <circle cx="14" cy="18" r="2.5"></circle>
                     </svg>
                 </div>
-                <div class="timeline-content">
-                    <h3>4. Database Ledger Logging</h3>
-                    <p>Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p>
+                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
+                    <h3 style="color: #FFFFFF !important;">4. Database Ledger Logging</h3><!-- FIXED: inline color fallback -->
+                    <p style="color: #94A3B8 !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p><!-- FIXED: inline color fallback -->
                     <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Backtested Sharpe: 1.42</span>
                 </div>
             </div>
