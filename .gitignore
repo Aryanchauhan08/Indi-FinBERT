@@ -2,7 +2,13 @@
 __pycache__/
 *.pyc
 .DS_Store
+*.ipynb
+*.ipynb_checkpoints/
+*.pt
+*.h5
+*.bin
+venv/
+env/
 data/sentiment_log.csv
 data/feedback_log.csv
 data/waitlist.csv
-models/
