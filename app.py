@@ -1167,6 +1167,7 @@ const startTypewriter = () => {{
     var el = document.getElementById('terminal-body');
     if (!el) return;
     el.innerHTML = '';
+    var lineIdx = 0, charIdx = 0;
     function typeNext() {{
         if (lineIdx >= lines.length) return;
         var line = lines[lineIdx];
@@ -1210,8 +1211,9 @@ if (termEl) {{
 }}
 """
 
-escaped_js = js_payload.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
-js_injector_html = f'<img src="x" style="display:none;" onerror="{escaped_js}">'
+import base64
+encoded_js = base64.b64encode(js_payload.encode("utf-8")).decode("utf-8")
+js_injector_html = f'<img src="x" style="display:none;" onerror="eval(atob(\'{encoded_js}\'))">'
 st.markdown(js_injector_html, unsafe_allow_html=True)
 
 # ── Navigation radio (Fixed to top via CSS) ──
