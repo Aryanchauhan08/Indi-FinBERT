@@ -1211,9 +1211,14 @@ if (termEl) {{
 }}
 """
 
-import base64
-encoded_js = base64.b64encode(js_payload.encode("utf-8")).decode("utf-8")
-js_injector_html = f'<img src="x" style="display:none;" onerror="eval(atob(\'{encoded_js}\'))">'
+import html
+import re
+
+js_clean = re.sub(r"//.*$", "", js_payload, flags=re.MULTILINE)
+js_single_line = " ".join(js_clean.split())
+escaped_js = html.escape(js_single_line, quote=True)
+
+js_injector_html = f'<img src="x" style="display:none;" onerror="{escaped_js}">'
 st.markdown(js_injector_html, unsafe_allow_html=True)
 
 # ── Navigation radio (Fixed to top via CSS) ──
