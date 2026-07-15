@@ -439,11 +439,11 @@ st.markdown("""
     .scroll-animate {
         opacity: 0;
         transform: translateY(30px);
-        transition: opacity 0.7s ease-out, transform 0.7s ease-out;  /* FIXED: Shorter transition, split properties for better browser support */
+        transition: opacity 0.7s ease-out, transform 0.7s ease-out;
     }
     .scroll-animate.visible {
-        opacity: 1 !important;  /* FIXED: !important ensures JS class addition always overrides opacity: 0 */
-        transform: translateY(0) !important;  /* FIXED: !important ensures JS class addition always overrides transform */
+        opacity: 1 !important;
+        transform: translateY(0) !important;
     }
     .premium-terminal {
         font-family: 'Geist Mono', monospace !important;
@@ -477,9 +477,6 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-
-# FIXED: Removed first components.html call — all JS consolidated into js_payload block below.
-
 
 def generate_mock_historical_data():
     """
@@ -571,7 +568,6 @@ def _day_net_sentiment(group):
     return (pos - neg) / total if total > 0 else 0.0
 
 
-# FIXED: include_groups=False compatibility wrapper for pandas < 2.2.0
 def _safe_groupby_apply(grouped, func):
     try:
         return grouped.apply(func, include_groups=False)
@@ -1013,7 +1009,7 @@ window.parent._clockInterval = window.parent.setInterval(function() {{  // FIXED
     var clockEl = window.parent.document.getElementById('ist-clock');
     if (clockEl) clockEl.innerText = timeString + ' IST';
 }}, 1000);
-// FIXED: Fire immediately so clock shows on first render without waiting 1s
+// Fire immediately so clock shows on first render without waiting 1s
 window.parent.setTimeout(function() {{
     var now = new Date();
     var timeString = now.toLocaleTimeString('en-US', {{
@@ -1240,7 +1236,7 @@ const startTypewriter = () => {{
     window.parent.setTimeout(typeNext, 500);  // FIXED: parent setTimeout
 }};
 
-// FIXED: Only trigger when terminal is at least 40% in the viewport — prevents premature fire before scroll
+// Only trigger when terminal is at least 40% in the viewport — prevents premature fire before scroll
 (function() {{
     function tryObserveTerminal() {{
         var termEl = window.parent.document.getElementById('terminal-body');  // FIXED: parent document reference
@@ -1291,7 +1287,7 @@ _js_for_iframe = (
 
 components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
-# ── Navigation radio (Fixed to top via CSS) ──
+# ── Navigation radio  ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
 st.sidebar.toggle("⚡ Auto-Refresh (60s)", value=False, key="auto_refresh")
 
