@@ -445,6 +445,15 @@ st.markdown("""
         opacity: 1 !important;
         transform: translateY(0) !important;
     }
+    .tl-line {
+        opacity: 0;
+        transform: translateX(-20px);
+        transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+    }
+    .tl-line.visible {
+        opacity: 1 !important;
+        transform: translateX(0) !important;
+    }
     .premium-terminal {
         font-family: 'Geist Mono', monospace !important;
         font-size: 14px !important;
@@ -1172,24 +1181,26 @@ const startTypewriter = () => {{
     var el = document.getElementById('terminal-body');
     if (!el) return;
 
-    el.innerHTML = '';
-
     var now_ts_js = new Date().toLocaleTimeString('en-US', {{
         timeZone: 'Asia/Kolkata',
         hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false
     }});
 
+    // Instantly restore static header lines — user sees context immediately
+    el.innerHTML =
+        '<span style="color:#64748B">[' + now_ts_js + '] INFO: Ingesting raw event stream...</span><br>' +
+        '<span style="color:#60A5FA">{{ "source": "gnews_rss", "id": "evt_8921a" }}</span><br>' +
+        '<br>' +
+        '<span style="color:#64748B">[' + now_ts_js + '] PROCESS: Running LLM classification...</span><br>' +
+        '<span style="color:#00F2FF">Model: fine-tuned-finbert-v2.5</span><br>' +
+        '<span style="color:#34D399">Latency: 42ms</span><br>' +
+        '<br>' +
+        '<span style="color:#64748B">[' + now_ts_js + '] OUTPUT: Vectorized Event Payload</span><br>' +
+        '<span style="color:#F8FAFC">{{</span><br>' +
+        '<span style="color:#F472B6">  "classification": "market_expansion",</span><br>';
+
+    // Only the last 5 lines are typed character-by-character
     var lines = [
-        {{ text: '[' + now_ts_js + '] INFO: Ingesting raw event stream...', color: '#64748B' }},
-        {{ text: '{{ "source": "gnews_rss", "id": "evt_8921a" }}', color: '#60A5FA' }},
-        {{ text: '', color: '' }},
-        {{ text: '[' + now_ts_js + '] PROCESS: Running LLM classification...', color: '#64748B' }},
-        {{ text: 'Model: fine-tuned-finbert-v2.5', color: '#00F2FF' }},
-        {{ text: 'Latency: 42ms', color: '#34D399' }},
-        {{ text: '', color: '' }},
-        {{ text: '[' + now_ts_js + '] OUTPUT: Vectorized Event Payload', color: '#64748B' }},
-        {{ text: '{{', color: '#F8FAFC' }},
-        {{ text: '  "classification": "market_expansion",', color: '#F472B6' }},
         {{ text: '  "confidence_score": 0.8800,', color: '#A78BFA' }},
         {{ text: '  "entities": ["RELIANCE", "Retail Group"],', color: '#60A5FA' }},
         {{ text: '  "action_type": "AUTO_ACCEPTED"', color: '#FB923C' }},
@@ -1225,10 +1236,10 @@ const startTypewriter = () => {{
             lineIdx++; charIdx = 0;
             window.setTimeout(typeNext, 280);
         }} else {{
-            window.setTimeout(typeNext, 16);
+            window.setTimeout(typeNext, 22);
         }}
     }}
-    window.setTimeout(typeNext, 500);
+    window.setTimeout(typeNext, 400);
 }};
 
 (function() {{
@@ -1257,6 +1268,30 @@ const startTypewriter = () => {{
         }}
     }}
     tryObserveTerminal();
+}})();
+
+// ── 8. Timeline line-by-line fade-slide animation ──
+// Fires when .timeline-container first enters the viewport, then reveals
+// each .tl-line child 130 ms apart for a staggered left-slide effect.
+(function() {{
+    function tryObserveTimeline() {{
+        var container = document.querySelector('.timeline-container');
+        if (!container) {{ window.parent.setTimeout(tryObserveTimeline, 300); return; }}
+        var tlLines = container.querySelectorAll('.tl-line');
+        if (!tlLines.length) {{ window.parent.setTimeout(tryObserveTimeline, 300); return; }}
+        var obs = new IntersectionObserver(function(entries, observer) {{
+            entries.forEach(function(entry) {{
+                if (entry.isIntersecting) {{
+                    tlLines.forEach(function(el, i) {{
+                        window.parent.setTimeout(function() {{ el.classList.add('visible'); }}, i * 130);
+                    }});
+                    observer.unobserve(entry.target);
+                }}
+            }});
+        }}, {{ root: null, threshold: 0.05 }});
+        obs.observe(container);
+    }}
+    tryObserveTimeline();
 }})();
 """
 
@@ -2318,7 +2353,7 @@ with col_timeline:
         """
         <div class="timeline-container">
             <!-- Item 1 -->
-            <div class="timeline-item scroll-animate" style="transition-delay: 100ms;">
+            <div class="timeline-item">
                 <div class="timeline-icon" style="border-color: #3B82F6 !important; color: #3B82F6;">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <ellipse cx="12" cy="5" rx="9" ry="3"></ellipse>
@@ -2326,14 +2361,14 @@ with col_timeline:
                         <path d="M3 12c0 1.66 4 3 9 3s9-1.34 9-3"></path>
                     </svg>
                 </div>
-                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
-                    <h3 style="color: #FFFFFF !important;">1. Multi-Modal News Ingestion</h3><!-- FIXED: inline color fallback -->
-                    <p style="color: #94A3B8 !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p><!-- FIXED: inline color fallback -->
-                    <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Throughput: 5,000+ events/sec</span>
+                <div class="timeline-content" style="color: #FFFFFF;">
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">1. Multi-Modal News Ingestion</h3>
+                    <p class="tl-line" style="color: #94A3B8 !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Throughput: 5,000+ events/sec</span>
                 </div>
             </div>
             <!-- Item 2 -->
-            <div class="timeline-item scroll-animate" style="transition-delay: 200ms;">
+            <div class="timeline-item">
                 <div class="timeline-icon" style="border-color: #10B981 !important; color: #10B981;">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"></path>
@@ -2345,27 +2380,27 @@ with col_timeline:
                         <circle cx="22" cy="15" r="1.5" fill="currentColor"></circle>
                     </svg>
                 </div>
-                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
-                    <h3 style="color: #FFFFFF !important;">2. NLP Engine — ProsusAI FinBERT Stack</h3><!-- FIXED: inline color fallback -->
-                    <p style="color: #94A3B8 !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p><!-- FIXED: inline color fallback -->
-                    <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: 42ms</span>
+                <div class="timeline-content" style="color: #FFFFFF;">
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">2. NLP Engine — ProsusAI FinBERT Stack</h3>
+                    <p class="tl-line" style="color: #94A3B8 !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: 42ms</span>
                 </div>
             </div>
             <!-- Item 3 -->
-            <div class="timeline-item scroll-animate" style="transition-delay: 300ms;">
+            <div class="timeline-item">
                 <div class="timeline-icon" style="border-color: #F59E0B !important; color: #F59E0B;">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M3 12h3l3-9 4 18 3-12h5"></path>
                     </svg>
                 </div>
-                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
-                    <h3 style="color: #FFFFFF !important;">3. Cascading HITL Guardrails</h3><!-- FIXED: inline color fallback -->
-                    <p style="color: #94A3B8 !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p><!-- FIXED: inline color fallback -->
-                    <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Brier accuracy score tracked</span>
+                <div class="timeline-content" style="color: #FFFFFF;">
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">3. Cascading HITL Guardrails</h3>
+                    <p class="tl-line" style="color: #94A3B8 !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Brier accuracy score tracked</span>
                 </div>
             </div>
             <!-- Item 4 -->
-            <div class="timeline-item scroll-animate" style="transition-delay: 400ms;">
+            <div class="timeline-item">
                 <div class="timeline-icon" style="border-color: #8B5CF6 !important; color: #8B5CF6;">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <line x1="8" y1="20" x2="8" y2="8"></line>
@@ -2374,10 +2409,10 @@ with col_timeline:
                         <circle cx="14" cy="18" r="2.5"></circle>
                     </svg>
                 </div>
-                <div class="timeline-content" style="color: #FFFFFF;"><!-- FIXED: inline color ensures text visible even before .visible class applied -->
-                    <h3 style="color: #FFFFFF !important;">4. Database Ledger Logging</h3><!-- FIXED: inline color fallback -->
-                    <p style="color: #94A3B8 !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p><!-- FIXED: inline color fallback -->
-                    <span style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Backtested Sharpe: 1.42</span>
+                <div class="timeline-content" style="color: #FFFFFF;">
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">4. Database Ledger Logging</h3>
+                    <p class="tl-line" style="color: #94A3B8 !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Backtested Sharpe: 1.42</span>
                 </div>
             </div>
         </div>
