@@ -1218,20 +1218,22 @@ if (termEl) {{
 """
 
 # FIXED: Replaced onerror CSP-blocked injection with components.html iframe approach
-_js_for_iframe = js_payload \
-    .replace("window.addEventListener(", "window.parent.addEventListener(") \
-    .replace("document.getElementById(", "window.parent.document.getElementById(") \
-    .replace("document.createElement(", "window.parent.document.createElement(") \
-    .replace("document.body.appendChild(", "window.parent.document.body.appendChild(") \
-    .replace("document.querySelectorAll(", "window.parent.document.querySelectorAll(") \
-    .replace("document.querySelector(", "window.parent.document.querySelector(") \
-    .replace("window._", "window.parent._") \
-    .replace("window.setPage", "window.parent.setPage") \
-    .replace("window.innerWidth", "window.parent.innerWidth") \
-    .replace("window.innerHeight", "window.parent.innerHeight") \
-    .replace("requestAnimationFrame(", "window.parent.requestAnimationFrame(") \
-    .replace("cancelAnimationFrame(", "window.parent.cancelAnimationFrame(") \
+_js_for_iframe = (
+    js_payload
+    .replace("window.addEventListener(", "window.parent.addEventListener(")
+    .replace("document.getElementById(", "window.parent.document.getElementById(")
+    .replace("document.createElement(", "window.parent.document.createElement(")
+    .replace("document.body.appendChild(", "window.parent.document.body.appendChild(")
+    .replace("document.querySelectorAll(", "window.parent.document.querySelectorAll(")
+    .replace("document.querySelector(", "window.parent.document.querySelector(")
+    .replace("window._", "window.parent._")
+    .replace("window.setPage", "window.parent.setPage")
+    .replace("window.innerWidth", "window.parent.innerWidth")
+    .replace("window.innerHeight", "window.parent.innerHeight")
+    .replace("requestAnimationFrame(", "window.parent.requestAnimationFrame(")  # FIXED: RAF must run in parent frame context
+    .replace("cancelAnimationFrame(", "window.parent.cancelAnimationFrame(")  # FIXED: RAF must run in parent frame context
     .replace("new IntersectionObserver(", "new window.parent.IntersectionObserver(")  # FIXED: Observer must use parent context to observe parent elements
+)
 
 components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
