@@ -478,7 +478,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Consolidated Javascript injector moved to bottom of page for parent execution context
+# FIXED: Removed first components.html call — all JS consolidated into js_payload block below.
 
 
 def generate_mock_historical_data():
@@ -1228,7 +1228,10 @@ _js_for_iframe = js_payload \
     .replace("window._", "window.parent._") \
     .replace("window.setPage", "window.parent.setPage") \
     .replace("window.innerWidth", "window.parent.innerWidth") \
-    .replace("window.innerHeight", "window.parent.innerHeight")
+    .replace("window.innerHeight", "window.parent.innerHeight") \
+    .replace("requestAnimationFrame(", "window.parent.requestAnimationFrame(") \
+    .replace("cancelAnimationFrame(", "window.parent.cancelAnimationFrame(") \
+    .replace("new IntersectionObserver(", "new window.parent.IntersectionObserver(")  # FIXED: Observer must use parent context to observe parent elements
 
 components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
@@ -2004,7 +2007,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             st.info("No data found for the selected filters.")
         else:
             # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
-            daily = trend_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
+            daily = _safe_groupby_apply(trend_df.groupby("Date_Only"), _day_net_sentiment).reset_index()
             daily.columns = ["Date_Only", "net_sentiment"]
             daily = daily.sort_values("Date_Only")
             date_list = list(daily["Date_Only"])
@@ -2014,7 +2017,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             hc_df = trend_df[trend_df["Confidence"] >= 0.85].copy()
             if not hc_df.empty:
                 # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
-                hc_daily = hc_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
+                hc_daily = _safe_groupby_apply(hc_df.groupby("Date_Only"), _day_net_sentiment).reset_index()
                 hc_daily.columns = ["Date_Only", "net_sentiment"]
                 scatter_dates = list(hc_daily["Date_Only"])
                 scatter_y     = list(hc_daily["net_sentiment"])
@@ -2203,7 +2206,7 @@ if not df.empty:
     _heat_df["Date_Only"] = _heat_df["Date"].dt.date
 
     # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
-    _daily = _heat_df.groupby("Date_Only").pipe(lambda g: _safe_groupby_apply(g, _day_net_sentiment)).reset_index()
+    _daily = _safe_groupby_apply(_heat_df.groupby("Date_Only"), _day_net_sentiment).reset_index()
     _daily.columns = ["Date_Only", "NetSentiment"]
 
     _full_range = pd.DataFrame({"Date_Only": [d.date() for d in _date_range]})
