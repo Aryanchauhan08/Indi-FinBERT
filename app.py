@@ -1476,7 +1476,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     height=200,
                     margin=dict(l=20, r=20, t=40, b=20)
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width='stretch')
                 
             with col_probs:
                 st.markdown("### Probability Distribution")
@@ -1713,7 +1713,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
 
             if _batch_valid:
                 st.markdown("#### Sample Preview (First 10 rows)")
-                st.dataframe(batch_df.head(10), use_container_width=True)
+                st.dataframe(batch_df.head(10), width='stretch')
                 
                 if st.button("Process Batch Predictions", type="primary", key="batch_predict_btn"):
                     with st.spinner("Processing batch pipeline predictions..."):
@@ -1763,7 +1763,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     donut_col, table_col = st.columns([1, 1.8])
                     
                     with donut_col:
-                        st.plotly_chart(fig_donut, use_container_width=True)
+                        st.plotly_chart(fig_donut, width='stretch')
                         
                     with table_col:
                         conf_threshold = st.slider("Gating Confidence Threshold (%)", min_value=0, max_value=100, value=65, key="batch_conf_slider")
@@ -1777,7 +1777,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         else:
                             display_pdf = gated_pdf
                             
-                        st.dataframe(display_pdf.head(10), use_container_width=True)
+                        st.dataframe(display_pdf.head(10), width='stretch')
                         
                         csv_data = gated_pdf.to_csv(index=False).encode('utf-8')
                         st.download_button(
@@ -2032,7 +2032,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     """,
                     unsafe_allow_html=True
                 )
-                st.plotly_chart(fig_spark, use_container_width=True, key=f"spark_{t.lower()}")
+                st.plotly_chart(fig_spark, width='stretch', key=f"spark_{t.lower()}")
                 st.markdown(alert_banner, unsafe_allow_html=True)
             
     st.markdown("---")
@@ -2102,7 +2102,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                 margin=dict(l=40, r=40, t=10, b=40),
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
             )
-            st.plotly_chart(fig_trend, use_container_width=True)
+            st.plotly_chart(fig_trend, width='stretch')
         
     st.markdown('</div>', unsafe_allow_html=True)
     st.stop()
