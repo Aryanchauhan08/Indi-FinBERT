@@ -73,13 +73,9 @@ st.markdown("""
     div[data-testid="stBlockContainer"],
     .stAppViewBlockContainer,
     div[class*="stAppViewBlockContainer"],
-    .st-emotion-cache-1y4q5o,
-    .st-emotion-cache-z5fcl4,
-    .st-emotion-cache-1pxn4x8,
-    div[data-testid="stVerticalBlock"] > div[data-testid="element-container"] + div[data-testid="stVerticalBlock"],
     .page-transition-wrapper {
-        padding-top: 0rem !important;
-        margin-top: -75px !important;
+        padding-top: 5rem !important;
+        margin-top: 0px !important;
         padding-bottom: 0rem !important;
     }
 
@@ -443,13 +439,13 @@ st.markdown("""
         z-index: 5;
     }
     .scroll-animate {
-        opacity: 0;
-        transform: translateY(30px);
+        opacity: 1;
+        transform: none;
         transition: all 0.8s ease-out;
     }
     .scroll-animate.visible {
         opacity: 1;
-        transform: translateY(0);
+        transform: none;
     }
     .premium-terminal {
         font-family: 'Geist Mono', monospace !important;
@@ -2407,7 +2403,24 @@ with col_terminal:
                     <span style="height: 10px; width: 10px; background-color: #10B981; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
                     <span style="font-family: 'Geist Mono', monospace; font-size: 0.72rem; color: #64748B;">finbert-inference-node ~ tail -f /var/log/pipeline.log</span>
             </div>
-                <div id="terminal-body" style="font-family:'Geist Mono',monospace;font-size:14px;line-height:22.75px;color:#F8FAFC;overflow-y:auto;height:calc(100% - 30px);"></div>
+                <div id="terminal-body" style="font-family:'Geist Mono',monospace;font-size:14px;line-height:22.75px;color:#F8FAFC;overflow-y:auto;height:calc(100% - 30px);">
+                    <span style="color: #64748B;">[{now}] INFO: Ingesting raw event stream...</span><br>
+                    <span style="color: #60A5FA;">{{ "source": "gnews_rss", "id": "evt_8921a" }}</span><br>
+                    <br>
+                    <span style="color: #64748B;">[{now}] PROCESS: Running LLM classification...</span><br>
+                    <span style="color: #00F2FF;">Model: fine-tuned-finbert-v2.5</span><br>
+                    <span style="color: #34D399;">Latency: 42ms</span><br>
+                    <br>
+                    <span style="color: #64748B;">[{now}] OUTPUT: Vectorized Event Payload</span><br>
+                    <span style="color: #F8FAFC;">{{</span><br>
+                    <span style="color: #F472B6;">  "classification": "market_expansion",</span><br>
+                    <span style="color: #A78BFA;">  "confidence_score": 0.8800,</span><br>
+                    <span style="color: #60A5FA;">  "entities": ["RELIANCE", "Retail Group"],</span><br>
+                    <span style="color: #FB923C;">  "action_type": "AUTO_ACCEPTED"</span><br>
+                    <span style="color: #F8FAFC;">}}</span><br>
+                    <br>
+                    <span style="color: #34D399;">● Signals dispatched to local ledger successfully.</span>
+                </div>
             </div>
             """,
             unsafe_allow_html=True
