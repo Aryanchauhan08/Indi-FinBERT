@@ -14,7 +14,8 @@ import streamlit.components.v1 as components
 import plotly.express as px
 import plotly.graph_objects as go
 import time
-st.iframe = components.iframe
+if not hasattr(st, "iframe"):
+    st.iframe = components.iframe
 try:
     from config import TICKER_LIST, CONFIDENCE_THRESHOLD
 except ImportError:
