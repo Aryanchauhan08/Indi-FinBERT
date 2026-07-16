@@ -886,8 +886,8 @@ div[data-testid="stRadio"] label[data-checked="true"] p {
     animation: fadeInPage 0.5s cubic-bezier(0.22, 1, 0.36, 1) forwards !important;
 }
 
-/* Float the Streamlit radio widget into the center of the custom navbar */
-div[data-testid="stRadio"] {
+/* Float only the navigation radio widget into the center of the custom navbar */
+div[data-testid="stRadio"]:has(input[name="navigation"]) {
     position: fixed !important;
     top: 11px !important;
     left: 50% !important;
