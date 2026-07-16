@@ -2274,23 +2274,33 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             stock_data.columns = stock_data.columns.get_level_values(0)
 
         # --- News events from existing df ---
-        news_df = df.copy()
-        if not pd.api.types.is_datetime64_any_dtype(news_df["Date"]):
-            news_df["Date"] = pd.to_datetime(news_df["Date"], errors="coerce")
-        news_df["Date_Only"] = news_df["Date"].dt.date
-        news_df = news_df[
-            (news_df["Date_Only"] >= start_dt) &
-            (news_df["Date_Only"] <= end_dt) &
-            (news_df["Ticker"] == company_filter)
+        nic_df = df.copy()
+        if not pd.api.types.is_datetime64_any_dtype(nic_df["Date"]):
+            nic_df["Date"] = pd.to_datetime(nic_df["Date"], errors="coerce")
+        nic_df["Date_Only"] = nic_df["Date"].dt.date
+        nic_df = nic_df[
+            (nic_df["Date_Only"] >= start_dt) &
+            (nic_df["Date_Only"] <= end_dt) &
+            (nic_df["Ticker"] == company_filter)
         ]
 
         # Both empty
-        if stock_data.empty and news_df.empty:
+        if stock_data.empty and nic_df.empty:
             st.info("ℹ️ No data available. Try adjusting the date range.")
         else:
-            fig = go.Figure()
+            from plotly.subplots import make_subplots
 
-            # --- Primary price trace ---
+            # Fix 3 — 2-row subplot: price (75%) + volume (25%)
+            fig = make_subplots(
+                rows=2, cols=1,
+                shared_xaxes=True,
+                vertical_spacing=0.03,
+                row_heights=[0.75, 0.25]
+            )
+
+            price_change_val = None
+
+            # --- Primary price trace (row 1) ---
             if not stock_data.empty and all(c in stock_data.columns for c in ["Open", "High", "Low", "Close"]):
                 if chart_style == "Candlestick":
                     fig.add_trace(go.Candlestick(
@@ -2304,7 +2314,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         decreasing_line_color="#EF4444",
                         increasing_fillcolor="#00D294",
                         decreasing_fillcolor="#EF4444"
-                    ))
+                    ), row=1, col=1)
                 else:  # OHLC Line
                     fig.add_trace(go.Scatter(
                         x=stock_data.index,
@@ -2314,77 +2324,110 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         line=dict(color="#00F2FF", width=2.5),
                         fill="tozeroy",
                         fillcolor="rgba(0, 242, 255, 0.04)"
-                    ))
-                price_change_val = None
-                if len(stock_data["Close"]) >= 2:
-                    closes = stock_data["Close"].dropna()
-                    if len(closes) >= 2:
-                        first_c = float(closes.iloc[0])
-                        last_c  = float(closes.iloc[-1])
-                        price_change_val = ((last_c - first_c) / first_c * 100) if first_c != 0 else 0.0
+                    ), row=1, col=1)
+
+                closes = stock_data["Close"].dropna()
+                if len(closes) >= 2:
+                    first_c = float(closes.iloc[0])
+                    last_c  = float(closes.iloc[-1])
+                    price_change_val = ((last_c - first_c) / first_c * 100) if first_c != 0 else 0.0
+
+                # Fix 3 — Volume bars (row 2), colour-matched to up/down candles
+                if "Volume" in stock_data.columns and "Open" in stock_data.columns:
+                    volume_colors = [
+                        "#00D294" if float(stock_data["Close"].iloc[i]) >= float(stock_data["Open"].iloc[i])
+                        else "#EF4444"
+                        for i in range(len(stock_data))
+                    ]
+                    fig.add_trace(
+                        go.Bar(
+                            x=stock_data.index,
+                            y=stock_data["Volume"],
+                            marker_color=volume_colors,
+                            marker_opacity=0.5,
+                            name="Volume",
+                            showlegend=False
+                        ),
+                        row=2, col=1
+                    )
             else:
                 st.warning(f"⚠️ Could not fetch price data for **{ticker_yf}**. Market may be closed or ticker not found on NSE.")
-                price_change_val = None
 
-            # --- News event marker overlay ---
-            if not news_df.empty:
-                for date_val, day_news in news_df.groupby("Date_Only"):
-                    classes = day_news["Predicted_Class"].str.lower()
-                    dominant = classes.value_counts().idxmax()
-                    count = len(day_news)
-                    top_hl = str(day_news["Headline"].iloc[0])[:60] if "Headline" in day_news.columns else ""
+            # Fix 2 — Per-date named marker traces + dashed vlines (row 1)
+            if not nic_df.empty:
+                news_grouped = nic_df.groupby("Date_Only")
+                for event_date, group in news_grouped:
+                    dominant = group["Predicted_Class"].str.lower().value_counts().idxmax()
+                    count    = len(group)
+                    headlines = group["Headline"].tolist() if "Headline" in group.columns else []
+                    top = (headlines[0][:60] + "...") if headlines and len(headlines[0]) > 60 else (headlines[0] if headlines else "")
 
-                    # Y position: closing price on that date, fallback to 0
-                    y_pos = None
-                    if not stock_data.empty and "Close" in stock_data.columns:
-                        idx_match = stock_data.index[stock_data.index.date == date_val] if hasattr(stock_data.index, "date") else []
-                        if len(idx_match) > 0:
-                            y_pos = float(stock_data.loc[idx_match[0], "Close"])
-                    if y_pos is None:
-                        continue  # skip marker if no price to anchor to
+                    # Anchor marker to closing price on that date
+                    if stock_data.empty or "Close" not in stock_data.columns:
+                        continue
+                    idx_match = [i for i in stock_data.index if hasattr(i, "date") and i.date() == event_date]
+                    if not idx_match:
+                        continue
+                    price_at_event = float(stock_data.loc[idx_match[0], "Close"])
 
-                    if dominant == "positive":
-                        m_sym, m_col, m_sz = "triangle-up",   "#00D294", 14
-                    elif dominant == "negative":
-                        m_sym, m_col, m_sz = "triangle-down", "#EF4444", 14
-                    else:
-                        m_sym, m_col, m_sz = "circle",        "#F59E0B", 10
+                    color  = "#00D294" if dominant == "positive" else "#EF4444" if dominant == "negative" else "#F59E0B"
+                    symbol = "triangle-up" if dominant == "positive" else "triangle-down" if dominant == "negative" else "circle"
 
                     fig.add_trace(go.Scatter(
-                        x=[date_val],
-                        y=[y_pos],
-                        mode="markers",
-                        name=f"{dominant.capitalize()} news",
-                        showlegend=False,
-                        marker=dict(symbol=m_sym, color=m_col, size=m_sz,
+                        x=[idx_match[0]],
+                        y=[price_at_event],
+                        mode="markers+text",
+                        name=str(event_date),
+                        text=["📰"],
+                        textposition="top center",
+                        textfont=dict(size=13),
+                        marker=dict(symbol=symbol, color=color, size=16,
                                     line=dict(color="#FFFFFF", width=1)),
+                        customdata=[[dominant.upper(), count, " | ".join(str(h) for h in headlines)]],
                         hovertemplate=(
-                            f"<b>{company_filter}</b> | {date_val}<br>"
-                            f"Sentiment: <b>{dominant.upper()}</b><br>"
-                            f"Headlines: {count}<br>"
-                            f"{top_hl}"
+                            "<b>%{x}</b><br>"
+                            "Price: ₹%{y:.2f}<br>"
+                            "Sentiment: %{customdata[0]}<br>"
+                            "Headlines: %{customdata[1]}<br>"
+                            "<i>%{customdata[2]:.60s}</i>"
                             "<extra></extra>"
-                        )
-                    ))
+                        ),
+                        showlegend=False
+                    ), row=1, col=1)
+
+                    # Dashed vertical line to trace price impact
+                    fig.add_vline(
+                        x=str(idx_match[0]),
+                        line_dash="dot",
+                        line_color=color,
+                        opacity=0.25,
+                        line_width=1
+                    )
+
+            # Fix 3 — Layout with per-axis styling
+            fig.update_yaxes(title_text="Price (INR)", row=1, col=1,
+                             showgrid=True, gridcolor="#1E293B", color="#F8FAFC")
+            fig.update_yaxes(title_text="Volume", row=2, col=1,
+                             showgrid=True, gridcolor="#1E293B", tickformat=".2s", color="#F8FAFC")
+            fig.update_xaxes(showgrid=True, gridcolor="#1E293B", row=2, col=1)
 
             fig.update_layout(
                 paper_bgcolor="#0A0F1D",
                 plot_bgcolor="#050811",
                 font=dict(color="#F8FAFC", family="Inter"),
                 xaxis=dict(showgrid=True, gridcolor="#1E293B", rangeslider_visible=False),
-                yaxis=dict(showgrid=True, gridcolor="#1E293B", title="Price (INR)"),
                 hovermode="x unified",
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                 margin=dict(l=40, r=40, t=30, b=40),
-                height=420
+                height=560
             )
             st.plotly_chart(fig, width='stretch', key="news_impact_chart")
 
             # --- Summary metric row ---
-            unique_news_dates = news_df["Date_Only"].nunique() if not news_df.empty else 0
+            unique_news_dates = nic_df["Date_Only"].nunique() if not nic_df.empty else 0
             dominant_overall  = (
-                news_df["Predicted_Class"].str.lower().value_counts().idxmax().upper()
-                if not news_df.empty else "N/A"
+                nic_df["Predicted_Class"].str.lower().value_counts().idxmax().upper()
+                if not nic_df.empty else "N/A"
             )
 
             m1, m2, m3 = st.columns(3)
@@ -2399,8 +2442,39 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             else:
                 m3.metric("Price Change", "N/A")
 
-            if news_df.empty:
+            if nic_df.empty:
                 st.info("ℹ️ No sentiment events found in this date range to overlay.")
+
+            # Fix 2 — Full headline expander below metrics
+            all_news_in_range = nic_df.sort_values("Date", ascending=False)
+            if not all_news_in_range.empty:
+                with st.expander(f"📰 View All {len(all_news_in_range)} Headlines in Selected Range — click to expand"):
+                    for event_date, group in all_news_in_range.groupby(
+                        all_news_in_range["Date"].dt.date, sort=False
+                    ):
+                        dominant = group["Predicted_Class"].str.lower().value_counts().idxmax()
+                        color = "#00D294" if dominant == "positive" else "#EF4444" if dominant == "negative" else "#F59E0B"
+                        st.markdown(
+                            f"<div style='border-left:3px solid {color};padding:6px 12px;"
+                            f"margin-bottom:6px;background:#0A0D12;border-radius:4px;'>"
+                            f"<span style='font-size:0.72rem;color:#64748B;font-family:monospace;'>"
+                            f"{event_date}</span><br>",
+                            unsafe_allow_html=True
+                        )
+                        for _, row in group.iterrows():
+                            sent = row["Predicted_Class"].upper()
+                            conf = row["Confidence"]
+                            badge_color = "#00D294" if sent == "POSITIVE" else "#EF4444" if sent == "NEGATIVE" else "#F59E0B"
+                            hl = row["Headline"] if "Headline" in row.index else ""
+                            st.markdown(
+                                f"<div style='margin:4px 0 4px 8px;'>"
+                                f"<span style='color:{badge_color};font-size:0.7rem;font-weight:700;'>{sent}</span> "
+                                f"<span style='color:#94A3B8;font-size:0.7rem;'>({conf*100:.0f}%)</span> "
+                                f"<span style='color:#F8FAFC;font-size:0.85rem;'>{hl}</span>"
+                                f"</div>",
+                                unsafe_allow_html=True
+                            )
+                        st.markdown("</div>", unsafe_allow_html=True)
 
     st.markdown('</div>', unsafe_allow_html=True)
     st.stop()
