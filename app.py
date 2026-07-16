@@ -1160,35 +1160,47 @@ window.setPage = function(pageName) {{
     }} catch(e) {{}}
 }};
 
-// ── 6. IntersectionObserver scroll animation ──
-try {{
+// ── 6. Robust IntersectionObserver scroll animation ──
+(function() {{
     let observerOptions = {{
         root: null,
-        rootMargin: '0px',
-        threshold: 0.15
+        rootMargin: '0px 0px 50px 0px',
+        threshold: 0.10
     }};
-    let observerCallback = function(entries, observer) {{
+    
+    // Create observer globally so it persists
+    window.parent._scrollObserver = new window.parent.IntersectionObserver(function(entries, observer) {{
         entries.forEach(function(entry) {{
             if (entry.isIntersecting) {{
                 entry.target.classList.add('visible');
                 observer.unobserve(entry.target);
             }}
         }});
-    }};
-    let observer = new IntersectionObserver(observerCallback, observerOptions);
-    let animateEls = document.querySelectorAll('.scroll-animate');
-    animateEls.forEach(function(el) {{
-        observer.observe(el);
-    }});
-}} catch(e) {{}}
+    }}, observerOptions);
 
-// Guaranteed fallback: force all .scroll-animate elements visible after 1.5s
-window.setTimeout(function() {{
-    var els = document.querySelectorAll('.scroll-animate');
-    els.forEach(function(el) {{
-        el.classList.add('visible');
+    // Function to continually check for new animated elements (handles tab switches)
+    function scanForAnimations() {{
+        let animateEls = window.parent.document.querySelectorAll('.scroll-animate:not(.visible)');
+        animateEls.forEach(function(el) {{
+            window.parent._scrollObserver.observe(el);
+        }});
+        
+        // Hard fallback: Force visibility if elements are stuck
+        window.parent.setTimeout(function() {{
+            let stuckEls = window.parent.document.querySelectorAll('.scroll-animate:not(.visible)');
+            stuckEls.forEach(function(el) {{
+                el.classList.add('visible');
+            }});
+        }}, 800);
+    }}
+    
+    // Run immediately, and also listen for DOM mutations (tab clicks)
+    scanForAnimations();
+    window.parent.document.addEventListener('click', function() {{
+        window.parent.setTimeout(scanForAnimations, 100);
+        window.parent.setTimeout(scanForAnimations, 500);
     }});
-}}, 1500);
+}})();
 
 // ── 7. Typewriter Terminal Observer ──
 window._typewriterStarted = false;
@@ -1289,16 +1301,16 @@ const startTypewriter = () => {{
     tryObserveTerminal();
 }})();
 
-// ── 8. Timeline line-by-line fade-slide animation ──
-// Fires when .timeline-container first enters the viewport, then reveals
-// each .tl-line child 130 ms apart for a staggered left-slide effect.
+// ── 8. Robust Timeline line-by-line fade-slide animation ──
 (function() {{
-    function tryObserveTimeline() {{
-        var container = document.querySelector('.timeline-container');
-        if (!container) {{ window.parent.setTimeout(tryObserveTimeline, 300); return; }}
-        var tlLines = container.querySelectorAll('.tl-line');
-        if (!tlLines.length) {{ window.parent.setTimeout(tryObserveTimeline, 300); return; }}
-        var obs = new IntersectionObserver(function(entries, observer) {{
+    function scanForTimeline() {{
+        var container = window.parent.document.querySelector('.timeline-container');
+        if (!container) return; 
+        
+        var tlLines = container.querySelectorAll('.tl-line:not(.visible)');
+        if (!tlLines.length) return;
+        
+        var obs = new window.parent.IntersectionObserver(function(entries, observer) {{
             entries.forEach(function(entry) {{
                 if (entry.isIntersecting) {{
                     tlLines.forEach(function(el, i) {{
@@ -1309,8 +1321,18 @@ const startTypewriter = () => {{
             }});
         }}, {{ root: null, threshold: 0.05 }});
         obs.observe(container);
+        
+        // Hard fallback for timeline text
+        window.parent.setTimeout(function() {{
+            tlLines.forEach(function(el) {{ el.classList.add('visible'); }});
+        }}, 1000);
     }}
-    tryObserveTimeline();
+    
+    scanForTimeline();
+    window.parent.document.addEventListener('click', function() {{
+        window.parent.setTimeout(scanForTimeline, 150);
+        window.parent.setTimeout(scanForTimeline, 600);
+    }});
 }})();
 """
 
