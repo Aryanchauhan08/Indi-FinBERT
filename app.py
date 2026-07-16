@@ -892,10 +892,21 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) {
     top: 11px !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
-    z-index: 10000 !important;
+    z-index: 99999 !important;   /* was 10000 — raise above shimmer layer */
     margin: 0 !important;
     padding: 0 !important;
     width: auto !important;
+    pointer-events: auto !important;
+}
+
+/* Explicitly unfix the chart style radio so it stays in normal document flow */
+div[data-testid="stRadio"]:has(input[name="chart_style_radio"]) {
+    position: relative !important;
+    top: unset !important;
+    left: unset !important;
+    transform: none !important;
+    z-index: auto !important;
+    width: 100% !important;
 }
 /* VISUAL: Add Plotly chart hover glow effect */
 .stPlotlyChart:hover {
