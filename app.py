@@ -1387,7 +1387,20 @@ st.radio(
 # -----------------
 @st.cache_resource
 def load_finbert_model():
-    return pipeline("text-classification", model="aryanchauhan08/Indi-FinBERT", top_k=None)
+    # Force Streamlit to check for the token and alert if it's completely missing
+    try:
+        hf_token = st.secrets["HF_TOKEN"]
+    except KeyError:
+        st.error("🚨 Streamlit Secrets Error: 'HF_TOKEN' was not found! Please verify your Streamlit Cloud settings.")
+        st.stop()
+        
+    return pipeline(
+        "text-classification", 
+        model="aryanchauhan08/Indi-FinBERT",
+        subfolder="models",  # Targets the subfolder where config.json resides
+        token=hf_token,
+        top_k=None
+    )
 
 def real_predict_api(headline):
     classifier = load_finbert_model()
