@@ -5,6 +5,7 @@
 # ───────────────────────────────────────────────────
 import os
 import sys
+from transformers import pipeline
 import datetime
 import subprocess
 import numpy as np
@@ -1382,34 +1383,24 @@ st.radio(
 )
 
 # -----------------
-# Mock API Inference Helper
+# Real FinBERT Inference Helper
 # -----------------
-def mock_predict_api(headline, simulate_latency=True):
-    if simulate_latency:
-        time.sleep(0.4)
-    h_lower = headline.lower()
-    probs = {"positive": 0.15, "neutral": 0.70, "negative": 0.15}
-    if any(w in h_lower for w in ["rise", "growth", "up", "surpass", "profit", "gain", "higher", "positive", "snap", "surge", "bullish"]):
-        probs = {"positive": 0.82, "neutral": 0.12, "negative": 0.06}
-    elif any(w in h_lower for w in ["drop", "fall", "down", "loss", "decline", "lower", "negative", "worry", "punished", "investigate", "bearish"]):
-        probs = {"positive": 0.05, "neutral": 0.10, "negative": 0.85}
-    label = max(probs, key=probs.get)
-    confidence = probs[label]
-    if label == "positive" and "snap" in h_lower:
-        vanilla_label = "negative"
-        vanilla_confidence = 0.68
-    elif label == "positive" and "over-punished" in h_lower:
-        vanilla_label = "negative"
-        vanilla_confidence = 0.72
-    else:
-        vanilla_label = label
-        vanilla_confidence = confidence * 0.9
+@st.cache_resource
+def load_finbert_model():
+    return pipeline("text-classification", model="aryanchauhan08/Indi-FinBERT", top_k=None)
+
+def real_predict_api(headline):
+    classifier = load_finbert_model()
+    results = classifier(headline)[0] 
+    probs = {res['label'].lower(): res['score'] for res in results}
+    label = max(probs, key=probs.get).upper()
+    confidence = probs[label.lower()]
     return {
-        "label": label.upper(),
+        "label": label,
         "confidence": confidence,
         "probs": probs,
-        "vanilla_label": vanilla_label.upper(),
-        "vanilla_confidence": vanilla_confidence
+        "vanilla_label": label, 
+        "vanilla_confidence": confidence
     }
 
 # -----------------
@@ -1440,7 +1431,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
         
         if st.button("Run Model Prediction", type="primary"):
             with st.spinner("Executing model inference API..."):
-                res = mock_predict_api(headline_input)
+                res = real_predict_api(headline_input)
                 
             label = res["label"]
             confidence = res["confidence"]
@@ -1748,7 +1739,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         processed_rows = []
                         for chunk_i, chunk in enumerate(chunks):
                             for _, row in chunk.iterrows():
-                                p_res = mock_predict_api(str(row["Headline"]), simulate_latency=False)
+                                p_res = real_predict_api(str(row["Headline"]))
                                 processed_rows.append({
                                     "Headline": row["Headline"],
                                     "Sentiment": p_res["label"],
