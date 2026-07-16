@@ -1925,10 +1925,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         st.markdown(f"""
         <div style="display:flex;justify-content:center;align-items:center;gap:40px;margin:24px 0;">
             <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
-                <!-- FIXED: Background track ring -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#1E293B" stroke-width="14"/>
-
-                <!-- FIXED: Positive segment — starts at 12 o'clock, draws clockwise -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#00FF66" stroke-width="14"
                     stroke-dasharray="{_pos_dash} {_pos_gap}"
                     stroke-dashoffset="{_pos_offset}"
@@ -1939,8 +1936,6 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         dur="1.0s" begin="0s" fill="freeze" calcMode="spline"
                         keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
-
-                <!-- FIXED: Neutral segment — begins where positive ends -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#F59E0B" stroke-width="14"
                     stroke-dasharray="{_neu_dash} {_neu_gap}"
                     stroke-dashoffset="{_neu_offset}"
@@ -1951,8 +1946,6 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         dur="1.0s" begin="0.35s" fill="freeze" calcMode="spline"
                         keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
-
-                <!-- FIXED: Negative segment — begins where neutral ends -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#EF4444" stroke-width="14"
                     stroke-dasharray="{_neg_dash} {_neg_gap}"
                     stroke-dashoffset="{_neg_offset}"
@@ -1963,8 +1956,6 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         dur="1.0s" begin="0.7s" fill="freeze" calcMode="spline"
                         keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
-
-                <!-- Centre label -->
                 <text x="70" y="65" text-anchor="middle" fill="#FFF"
                     font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
                 <text x="70" y="82" text-anchor="middle" fill="#64748B"
