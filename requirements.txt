@@ -12,3 +12,4 @@ requests>=2.28.0
 python-dotenv>=1.0.0
 lime
 transformers-interpret
+yfinance>=0.2.40

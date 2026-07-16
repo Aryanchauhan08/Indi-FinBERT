@@ -606,6 +606,20 @@ def get_sparkline(ticker, df, days=7):
     return vals
 
 
+@st.cache_data(ttl=600)
+def fetch_stock_data(ticker, start, end):
+    """
+    Fetches OHLCV data from Yahoo Finance for a given NSE ticker and date range.
+    Returns a DataFrame, or an empty DataFrame on failure.
+    """
+    try:
+        import yfinance as yf
+        data = yf.download(ticker, start=start, end=end, progress=False)
+        return data
+    except Exception:
+        return pd.DataFrame()
+
+
 @st.cache_data(ttl=300)
 def load_data(url):
     """
@@ -2213,87 +2227,181 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                 st.markdown(alert_banner, unsafe_allow_html=True)
             
     st.markdown("---")
-    st.markdown("### 📈 Historical Sentiment Timeline Trend")
-    
-    time_col1, time_col2 = st.columns([1.5, 3.5])
-    
-    with time_col1:
-        start_dt = st.date_input("Start Date:", datetime.date.today() - datetime.timedelta(days=10))
-        end_dt = st.date_input("End Date:", datetime.date.today())
-        company_filter = st.selectbox("Timeline Asset Filter:", ["All Stocks"] + list(TICKER_LIST))
-        
-    with time_col2:
-        # FIXED: Validate date range before filtering to give clear user feedback
+    st.markdown("### 📈 News Impact Stock Chart")
+
+    chart_col1, chart_col2 = st.columns([1.5, 3.5])
+
+    with chart_col1:
+        start_dt = st.date_input("Start Date:", datetime.date.today() - datetime.timedelta(days=10), key="nic_start")
+        end_dt   = st.date_input("End Date:",   datetime.date.today(), key="nic_end")
+        company_filter = st.selectbox(
+            "Select Ticker:",
+            options=list(TICKER_LIST),
+            index=0,
+            key="nic_ticker"
+        )
+        chart_style = st.radio(
+            "Chart Style:",
+            options=["Candlestick", "OHLC Line"],
+            horizontal=True,
+            key="chart_style_radio"
+        )
+        st.caption("📡 Price data via Yahoo Finance (yfinance)")
+
+    with chart_col2:
+        # --- Date validation guard ---
         if start_dt > end_dt:
             st.warning(
                 "⚠️ Start date cannot be after end date. "
                 "Please adjust the date range in the left panel."
             )
+            st.markdown('</div>', unsafe_allow_html=True)
+            st.stop()
+
+        # --- Import check ---
+        try:
+            import yfinance as yf  # noqa: F401
+        except ImportError:
+            st.error("🚨 Please install yfinance: pip install yfinance")
+            st.markdown('</div>', unsafe_allow_html=True)
+            st.stop()
+
+        ticker_yf  = company_filter + ".NS"
+        stock_data = fetch_stock_data(ticker_yf, start_dt, end_dt)
+
+        # --- Flatten MultiIndex columns that yfinance >=0.2 returns ---
+        if isinstance(stock_data.columns, pd.MultiIndex):
+            stock_data.columns = stock_data.columns.get_level_values(0)
+
+        # --- News events from existing df ---
+        news_df = df.copy()
+        if not pd.api.types.is_datetime64_any_dtype(news_df["Date"]):
+            news_df["Date"] = pd.to_datetime(news_df["Date"], errors="coerce")
+        news_df["Date_Only"] = news_df["Date"].dt.date
+        news_df = news_df[
+            (news_df["Date_Only"] >= start_dt) &
+            (news_df["Date_Only"] <= end_dt) &
+            (news_df["Ticker"] == company_filter)
+        ]
+
+        # Both empty
+        if stock_data.empty and news_df.empty:
+            st.info("ℹ️ No data available. Try adjusting the date range.")
         else:
-            # FIXED: All existing trend chart code moved under this else block
-            trend_df = df.copy()
-            if not pd.api.types.is_datetime64_any_dtype(trend_df["Date"]):
-                trend_df["Date"] = pd.to_datetime(trend_df["Date"], errors="coerce")
-            trend_df["Date_Only"] = trend_df["Date"].dt.date
-            trend_df = trend_df[
-                (trend_df["Date_Only"] >= start_dt) &
-                (trend_df["Date_Only"] <= end_dt)
-            ]
-            if company_filter != "All Stocks":
-                trend_df = trend_df[trend_df["Ticker"] == company_filter]
+            fig = go.Figure()
 
-            if trend_df.empty:
-                st.info("ℹ️ No data found for the selected filters. Try widening the date range or selecting 'All Stocks'.")
+            # --- Primary price trace ---
+            if not stock_data.empty and all(c in stock_data.columns for c in ["Open", "High", "Low", "Close"]):
+                if chart_style == "Candlestick":
+                    fig.add_trace(go.Candlestick(
+                        x=stock_data.index,
+                        open=stock_data["Open"],
+                        high=stock_data["High"],
+                        low=stock_data["Low"],
+                        close=stock_data["Close"],
+                        name=f"{company_filter} Price",
+                        increasing_line_color="#00D294",
+                        decreasing_line_color="#EF4444",
+                        increasing_fillcolor="#00D294",
+                        decreasing_fillcolor="#EF4444"
+                    ))
+                else:  # OHLC Line
+                    fig.add_trace(go.Scatter(
+                        x=stock_data.index,
+                        y=stock_data["Close"],
+                        mode="lines",
+                        name=f"{company_filter} Close",
+                        line=dict(color="#00F2FF", width=2.5),
+                        fill="tozeroy",
+                        fillcolor="rgba(0, 242, 255, 0.04)"
+                    ))
+                price_change_val = None
+                if len(stock_data["Close"]) >= 2:
+                    closes = stock_data["Close"].dropna()
+                    if len(closes) >= 2:
+                        first_c = float(closes.iloc[0])
+                        last_c  = float(closes.iloc[-1])
+                        price_change_val = ((last_c - first_c) / first_c * 100) if first_c != 0 else 0.0
             else:
-                # FIXED: Use module-level _day_net_sentiment via _safe_groupby_apply — pandas 2.2+ compatible
-                daily = _safe_groupby_apply(
-                    trend_df.groupby("Date_Only"), _day_net_sentiment
-                ).reset_index()
-                daily.columns = ["Date_Only", "net_sentiment"]
-                daily = daily.sort_values("Date_Only")
-                date_list = list(daily["Date_Only"])
-                trend_y = list(daily["net_sentiment"])
+                st.warning(f"⚠️ Could not fetch price data for **{ticker_yf}**. Market may be closed or ticker not found on NSE.")
+                price_change_val = None
 
-                # High-confidence scatter overlay (Confidence >= 0.85)
-                # FIXED: Guard against empty hc_df — columns assignment crashes on empty DataFrame
-                hc_df = trend_df[trend_df["Confidence"] >= 0.85].copy()
-                if not hc_df.empty:
-                    hc_daily = _safe_groupby_apply(
-                        hc_df.groupby("Date_Only"), _day_net_sentiment
-                    ).reset_index()
-                    hc_daily.columns = ["Date_Only", "net_sentiment"]
-                    scatter_dates = list(hc_daily["Date_Only"])
-                    scatter_y     = list(hc_daily["net_sentiment"])
-                else:
-                    scatter_dates = []  # FIXED: Empty lists produce no scatter trace points
-                    scatter_y     = []
+            # --- News event marker overlay ---
+            if not news_df.empty:
+                for date_val, day_news in news_df.groupby("Date_Only"):
+                    classes = day_news["Predicted_Class"].str.lower()
+                    dominant = classes.value_counts().idxmax()
+                    count = len(day_news)
+                    top_hl = str(day_news["Headline"].iloc[0])[:60] if "Headline" in day_news.columns else ""
 
-                fig_trend = go.Figure()
-                fig_trend.add_trace(go.Scatter(
-                    x=date_list,
-                    y=trend_y,
-                    mode='lines+markers',
-                    name="Daily Net Sentiment",
-                    line=dict(color="#00F2FF", width=3)
-                ))
-                fig_trend.add_trace(go.Scatter(
-                    x=scatter_dates,
-                    y=scatter_y,
-                    mode='markers',
-                    name="High Confidence Events (≥85%)",
-                    marker=dict(color="#00FF66", size=12, symbol="star", line=dict(color="#FFFFFF", width=1.5))
-                ))
-                fig_trend.update_layout(
-                    paper_bgcolor="#0A0F1D",
-                    plot_bgcolor="#050811",
-                    hovermode="x unified",
-                    xaxis=dict(showgrid=True, gridcolor="#1E293B"),
-                    yaxis=dict(showgrid=True, gridcolor="#1E293B", range=[-1.1, 1.1]),
-                    margin=dict(l=40, r=40, t=10, b=40),
-                    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+                    # Y position: closing price on that date, fallback to 0
+                    y_pos = None
+                    if not stock_data.empty and "Close" in stock_data.columns:
+                        idx_match = stock_data.index[stock_data.index.date == date_val] if hasattr(stock_data.index, "date") else []
+                        if len(idx_match) > 0:
+                            y_pos = float(stock_data.loc[idx_match[0], "Close"])
+                    if y_pos is None:
+                        continue  # skip marker if no price to anchor to
+
+                    if dominant == "positive":
+                        m_sym, m_col, m_sz = "triangle-up",   "#00D294", 14
+                    elif dominant == "negative":
+                        m_sym, m_col, m_sz = "triangle-down", "#EF4444", 14
+                    else:
+                        m_sym, m_col, m_sz = "circle",        "#F59E0B", 10
+
+                    fig.add_trace(go.Scatter(
+                        x=[date_val],
+                        y=[y_pos],
+                        mode="markers",
+                        name=f"{dominant.capitalize()} news",
+                        showlegend=False,
+                        marker=dict(symbol=m_sym, color=m_col, size=m_sz,
+                                    line=dict(color="#FFFFFF", width=1)),
+                        hovertemplate=(
+                            f"<b>{company_filter}</b> | {date_val}<br>"
+                            f"Sentiment: <b>{dominant.upper()}</b><br>"
+                            f"Headlines: {count}<br>"
+                            f"{top_hl}"
+                            "<extra></extra>"
+                        )
+                    ))
+
+            fig.update_layout(
+                paper_bgcolor="#0A0F1D",
+                plot_bgcolor="#050811",
+                font=dict(color="#F8FAFC", family="Inter"),
+                xaxis=dict(showgrid=True, gridcolor="#1E293B", rangeslider_visible=False),
+                yaxis=dict(showgrid=True, gridcolor="#1E293B", title="Price (INR)"),
+                hovermode="x unified",
+                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                margin=dict(l=40, r=40, t=30, b=40),
+                height=420
+            )
+            st.plotly_chart(fig, width='stretch', key="news_impact_chart")
+
+            # --- Summary metric row ---
+            unique_news_dates = news_df["Date_Only"].nunique() if not news_df.empty else 0
+            dominant_overall  = (
+                news_df["Predicted_Class"].str.lower().value_counts().idxmax().upper()
+                if not news_df.empty else "N/A"
+            )
+
+            m1, m2, m3 = st.columns(3)
+            m1.metric("News Events Plotted", unique_news_dates)
+            m2.metric("Dominant Sentiment",  dominant_overall)
+            if price_change_val is not None:
+                m3.metric(
+                    "Price Change",
+                    f"{price_change_val:.2f}%",
+                    delta=f"{price_change_val:.2f}%"
                 )
-                st.plotly_chart(fig_trend, width='stretch')
-        
+            else:
+                m3.metric("Price Change", "N/A")
+
+            if news_df.empty:
+                st.info("ℹ️ No sentiment events found in this date range to overlay.")
+
     st.markdown('</div>', unsafe_allow_html=True)
     st.stop()
 
