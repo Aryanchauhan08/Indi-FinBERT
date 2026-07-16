@@ -1401,18 +1401,31 @@ def load_finbert_model():
         top_k=None
     )
 
+@st.cache_resource
+def load_vanilla_finbert():
+    return pipeline("text-classification", model="ProsusAI/finbert", top_k=None)
+
 def real_predict_api(headline):
-    classifier = load_finbert_model()
-    results = classifier(headline)[0] 
-    probs = {res['label'].lower(): res['score'] for res in results}
-    label = max(probs, key=probs.get).upper()
-    confidence = probs[label.lower()]
+    # 1. Run inference on Indi-FinBERT
+    indi_classifier = load_finbert_model()
+    indi_results = indi_classifier(headline)[0] 
+    indi_probs = {res['label'].lower(): res['score'] for res in indi_results}
+    indi_label = max(indi_probs, key=indi_probs.get).upper()
+    indi_confidence = indi_probs[indi_label.lower()]
+    
+    # 2. Run inference on original Vanilla FinBERT
+    vanilla_classifier = load_vanilla_finbert()
+    vanilla_results = vanilla_classifier(headline)[0]
+    vanilla_probs = {res['label'].lower(): res['score'] for res in vanilla_results}
+    vanilla_label = max(vanilla_probs, key=vanilla_probs.get).upper()
+    vanilla_confidence = vanilla_probs[vanilla_label.lower()]
+    
     return {
-        "label": label,
-        "confidence": confidence,
-        "probs": probs,
-        "vanilla_label": label, 
-        "vanilla_confidence": confidence
+        "label": indi_label,
+        "confidence": indi_confidence,
+        "probs": indi_probs,
+        "vanilla_label": vanilla_label, 
+        "vanilla_confidence": vanilla_confidence
     }
 
 # -----------------
