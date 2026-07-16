@@ -1922,8 +1922,8 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         _neu_offset = round(_pos_offset - _pos_dash, 4)
         _neg_offset = round(_neu_offset - _neu_dash, 4)
 
-        st.markdown(f"""
-        <div style="display:flex;justify-content:center;align-items:center;gap:40px;margin:24px 0;">
+        _donut_html = f"""
+        <div style="display:flex;justify-content:center;align-items:center;gap:40px;margin:24px 0;background:transparent;">
             <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#1E293B" stroke-width="14"/>
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#00FF66" stroke-width="14"
@@ -1956,31 +1956,31 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                         dur="1.0s" begin="0.7s" fill="freeze" calcMode="spline"
                         keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
-                <text x="70" y="65" text-anchor="middle" fill="#FFF"
+                <text x="70" y="65" text-anchor="middle" fill="#FFFFFF"
                     font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
                 <text x="70" y="82" text-anchor="middle" fill="#64748B"
                     font-size="10" font-family="Inter">POSITIVE</text>
             </svg>
-
-            <div style="font-family:'Inter',sans-serif;">
+            <div style="font-family:Inter,sans-serif;">
                 <div style="margin-bottom:10px;">
                     <span style="color:#00FF66;font-weight:700;">&#9679;</span>
                     <span style="color:#94A3B8;"> Positive</span>
-                    <b style="color:#FFF;margin-left:8px;">{_pos_p}%</b>
+                    <b style="color:#FFFFFF;margin-left:8px;">{_pos_p}%</b>
                 </div>
                 <div style="margin-bottom:10px;">
                     <span style="color:#F59E0B;font-weight:700;">&#9679;</span>
                     <span style="color:#94A3B8;"> Neutral</span>
-                    <b style="color:#FFF;margin-left:8px;">{_neu_p}%</b>
+                    <b style="color:#FFFFFF;margin-left:8px;">{_neu_p}%</b>
                 </div>
                 <div>
                     <span style="color:#EF4444;font-weight:700;">&#9679;</span>
                     <span style="color:#94A3B8;"> Negative</span>
-                    <b style="color:#FFF;margin-left:8px;">{_neg_p}%</b>
+                    <b style="color:#FFFFFF;margin-left:8px;">{_neg_p}%</b>
                 </div>
             </div>
         </div>
-        """, unsafe_allow_html=True)
+        """
+        components.html(_donut_html, height=190, scrolling=False)
 
     st.markdown("---")
     st.markdown("### 📡 Live NSE/BSE Feed Tracker")
