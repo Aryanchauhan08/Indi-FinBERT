@@ -898,26 +898,22 @@ div.st-key-navigation label[data-checked="true"] p {
     animation: shimmerFade 0.4s ease-out 0.05s forwards;
     pointer-events: none;
 }
-/* 1. Set the baseline resting state (slightly dimmed, blurred, and lowered) */
 .scroll-animate, .tl-line {
-    opacity: 0.4;
-    filter: blur(1px);
-    transform: translateY(12px);
-    transition: opacity 0.5s ease, filter 0.5s ease, transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
-    will-change: opacity, transform, filter;
-    padding: 10px;
-    border-radius: 8px;
-    border-left: 2px solid transparent;
+    opacity: 0.6;
+    transform: translateX(0);
+    color: #8A99AD;
+    padding: 10px 15px;
+    border-left: 0px solid transparent;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* 2. Trigger full visibility, sharp focus, and slide-up when the user hovers over the text */
 .scroll-animate:hover, .tl-line:hover {
     opacity: 1;
-    filter: blur(0);
-    transform: translateY(0);
-    background: rgba(255, 255, 255, 0.02);
-    border-left: 2px solid #00FF66;
-    box-shadow: -5px 0px 15px rgba(0, 255, 102, 0.05);
+    color: #FFFFFF;
+    transform: translateX(8px);
+    border-left: 4px solid #00FF66;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 0 6px 6px 0;
 }
 </style>''', unsafe_allow_html=True)
 
