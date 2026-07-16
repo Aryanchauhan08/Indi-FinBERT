@@ -1169,7 +1169,7 @@ window.setPage = function(pageName) {{
     }};
     
     // Create observer globally so it persists
-    window.parent._scrollObserver = new window.parent.IntersectionObserver(function(entries, observer) {{
+    window._scrollObserver = new IntersectionObserver(function(entries, observer) {{
         entries.forEach(function(entry) {{
             if (entry.isIntersecting) {{
                 entry.target.classList.add('visible');
@@ -1180,14 +1180,14 @@ window.setPage = function(pageName) {{
 
     // Function to continually check for new animated elements (handles tab switches)
     function scanForAnimations() {{
-        let animateEls = window.parent.document.querySelectorAll('.scroll-animate:not(.visible)');
+        let animateEls = document.querySelectorAll('.scroll-animate:not(.visible)');
         animateEls.forEach(function(el) {{
-            window.parent._scrollObserver.observe(el);
+            window._scrollObserver.observe(el);
         }});
         
         // Hard fallback: Force visibility if elements are stuck
-        window.parent.setTimeout(function() {{
-            let stuckEls = window.parent.document.querySelectorAll('.scroll-animate:not(.visible)');
+        window.setTimeout(function() {{
+            let stuckEls = document.querySelectorAll('.scroll-animate:not(.visible)');
             stuckEls.forEach(function(el) {{
                 el.classList.add('visible');
             }});
@@ -1196,9 +1196,9 @@ window.setPage = function(pageName) {{
     
     // Run immediately, and also listen for DOM mutations (tab clicks)
     scanForAnimations();
-    window.parent.document.addEventListener('click', function() {{
-        window.parent.setTimeout(scanForAnimations, 100);
-        window.parent.setTimeout(scanForAnimations, 500);
+    document.addEventListener('click', function() {{
+        window.setTimeout(scanForAnimations, 100);
+        window.setTimeout(scanForAnimations, 500);
     }});
 }})();
 
@@ -1304,17 +1304,17 @@ const startTypewriter = () => {{
 // ── 8. Robust Timeline line-by-line fade-slide animation ──
 (function() {{
     function scanForTimeline() {{
-        var container = window.parent.document.querySelector('.timeline-container');
+        var container = document.querySelector('.timeline-container');
         if (!container) return; 
         
         var tlLines = container.querySelectorAll('.tl-line:not(.visible)');
         if (!tlLines.length) return;
         
-        var obs = new window.parent.IntersectionObserver(function(entries, observer) {{
+        var obs = new IntersectionObserver(function(entries, observer) {{
             entries.forEach(function(entry) {{
                 if (entry.isIntersecting) {{
                     tlLines.forEach(function(el, i) {{
-                        window.parent.setTimeout(function() {{ el.classList.add('visible'); }}, i * 130);
+                        window.setTimeout(function() {{ el.classList.add('visible'); }}, i * 130);
                     }});
                     observer.unobserve(entry.target);
                 }}
@@ -1323,15 +1323,15 @@ const startTypewriter = () => {{
         obs.observe(container);
         
         // Hard fallback for timeline text
-        window.parent.setTimeout(function() {{
+        window.setTimeout(function() {{
             tlLines.forEach(function(el) {{ el.classList.add('visible'); }});
         }}, 1000);
     }}
     
     scanForTimeline();
-    window.parent.document.addEventListener('click', function() {{
-        window.parent.setTimeout(scanForTimeline, 150);
-        window.parent.setTimeout(scanForTimeline, 600);
+    document.addEventListener('click', function() {{
+        window.setTimeout(scanForTimeline, 150);
+        window.setTimeout(scanForTimeline, 600);
     }});
 }})();
 """
