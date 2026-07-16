@@ -824,8 +824,8 @@ st.markdown('''
 .finbert-content-push {
     height: 0px !important;
 }
-/* 1. Float the entire Streamlit radio widget into the center of the custom navbar */
-div[data-testid="stRadio"] {
+/* Float the main navigation into the custom navbar */
+div.st-key-navigation {
     position: fixed !important;
     top: 11px !important;
     left: 50% !important;
@@ -836,19 +836,15 @@ div[data-testid="stRadio"] {
     width: auto !important;
 }
 
-/* 2. Force the radio group container into a stylized rectangular box */
-div[data-testid="stRadio"] > div[role="radiogroup"] {
+/* Apply the scoping to all sub-elements */
+div.st-key-navigation div[role="radiogroup"] {
     background: rgba(255, 255, 255, 0.03) !important;
     border: 1px solid rgba(255, 255, 255, 0.08) !important;
     padding: 6px !important;
-    border-radius: 6px !important;
+    border-radius: 4px !important;
     gap: 4px !important;
-    display: flex !important;
-    flex-direction: row !important;
 }
-
-/* 3. Target the individual radio labels for the button-like appearance */
-div[data-testid="stRadio"] label {
+div.st-key-navigation label {
     background: transparent !important;
     border-radius: 4px !important;
     padding: 8px 24px !important;
@@ -857,29 +853,21 @@ div[data-testid="stRadio"] label {
     border: 1px solid transparent !important;
     margin: 0 !important;
 }
-
-/* 4. Hide the default Streamlit circular radio button */
-div[data-testid="stRadio"] label > div:first-child {
+div.st-key-navigation label > div:first-child {
     display: none !important;
 }
-
-/* 5. Apply the glowing hover effect */
-div[data-testid="stRadio"] label:hover {
+div.st-key-navigation label:hover {
     background: rgba(255, 255, 255, 0.06) !important;
     border: 1px solid rgba(0, 242, 255, 0.3) !important;
     box-shadow: 0 0 15px rgba(0, 242, 255, 0.2), inset 0 0 10px rgba(255, 255, 255, 0.02) !important;
     transform: translateY(-2px) !important;
 }
-
-/* 6. Active/Selected tab state */
-div[data-testid="stRadio"] label[data-checked="true"] {
+div.st-key-navigation label[data-checked="true"] {
     background: rgba(255, 255, 255, 0.1) !important;
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.1) !important;
 }
-
-/* 7. Force text color and typography inside the labels */
-div[data-testid="stRadio"] label p {
+div.st-key-navigation label p {
     color: #8A99AD !important;
     font-family: 'Geist Mono', monospace !important;
     font-weight: 700 !important;
@@ -888,9 +876,8 @@ div[data-testid="stRadio"] label p {
     text-transform: uppercase !important;
     transition: color 0.3s ease !important;
 }
-
-div[data-testid="stRadio"] label:hover p, 
-div[data-testid="stRadio"] label[data-checked="true"] p {
+div.st-key-navigation label:hover p, 
+div.st-key-navigation label[data-checked="true"] p {
     color: #FFFFFF !important;
 }
 /* VISUAL: Add Plotly chart hover glow effect */
@@ -2236,12 +2223,6 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             index=0,
             key="nic_ticker"
         )
-        chart_style = st.radio(
-            "Chart Style:",
-            options=["Candlestick", "OHLC Line"],
-            horizontal=True,
-            key="chart_style_radio"
-        )
         st.caption("📡 Price data via Yahoo Finance (yfinance)")
 
     with chart_col2:
@@ -2284,6 +2265,22 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         if stock_data.empty and nic_df.empty:
             st.info("ℹ️ No data available. Try adjusting the date range.")
         else:
+            # Create columns to place the selector beside the chart title
+            chart_header_col1, chart_header_col2 = st.columns([2.5, 1.5])
+
+            with chart_header_col1:
+                st.markdown("#### 🕯️ Interactive Asset Price Action")
+
+            with chart_header_col2:
+                # Uses a horizontal radio button to mimic a button group toggle
+                chart_style_val = st.radio(
+                    "Chart Style:", 
+                    ["CANDLESTICK", "OHLC LINE"], 
+                    horizontal=True, 
+                    label_visibility="collapsed",
+                    key="chart_style_selector"
+                )
+
             from plotly.subplots import make_subplots
 
             # Fix 3 — 2-row subplot: price (75%) + volume (25%)
@@ -2298,7 +2295,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
 
             # --- Primary price trace (row 1) ---
             if not stock_data.empty and all(c in stock_data.columns for c in ["Open", "High", "Low", "Close"]):
-                if chart_style == "Candlestick":
+                if chart_style_val == "CANDLESTICK":
                     fig.add_trace(go.Candlestick(
                         x=stock_data.index,
                         open=stock_data["Open"],
