@@ -825,7 +825,7 @@ st.markdown('''
     height: 0px !important;
 }
 /* Force only the navigation radio group container into a rectangular box */
-div[data-testid="stRadio"]:has(input[name="navigation"]) > div[role="radiogroup"] {
+#finbert-nav-radio div[data-testid="stRadio"] > div[role="radiogroup"] {
     background: rgba(255, 255, 255, 0.03) !important;
     border: 1px solid rgba(255, 255, 255, 0.08) !important;
     padding: 6px !important;
@@ -834,7 +834,7 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) > div[role="radiogroup"
 }
 
 /* Target only the individual navigation radio labels */
-div[data-testid="stRadio"]:has(input[name="navigation"]) label {
+#finbert-nav-radio div[data-testid="stRadio"] label {
     background: transparent !important;
     border-radius: 4px !important;
     padding: 8px 24px !important;
@@ -845,12 +845,12 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) label {
 }
 
 /* Hide the default Streamlit radio circle for the navigation bar only */
-div[data-testid="stRadio"]:has(input[name="navigation"]) label > div:first-child {
+#finbert-nav-radio div[data-testid="stRadio"] label > div:first-child {
     display: none !important;
 }
 
 /* Apply the glowing hover effect to navigation only */
-div[data-testid="stRadio"]:has(input[name="navigation"]) label:hover {
+#finbert-nav-radio div[data-testid="stRadio"] label:hover {
     background: rgba(255, 255, 255, 0.06) !important;
     border: 1px solid rgba(0, 242, 255, 0.3) !important;
     box-shadow: 0 0 15px rgba(0, 242, 255, 0.2), inset 0 0 10px rgba(255, 255, 255, 0.02) !important;
@@ -858,14 +858,14 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) label:hover {
 }
 
 /* Active selected tab state for navigation only */
-div[data-testid="stRadio"]:has(input[name="navigation"]) label[data-checked="true"] {
+#finbert-nav-radio div[data-testid="stRadio"] label[data-checked="true"] {
     background: rgba(255, 255, 255, 0.1) !important;
     border: 1px solid rgba(255, 255, 255, 0.2) !important;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.1) !important;
 }
 
 /* Force text color changes inside the navigation labels only */
-div[data-testid="stRadio"]:has(input[name="navigation"]) label p {
+#finbert-nav-radio div[data-testid="stRadio"] label p {
     color: #8A99AD !important;
     font-family: 'Geist Mono', monospace !important;
     font-weight: 700 !important;
@@ -874,8 +874,8 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) label p {
     text-transform: uppercase !important;
     transition: color 0.3s ease !important;
 }
-div[data-testid="stRadio"]:has(input[name="navigation"]) label:hover p, 
-div[data-testid="stRadio"]:has(input[name="navigation"]) label[data-checked="true"] p {
+#finbert-nav-radio div[data-testid="stRadio"] label:hover p, 
+#finbert-nav-radio div[data-testid="stRadio"] label[data-checked="true"] p {
     color: #FFFFFF !important;
 }
 @keyframes fadeInPage {
@@ -887,7 +887,7 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) label[data-checked="tru
 }
 
 /* Float only the navigation radio widget into the center of the custom navbar */
-div[data-testid="stRadio"]:has(input[name="navigation"]) {
+#finbert-nav-radio div[data-testid="stRadio"] {
     position: fixed !important;
     top: 11px !important;
     left: 50% !important;
@@ -900,7 +900,7 @@ div[data-testid="stRadio"]:has(input[name="navigation"]) {
 }
 
 /* Explicitly unfix the chart style radio so it stays in normal document flow */
-div[data-testid="stRadio"]:has(input[name="chart_style_radio"]) {
+div[data-testid="stRadio"]:not(#finbert-nav-radio div[data-testid="stRadio"]) {
     position: relative !important;
     top: unset !important;
     left: unset !important;
@@ -1418,6 +1418,7 @@ def on_nav_change():
     if "navigation" in st.session_state:
         st.session_state.current_page = st.session_state.navigation
         
+st.markdown('<div id="finbert-nav-radio">', unsafe_allow_html=True)
 st.radio(
     "Navigation",
     options,
@@ -1427,6 +1428,7 @@ st.radio(
     on_change=on_nav_change,
     label_visibility="collapsed"
 )
+st.markdown('</div>', unsafe_allow_html=True)
 
 # -----------------
 # Real FinBERT Inference Helper
