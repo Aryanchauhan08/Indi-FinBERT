@@ -898,6 +898,29 @@ div.st-key-navigation label[data-checked="true"] p {
     animation: shimmerFade 0.4s ease-out 0.05s forwards;
     pointer-events: none;
 }
+/* Define the fade-and-slide animation */
+@keyframes autoFadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Apply to all previously JS-animated elements */
+.scroll-animate, .tl-line {
+    opacity: 0;
+    animation: autoFadeInUp 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Optional: Add slight staggered delays for timeline lines if they have nth-child */
+.timeline-container .tl-line:nth-child(1) { animation-delay: 0.1s; }
+.timeline-container .tl-line:nth-child(2) { animation-delay: 0.2s; }
+.timeline-container .tl-line:nth-child(3) { animation-delay: 0.3s; }
+.timeline-container .tl-line:nth-child(4) { animation-delay: 0.4s; }
 </style>''', unsafe_allow_html=True)
 
 # VISUAL: Waitlist button floating CSS
@@ -1160,47 +1183,6 @@ window.setPage = function(pageName) {{
     }} catch(e) {{}}
 }};
 
-// ── 6. Robust IntersectionObserver scroll animation ──
-(function() {{
-    let observerOptions = {{
-        root: null,
-        rootMargin: '0px 0px 50px 0px',
-        threshold: 0.10
-    }};
-    
-    // Create observer globally so it persists
-    window._scrollObserver = new IntersectionObserver(function(entries, observer) {{
-        entries.forEach(function(entry) {{
-            if (entry.isIntersecting) {{
-                entry.target.classList.add('visible');
-                observer.unobserve(entry.target);
-            }}
-        }});
-    }}, observerOptions);
-
-    // Function to continually check for new animated elements (handles tab switches)
-    function scanForAnimations() {{
-        let animateEls = document.querySelectorAll('.scroll-animate:not(.visible)');
-        animateEls.forEach(function(el) {{
-            window._scrollObserver.observe(el);
-        }});
-        
-        // Hard fallback: Force visibility if elements are stuck
-        window.setTimeout(function() {{
-            let stuckEls = document.querySelectorAll('.scroll-animate:not(.visible)');
-            stuckEls.forEach(function(el) {{
-                el.classList.add('visible');
-            }});
-        }}, 800);
-    }}
-    
-    // Run immediately, and also listen for DOM mutations (tab clicks)
-    scanForAnimations();
-    document.addEventListener('click', function() {{
-        window.setTimeout(scanForAnimations, 100);
-        window.setTimeout(scanForAnimations, 500);
-    }});
-}})();
 
 // ── 7. Typewriter Terminal Observer ──
 window._typewriterStarted = false;
@@ -1301,39 +1283,6 @@ const startTypewriter = () => {{
     tryObserveTerminal();
 }})();
 
-// ── 8. Robust Timeline line-by-line fade-slide animation ──
-(function() {{
-    function scanForTimeline() {{
-        var container = document.querySelector('.timeline-container');
-        if (!container) return; 
-        
-        var tlLines = container.querySelectorAll('.tl-line:not(.visible)');
-        if (!tlLines.length) return;
-        
-        var obs = new IntersectionObserver(function(entries, observer) {{
-            entries.forEach(function(entry) {{
-                if (entry.isIntersecting) {{
-                    tlLines.forEach(function(el, i) {{
-                        window.setTimeout(function() {{ el.classList.add('visible'); }}, i * 130);
-                    }});
-                    observer.unobserve(entry.target);
-                }}
-            }});
-        }}, {{ root: null, threshold: 0.05 }});
-        obs.observe(container);
-        
-        // Hard fallback for timeline text
-        window.setTimeout(function() {{
-            tlLines.forEach(function(el) {{ el.classList.add('visible'); }});
-        }}, 1000);
-    }}
-    
-    scanForTimeline();
-    document.addEventListener('click', function() {{
-        window.setTimeout(scanForTimeline, 150);
-        window.setTimeout(scanForTimeline, 600);
-    }});
-}})();
 """
 
 # FIXED: Replaced onerror CSP-blocked injection with components.html iframe approach
