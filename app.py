@@ -588,6 +588,24 @@ def _safe_groupby_apply(grouped, func):
         return grouped.apply(func)
 
 
+# ADDED: Moved to module level — used by GATING SIGNALS watchlist.
+def get_sparkline(ticker, df, days=7):
+    t_df = df[df["Ticker"] == ticker].copy()
+    if t_df.empty:
+        return [0.5] * days
+    t_df["Date_Only"] = t_df["Date"].dt.date
+    recent = sorted(t_df["Date_Only"].unique())[-days:]
+    vals = []
+    for d in recent:
+        day_df = t_df[t_df["Date_Only"] == d]
+        pos = (day_df["Predicted_Class"].str.lower() == "positive").sum()
+        total = len(day_df)
+        vals.append(round(pos / total, 2) if total > 0 else 0.5)
+    while len(vals) < days:
+        vals.insert(0, 0.5)
+    return vals
+
+
 @st.cache_data(ttl=300)
 def load_data(url):
     """
@@ -2142,21 +2160,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
     
     tickers_list = TICKER_LIST[:6]
 
-    def get_sparkline(ticker, df, days=7):
-        t_df = df[df["Ticker"] == ticker].copy()
-        if t_df.empty:
-            return [0.5] * days
-        t_df["Date_Only"] = t_df["Date"].dt.date
-        recent = sorted(t_df["Date_Only"].unique())[-days:]
-        vals = []
-        for d in recent:
-            day_df = t_df[t_df["Date_Only"] == d]
-            pos = (day_df["Predicted_Class"].str.lower() == "positive").sum()
-            total = len(day_df)
-            vals.append(round(pos / total, 2) if total > 0 else 0.5)
-        while len(vals) < days:
-            vals.insert(0, 0.5)
-        return vals
+    # get_sparkline is defined at module level above
 
     for chunk_idx in range(0, len(tickers_list), 3):
         chunk = tickers_list[chunk_idx:chunk_idx+3]
@@ -2219,65 +2223,76 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         company_filter = st.selectbox("Timeline Asset Filter:", ["All Stocks"] + list(TICKER_LIST))
         
     with time_col2:
-        # Wire date range + company filter to actual df data
-        trend_df = df.copy()
-        if not pd.api.types.is_datetime64_any_dtype(trend_df["Date"]):
-            trend_df["Date"] = pd.to_datetime(trend_df["Date"], errors="coerce")
-        trend_df["Date_Only"] = trend_df["Date"].dt.date
-        trend_df = trend_df[(trend_df["Date_Only"] >= start_dt) & (trend_df["Date_Only"] <= end_dt)]
-        if company_filter != "All Stocks":
-            trend_df = trend_df[trend_df["Ticker"] == company_filter]
-
+        # FIXED: Validate date range before filtering to give clear user feedback
         if start_dt > end_dt:
-            st.warning("⚠️ Start date cannot be after end date. Please adjust the date range.")
-
-        if trend_df.empty:
-            st.info("No data found for the selected filters.")
-        else:
-            # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
-            daily = _safe_groupby_apply(trend_df.groupby("Date_Only"), _day_net_sentiment).reset_index()
-            daily.columns = ["Date_Only", "net_sentiment"]
-            daily = daily.sort_values("Date_Only")
-            date_list = list(daily["Date_Only"])
-            trend_y = list(daily["net_sentiment"])
-
-            # High-confidence scatter overlay (Confidence >= 0.85)
-            hc_df = trend_df[trend_df["Confidence"] >= 0.85].copy()
-            if not hc_df.empty:
-                # FIXED: Using module-level _day_net_sentiment via _safe_groupby_apply
-                hc_daily = _safe_groupby_apply(hc_df.groupby("Date_Only"), _day_net_sentiment).reset_index()
-                hc_daily.columns = ["Date_Only", "net_sentiment"]
-                scatter_dates = list(hc_daily["Date_Only"])
-                scatter_y     = list(hc_daily["net_sentiment"])
-            else:
-                scatter_dates = []
-                scatter_y     = []
-
-            fig_trend = go.Figure()
-            fig_trend.add_trace(go.Scatter(
-                x=date_list,
-                y=trend_y,
-                mode='lines+markers',
-                name="Daily Net Sentiment",
-                line=dict(color="#00F2FF", width=3)
-            ))
-            fig_trend.add_trace(go.Scatter(
-                x=scatter_dates,
-                y=scatter_y,
-                mode='markers',
-                name="High Confidence Events (≥85%)",
-                marker=dict(color="#00FF66", size=12, symbol="star", line=dict(color="#FFFFFF", width=1.5))
-            ))
-            fig_trend.update_layout(
-                paper_bgcolor="#0A0F1D",
-                plot_bgcolor="#050811",
-                hovermode="x unified",
-                xaxis=dict(showgrid=True, gridcolor="#1E293B"),
-                yaxis=dict(showgrid=True, gridcolor="#1E293B", range=[-1.1, 1.1]),
-                margin=dict(l=40, r=40, t=10, b=40),
-                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+            st.warning(
+                "⚠️ Start date cannot be after end date. "
+                "Please adjust the date range in the left panel."
             )
-            st.plotly_chart(fig_trend, width='stretch')
+        else:
+            # FIXED: All existing trend chart code moved under this else block
+            trend_df = df.copy()
+            if not pd.api.types.is_datetime64_any_dtype(trend_df["Date"]):
+                trend_df["Date"] = pd.to_datetime(trend_df["Date"], errors="coerce")
+            trend_df["Date_Only"] = trend_df["Date"].dt.date
+            trend_df = trend_df[
+                (trend_df["Date_Only"] >= start_dt) &
+                (trend_df["Date_Only"] <= end_dt)
+            ]
+            if company_filter != "All Stocks":
+                trend_df = trend_df[trend_df["Ticker"] == company_filter]
+
+            if trend_df.empty:
+                st.info("ℹ️ No data found for the selected filters. Try widening the date range or selecting 'All Stocks'.")
+            else:
+                # FIXED: Use module-level _day_net_sentiment via _safe_groupby_apply — pandas 2.2+ compatible
+                daily = _safe_groupby_apply(
+                    trend_df.groupby("Date_Only"), _day_net_sentiment
+                ).reset_index()
+                daily.columns = ["Date_Only", "net_sentiment"]
+                daily = daily.sort_values("Date_Only")
+                date_list = list(daily["Date_Only"])
+                trend_y = list(daily["net_sentiment"])
+
+                # High-confidence scatter overlay (Confidence >= 0.85)
+                # FIXED: Guard against empty hc_df — columns assignment crashes on empty DataFrame
+                hc_df = trend_df[trend_df["Confidence"] >= 0.85].copy()
+                if not hc_df.empty:
+                    hc_daily = _safe_groupby_apply(
+                        hc_df.groupby("Date_Only"), _day_net_sentiment
+                    ).reset_index()
+                    hc_daily.columns = ["Date_Only", "net_sentiment"]
+                    scatter_dates = list(hc_daily["Date_Only"])
+                    scatter_y     = list(hc_daily["net_sentiment"])
+                else:
+                    scatter_dates = []  # FIXED: Empty lists produce no scatter trace points
+                    scatter_y     = []
+
+                fig_trend = go.Figure()
+                fig_trend.add_trace(go.Scatter(
+                    x=date_list,
+                    y=trend_y,
+                    mode='lines+markers',
+                    name="Daily Net Sentiment",
+                    line=dict(color="#00F2FF", width=3)
+                ))
+                fig_trend.add_trace(go.Scatter(
+                    x=scatter_dates,
+                    y=scatter_y,
+                    mode='markers',
+                    name="High Confidence Events (≥85%)",
+                    marker=dict(color="#00FF66", size=12, symbol="star", line=dict(color="#FFFFFF", width=1.5))
+                ))
+                fig_trend.update_layout(
+                    paper_bgcolor="#0A0F1D",
+                    plot_bgcolor="#050811",
+                    hovermode="x unified",
+                    xaxis=dict(showgrid=True, gridcolor="#1E293B"),
+                    yaxis=dict(showgrid=True, gridcolor="#1E293B", range=[-1.1, 1.1]),
+                    margin=dict(l=40, r=40, t=10, b=40),
+                    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+                )
+                st.plotly_chart(fig_trend, width='stretch')
         
     st.markdown('</div>', unsafe_allow_html=True)
     st.stop()
