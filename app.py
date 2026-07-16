@@ -2266,7 +2266,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             st.markdown('</div>', unsafe_allow_html=True)
             st.stop()
 
-        ticker_yf  = company_filter + ".NS"
+        ticker_yf  = company_filter if company_filter.endswith(".NS") else company_filter + ".NS"
         stock_data = fetch_stock_data(ticker_yf, start_dt, end_dt)
 
         # --- Flatten MultiIndex columns that yfinance >=0.2 returns ---
