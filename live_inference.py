@@ -51,10 +51,32 @@ SKIP_PREFIXES = [
     "buzzing stocks", "10 things that will", "week ahead",
     "trading guide", "market wrap", "top business & market headlines",
     "bl morning report", "morning report", "dalal street watch",
+    # --- ADD THESE ---
+    "share price live",
+    "share price today",
+    "share price update",
+    "stock price live",
+    "stock price today",
+    "adani ent share price",
+    "nse bse",
 ]
 JUNK_PHRASES = [
     "day’s trial", "subscribe", "sign up", "download the app",
     "advisory alert", "read also", "also read", "newsletter",
+    # --- ADD THESE ---
+    "live updates",
+    "market performance",
+    "opens at",
+    "trades at",
+    "falls in trade",
+    "rises in trade",
+    "up in early trade",
+    "down in early trade",
+    "intraday",
+    "trading session",
+    "52-week high",
+    "52-week low",
+    "watch the stock",
 ]
 
 
