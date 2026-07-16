@@ -6,6 +6,9 @@
 import os
 import sys
 from transformers import pipeline
+from lime.lime_text import LimeTextExplainer
+from transformers_interpret import SequenceClassificationExplainer
+import torch
 import datetime
 import subprocess
 import numpy as np
@@ -1428,6 +1431,51 @@ def real_predict_api(headline):
         "vanilla_confidence": vanilla_confidence
     }
 
+def compute_transformers_interpret_attribution(headline):
+    pipeline_obj = load_finbert_model()
+    explainer = SequenceClassificationExplainer(
+        model = pipeline_obj.model,
+        tokenizer = pipeline_obj.tokenizer
+    )
+    word_attributions = explainer(headline)
+    return word_attributions
+
+def compute_lime_attribution(headline, pred_label):
+    pipeline_obj = load_finbert_model()
+    
+    def predict_proba_for_lime(texts):
+        model = pipeline_obj.model
+        tokenizer = pipeline_obj.tokenizer
+        device = model.device
+        
+        inputs = tokenizer(
+            texts,
+            return_tensors = "pt",
+            max_length     = 128,
+            truncation     = True,
+            padding        = True
+        ).to(device)
+        
+        with torch.no_grad():
+            logits = model(**inputs).logits
+            
+        probs = torch.softmax(logits, dim=1).cpu().numpy()
+        return probs
+
+    lime_explainer = LimeTextExplainer(class_names=["negative", "neutral", "positive"])
+    explanation = lime_explainer.explain_instance(
+        text_instance = headline,
+        classifier_fn = predict_proba_for_lime,
+        num_features = 10,
+        num_samples = 500,
+        labels = [0, 1, 2]
+    )
+    
+    label_map = {"NEGATIVE": 0, "NEUTRAL": 1, "POSITIVE": 2}
+    pred_idx_num = label_map.get(pred_label, 1)
+    
+    return explanation.as_list(label=pred_idx_num)
+
 # -----------------
 # SPA View Router
 # -----------------
@@ -1557,105 +1605,108 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                 
             with st.expander("🔍 Explainability: Token Attention Heatmap", expanded=False):
                 st.markdown("Words are highlighted by the model attention weights (Green = Positive signal focus, Red = Negative signal focus).")
-                words = headline_input.split()
-                html_spans = []
-                for w in words:
-                    w_clean = w.lower().strip(",.;:()\"'")
-                    if w_clean in ["rise", "growth", "surpasses", "up", "profit", "gain", "valuation", "higher", "positive", "snap", "surge", "bullish"]:
-                        bg = "rgba(0, 255, 102, 0.25)"
-                        border = "rgba(0, 255, 102, 0.5)"
-                        color = "#00FF66"
-                    elif w_clean in ["drop", "fall", "down", "loss", "decline", "lower", "negative", "worry", "worries", "punished", "over-punished", "investigate", "bearish"]:
-                        bg = "rgba(255, 0, 85, 0.25)"
-                        border = "rgba(255, 0, 85, 0.5)"
-                        color = "#FF0055"
-                    else:
-                        bg = "rgba(255, 255, 255, 0.04)"
-                        border = "rgba(255, 255, 255, 0.08)"
-                        color = "#FFFFFF"
-                    html_spans.append(f'<span style="background: {bg}; border: 1px solid {border}; color: {color}; padding: 3px 6px; border-radius: 4px; margin-right: 6px; display: inline-block;">{w}</span>')
+                with st.spinner("Generating Token Attributions (Integrated Gradients)..."):
+                    try:
+                        word_attributions = compute_transformers_interpret_attribution(headline_input)
+                    except Exception as e:
+                        st.error(f"Error computing attributions: {e}")
+                        word_attributions = None
                 
-                st.markdown(f'<div style="padding: 12px; background: #070A10; border-radius: 6px; border: 1px solid rgba(255,255,255,0.04); font-size: 1.1rem; line-height: 2;">{" ".join(html_spans)}</div>', unsafe_allow_html=True)
+                if word_attributions:
+                    html_spans = []
+                    for token, score in word_attributions:
+                        if token in ["[CLS]", "[SEP]", "[PAD]"]:
+                            continue
+                        score = float(score)
+                        # Set styling based on score threshold
+                        if score > 0.01:
+                            bg = "rgba(0, 255, 102, 0.2)"
+                            border = "rgba(0, 255, 102, 0.4)"
+                            color = "#00FF66"
+                        elif score < -0.01:
+                            bg = "rgba(255, 0, 85, 0.2)"
+                            border = "rgba(255, 0, 85, 0.4)"
+                            color = "#FF0055"
+                        else:
+                            bg = "rgba(255, 255, 255, 0.04)"
+                            border = "rgba(255, 255, 255, 0.08)"
+                            color = "#FFFFFF"
+                        
+                        html_spans.append(f'<span style="background: {bg}; border: 1px solid {border}; color: {color}; padding: 3px 6px; border-radius: 4px; margin-right: 6px; display: inline-block; margin-bottom: 6px;">{token}</span>')
+                    
+                    st.markdown(f'<div style="padding: 12px; background: #070A10; border-radius: 6px; border: 1px solid rgba(255,255,255,0.04); font-size: 1.1rem; line-height: 2;">{" ".join(html_spans)}</div>', unsafe_allow_html=True)
+                else:
+                    st.warning("Could not generate token attributions.")
                 
             with st.expander("🔍 LIME & Transformer Interpret Explanations", expanded=False):
                 st.markdown("### LIME & Transformer Interpret Feature Attributions")
                 st.markdown("These attribution methods calculate local word-level contributions and Integrated Gradient attributions explaining predictions.")
                 
-                lime_col, trans_col = st.columns(2)
-                
-                # Pre-calculate deterministic explainability scores based on text & label
-                words = headline_input.split()
-                lime_list = []
-                trans_list = []
-                
-                for idx, w in enumerate(words):
-                    w_clean = w.lower().strip(",.;:()\"'")
-                    # base score
-                    score = 0.02
-                    if w_clean in ["rise", "growth", "up", "surpass", "profit", "gain", "valuation", "higher", "positive", "snap", "surge", "bullish", "jumps", "beating", "estimates"]:
-                        score = 0.0845 + (idx % 3) * 0.015
-                    elif w_clean in ["drop", "fall", "down", "loss", "decline", "lower", "negative", "worry", "worries", "punished", "over-punished", "investigate", "bearish", "slows", "downtime"]:
-                        score = -0.0924 - (idx % 3) * 0.012
-                    else:
-                        score = 0.0051 + (hash(w_clean) % 10) * 0.003
-                        if hash(w_clean) % 2 == 0:
-                            score = -score
-                            
-                    # align with the winning label direction
-                    if label == "NEGATIVE":
-                        score = -abs(score)
-                    elif label == "POSITIVE":
-                        score = abs(score)
-                    else:
-                        score = score * 0.2
+                with st.spinner("Calculating explainability models (this may take a few seconds)..."):
+                    try:
+                        lime_list = compute_lime_attribution(headline_input, label)
+                    except Exception as e:
+                        st.error(f"Error computing LIME: {e}")
+                        lime_list = []
                         
-                    lime_list.append((w, score))
-                    trans_list.append((w_clean, score * 1.18))
+                    try:
+                        trans_attribs = compute_transformers_interpret_attribution(headline_input)
+                        trans_list = [(t, float(s)) for t, s in trans_attribs if t not in ["[CLS]", "[SEP]", "[PAD]"]]
+                    except Exception as e:
+                        st.error(f"Error computing Transformer Interpret: {e}")
+                        trans_list = []
+                
+                lime_col, trans_col = st.columns(2)
                 
                 with lime_col:
                     st.markdown("#### 🍋 LIME Feature Importance")
                     st.markdown(f"**Word Importance for '{label.lower()}' class:**")
                     
-                    # Sort by absolute attribution score
-                    sorted_lime = sorted(lime_list, key=lambda x: abs(x[1]), reverse=True)
-                    for word, importance in sorted_lime[:10]:
-                        direction = "▲" if importance > 0 else "▼"
-                        color = "#00FF66" if importance > 0 else "#FF0055"
-                        bar_len = int(min(abs(importance) * 150, 15))
-                        bar_str = "█" * bar_len
-                        st.markdown(
-                            f"""
-                            <div style="display: flex; align-items: center; font-family: 'Geist Mono', monospace; font-size: 11px; margin-bottom: 4px;">
-                                <span style="width: 110px; color: #FFFFFF; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{word}</span>
-                                <span style="width: 70px; color: {color}; text-align: right; margin-right: 12px;">{importance:.4f}</span>
-                                <span style="color: {color}; font-size: 10px; margin-right: 6px;">{direction}</span>
-                                <span style="color: {color}; flex: 1; text-align: left; overflow: hidden;">{bar_str}</span>
-                            </div>
-                            """,
-                            unsafe_allow_html=True
-                        )
+                    if lime_list:
+                        sorted_lime = sorted(lime_list, key=lambda x: abs(x[1]), reverse=True)
+                        for word, importance in sorted_lime[:10]:
+                            direction = "▲" if importance > 0 else "▼"
+                            color = "#00FF66" if importance > 0 else "#FF0055"
+                            bar_len = int(min(abs(importance) * 150, 15))
+                            bar_str = "█" * bar_len
+                            st.markdown(
+                                f"""
+                                <div style="display: flex; align-items: center; font-family: 'Geist Mono', monospace; font-size: 11px; margin-bottom: 4px;">
+                                    <span style="width: 110px; color: #FFFFFF; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{word}</span>
+                                    <span style="width: 70px; color: {color}; text-align: right; margin-right: 12px;">{importance:.4f}</span>
+                                    <span style="color: {color}; font-size: 10px; margin-right: 6px;">{direction}</span>
+                                    <span style="color: {color}; flex: 1; text-align: left; overflow: hidden;">{bar_str}</span>
+                                </div>
+                                """,
+                                unsafe_allow_html=True
+                            )
+                    else:
+                        st.write("No LIME attributions available.")
                         
                 with trans_col:
                     st.markdown("#### ⚡ Transformer Interpret")
                     st.markdown("**Integrated Gradients Token Attribution:**")
                     
-                    # Show attribution table matching console output of SequenceClassificationExplainer
-                    for token, score in trans_list:
-                        direction = "+" if score > 0 else "-"
-                        color = "#00FF66" if score > 0 else "#FF0055"
-                        bar_len = int(min(abs(score) * 100, 15))
-                        bar_str = "█" * bar_len
-                        st.markdown(
-                            f"""
-                            <div style="display: flex; align-items: center; font-family: 'Geist Mono', monospace; font-size: 11px; margin-bottom: 4px;">
-                                <span style="width: 110px; color: #8A99AD; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{token}</span>
-                                <span style="width: 70px; color: {color}; text-align: right; margin-right: 12px;">{score:.4f}</span>
-                                <span style="color: {color}; font-size: 10px; margin-right: 6px;">{direction}</span>
-                                <span style="color: {color}; flex: 1; text-align: left; overflow: hidden;">{bar_str}</span>
-                            </div>
-                            """,
-                            unsafe_allow_html=True
-                        )
+                    if trans_list:
+                        # Show attribution table matching console output of SequenceClassificationExplainer
+                        for token, score in trans_list:
+                            direction = "+" if score > 0 else "-"
+                            color = "#00FF66" if score > 0 else "#FF0055"
+                            bar_len = int(min(abs(score) * 100, 15))
+                            bar_str = "█" * bar_len
+                            st.markdown(
+                                f"""
+                                <div style="display: flex; align-items: center; font-family: 'Geist Mono', monospace; font-size: 11px; margin-bottom: 4px;">
+                                    <span style="width: 110px; color: #8A99AD; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{token}</span>
+                                    <span style="width: 70px; color: {color}; text-align: right; margin-right: 12px;">{score:.4f}</span>
+                                    <span style="color: {color}; font-size: 10px; margin-right: 6px;">{direction}</span>
+                                    <span style="color: {color}; flex: 1; text-align: left; overflow: hidden;">{bar_str}</span>
+                                </div>
+                                """,
+                                unsafe_allow_html=True
+                            )
+                    else:
+                        st.write("No Transformer Interpret attributions available.")
                 
             st.markdown("---")
             st.markdown("### Model Comparison: FinBERT M3 vs Vanilla FinBERT")
