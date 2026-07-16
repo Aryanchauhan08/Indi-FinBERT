@@ -887,7 +887,7 @@ div[data-testid="stRadio"] label[data-checked="true"] p {
 }
 
 /* Float only the navigation radio widget into the center of the custom navbar */
-div[data-testid="stRadio"]:has(input[name="navigation"]) {
+.main-navigation-wrapper div[data-testid="stRadio"] {
     position: fixed !important;
     top: 11px !important;
     left: 50% !important;
@@ -1407,6 +1407,7 @@ def on_nav_change():
     if "navigation" in st.session_state:
         st.session_state.current_page = st.session_state.navigation
         
+st.markdown('<div class="main-navigation-wrapper">', unsafe_allow_html=True)
 st.radio(
     "Navigation",
     options,
@@ -1416,6 +1417,7 @@ st.radio(
     on_change=on_nav_change,
     label_visibility="collapsed"
 )
+st.markdown('</div>', unsafe_allow_html=True)
 
 # -----------------
 # Real FinBERT Inference Helper
