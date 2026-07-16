@@ -2689,7 +2689,7 @@ with col_timeline:
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
                     <h3 class="tl-line" style="color: #FFFFFF !important;">1. Multi-Modal News Ingestion</h3>
-                    <p class="tl-line" style="color: #94A3B8 !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p>
                     <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Throughput: 5,000+ events/sec</span>
                 </div>
             </div>
@@ -2708,7 +2708,7 @@ with col_timeline:
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
                     <h3 class="tl-line" style="color: #FFFFFF !important;">2. NLP Engine — ProsusAI FinBERT Stack</h3>
-                    <p class="tl-line" style="color: #94A3B8 !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p>
                     <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: 42ms</span>
                 </div>
             </div>
@@ -2721,7 +2721,7 @@ with col_timeline:
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
                     <h3 class="tl-line" style="color: #FFFFFF !important;">3. Cascading HITL Guardrails</h3>
-                    <p class="tl-line" style="color: #94A3B8 !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p>
                     <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Brier accuracy score tracked</span>
                 </div>
             </div>
@@ -2737,7 +2737,7 @@ with col_timeline:
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
                     <h3 class="tl-line" style="color: #FFFFFF !important;">4. Database Ledger Logging</h3>
-                    <p class="tl-line" style="color: #94A3B8 !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p>
                     <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Backtested Sharpe: 1.42</span>
                 </div>
             </div>
