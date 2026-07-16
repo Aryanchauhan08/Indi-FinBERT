@@ -1900,45 +1900,93 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
     if not df.empty:
         _pos_p = round(len(df[df["Predicted_Class"].str.lower()=="positive"]) / len(df) * 100, 1)
         _neu_p = round(len(df[df["Predicted_Class"].str.lower()=="neutral"])  / len(df) * 100, 1)
+        # FIXED: Clamp negative values and ensure total sums to exactly 100
         _neg_p = round(max(0.0, 100 - _pos_p - _neu_p), 1)
-        _r = 54
-        _circ = 2 * np.pi * _r
-        _pos_dash = _circ * _pos_p / 100
-        _neu_dash = _circ * _neu_p / 100
-        _neg_dash = _circ * _neg_p / 100
-        _pos_offset = _circ * 0.25
-        _neu_offset = _pos_offset - _pos_dash
-        _neg_offset = _neu_offset - _neu_dash
+
+        _r     = 54
+        _circ  = round(2 * np.pi * _r, 4)
+
+        # FIXED: Each segment uses (dash_length, remaining_circumference) so only its arc is drawn
+        _pos_dash = round(_circ * _pos_p / 100, 4)
+        _neu_dash = round(_circ * _neu_p / 100, 4)
+        _neg_dash = round(_circ * _neg_p / 100, 4)
+
+        # Gap = circumference minus this segment's dash so the rest of the ring is transparent
+        _pos_gap  = round(_circ - _pos_dash, 4)
+        _neu_gap  = round(_circ - _neu_dash, 4)
+        _neg_gap  = round(_circ - _neg_dash, 4)
+
+        # Offset: SVG strokes start at 3 o'clock; subtract circ*0.25 to start at 12 o'clock
+        # Each segment begins where the previous one ended
+        _pos_offset = round(_circ * 0.25, 4)
+        _neu_offset = round(_pos_offset - _pos_dash, 4)
+        _neg_offset = round(_neu_offset - _neu_dash, 4)
 
         st.markdown(f"""
         <div style="display:flex;justify-content:center;align-items:center;gap:40px;margin:24px 0;">
-            <svg width="140" height="140" viewBox="0 0 140 140">
+            <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+                <!-- FIXED: Background track ring -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#1E293B" stroke-width="14"/>
+
+                <!-- FIXED: Positive segment — starts at 12 o'clock, draws clockwise -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#00FF66" stroke-width="14"
-                    stroke-dasharray="{_pos_dash} {_circ}" stroke-dashoffset="{_pos_offset}"
-                    stroke-linecap="round">
+                    stroke-dasharray="{_pos_dash} {_pos_gap}"
+                    stroke-dashoffset="{_pos_offset}"
+                    stroke-linecap="butt"
+                    transform="rotate(-90 70 70)">
                     <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_pos_dash} {_circ}" dur="1.2s" fill="freeze"/>
+                        from="0 {_circ}" to="{_pos_dash} {_pos_gap}"
+                        dur="1.0s" begin="0s" fill="freeze" calcMode="spline"
+                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
+
+                <!-- FIXED: Neutral segment — begins where positive ends -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#F59E0B" stroke-width="14"
-                    stroke-dasharray="{_neu_dash} {_circ}" stroke-dashoffset="{_neu_offset}"
-                    stroke-linecap="round">
+                    stroke-dasharray="{_neu_dash} {_neu_gap}"
+                    stroke-dashoffset="{_neu_offset}"
+                    stroke-linecap="butt"
+                    transform="rotate(-90 70 70)">
                     <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_neu_dash} {_circ}" begin="0.4s" dur="1.2s" fill="freeze"/>
+                        from="0 {_circ}" to="{_neu_dash} {_neu_gap}"
+                        dur="1.0s" begin="0.35s" fill="freeze" calcMode="spline"
+                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
+
+                <!-- FIXED: Negative segment — begins where neutral ends -->
                 <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#EF4444" stroke-width="14"
-                    stroke-dasharray="{_neg_dash} {_circ}" stroke-dashoffset="{_neg_offset}"
-                    stroke-linecap="round">
+                    stroke-dasharray="{_neg_dash} {_neg_gap}"
+                    stroke-dashoffset="{_neg_offset}"
+                    stroke-linecap="butt"
+                    transform="rotate(-90 70 70)">
                     <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_neg_dash} {_circ}" begin="0.8s" dur="1.2s" fill="freeze"/>
+                        from="0 {_circ}" to="{_neg_dash} {_neg_gap}"
+                        dur="1.0s" begin="0.7s" fill="freeze" calcMode="spline"
+                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
                 </circle>
-                <text x="70" y="65" text-anchor="middle" fill="#FFF" font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
-                <text x="70" y="82" text-anchor="middle" fill="#64748B" font-size="10" font-family="Inter">POSITIVE</text>
+
+                <!-- Centre label -->
+                <text x="70" y="65" text-anchor="middle" fill="#FFF"
+                    font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
+                <text x="70" y="82" text-anchor="middle" fill="#64748B"
+                    font-size="10" font-family="Inter">POSITIVE</text>
             </svg>
+
             <div style="font-family:'Inter',sans-serif;">
-                <div style="margin-bottom:10px;"><span style="color:#00FF66;font-weight:700;">&#9679;</span> <span style="color:#94A3B8;">Positive</span> <b style="color:#FFF;margin-left:8px;">{_pos_p}%</b></div>
-                <div style="margin-bottom:10px;"><span style="color:#F59E0B;font-weight:700;">&#9679;</span> <span style="color:#94A3B8;">Neutral</span>  <b style="color:#FFF;margin-left:8px;">{_neu_p}%</b></div>
-                <div><span style="color:#EF4444;font-weight:700;">&#9679;</span> <span style="color:#94A3B8;">Negative</span> <b style="color:#FFF;margin-left:8px;">{_neg_p}%</b></div>
+                <div style="margin-bottom:10px;">
+                    <span style="color:#00FF66;font-weight:700;">&#9679;</span>
+                    <span style="color:#94A3B8;"> Positive</span>
+                    <b style="color:#FFF;margin-left:8px;">{_pos_p}%</b>
+                </div>
+                <div style="margin-bottom:10px;">
+                    <span style="color:#F59E0B;font-weight:700;">&#9679;</span>
+                    <span style="color:#94A3B8;"> Neutral</span>
+                    <b style="color:#FFF;margin-left:8px;">{_neu_p}%</b>
+                </div>
+                <div>
+                    <span style="color:#EF4444;font-weight:700;">&#9679;</span>
+                    <span style="color:#94A3B8;"> Negative</span>
+                    <b style="color:#FFF;margin-left:8px;">{_neg_p}%</b>
+                </div>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -1949,9 +1997,46 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
     feed_col1, feed_col2 = st.columns([1.5, 3.5])
     
     with feed_col1:
-        st.markdown("Search Ticker symbol:")
-        ticker_query = st.text_input("Enter NSE/BSE Ticker:", value="RELIANCE")
-        if st.button("⚡ Refresh Feed", type="primary"):
+        # ADDED: Dual-mode ticker selection — dropdown from known list + freeform text override
+        st.markdown(
+            "<div style='font-size:0.75rem;font-weight:700;color:#64748B;"
+            "text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;'>"
+            "Select from Index</div>",
+            unsafe_allow_html=True
+        )
+        ticker_from_select = st.selectbox(
+            "Select Ticker:",
+            options=TICKER_LIST,
+            index=0,
+            key="ticker_selectbox",
+            label_visibility="collapsed"
+        )
+
+        st.markdown(
+            "<div style='font-size:0.75rem;font-weight:700;color:#64748B;"
+            "text-transform:uppercase;letter-spacing:0.08em;margin-top:12px;margin-bottom:6px;'>"
+            "Or Search Custom Ticker</div>",
+            unsafe_allow_html=True
+        )
+        ticker_from_text = st.text_input(
+            "Custom Ticker:",
+            value="",
+            placeholder="e.g. WIPRO, BAJFINANCE...",
+            key="ticker_text_input",
+            label_visibility="collapsed"
+        )
+
+        # ADDED: Text input overrides selectbox if user has typed something
+        ticker_query = ticker_from_text.strip().upper() if ticker_from_text.strip() else ticker_from_select
+
+        st.markdown(
+            f"<div style='font-size:0.72rem;color:#475569;margin-top:4px;font-family:"
+            f"Geist Mono,monospace;'>Active: <span style='color:#00F2FF;font-weight:700;'>"
+            f"{ticker_query}</span></div>",
+            unsafe_allow_html=True
+        )
+
+        if st.button("⚡ Refresh Feed", type="primary", use_container_width=True):
             st.cache_data.clear()
             st.rerun()
         
@@ -1976,6 +2061,11 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     "time": time_str
                 })
         else:
+            # ADDED: Warn user that live data is unavailable and mock data is being shown
+            st.warning(
+                f"⚠️ No live data found for **{selected_ticker}** in the current dataset. "
+                "Showing illustrative example headlines — not real market data."
+            )
             mock_headlines = {
                 "RELIANCE": [
                     {"title": "Reliance Q1 profits rise by 12.8% on retail sector growth surge", "sentiment": "POSITIVE", "conf": 0.88, "time": "10 mins ago"},
