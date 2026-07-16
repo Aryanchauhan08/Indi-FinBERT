@@ -898,12 +898,11 @@ div.st-key-navigation label[data-checked="true"] p {
     animation: shimmerFade 0.4s ease-out 0.05s forwards;
     pointer-events: none;
 }
-/* 1. Set the baseline resting state (Slowed down transition timings) */
+/* 1. Set the baseline resting state (dimmed and slightly lowered, NO BLUR) */
 .scroll-animate, .tl-line {
     opacity: 0.4;
     transform: translateY(12px);
-    /* Increased duration to 0.8s and 1.2s for a relaxed slide */
-    transition: opacity 0.8s ease, transform 1.2s cubic-bezier(0.25, 1, 0.5, 1);
+    transition: opacity 0.5s ease, transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
     will-change: opacity, transform;
     padding: 10px;
     border-radius: 8px;
@@ -917,26 +916,6 @@ div.st-key-navigation label[data-checked="true"] p {
     background: rgba(255, 255, 255, 0.02);
     border-left: 2px solid #00FF66;
     box-shadow: -5px 0px 15px rgba(0, 255, 102, 0.05);
-}
-
-/* 3. Force all base text elements to become ultra-bright pure white on hover (Slowed down) */
-.scroll-animate:hover, .tl-line:hover,
-.scroll-animate:hover p, .tl-line:hover p,
-.scroll-animate:hover div, .tl-line:hover div,
-.scroll-animate:hover span, .tl-line:hover span,
-.scroll-animate:hover li, .tl-line:hover li {
-    color: #FFFFFF !important;
-    text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.3) !important;
-    /* Increased duration to 0.6s for a smoother glow effect */
-    transition: color 0.6s ease, text-shadow 0.6s ease;
-}
-
-/* 4. Ensure headers keep their original styling and don't get over-brightened */
-.scroll-animate:hover h1, .tl-line:hover h1,
-.scroll-animate:hover h2, .tl-line:hover h2,
-.scroll-animate:hover h3, .tl-line:hover h3,
-.scroll-animate:hover h4, .tl-line:hover h4 {
-    text-shadow: none !important;
 }
 </style>''', unsafe_allow_html=True)
 
