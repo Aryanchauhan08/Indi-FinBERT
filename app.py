@@ -917,6 +917,13 @@ div.st-key-navigation label[data-checked="true"] p {
     border-left: 2px solid #00FF66;
     box-shadow: -5px 0px 15px rgba(0, 255, 102, 0.05);
 }
+
+/* 3. Force paragraphs to become ultra-bright pure white on hover */
+.scroll-animate:hover p, .tl-line:hover p {
+    color: #FFFFFF !important;
+    text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.25) !important;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
 </style>''', unsafe_allow_html=True)
 
 # VISUAL: Waitlist button floating CSS
