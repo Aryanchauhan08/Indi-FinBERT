@@ -824,89 +824,18 @@ st.markdown('''
 .finbert-content-push {
     height: 0px !important;
 }
-/* Force only the navigation radio group container into a rectangular box */
-#finbert-nav-radio div[data-testid="stRadio"] > div[role="radiogroup"] {
-    background: rgba(255, 255, 255, 0.03) !important;
-    border: 1px solid rgba(255, 255, 255, 0.08) !important;
-    padding: 6px !important;
-    border-radius: 4px !important;
-    gap: 4px !important;
+div[data-testid="stRadio"]:has(label) {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
-
-/* Target only the individual navigation radio labels */
-#finbert-nav-radio div[data-testid="stRadio"] label {
-    background: transparent !important;
-    border-radius: 4px !important;
-    padding: 8px 24px !important;
-    cursor: pointer !important;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
-    border: 1px solid transparent !important;
-    margin: 0 !important;
-}
-
-/* Hide the default Streamlit radio circle for the navigation bar only */
-#finbert-nav-radio div[data-testid="stRadio"] label > div:first-child {
-    display: none !important;
-}
-
-/* Apply the glowing hover effect to navigation only */
-#finbert-nav-radio div[data-testid="stRadio"] label:hover {
-    background: rgba(255, 255, 255, 0.06) !important;
-    border: 1px solid rgba(0, 242, 255, 0.3) !important;
-    box-shadow: 0 0 15px rgba(0, 242, 255, 0.2), inset 0 0 10px rgba(255, 255, 255, 0.02) !important;
-    transform: translateY(-2px) !important;
-}
-
-/* Active selected tab state for navigation only */
-#finbert-nav-radio div[data-testid="stRadio"] label[data-checked="true"] {
-    background: rgba(255, 255, 255, 0.1) !important;
-    border: 1px solid rgba(255, 255, 255, 0.2) !important;
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1) !important;
-}
-
-/* Force text color changes inside the navigation labels only */
-#finbert-nav-radio div[data-testid="stRadio"] label p {
-    color: #8A99AD !important;
-    font-family: 'Geist Mono', monospace !important;
-    font-weight: 700 !important;
-    font-size: 11px !important;
-    letter-spacing: 1px !important;
-    text-transform: uppercase !important;
-    transition: color 0.3s ease !important;
-}
-#finbert-nav-radio div[data-testid="stRadio"] label:hover p, 
-#finbert-nav-radio div[data-testid="stRadio"] label[data-checked="true"] p {
-    color: #FFFFFF !important;
-}
-@keyframes fadeInPage {
-    0% { opacity: 0; transform: translateY(15px) scale(0.99); }
-    100% { opacity: 1; transform: translateY(0) scale(1); }
-}
-.page-transition-wrapper {
-    animation: fadeInPage 0.5s cubic-bezier(0.22, 1, 0.36, 1) forwards !important;
-}
-
-/* Float only the navigation radio widget into the center of the custom navbar */
-#finbert-nav-radio div[data-testid="stRadio"] {
-    position: fixed !important;
-    top: 11px !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    z-index: 99999 !important;   /* was 10000 — raise above shimmer layer */
-    margin: 0 !important;
-    padding: 0 !important;
-    width: auto !important;
-    pointer-events: auto !important;
-}
-
-/* Explicitly unfix the chart style radio so it stays in normal document flow */
-div[data-testid="stRadio"]:not(#finbert-nav-radio div[data-testid="stRadio"]) {
-    position: relative !important;
-    top: unset !important;
-    left: unset !important;
-    transform: none !important;
-    z-index: auto !important;
-    width: 100% !important;
+div[data-testid="stRadio"]:has(input[value="Candlestick"]),
+div[data-testid="stRadio"]:has(input[value="OHLC Line"]) {
+    visibility: visible !important;
+    height: auto !important;
+    overflow: visible !important;
 }
 /* VISUAL: Add Plotly chart hover glow effect */
 .stPlotlyChart:hover {
@@ -1015,6 +944,7 @@ st.markdown(f"""
             </div>
         </div>
     </div>
+    <div id="nav-tabs-target" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;height:58px;"></div>
     <div style="flex:1;"></div>
     <div class="nb-live">
         <div class="nb-live-pill"><span class="nb-live-dot"></span>LIVE &nbsp;•&nbsp; 3 feeds</div>
@@ -1028,6 +958,78 @@ st.markdown(f"""
 now_ts = datetime.datetime.now().strftime("%H:%M:%S")
 
 js_payload = f"""
+// ── Nav Radio Mover ──
+(function moveNavRadio() {{
+    var target = window.parent.document.getElementById('nav-tabs-target');
+    var radios = window.parent.document.querySelectorAll('[data-testid="stRadio"]');
+    var navRadio = null;
+    radios.forEach(function(r) {{
+        var labels = r.querySelectorAll('label');
+        labels.forEach(function(l) {{
+            if (l.innerText && l.innerText.includes('LIVE PIPELINE')) {{
+                navRadio = r;
+            }}
+        }});
+    }});
+    if (target && navRadio) {{
+        // Style the radio group to look like nav pills
+        var group = navRadio.querySelector('[role="radiogroup"]');
+        if (group) {{
+            group.style.cssText = 'display:flex;gap:4px;background:rgba(0,0,0,0.3);border:1px solid rgba(255,255,255,0.08);padding:4px;border-radius:9999px;';
+        }}
+        navRadio.querySelectorAll('label').forEach(function(label) {{
+            // Hide the radio circle
+            var circle = label.querySelector('div:first-child');
+            if (circle) circle.style.display = 'none';
+            label.style.cssText = 'font-size:0.7rem;font-weight:700;color:#94A3B8;padding:6px 16px;border-radius:9999px;text-transform:uppercase;letter-spacing:0.08em;cursor:pointer;border:1px solid transparent;font-family:Geist Mono,monospace;';
+            label.onmouseenter = function() {{
+                this.style.background = 'rgba(255,255,255,0.06)';
+                this.style.borderColor = 'rgba(0,242,255,0.3)';
+                this.style.color = '#FFFFFF';
+            }};
+            label.onmouseleave = function() {{
+                this.style.background = '';
+                this.style.borderColor = 'transparent';
+                this.style.color = '#94A3B8';
+            }};
+        }});
+        // Hide the original container from page flow
+        navRadio.style.cssText = 'position:absolute;opacity:0;pointer-events:none;height:0;overflow:hidden;';
+        // Clone and move into navbar
+        var clone = navRadio.cloneNode(true);
+        clone.style.cssText = 'display:flex;align-items:center;';
+        // Re-attach click handlers on clone labels to click original inputs
+        var origInputs = navRadio.querySelectorAll('input');
+        clone.querySelectorAll('label').forEach(function(cloneLabel, i) {{
+            cloneLabel.style.cssText = 'font-size:0.7rem;font-weight:700;color:#94A3B8;padding:6px 16px;border-radius:9999px;text-transform:uppercase;letter-spacing:0.08em;cursor:pointer;border:1px solid transparent;font-family:Geist Mono,monospace;';
+            var circle = cloneLabel.querySelector('div:first-child');
+            if (circle) circle.style.display = 'none';
+            cloneLabel.onclick = function() {{
+                if (origInputs[i]) origInputs[i].click();
+            }};
+            cloneLabel.onmouseenter = function() {{
+                this.style.background = 'rgba(255,255,255,0.06)';
+                this.style.borderColor = 'rgba(0,242,255,0.3)';
+                this.style.color = '#FFFFFF';
+            }};
+            cloneLabel.onmouseleave = function() {{
+                this.style.background = '';
+                this.style.borderColor = 'transparent';
+                this.style.color = '#94A3B8';
+            }};
+        }});
+        var cloneGroup = clone.querySelector('[role="radiogroup"]');
+        if (cloneGroup) {{
+            cloneGroup.style.cssText = 'display:flex;gap:4px;background:rgba(0,0,0,0.3);border:1px solid rgba(255,255,255,0.08);padding:4px;border-radius:9999px;';
+        }}
+        target.innerHTML = '';
+        target.appendChild(clone);
+    }} else {{
+        // Retry if DOM not ready yet
+        window.parent.setTimeout(moveNavRadio, 150);
+    }}
+}})();
+
 // ── 1. Scroll Reset ──
 const resetScroll = () => {{
     try {{
