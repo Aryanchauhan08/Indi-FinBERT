@@ -1397,7 +1397,6 @@ def load_finbert_model():
     return pipeline(
         "text-classification", 
         model="aryanchauhan08/Indi-FinBERT",
-        subfolder="models",  # Targets the subfolder where config.json resides
         token=hf_token,
         top_k=None
     )
