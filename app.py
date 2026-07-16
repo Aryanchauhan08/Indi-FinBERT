@@ -898,29 +898,27 @@ div.st-key-navigation label[data-checked="true"] p {
     animation: shimmerFade 0.4s ease-out 0.05s forwards;
     pointer-events: none;
 }
-/* Define the fade-and-slide animation */
-@keyframes autoFadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Apply to all previously JS-animated elements */
+/* 1. Set the baseline resting state (slightly dimmed, blurred, and lowered) */
 .scroll-animate, .tl-line {
-    opacity: 0;
-    animation: autoFadeInUp 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    opacity: 0.4;
+    filter: blur(1px);
+    transform: translateY(12px);
+    transition: opacity 0.5s ease, filter 0.5s ease, transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+    will-change: opacity, transform, filter;
+    padding: 10px;
+    border-radius: 8px;
+    border-left: 2px solid transparent;
 }
 
-/* Optional: Add slight staggered delays for timeline lines if they have nth-child */
-.timeline-container .tl-line:nth-child(1) { animation-delay: 0.1s; }
-.timeline-container .tl-line:nth-child(2) { animation-delay: 0.2s; }
-.timeline-container .tl-line:nth-child(3) { animation-delay: 0.3s; }
-.timeline-container .tl-line:nth-child(4) { animation-delay: 0.4s; }
+/* 2. Trigger full visibility, sharp focus, and slide-up when the user hovers over the text */
+.scroll-animate:hover, .tl-line:hover {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+    background: rgba(255, 255, 255, 0.02);
+    border-left: 2px solid #00FF66;
+    box-shadow: -5px 0px 15px rgba(0, 255, 102, 0.05);
+}
 </style>''', unsafe_allow_html=True)
 
 # VISUAL: Waitlist button floating CSS
