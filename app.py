@@ -917,6 +917,27 @@ div.st-key-navigation label[data-checked="true"] p {
     border-left: 2px solid #00FF66;
     box-shadow: -5px 0px 15px rgba(0, 255, 102, 0.05);
 }
+
+/* 3. Force all base text elements to become ultra-bright pure white on hover (using snappy timing) */
+.scroll-animate:hover p, .tl-line:hover p,
+.scroll-animate:hover div, .tl-line:hover div,
+.scroll-animate:hover span, .tl-line:hover span,
+.scroll-animate:hover li, .tl-line:hover li {
+    color: #FFFFFF !important;
+    text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.3) !important;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+/* 4. Ensure headers keep their original crisp styling and don't get the glow effect */
+.scroll-animate:hover h1, .tl-line:hover h1,
+.scroll-animate:hover h2, .tl-line:hover h2,
+.scroll-animate:hover h3, .tl-line:hover h3,
+.scroll-animate:hover h4, .tl-line:hover h4,
+.scroll-animate:hover h5, .tl-line:hover h5,
+.scroll-animate:hover h6, .tl-line:hover h6 {
+    text-shadow: none !important;
+    color: inherit !important;
+}
 </style>''', unsafe_allow_html=True)
 
 # VISUAL: Waitlist button floating CSS
