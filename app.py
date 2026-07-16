@@ -824,18 +824,9 @@ st.markdown('''
 .finbert-content-push {
     height: 0px !important;
 }
-div[data-testid="stRadio"]:has(label) {
-    visibility: hidden;
-    height: 0;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-}
-div[data-testid="stRadio"]:has(input[value="Candlestick"]),
-div[data-testid="stRadio"]:has(input[value="OHLC Line"]) {
-    visibility: visible !important;
-    height: auto !important;
-    overflow: visible !important;
+/* Hide only the navigation radio wrapper from the main layout so it is not visible on page */
+#finbert-nav-radio {
+    display: none !important;
 }
 /* VISUAL: Add Plotly chart hover glow effect */
 .stPlotlyChart:hover {
