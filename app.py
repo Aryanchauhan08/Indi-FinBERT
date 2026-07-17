@@ -714,8 +714,9 @@ st.markdown('''
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 28px;
-    height: 58px;
+    padding: 8px 28px;
+    min-height: 58px;
+    height: auto;
     background: rgba(5, 8, 17, 0.85);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
@@ -1038,15 +1039,16 @@ st.markdown(f"""
     </div>
     <div style="flex:1;"></div>
     <div class="nb-live">
-        <div class="nb-clock" id="ist-clock" style="color: #8A99AD !important; font-weight: 600; border-right: 1px solid rgba(255,255,255,0.08); padding-right: 12px; margin-right: 4px;">--:--:-- IST</div>
-        <div style="font-family:'Geist Mono', monospace; font-size:10.5px; color:#8A99AD; display:inline-flex; align-items:center; gap:10px; font-weight:600;">
-            <span style="color:#475569; font-weight:700;">Pipeline Status:</span>
-            <span>🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span></span>
-            <span>📊 Today's signals: <span style="display:inline-flex; align-items:center; gap:5px; background: rgba(0, 255, 102, 0.07); border: 1px solid rgba(0, 255, 102, 0.2); color: #00FF66; padding: 2px 6px; border-radius: 4px; font-weight:700; margin-left: 2px;"><span style="width: 6px; height: 6px; background: #00FF66; border-radius: 50%; animation: livePulse 1.8s ease-in-out infinite; display: inline-block;"></span>{_today_count}</span></span>
+        <div style="font-family:'Geist Mono', monospace; font-size:10.5px; color:#8A99AD; text-align:right; font-weight:600; line-height:1.6;">
+            <span style="color:#475569; font-weight:700;">Pipeline Status</span><br>
+            🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span><br>
+            📊 Today's signals: <span style="display:inline-flex; align-items:center; gap:5px; background: rgba(0, 255, 102, 0.07); border: 1px solid rgba(0, 255, 102, 0.2); color: #00FF66; padding: 2px 6px; border-radius: 4px; font-weight:700; margin-left: 2px;"><span style="width: 6px; height: 6px; background: #00FF66; border-radius: 50%; animation: livePulse 1.8s ease-in-out infinite; display: inline-block;"></span>{_today_count}</span>
         </div>
+        <div style="border-left: 1px solid rgba(255, 255, 255, 0.08); height: 32px; margin: 0 10px;"></div>
+        <div class="nb-clock" id="ist-clock" style="color: #8A99AD !important; font-weight: 600;">--:--:-- IST</div>
     </div>
 </div>
-<div class="finbert-content-push"></div>
+<div class="finbert-content-push" style="height: 25px !important;"></div>
 """, unsafe_allow_html=True)
 
 # ── Consolidated parent-scope Javascript execution wrapper ──
