@@ -488,3 +488,799 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-15 10:37:42,WIPRO.NS,Wipro shifts AI focus from pilots to enterprise execution,MSN,neutral,0.983,AUTO_ACCEPTED
 2026-07-16 00:30:00,WIPRO.NS,"Complex AI adoption keeps IT companies relevant, says Wipro Chairman",The Economic Times,neutral,0.767,AUTO_ACCEPTED
 2026-07-16 05:59:08,WIPRO.NS,Wipro Appoints Nageswara Rao Koganti as VP - Global Health,TradeFlock,neutral,0.9941,AUTO_ACCEPTED
+2026-07-17 04:07:05,ADANIENT.NS,Adani Enterprises arm to acquire remaining 44.6% stake in flight training firm FSSPL,BusinessLine,neutral,0.9361,AUTO_ACCEPTED
+2026-07-16 09:27:13,ADANIENT.NS,Foreign ownership in Adani Enterprise hits record low as locals buy,Business Standard,negative,0.9898,AUTO_ACCEPTED
+2026-07-17 00:30:49,ADANIENT.NS,"Adani, Reliance, Birla, Vedanta, Jindal among suitors for Odisha's prized Karlapat bauxite block",livemint.com,neutral,0.7627,AUTO_ACCEPTED
+2026-07-16 18:29:30,ADANIENT.NS,Adani strengthens defence play with full buyout of flight simulator firm,CNBC TV18,positive,0.9847,AUTO_ACCEPTED
+2026-07-16 10:25:14,ADANIENT.NS,Customs joins Centre's case against Adani over airport nicotine pouch sales,Business Standard,neutral,0.6843,AUTO_ACCEPTED
+2026-07-17 02:27:40,ADANIENT.NS,Adani Enterprises To Purchase Remaining 44.6% Flight Simulation Solutions Stake For ₹820 Crore,Sahi,neutral,0.8377,AUTO_ACCEPTED
+2026-07-16 17:34:46,ADANIENT.NS,Adani Enterprises Says Subsidiary Signed SPA With Flight Simulation Solutions,TradingView,positive,0.9353,AUTO_ACCEPTED
+2026-07-16 17:22:00,ADANIPORTS.NS,Canada to diversify trade and double exports through the Port of Vancouver Gateway Strategy,Yahoo Finance Singapore,positive,0.6638,AUTO_ACCEPTED
+2026-07-16 08:21:00,ADANIPORTS.NS,Kerala Chief Minister Signals Softer Stance On Vizhinjam Port Expansion Amid $1.4 Billion MSC Deal Review,Swarajya,negative,0.9275,AUTO_ACCEPTED
+2026-07-17 02:34:15,ADANIPORTS.NS,What Adani’s public announcement didn’t say—and what the Kerala Cabinet examined,The South First,neutral,0.9933,AUTO_ACCEPTED
+2026-07-16 08:30:57,ADANIPORTS.NS,"Vizhinjam at a crossroads: As MSC eyes a stake, Kerala confronts questions of monopoly, pollution, and the price of maritime ambition",Down To Earth,neutral,0.9277,AUTO_ACCEPTED
+2026-07-16 11:25:09,APOLLOHOSP.NS,Medtronic and Apollo Hospitals to establish state-of-the-art advanced ICU in Hyderabad,BioSpectrum India,neutral,0.6979,AUTO_ACCEPTED
+2026-07-16 16:41:50,APOLLOHOSP.NS,Medtronic And Apollo Hospitals Announce Strategic Partnership To Establish State-Of-The-Art Advanced ICU In Hyderabad.,TRIPURA STAR NEWS,positive,0.9889,AUTO_ACCEPTED
+2026-07-16 13:00:51,APOLLOHOSP.NS,"Apollo Hospitals, Medtronic launch AI-enabled futuristic ICU in Hyderabad",Indian Pharma Post,positive,0.7001,AUTO_ACCEPTED
+2026-07-16 14:29:16,APOLLOHOSP.NS,Medtronic and Apollo Hospitals Establish State-of-the-Art Advanced ICU in Hyderabad,Telugu Times,positive,0.5077,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:20:05,APOLLOHOSP.NS,"Apollo Hospital launches neuro navigation system, stroke command centre in Tiruchi",The Hindu,positive,0.5281,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 11:34:47,APOLLOHOSP.NS,The Silent Sleep Crisis: Apollo Experts Warn That 80-90% of Sleep Apnoea Cases Go Undiagnosed,TheWire.in,negative,0.9322,AUTO_ACCEPTED
+2026-07-16 16:09:22,ASIANPAINT.NS,Sophia Gardens announces Asian Paints partnership for marquee England-India fixture,Glamorgan Cricket,neutral,0.9098,AUTO_ACCEPTED
+2026-07-17 03:16:15,AXISBANK.NS,Five major banks are set to report Q1 results on Saturday; Here's what the street is expecting,CNBC TV18,neutral,0.9889,AUTO_ACCEPTED
+2026-07-16 07:57:48,AXISBANK.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-17 04:21:35,AXISBANK.NS,"Rajesh Palviya of Axis Sec suggests IIFL Finance, SRF, HLE Glascoat shares to buy today",livemint.com,neutral,0.965,AUTO_ACCEPTED
+2026-07-16 06:13:29,AXISBANK.NS,"FCNR(B) FD interest rates for NRIs: HDFC Bank, SBI, PNB, ICICI Bank and Axis Bank- which offers highest ma",The Economic Times,neutral,0.9033,AUTO_ACCEPTED
+2026-07-16 10:03:06,AXISBANK.NS,ICICI Bank Q1 Preview: Profit likely to be flat; NIMs may remain stable,Business Standard,neutral,0.9895,AUTO_ACCEPTED
+2026-07-16 08:38:18,AXISBANK.NS,South Indian Bank Q1 result: Profit rises 17% to ₹378 cr as provisions fall,Business Standard,positive,0.9862,AUTO_ACCEPTED
+2026-07-16 07:19:46,AXISBANK.NS,HDFC Bank Q1 preview: PAT may rise 9% on strong loan growth; NIMs seen flat,Business Standard,positive,0.9821,AUTO_ACCEPTED
+2026-07-16 07:57:45,BAJAJ-AUTO.NS,Bajaj Auto Says Bajaj Mobility AG Q2 2026 Revenue EUR 370 Million Versus EUR 231 Million In Q2 2025,TradingView,neutral,0.8272,AUTO_ACCEPTED
+2026-07-16 09:21:17,BAJAJ-AUTO.NS,"Tranche Update on Bajaj Auto Limited (NSEI:BAJAJ-AUTO)'s Equity Buyback Plan announced on May 6, 2026.",marketscreener.com,neutral,0.9398,AUTO_ACCEPTED
+2026-07-16 06:46:11,BAJAJ-AUTO.NS,"Bajaj Mobility AG sells 48,672 motorcycles in Q2 of 2026",Business Standard,neutral,0.9782,AUTO_ACCEPTED
+2026-07-16 05:53:19,BAJAJ-AUTO.NS,"Bajaj, Ola and VinFast aim to tap India's booming electric scooter fleet market",HT Auto,positive,0.9919,AUTO_ACCEPTED
+2026-07-16 14:50:04,BAJAJ-AUTO.NS,KTM recovery takes huge step forward as Bajaj Mobility AG posts Q2 report,Visordown,positive,0.9958,AUTO_ACCEPTED
+2026-07-16 18:59:52,BAJAJ-AUTO.NS,Bajaj Mobility posts strong Q2 rebound as motorcycle sales and margins surge,The Globe and Mail,positive,0.9965,AUTO_ACCEPTED
+2026-07-17 01:40:16,BAJFINANCE.NS,Bajaj Finance maintains higher high-higher low structure; Shivangi Sarda sees further upside,The Economic Times,positive,0.9615,AUTO_ACCEPTED
+2026-07-17 02:01:51,BAJFINANCE.NS,"HDFC Securities recommends Bull Spread on Bajaj Finance, MidCap Nifty",Business Standard,neutral,0.5565,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:38:20,BAJFINANCE.NS,"Sensex, Nifty close flat; IndiGo, HCL Tech, Bajaj Finance top gainers",Business Today,positive,0.5481,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 23:30:00,BAJFINANCE.NS,Stock Radar: Bajaj Finance inching higher after brief consolidation; time to buy?,The Economic Times,positive,0.9931,AUTO_ACCEPTED
+2026-07-16 08:31:44,BAJFINANCE.NS,Bajaj Finance - Volume Shocker: MFs lap up over 1 crore shares of 15 stocks that surged up to 49%. Do you own any,The Economic Times,negative,0.6507,AUTO_ACCEPTED
+2026-07-16 11:14:41,BAJFINANCE.NS,"Nifty 50 Gainers and Losers at 4:00 PM IST, July 16, 2026",HDFC Sky,neutral,0.988,AUTO_ACCEPTED
+2026-07-16 17:04:41,BAJFINANCE.NS,"Buy, Sell Or Hold: Bajaj Housing Finance, Hero MotoCorp, IDBI Bank, ICICI Prudential Life And Vishal Mega Mart — Ask Profit",NDTV Profit,neutral,0.9921,AUTO_ACCEPTED
+2026-07-16 09:16:50,BAJFINANCE.NS,"Trending Stocks Today, July 16, 2026: Vodafone Idea, PC Jeweller, MRPL, Mrs. Bectors Among Volume Leaders",HDFC Sky,neutral,0.9237,AUTO_ACCEPTED
+2026-07-16 11:17:44,BAJFINANCE.NS,"Stock Market Close Report, July 16, 2026: Sensex, Nifty Finish Flat As IT, Consumer Durables Offset Financial Weakness",HDFC Sky,neutral,0.857,AUTO_ACCEPTED
+2026-07-16 10:49:22,BAJFINANCE.NS,"Stocks in Focus Today, July 16, 2026: IT, Auto and FMCG Stocks Lift Nifty on Thursday",HDFC Sky,positive,0.9953,AUTO_ACCEPTED
+2026-07-16 07:57:00,BAJFINANCE.NS,Finance Platform Highlights Importance of EMI Planning Before Personal Loan Applications,EIN Presswire,neutral,0.979,AUTO_ACCEPTED
+2026-07-16 11:14:41,BAJAJFINSV.NS,"Nifty 50 Gainers and Losers at 4:00 PM IST, July 16, 2026",HDFC Sky,neutral,0.988,AUTO_ACCEPTED
+2026-07-16 10:38:20,BAJAJFINSV.NS,"Sensex, Nifty close flat; IndiGo, HCL Tech, Bajaj Finance top gainers",Business Today,positive,0.5481,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 09:16:50,BAJAJFINSV.NS,"Trending Stocks Today, July 16, 2026: Vodafone Idea, PC Jeweller, MRPL, Mrs. Bectors Among Volume Leaders",HDFC Sky,neutral,0.9237,AUTO_ACCEPTED
+2026-07-16 10:49:22,BAJAJFINSV.NS,"Stocks in Focus Today, July 16, 2026: IT, Auto and FMCG Stocks Lift Nifty on Thursday",HDFC Sky,positive,0.9953,AUTO_ACCEPTED
+2026-07-16 12:31:22,BPCL.NS,"Petrol, diesel sales jump in first half of July on delayed monsoon boost",ET Auto,positive,0.996,AUTO_ACCEPTED
+2026-07-16 08:20:57,BPCL.NS,Ex-Manipur High Court Chief Justice ran LPG agency throughout judicial tenure,India Today,neutral,0.9926,AUTO_ACCEPTED
+2026-07-16 15:38:40,BPCL.NS,"IOC, BPCL, HPCL Intensify Quality Checks Amid E20 Fuel Contamination Concerns",Cartoq,negative,0.5054,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:30:00,BPCL.NS,Akasa Air and BPCL are helping rewrite aviation’s fuel story,Hotelier India,positive,0.5826,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 11:04:16,BHARTIARTL.NS,Tariff Hike 2026: Airtel Removes Rs 549 Individual Postpaid Plan; Rs 699 Plan Becomes the Next Option,TelecomTalk,neutral,0.9536,AUTO_ACCEPTED
+2026-07-16 11:24:16,BHARTIARTL.NS,Airtel launches new unlimited recharge plans with unlimited 4G and 5G data for Odisha users,India TV News,positive,0.888,AUTO_ACCEPTED
+2026-07-16 11:30:04,BHARTIARTL.NS,Airtel Africa IPO to Take Place in Second Half of 2026,TelecomTalk,neutral,0.9817,AUTO_ACCEPTED
+2026-07-16 09:17:30,BHARTIARTL.NS,"BSNL 100 Mbps Plan that May be Better than Airtel, Jio’s Plan",TelecomTalk,positive,0.9803,AUTO_ACCEPTED
+2026-07-17 03:32:41,BHARTIARTL.NS,The three bodies that couldn’t kill Airtel,LinkedIn,neutral,0.9594,AUTO_ACCEPTED
+2026-07-16 07:54:09,BHARTIARTL.NS,Last day to pay Bharti Airtel's final call on partly paid-up shares; all you need to know,Fortune India,neutral,0.9729,AUTO_ACCEPTED
+2026-07-16 09:40:51,BHARTIARTL.NS,Airtel Africa revives London IPO plans for mobile money business,Developing Telecoms,positive,0.9612,AUTO_ACCEPTED
+2026-07-16 20:10:00,BRITANNIA.NS,"John B. Sanfilippo & Son, Inc. Announces CEO Transition and Leadership Changes",Yahoo Finance Singapore,neutral,0.9933,AUTO_ACCEPTED
+2026-07-17 03:21:01,BRITANNIA.NS,"Britannia Boosts AI, Hyperlocal Ads for Consumer Engagement",Storyboard18,positive,0.995,AUTO_ACCEPTED
+2026-07-16 13:41:53,BRITANNIA.NS,"Agility is the only way to navigate constant disruptions, says Britannia's Rakshit Hargave",Fortune India,neutral,0.8997,AUTO_ACCEPTED
+2026-07-16 18:00:00,BRITANNIA.NS,Dual exhibition inspired by nature comes to Britannia art gallery,Squamish Chief,neutral,0.99,AUTO_ACCEPTED
+2026-07-17 01:05:47,BRITANNIA.NS,"Rule Britannia – Uh, Not So Fast",CityWatch LA,negative,0.5755,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 12:53:07,CIPLA.NS,Cipla’s distribution edge turns Lilly-licensed Tirzepatide brand into growth machine,Moneycontrol.com,positive,0.9965,AUTO_ACCEPTED
+2026-07-16 22:15:02,COALINDIA.NS,ConocoPhillips (COP) Gains As Market Dips: What You Should Know,Yahoo Finance Singapore,positive,0.9935,AUTO_ACCEPTED
+2026-07-16 17:57:23,COALINDIA.NS,Coal India Commissions 200 MW of 300 MW Khavda Solar Project,Saur Energy,neutral,0.8626,AUTO_ACCEPTED
+2026-07-16 13:08:06,COALINDIA.NS,Caliber Mining and Logistics IPO: Should you apply?,Value Research,neutral,0.9935,AUTO_ACCEPTED
+2026-07-16 11:24:46,COALINDIA.NS,ACC declines extension of Coal India Director (HR) Vinay Ranjan's tenure,PSU Watch,negative,0.5474,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 02:02:47,COALINDIA.NS,"12 stocks to watch today: Maruti Suzuki, HCLTech, Coal India, PhysicsWallah, ITI, Sky Gold and more",BusinessLine,neutral,0.9922,AUTO_ACCEPTED
+2026-07-17 02:33:01,COALINDIA.NS,"Top stocks in news: RIL, TechM, CEAT, Wipro, Maruti Suzuki, Coal India, BHEL, WeWork, JFSL",Business Today,neutral,0.9916,AUTO_ACCEPTED
+2026-07-17 04:28:33,COALINDIA.NS,"Rupee at ₹96.31 as Coal India, Servotech expand solar projects",NewsBytes,positive,0.9903,AUTO_ACCEPTED
+2026-07-16 11:46:00,COALINDIA.NS,"Coal India Commissions 200 MW Solar Capacity at Khavda, Gujarat",PSU Connect,neutral,0.7108,AUTO_ACCEPTED
+2026-07-17 04:17:33,COALINDIA.NS,Rights body flags illegal coal trade near Assam-Arunachal border,The Hindu,negative,0.9087,AUTO_ACCEPTED
+2026-07-16 11:59:40,COALINDIA.NS,"Coal India Secures ₹2,831.11 Crore Contract for 600 MW Jalaun Solar Project",Sahi,positive,0.9863,AUTO_ACCEPTED
+2026-07-16 12:39:43,COALINDIA.NS,"Coal India Commissions 200 MW Solar Power Capacity Out Of 300 MW Solar Power Project At Khavda, Gujarat",TradingView,positive,0.9246,AUTO_ACCEPTED
+2026-07-17 03:45:22,COALINDIA.NS,"Stocks To Watch Today, July 17: Wipro, HCL Tech, Borosil Renewables, Coal India, Piramal Finance",HDFC Sky,neutral,0.9929,AUTO_ACCEPTED
+2026-07-16 10:19:07,COALINDIA.NS,"India's non-coking coal imports fall further in Jan-Jun'26 on robust domestic supply, rising renewables output",BigMint,negative,0.9908,AUTO_ACCEPTED
+2026-07-16 19:15:38,COALINDIA.NS,"Coal India commissions 200 MW Solar Power Capacity out of the 300 MW Solar Power Project at Khavda, Gujarat",EquityBulls,positive,0.8674,AUTO_ACCEPTED
+2026-07-16 09:14:36,COALINDIA.NS,A New Awakening for Coal Gasification in India,Chemical Industry Digest,positive,0.9452,AUTO_ACCEPTED
+2026-07-16 12:29:24,DIVISLAB.NS,Marcellus CCP: Astral and Divis join Eicher as top contributors as portfolio tilts further toward...,Moneycontrol.com,positive,0.9229,AUTO_ACCEPTED
+2026-07-16 12:40:04,DRREDDY.NS,Arunraja Karthick Returns to Dr. Reddy’s as Global Head of IT Infrastructure & Operations,CXO Digitalpulse,neutral,0.9906,AUTO_ACCEPTED
+2026-07-17 03:20:49,EICHERMOT.NS,Eicher Motors Wins Double Upgrade As Kotak Bets On Royal Enfield's Growth Plan — Should You Add?,NDTV Profit,positive,0.9965,AUTO_ACCEPTED
+2026-07-16 12:29:24,EICHERMOT.NS,Marcellus CCP: Astral and Divis join Eicher as top contributors as portfolio tilts further toward...,Moneycontrol.com,positive,0.9229,AUTO_ACCEPTED
+2026-07-16 10:42:28,HCLTECH.NS,India's Tech Mahindra beats quarterly revenue estimate,Yahoo Finance Singapore,positive,0.9922,AUTO_ACCEPTED
+2026-07-16 10:23:01,HCLTECH.NS,India's Wipro misses first-quarter revenue view,Yahoo Finance Singapore,negative,0.9934,AUTO_ACCEPTED
+2026-07-16 10:23:01,HCLTECH.NS,"India's Wipro lags peers after earnings miss, weak forecast",Yahoo Finance,negative,0.9936,AUTO_ACCEPTED
+2026-07-16 10:42:28,HCLTECH.NS,India's Tech Mahindra tops quarterly revenue views on manufacturing segment growth,Yahoo Finance,positive,0.9966,AUTO_ACCEPTED
+2026-07-16 10:39:40,HCLTECH.NS,"HCLTech Signs 7-Year AI Deal with Guardian, Acquires India GCC for $10.5 Million",Sahi,positive,0.9743,AUTO_ACCEPTED
+2026-07-17 05:12:37,HCLTECH.NS,"HCL Technologies shares gain 2.01%, trading at Rs 1,211.30",Moneycontrol.com,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 12:15:52,HCLTECH.NS,HCL Tech Jumps to Fresh High on Strong Q1 Show,Equitypandit,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 11:26:10,HCLTECH.NS,HCLTech to acquire Guardian India for $10.5 mn; 2k employees to transition,Business Standard,neutral,0.9906,AUTO_ACCEPTED
+2026-07-17 03:21:53,HCLTECH.NS,HCL Tech shares in focus after signing 7-year deal with Guardian Life Insurance,The Economic Times,positive,0.8565,AUTO_ACCEPTED
+2026-07-17 03:45:22,HCLTECH.NS,"Stocks To Watch Today, July 17: Wipro, HCL Tech, Borosil Renewables, Coal India, Piramal Finance",HDFC Sky,neutral,0.9929,AUTO_ACCEPTED
+2026-07-17 01:20:56,HCLTECH.NS,"Stock Picks Today: HDFC Bank, Siemens Energy, HCLTech, Tech Mahindra, BHEL, And More On Brokerages' Radar",NDTV Profit,neutral,0.9838,AUTO_ACCEPTED
+2026-07-16 11:14:41,HCLTECH.NS,"Nifty 50 Gainers and Losers at 4:00 PM IST, July 16, 2026",HDFC Sky,neutral,0.988,AUTO_ACCEPTED
+2026-07-16 16:13:47,HCLTECH.NS,"Wipro Vs TCS Vs HCLTech: Deal Wins To Guidance, What Q1 Numbers Of Indian IT Majors Reveal",NDTV Profit,neutral,0.9858,AUTO_ACCEPTED
+2026-07-16 07:57:48,HCLTECH.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-16 11:55:02,HCLTECH.NS,"HCLTech To Acquire Guardian India for USD 10.5 Million; 2,000 Employees To Transition",HDFC Sky,neutral,0.9908,AUTO_ACCEPTED
+2026-07-16 12:45:06,HCLTECH.NS,HCLTech acquires Guardian India Operations for $10.5 million,The Economic Times,positive,0.7495,AUTO_ACCEPTED
+2026-07-16 10:38:20,HCLTECH.NS,"Sensex, Nifty close flat; IndiGo, HCL Tech, Bajaj Finance top gainers",Business Today,positive,0.5481,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:49:22,HCLTECH.NS,"Stocks in Focus Today, July 16, 2026: IT, Auto and FMCG Stocks Lift Nifty on Thursday",HDFC Sky,positive,0.9953,AUTO_ACCEPTED
+2026-07-16 07:14:13,HCLTECH.NS,HCL Tech final dividend: Ex-date tomorrow; Rs 12 per share payout due,Moneycontrol.com,neutral,0.9451,AUTO_ACCEPTED
+2026-07-16 14:37:00,HCLTECH.NS,HCLTech Inks $10.5-Million Deal To Buy Guardian Life's India GCC,NDTV Profit,positive,0.9783,AUTO_ACCEPTED
+2026-07-16 09:30:46,HCLTECH.NS,Andy Mukherjee: India's IT industry should be alert to why companies like Starbucks are adopting AI,livemint.com,neutral,0.8737,AUTO_ACCEPTED
+2026-07-16 12:14:46,HCLTECH.NS,"HCLTech signs 7-year deal with Guardian, acquires India GCC with 2,000 employees",ETEnterpriseai.com,positive,0.9648,AUTO_ACCEPTED
+2026-07-16 20:29:31,HCLTECH.NS,HCLTech and Guardian Sign New Expanded Partnership for AI-powered Modernization Across Technology and Operations,CXOToday.com,positive,0.9827,AUTO_ACCEPTED
+2026-07-16 15:40:02,HDFCBANK.NS,BKEAY or HDB: Which Is the Better Value Stock Right Now?,Yahoo Finance,neutral,0.9916,AUTO_ACCEPTED
+2026-07-17 01:20:56,HDFCBANK.NS,"Stock Picks Today: HDFC Bank, Siemens Energy, HCLTech, Tech Mahindra, BHEL, And More On Brokerages' Radar",NDTV Profit,neutral,0.9838,AUTO_ACCEPTED
+2026-07-16 06:13:29,HDFCBANK.NS,"FCNR(B) FD interest rates for NRIs: HDFC Bank, SBI, PNB, ICICI Bank and Axis Bank- which offers highest ma",The Economic Times,neutral,0.9033,AUTO_ACCEPTED
+2026-07-16 07:09:06,HDFCBANK.NS,Buy HDFC Bank; target of Rs 1100: Motilal Oswal,Moneycontrol.com,positive,0.962,AUTO_ACCEPTED
+2026-07-16 07:19:46,HDFCBANK.NS,HDFC Bank Q1 preview: PAT may rise 9% on strong loan growth; NIMs seen flat,Business Standard,positive,0.9821,AUTO_ACCEPTED
+2026-07-17 02:05:00,HDFCBANK.NS,India Bank Margins Eye Boost From Foreign Currency Deposits,Bloomberg.com,positive,0.9939,AUTO_ACCEPTED
+2026-07-17 03:16:15,HDFCBANK.NS,Five major banks are set to report Q1 results on Saturday; Here's what the street is expecting,CNBC TV18,neutral,0.9889,AUTO_ACCEPTED
+2026-07-16 11:01:28,HDFCBANK.NS,HDFC Bank Ltd expected to post earnings of 39 cents a share - Earnings Preview,TradingView,neutral,0.7904,AUTO_ACCEPTED
+2026-07-16 10:05:39,HDFCBANK.NS,HDFC Bank (NYSE: HDB) gains RBI approval for Rajiv Kumar as part-time chairman,Stock Titan,positive,0.9721,AUTO_ACCEPTED
+2026-07-17 03:07:47,HDFCBANK.NS,RBI's forex deposit measures raise hopes of margin recovery for banks,Business Standard,positive,0.989,AUTO_ACCEPTED
+2026-07-16 14:16:03,HDFCBANK.NS,HDFC Life maintains strong margins despite slower growth than peers in Q1,Business Standard,positive,0.9782,AUTO_ACCEPTED
+2026-07-16 10:04:13,HDFCBANK.NS,Seafarer Capital Partners LLC Increases Stock Holdings in HDFC Bank Limited $HDB,MarketBeat,positive,0.9829,AUTO_ACCEPTED
+2026-07-16 10:03:06,HDFCBANK.NS,ICICI Bank Q1 Preview: Profit likely to be flat; NIMs may remain stable,Business Standard,neutral,0.9895,AUTO_ACCEPTED
+2026-07-17 00:41:31,HDFCLIFE.NS,Time To Worry? Analysts Just Downgraded Their HDFC Life Insurance Company Limited (NSE:HDFCLIFE) Outlook,simplywall.st,negative,0.9946,AUTO_ACCEPTED
+2026-07-16 09:04:50,HDFCLIFE.NS,"ICICI Pru, HDFC Life Outlook: Should Investors Buy Insurance Stocks After Recent Weakness? | What's Hot",Business Today,neutral,0.6878,AUTO_ACCEPTED
+2026-07-16 14:44:41,HDFCLIFE.NS,Former HDFC Life HR leader Hetal Javeri-Nandu joins HDFC Pension as CHRO,ETHRWorld.com,neutral,0.9941,AUTO_ACCEPTED
+2026-07-16 07:13:01,HDFCLIFE.NS,Buy HDFC Life Insurance; target of Rs 690: Motilal Oswal,Moneycontrol.com,positive,0.9813,AUTO_ACCEPTED
+2026-07-16 14:16:03,HDFCLIFE.NS,HDFC Life maintains strong margins despite slower growth than peers in Q1,Business Standard,positive,0.9782,AUTO_ACCEPTED
+2026-07-17 02:30:00,HDFCLIFE.NS,"HDFC Life, ICICI Pru report strong Q1 profit growth, driven by premiums",Rediff,positive,0.9968,AUTO_ACCEPTED
+2026-07-16 19:08:18,HDFCLIFE.NS,Buy HDFC Life Insurance Company Ltd For Target Rs.765 by Prabhudas Liladhar Capital Ltd,Investment Guru India,positive,0.972,AUTO_ACCEPTED
+2026-07-16 11:29:21,HDFCLIFE.NS,HDFC Life Q1 VNB rises 9% as protection sales strengthen,(Re)in Asia,positive,0.9967,AUTO_ACCEPTED
+2026-07-16 09:50:57,HDFCLIFE.NS,HDFC Life Shares Slip Despite Earnings Beat as Investors Book Profits,HDFC Sky,negative,0.994,AUTO_ACCEPTED
+2026-07-16 11:45:34,HDFCLIFE.NS,"Bancassurance slowdown hits HDFC Life, ICICI Pru as banks recalibrate insurance sales",livemint.com,negative,0.9343,AUTO_ACCEPTED
+2026-07-16 06:16:09,HDFCLIFE.NS,"HDFC Life, HDFC AMC Target Prices Revised After Q1 Results By Motilal Oswal — Check Upside Potential",NDTV Profit,neutral,0.9704,AUTO_ACCEPTED
+2026-07-16 09:49:52,HDFCLIFE.NS,Former HDFC Life HR Leader Hetal Javeri-Nandu Takes Charge As HDFC Pension CHRO,BW People,neutral,0.9935,AUTO_ACCEPTED
+2026-07-16 12:13:03,HDFCLIFE.NS,"Insurers deepen AI adoption to boost underwriting, claims, customer service",Business Standard,positive,0.5542,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 03:31:56,HEROMOTOCO.NS,"Hero MotoCorp enters Germany, expands European presence with XPulse 200 4V range",HT Auto,positive,0.9313,AUTO_ACCEPTED
+2026-07-16 10:30:56,HEROMOTOCO.NS,Hero MotoCorp Enters Germany with KSR Group Partnership,Rediff MoneyWiz,neutral,0.9914,AUTO_ACCEPTED
+2026-07-16 17:04:41,HEROMOTOCO.NS,"Buy, Sell Or Hold: Bajaj Housing Finance, Hero MotoCorp, IDBI Bank, ICICI Prudential Life And Vishal Mega Mart — Ask Profit",NDTV Profit,neutral,0.9921,AUTO_ACCEPTED
+2026-07-16 11:05:16,HEROMOTOCO.NS,Hero MotoCorp enters German market in partnership with KSR Group,BusinessLine,neutral,0.9597,AUTO_ACCEPTED
+2026-07-16 07:55:55,HEROMOTOCO.NS,"Ather Energy Jumps 8% As Hero MotoCorp Announces Investment Another Rs 1,000 Crore! Check Details",Business Today,positive,0.9972,AUTO_ACCEPTED
+2026-07-16 18:21:52,HEROMOTOCO.NS,"Ather Energy launches ₹2,500 crore fundraise with Hero MotoCorp backing",MSN,neutral,0.8223,AUTO_ACCEPTED
+2026-07-16 15:25:52,HEROMOTOCO.NS,Hero MotoCorp Enters Germany by Launching the XPulse 200 4V Range,ACKO Drive,positive,0.6831,AUTO_ACCEPTED
+2026-07-16 10:18:44,HEROMOTOCO.NS,India's Hero MotoCorp enters German market in partnership with KSR Group,Euronext Markets: Real-time Stock Market Data | live,neutral,0.9205,AUTO_ACCEPTED
+2026-07-16 15:12:02,HEROMOTOCO.NS,"Hero MotoCorp Enters Germany, Expands to 53 Global Markets",ChemAnalyst,positive,0.7076,AUTO_ACCEPTED
+2026-07-16 12:31:33,HEROMOTOCO.NS,"Hero MotoCorp Enters Germany, Expands European Presence to Five Markets",Car and Bike,positive,0.6286,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:11:03,HEROMOTOCO.NS,Hero MotoCorp Lands in Germany: Marks Entry into 5th European Market and 53rd Country Globally with KSR Group Alliance,Sahi,positive,0.9874,AUTO_ACCEPTED
+2026-07-16 10:03:26,HEROMOTOCO.NS,"Hero MotoCorp expands into Germany, takes global footprint to 53 countries",ET Auto,positive,0.8307,AUTO_ACCEPTED
+2026-07-16 11:13:11,HEROMOTOCO.NS,Hero MotoCorp Enters Germany Market To Expand International Presence,Autocar Professional,neutral,0.5933,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 08:50:26,HEROMOTOCO.NS,"Hero Motocorp slated to invest additional Rs 1,000 crore in Ather Energy",Autocar India,positive,0.5594,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 19:43:55,HEROMOTOCO.NS,Tata Consultancy Services Stock Leads 3 India Dividend Picks For Reliable Income,simplywall.st,positive,0.9876,AUTO_ACCEPTED
+2026-07-16 09:52:44,HEROMOTOCO.NS,"Hero MotoCorp enters Germany via KSR Group tie-up, marking its 53rd global market",CNBC TV18,positive,0.7832,AUTO_ACCEPTED
+2026-07-16 09:55:01,HEROMOTOCO.NS,"Top 7 two-wheeler brands in June 2026: Hero MotoCorp leads, Honda and TVS follow",HT Auto,neutral,0.6387,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 11:15:15,HEROMOTOCO.NS,Hero MotoCorp enters Germany with KSR Group distribution partnership,The Economic Times,neutral,0.9882,AUTO_ACCEPTED
+2026-07-16 19:10:36,HEROMOTOCO.NS,Hero MotoCorp Expands European Presence with Entry into Germany and Strategic KSR Group Alliance,EquityBulls,positive,0.9827,AUTO_ACCEPTED
+2026-07-16 10:25:29,HEROMOTOCO.NS,Hero MotoCorp Rolls Into Germany With KSR Group,Finimize,neutral,0.7518,AUTO_ACCEPTED
+2026-07-16 10:56:43,HEROMOTOCO.NS,"Ather Energy’s ₹1,200 crore raise sets up its next growth phase",Manufacturing Today India,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 18:52:12,HEROMOTOCO.NS,"Ather Energy Raises ₹1,200 Crore from Hero MotoCorp, India-Japan Fund and Founders",D2c Insider Pulse,positive,0.9853,AUTO_ACCEPTED
+2026-07-16 22:30:01,HINDALCO.NS,Alcoa (AA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates,Yahoo Finance Singapore,neutral,0.9917,AUTO_ACCEPTED
+2026-07-16 15:00:00,HINDALCO.NS,Rio Tinto Reports 18% Sequential Increase in Q2 Iron Ore Shipments,Yahoo Finance Singapore,positive,0.9948,AUTO_ACCEPTED
+2026-07-16 12:55:09,HINDALCO.NS,"Kotak upgrades Hindalco to 'Buy', sees 17% upside on aluminium, Novelis recovery",AL Circle,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 21:10:56,HINDALCO.NS,"Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'",Goodreturns,negative,0.9923,AUTO_ACCEPTED
+2026-07-16 07:08:58,HINDALCO.NS,"'Poised For Comeback': Hindalco Trades Higher As Kotak Securities Upgrades To 'Buy', Hikes Target Price",NDTV Profit,positive,0.9961,AUTO_ACCEPTED
+2026-07-16 07:11:48,HINDALCO.NS,"Hindalco Industries, among FIIs' favourites, gets a fresh price target from Kotak; here's why",MSN,positive,0.9833,AUTO_ACCEPTED
+2026-07-17 03:26:30,HINDUNILVR.NS,Fulcrum appoints Heena Motwani as Senior VP – Digital Investments for HUL,IMPACT Magazine,neutral,0.9935,AUTO_ACCEPTED
+2026-07-16 06:26:00,HINDUNILVR.NS,Buy Hindustan Unilever; target of Rs 2800: ICICI Securities,TradingView,positive,0.9532,AUTO_ACCEPTED
+2026-07-16 16:56:40,HINDUNILVR.NS,Hind Unilever stock holds firm as Hindustan Unilever delivers double digit profit growth,ad-hoc-news.de,positive,0.9955,AUTO_ACCEPTED
+2026-07-16 18:05:11,ICICIBANK.NS,India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO,Yahoo Finance Singapore,positive,0.9355,AUTO_ACCEPTED
+2026-07-16 06:39:26,ICICIBANK.NS,India's ICICI Lombard tumbles on fears earnings pressure will persist,BFSI News,negative,0.993,AUTO_ACCEPTED
+2026-07-17 03:16:15,ICICIBANK.NS,Five major banks are set to report Q1 results on Saturday; Here's what the street is expecting,CNBC TV18,neutral,0.9889,AUTO_ACCEPTED
+2026-07-17 03:11:15,ICICIBANK.NS,"ICICI Bank, Adani Total Gas, Canara Bank: Stocks to trade—target prices, stop loss & more",MSN,neutral,0.953,AUTO_ACCEPTED
+2026-07-16 10:03:06,ICICIBANK.NS,ICICI Bank Q1 Preview: Profit likely to be flat; NIMs may remain stable,Business Standard,neutral,0.9895,AUTO_ACCEPTED
+2026-07-17 02:05:00,ICICIBANK.NS,India Bank Margins Eye Boost From Foreign Currency Deposits,Bloomberg.com,positive,0.9939,AUTO_ACCEPTED
+2026-07-16 11:01:35,ICICIBANK.NS,ICICI Bank Ltd expected to post earnings of 41 cents a share - Earnings Preview,TradingView,neutral,0.7661,AUTO_ACCEPTED
+2026-07-17 04:00:06,ICICIBANK.NS,south indian bank s q1 fy27 net profit grew 17 to 378 cr driven by strong 17 loan book growth,ICICI Direct,positive,0.9956,AUTO_ACCEPTED
+2026-07-17 04:01:43,ICICIBANK.NS,Indian Stocks Tick Up As IT Leads Early Gains,Finimize,positive,0.9955,AUTO_ACCEPTED
+2026-07-16 07:37:37,ICICIBANK.NS,Rs 23 cr fake gold loan scam 10 ICICI branch managers under EOW scanner,thehitavada.com,negative,0.9659,AUTO_ACCEPTED
+2026-07-16 06:13:29,ICICIBANK.NS,"FCNR(B) FD interest rates for NRIs: HDFC Bank, SBI, PNB, ICICI Bank and Axis Bank- which offers highest ma",The Economic Times,neutral,0.9033,AUTO_ACCEPTED
+2026-07-16 12:23:40,ICICIBANK.NS,ICICI Lombard Shares Tank 10.5% on Q1 Profit Decline,Rediff MoneyWiz,negative,0.9921,AUTO_ACCEPTED
+2026-07-16 13:01:27,ICICIBANK.NS,Weak earnings drag ICICI Lombard shares by 10% to second steepest fall,Business Standard,negative,0.993,AUTO_ACCEPTED
+2026-07-16 17:04:41,ICICIBANK.NS,"Buy, Sell Or Hold: Bajaj Housing Finance, Hero MotoCorp, IDBI Bank, ICICI Prudential Life And Vishal Mega Mart — Ask Profit",NDTV Profit,neutral,0.9921,AUTO_ACCEPTED
+2026-07-16 13:04:51,ICICIBANK.NS,"StanChart values partnership, expects tie-up to continue: ICICI Pru Life",Business Standard,neutral,0.5394,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 08:09:53,ICICIBANK.NS,ICICI Prudential expects Standard Chartered partnership to continue despite Prudential's exit plan,Moneycontrol.com,neutral,0.9444,AUTO_ACCEPTED
+2026-07-16 11:45:34,ICICIBANK.NS,"Bancassurance slowdown hits HDFC Life, ICICI Pru as banks recalibrate insurance sales",livemint.com,negative,0.9343,AUTO_ACCEPTED
+2026-07-16 09:27:12,ITC.NS,India customs becomes second agency to fight Adani over nicotine pouches,Yahoo Finance Singapore,negative,0.5715,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 06:45:00,ITC.NS,Wipro and Tech Mahindra Brace for Muted Q1 as Wage Hikes and AI Costs Weigh on Margins,finance.biggo.com,negative,0.962,AUTO_ACCEPTED
+2026-07-16 13:34:00,ITC.NS,ITC Hotels acquires Ahd-based GHK Hospitality,The Times of India,neutral,0.6826,AUTO_ACCEPTED
+2026-07-16 11:56:07,ITC.NS,"IHCL holds the crown, OYO doubles",Hotelier India,neutral,0.9573,AUTO_ACCEPTED
+2026-07-16 08:27:21,ITC.NS,"20 NIFTY500 stocks have crashed over 30% in 2026; ITC, Infosys, TCS among worst hit",Upstox,negative,0.965,AUTO_ACCEPTED
+2026-07-16 11:10:42,ITC.NS,"ITC Sees Strong H2 Demand, Focuses on Premium & Health",Rediff MoneyWiz,positive,0.8271,AUTO_ACCEPTED
+2026-07-16 06:35:24,ITC.NS,"Q1 Results Today: Wipro, Tech Mahindra, ITC Hotels, BHEL, Jio Financial Among 40 Companies In Focus",NDTV Profit,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 15:33:19,ITC.NS,ITC focusing sharply on addressing evolving consumer needs for taste and nutrition,BusinessLine,neutral,0.8843,AUTO_ACCEPTED
+2026-07-16 07:38:38,ITC.NS,ITC Enters the Cola Segment to Strengthen Its Beverage Portfolio,Indian Retailer,positive,0.9756,AUTO_ACCEPTED
+2026-07-16 15:16:55,ITC.NS,"ITC Hotels Q1 Profit Rises 36%, Revenue Climbs 15%",BW Businessworld,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 08:51:57,ITC.NS,"ITC Hotels Q1 results, GHK acquisition: Net profit up 35%; occupancy, room rates, other key highlights",Business Today,positive,0.9964,AUTO_ACCEPTED
+2026-07-17 04:36:36,ITC.NS,ITC hotels announces acquisition of 130 key operating hotel in Ahmedabad’s commercial hub,The Hindu,neutral,0.8215,AUTO_ACCEPTED
+2026-07-16 08:59:40,ITC.NS,ITC Hotels Q1 Net Profit Jumps 35.3% YoY to ₹180 Cr Amid Jaypee Management Talks,Sahi,positive,0.9975,AUTO_ACCEPTED
+2026-07-16 11:44:31,ITC.NS,ITC Hotels Q1 Net Up 36 PC at Rs 181.91 Cr; To Acquire GHK Hospitality & Infrastructures,HDFC Sky,positive,0.9956,AUTO_ACCEPTED
+2026-07-16 08:42:49,ITC.NS,"ITC Hotels Q1 Result: Net Profit Rises 35% To Rs 180 Crore, Revenue Up 15%",NDTV Profit,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 09:07:19,ITC.NS,ITC Hotels to acquire GHK Hospitality for ₹155 crore; shares decline 5%,Upstox,negative,0.9913,AUTO_ACCEPTED
+2026-07-16 09:52:28,ITC.NS,ITC Hotels shares decline 5% after 43% sequential decline in Q1 net proft,Moneycontrol.com,negative,0.9936,AUTO_ACCEPTED
+2026-07-16 09:04:58,ITC.NS,"ITC Hotels Q1 Results: PAT jumps 35% to ₹180 crore, revenue grows 15% YoY; announces acquisition of GHK Hospitality",livemint.com,positive,0.9971,AUTO_ACCEPTED
+2026-07-17 03:40:11,ITC.NS,itc hotels q1 profit jumps 36 to rs 182 crore and revenue grows 15 yoy ghk hospitality acquired,ICICI Direct,positive,0.9975,AUTO_ACCEPTED
+2026-07-17 01:54:06,ITC.NS,"ITC Hotels expands network with Ahmedabad buy, first quarter profit jumps 36 per cent",Telegraph India,positive,0.9961,AUTO_ACCEPTED
+2026-07-16 09:39:11,ITC.NS,ITC Hotels Q1 Results: Shares fall 5% as sequential dip overshadows healthy YoY growth,CNBC TV18,negative,0.9935,AUTO_ACCEPTED
+2026-07-17 05:20:11,ITC.NS,ITC Hotels gains after Q1 PAT rises 35% YoY to Rs 180-cr; announces Rs 155-cr Ahmedabad acquisition,Business Standard,positive,0.9965,AUTO_ACCEPTED
+2026-07-17 04:07:26,ITC.NS,"ITC Hotels Q1 profit jumps 36%; signs eight new hotels, expands managed portfolio",ET TravelWorld,positive,0.9958,AUTO_ACCEPTED
+2026-07-17 05:20:54,ITC.NS,ITC Hotels: Healthy Q1 reinforces growth trajectory,Moneycontrol.com,positive,0.9837,AUTO_ACCEPTED
+2026-07-16 14:56:00,ITC.NS,"In tough Q1, ITC Hotels sees profit, revenue zoom",The Times of India,positive,0.9111,AUTO_ACCEPTED
+2026-07-16 16:00:36,ITC.NS,"Netlist opens second ITC front against Samsung, Google, NVIDIA over AI memory patents",IAM Patent,neutral,0.6361,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 12:35:11,ITC.NS,ITC Hotels Falls 5% Despite Healthy Profit Growth,Equitypandit,negative,0.9937,AUTO_ACCEPTED
+2026-07-16 10:30:00,ITC.NS,ITC Hotels Ltd Q1 results: Sustained growth momentum and accelerated ‘asset-right’ expansion,ET Hospitality,positive,0.9957,AUTO_ACCEPTED
+2026-07-16 12:04:40,ITC.NS,ITC Hotels Q1 Net Profit Surges 36% to ₹182 crore Amid Jaypee Resort Management Talks,Sahi,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 21:53:58,ITC.NS,"ITC Hotels Posts Q1 Gains, Advances Expansion Strategy",safariindia.com,positive,0.9952,AUTO_ACCEPTED
+2026-07-16 11:50:16,ITC.NS,"ITC Hotels Q1 FY27 Results: PAT Rises 36%, Revenue Up 15% YoY",Sahi,positive,0.9965,AUTO_ACCEPTED
+2026-07-16 12:05:00,ITC.NS,ITC Hotels signs definitive agreement for strategic acquisition of a 130 key operating hotel in Ahmedabad,The Times of India,positive,0.9209,AUTO_ACCEPTED
+2026-07-16 12:33:49,ITC.NS,ITC Hotels Q1 profit rises 36% to Rs 181.9 crore; approves Rs 155 crore GHK acquisition,Storyboard18,positive,0.9962,AUTO_ACCEPTED
+2026-07-16 11:14:48,ITC.NS,ITC Hotels signs Rs 155 crore Welcomhotel Ahmedabad acquisition,BW Hotelier,neutral,0.9334,AUTO_ACCEPTED
+2026-07-16 10:20:19,ITC.NS,ITC Hotels Q1 net up 36% at ₹181.91 cr,BusinessLine,positive,0.9976,AUTO_ACCEPTED
+2026-07-16 17:21:40,ITC.NS,ITC Hotels Q1 profit jumps 36 per cent as revenue climbs nearly 15 per cent,Indian Television,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 10:44:34,ITC.NS,"ITC Hotels crosses 22,000 keys, reports Q1 revenue of Rs 936 crore",BW Hotelier,positive,0.8447,AUTO_ACCEPTED
+2026-07-16 08:59:54,ITC.NS,ITC Hotels Q1 results: Profit jumps 35% YoY to ₹180 crore; here’s why the stock declined 5% today,Upstox,positive,0.9959,AUTO_ACCEPTED
+2026-07-16 12:35:06,ITC.NS,"ITC Hotels posts 36% rise in Q1 FY27 profit, flags West Asia uncertainty",Business Standard,positive,0.9967,AUTO_ACCEPTED
+2026-07-16 10:52:45,ITC.NS,How ITC’s ‘Back-up the Wild’ campaign won bronze on the global Cannes stage,Storyboard18,positive,0.8587,AUTO_ACCEPTED
+2026-07-16 08:58:12,ITC.NS,ITC Hotels Share Price Drops 5% Even As Q1 Profit Surges 35% YoY,NDTV Profit,negative,0.9923,AUTO_ACCEPTED
+2026-07-16 12:50:11,ITC.NS,Adani Bought Jaypee’s Hotels. Now Talks With ITC and Accor Point to a Bigger Hospitality Strategy,NiftyTrader,positive,0.9833,AUTO_ACCEPTED
+2026-07-16 08:43:43,ITC.NS,ITC Hotels To Buy 100% Of GHK Hospitality & Infrastructures,TradingView,neutral,0.8159,AUTO_ACCEPTED
+2026-07-16 09:07:52,ITC.NS,"ITC Hotels Q1 result: Revenue rises 15% to ₹936 crore, profit climbs 36%",Business Standard,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 00:30:00,ITC.NS,Paytm Announces Bonus Shares | BHEL & ITC Hotels Q1 Result | Top Buzzing Stocks Today,Equitymaster,neutral,0.9912,AUTO_ACCEPTED
+2026-07-16 11:24:16,ITC.NS,"ITC Hotels reports net profit of Rs 182 cr for Q1FY27, revenue at Rs 936 cr",The Economic Times,neutral,0.779,AUTO_ACCEPTED
+2026-07-16 11:37:05,ITC.NS,ITC sees demand momentum sustaining in H2; bets on premiumisation and healthy products,The Economic Times,positive,0.9918,AUTO_ACCEPTED
+2026-07-16 10:01:26,ITC.NS,ITC Hotels consolidated net profit rises 35.42% in the June 2026 quarter,Business Standard,positive,0.9967,AUTO_ACCEPTED
+2026-07-16 09:32:28,ITC.NS,ITC Hotels Q1 Results: Net profit jumps 35% to Rs 180 crore; acquires GHK Hospitality for Rs 155 crore,The Economic Times,positive,0.9961,AUTO_ACCEPTED
+2026-07-16 15:27:43,ITC.NS,ITC Hotels to acquire GHK Hospitality for ₹155 crore,Lapaas Voice,neutral,0.9555,AUTO_ACCEPTED
+2026-07-16 11:05:34,ITC.NS,"ITC Hotels Limited Reports Earnings Results for the First Quarter Ended June 30, 2026",marketscreener.com,neutral,0.992,AUTO_ACCEPTED
+2026-07-16 09:55:01,ITC.NS,ITC Hotels Q1 net profit rises 36% to ₹182 crore on strong revenue,scanx.trade,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 12:00:00,ITC.NS,US ITC Bans Innoscience’s Patent-Infringing GaN Products in the U.S.,Ink World magazine -,negative,0.9702,AUTO_ACCEPTED
+2026-07-16 11:30:22,ITC.NS,US ITC investigates Samsung and partners for al...,Pluang,negative,0.5695,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 09:11:58,ITC.NS,ITC Foods launches B Natural Coconut Cola with zero added sugar and zero caffeine,Mediabrief.com,positive,0.6736,AUTO_ACCEPTED
+2026-07-16 11:00:00,ITC.NS,U.S. International Trade Commission Votes to Institute Second Investigation Into Samsung,TradingView,neutral,0.8536,AUTO_ACCEPTED
+2026-07-16 22:13:00,ITC.NS,"ITC To Probe Netlist Patent Claims Against Samsung, Google",Law360,neutral,0.9517,AUTO_ACCEPTED
+2026-07-16 17:14:35,INDUSINDBK.NS,IndusInd Bank Says Re-Appointment Of Joint Statutory Auditors Of The Bank,TradingView,neutral,0.9941,AUTO_ACCEPTED
+2026-07-17 02:26:00,INDUSINDBK.NS,"Top stocks to buy today: Stock recommendations for July 17, 2026 - check list",The Times of India,neutral,0.9728,AUTO_ACCEPTED
+2026-07-16 07:27:29,INDUSINDBK.NS,IndusInd Bank to discuss Q1FY27 results on July 22,scanx.trade,neutral,0.9947,AUTO_ACCEPTED
+2026-07-16 08:27:21,INFY.NS,"20 NIFTY500 stocks have crashed over 30% in 2026; ITC, Infosys, TCS among worst hit",Upstox,negative,0.965,AUTO_ACCEPTED
+2026-07-17 04:27:55,INFY.NS,"Infosys, TCS, Tech Mahindra, HCLTech rally 2%; Why are IT stocks rising while Wipro falls?",India Today,positive,0.9958,AUTO_ACCEPTED
+2026-07-16 12:50:22,INFY.NS,"Stifel cuts Infosys stock price target on AI risk, margin outlook",Investing.com,negative,0.9695,AUTO_ACCEPTED
+2026-07-16 17:36:00,INFY.NS,Infosys Gains as IT Sentiment Improves Ahead of Quarterly Results,Quiver Quantitative,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 19:21:43,INFY.NS,Infosys stock trades steadily as digital services growth supports margins,ad-hoc-news.de,positive,0.9932,AUTO_ACCEPTED
+2026-07-16 11:57:48,INFY.NS,Infosys Technologies (INFY) PT Lowered to $13 at Stifel in Absence of Quarterly Guide,StreetInsider,negative,0.9921,AUTO_ACCEPTED
+2026-07-17 04:43:25,JSWSTEEL.NS,"Q1 Results today: Reliance Industries, JSW Steel among 33 companies announcing June quarter earnings. What",The Economic Times,neutral,0.9905,AUTO_ACCEPTED
+2026-07-17 03:59:55,JSWSTEEL.NS,"Q1 results: RIL, JSW Steel, Tata Technologies, among 30 more on July 17",Business Standard,neutral,0.9928,AUTO_ACCEPTED
+2026-07-17 03:44:27,JSWSTEEL.NS,"Q1 Results 17th July Live: Reliance Industries, JSW Steel, Havells, Oberoi Realty, Tata Tech to announce Q1 results, Wipro, Tech Mahindra, Jio, ITC Hotels, CEAT, Polycab, BHEL shares in focus",BusinessLine,neutral,0.9932,AUTO_ACCEPTED
+2026-07-17 03:15:07,JSWSTEEL.NS,"Stocks to Watch Today, July 17: Reliance Q1 Results, JSW Steel, Federal Bank, Havells & MORE In Focus",Goodreturns,neutral,0.9911,AUTO_ACCEPTED
+2026-07-17 02:30:00,JSWSTEEL.NS,"Stocks to Watch: Reliance Industries, JSW Steel and 7 Other Companies Announcing Results Today",Trade Brains,neutral,0.9914,AUTO_ACCEPTED
+2026-07-17 02:51:16,JSWSTEEL.NS,"Q1 Results Today: Reliance, Tata Technologies, JSW Steel, Federal Bank Among Key Earnings On July 17",NDTV Profit,neutral,0.9903,AUTO_ACCEPTED
+2026-07-17 01:30:01,JSWSTEEL.NS,"Stocks To Watch Today: JSW Steel, RIL, PC Jeweller, Havells India And RBL Bank",NDTV Profit,neutral,0.9933,AUTO_ACCEPTED
+2026-07-17 05:14:50,JSWSTEEL.NS,"JSW Steel Q1 Results Today: Earnings Call Time, Share Price, Key Details",NDTV Profit,neutral,0.9935,AUTO_ACCEPTED
+2026-07-17 01:30:01,JSWSTEEL.NS,"Reliance Industries, JSW Steel, Federal Bank, Havells, Tata Technologies Q1 Results Today — Earnings Estimates",NDTV Profit,neutral,0.9919,AUTO_ACCEPTED
+2026-07-17 01:35:35,KOTAKBANK.NS,Why the Supreme Court sided with SEBI against Kotak AMC,Finshots,neutral,0.5269,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:22:13,KOTAKBANK.NS,Kotak Mahindra’s Recovery Appeal Prevails Despite Insolvency Claim:DRAT Restores Civil Arrest for Willful Default,Taxscan,positive,0.8783,AUTO_ACCEPTED
+2026-07-17 03:16:15,KOTAKBANK.NS,Five major banks are set to report Q1 results on Saturday; Here's what the street is expecting,CNBC TV18,neutral,0.9889,AUTO_ACCEPTED
+2026-07-16 19:01:30,LT.NS,Alba Larsen says British F4 podium has restored confidence at Zandvoort testing after Silverstone setback,F1 Academy,positive,0.9854,AUTO_ACCEPTED
+2026-07-16 15:57:45,LT.NS,3 Nuclear Energy Stocks With Exposure To India’s Power Buildout,simplywall.st,neutral,0.9384,AUTO_ACCEPTED
+2026-07-16 22:57:09,LT.NS,Three Spots Left for Full-Length Guided North Pole Expedition in 2027,Explorersweb »,neutral,0.989,AUTO_ACCEPTED
+2026-07-17 02:46:45,LT.NS,Billionaire Chris Larsen gifts more millions to SF’s growing surveillance state,48 Hills,neutral,0.7941,AUTO_ACCEPTED
+2026-07-16 16:43:27,LT.NS,Indian Man Stabbed in Utah Mall in Alleged Hate Crime Incident,India News Network,negative,0.7296,AUTO_ACCEPTED
+2026-07-17 00:46:00,LT.NS,Celebrating Jack Lenor Larsen’s 99th Birthday With Garden Concert,27east,neutral,0.7954,AUTO_ACCEPTED
+2026-07-16 13:20:21,LT.NS,The Hartford names former AssuredPartners CEO to its board,Insurance Business,neutral,0.9949,AUTO_ACCEPTED
+2026-07-16 10:21:22,LT.NS,"Indian Muslim Man Stabbed 15 Times in US Mall in Suspected Hate Crime, Accused Says He Intended to Kill Muslims",The Observer Post,negative,0.733,AUTO_ACCEPTED
+2026-07-16 10:06:00,LT.NS,"Graves, Larsen renew push for FEMA overhaul bill",E&E News by POLITICO,neutral,0.9364,AUTO_ACCEPTED
+2026-07-16 18:33:27,LT.NS,Man with criminal history of starting fires accused of arson in American Fork Canyon fire,KUTV,neutral,0.5897,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:55:04,LTIM.NS,LTIMindtree : LTM Partners with Glean to Accelerate Enterprise AI Adoption,marketscreener.com,positive,0.9728,AUTO_ACCEPTED
+2026-07-17 00:46:23,M&M.NS,Brazilian football legend Pele’s World Cup shirt sells for $4.9m,Al Jazeera,neutral,0.7308,AUTO_ACCEPTED
+2026-07-16 05:33:00,M&M.NS,'Ramayana': 34-minute footage of Ranbir Kapoor starrer gets 'M' rating in Australia; film 'not recommende,The Times of India,positive,0.9753,AUTO_ACCEPTED
+2026-07-16 09:13:00,M&M.NS,I'm 52 and can't find a full-time job. I wasn't prepared for the shame of no longer being seen as a viable candidate.,Business Insider,neutral,0.9291,AUTO_ACCEPTED
+2026-07-16 21:16:00,M&M.NS,Pelé's 1958 World Cup final jersey sells for $4.9M at auction,espn.in,neutral,0.9662,AUTO_ACCEPTED
+2026-07-17 00:19:49,M&M.NS,Perseus Mining Pursues $34M Organic Growth Strategy at Yaouré Gold Project in Côte d'Ivoire,Kalkine,positive,0.9699,AUTO_ACCEPTED
+2026-07-17 03:00:00,M&M.NS,‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike,The Guardian,negative,0.9942,AUTO_ACCEPTED
+2026-07-17 03:45:40,M&M.NS,Zanzibar President to take part in IIT-M convocation,ThePrint,neutral,0.9945,AUTO_ACCEPTED
+2026-07-17 01:27:00,M&M.NS,'Completely different person': Rams $55M star's stunning 18-year transformation leaves NFL fans stunned,The Times of India,positive,0.9551,AUTO_ACCEPTED
+2026-07-17 03:18:46,M&M.NS,Aboitiz unit proposes $136m wind farm in northern Philippines,Asian Power,positive,0.7779,AUTO_ACCEPTED
+2026-07-17 02:11:02,M&M.NS,"Kerala plans new ‘mission’ to woo domestic, international students",The New Indian Express,neutral,0.9648,AUTO_ACCEPTED
+2026-07-16 23:19:30,M&M.NS,How an additional $4M toward collections benefits U,The University of Utah,positive,0.977,AUTO_ACCEPTED
+2026-07-16 15:55:10,M&M.NS,"May saw $583.4M in new metalworking machinery orders, down 1.8% from April",Manufacturing Dive,negative,0.9929,AUTO_ACCEPTED
+2026-07-16 14:06:53,M&M.NS,SwitchOn Raises $8M in Funding Led by IvyCap Ventures,Rediff MoneyWiz,positive,0.9855,AUTO_ACCEPTED
+2026-07-16 14:12:49,M&M.NS,"Samay Raina’s India’s Got Latent tops OTT rankings with 38.5M views, surpasses Dhurandhar",The Indian Express,positive,0.9947,AUTO_ACCEPTED
+2026-07-16 23:36:58,M&M.NS,Andreas Bechtolsheim sells $54.2m in Arista Networks (NASDAQ:ANET) shares,Investing.com India,negative,0.942,AUTO_ACCEPTED
+2026-07-17 03:26:50,M&M.NS,Uala raises $197M led by Allianz X with Tether joining as investor in Latin American fintech expansion,Pluang,positive,0.9771,AUTO_ACCEPTED
+2026-07-16 16:50:46,M&M.NS,"TytoCare scores $25M, appoints new CEO and COO",MobiHealthNews,neutral,0.9831,AUTO_ACCEPTED
+2026-07-17 04:00:00,M&M.NS,Experience: I’m a world champion foosball player,The Guardian,positive,0.8179,AUTO_ACCEPTED
+2026-07-17 02:19:32,M&M.NS,Minister Roji urges Kerala MPs to oppose VBSA Bill,The New Indian Express,neutral,0.7737,AUTO_ACCEPTED
+2026-07-16 16:47:38,M&M.NS,Frenchman Alireza Firouzja begin campaign with win over M Pranesh,ThePrint,neutral,0.555,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 11:30:00,M&M.NS,"Ultrahuman's former hardware VP raises $5.5M for devices that control AI agents, not just record you",TechCrunch,positive,0.9267,AUTO_ACCEPTED
+2026-07-17 01:05:16,M&M.NS,Decentralized futures platform MNX raises $6.4M at $40M valuation for AI economy focus,Pluang,positive,0.9865,AUTO_ACCEPTED
+2026-07-17 01:37:03,M&M.NS,"“I’m afraid mixing ethanol with petrol, could lead to ethanol distilleries amidst the dry law.”",Nagaland Post,negative,0.9627,AUTO_ACCEPTED
+2026-07-16 20:00:00,M&M.NS,"GE HealthCare, Catholic Health strike 10-year, $500M technology partnership",Fierce Healthcare,positive,0.7039,AUTO_ACCEPTED
+2026-07-16 19:19:26,M&M.NS,Iraq says $19M found in hideouts linked to ex-oil minister,Al Jazeera,negative,0.8819,AUTO_ACCEPTED
+2026-07-16 21:22:09,M&M.NS,HECA tops $300M and HGRO exceeds $125M assets o...,Pluang,positive,0.9846,AUTO_ACCEPTED
+2026-07-17 03:05:22,M&M.NS,"LIVE: Iran Warns Over Strait of Hormuz | Oil Above $85 | RIL, Tech M & Wipro in Focus | Opening Bell",Moneycontrol.com,neutral,0.7299,AUTO_ACCEPTED
+2026-07-16 20:42:30,M&M.NS,Pele's 1958 World Cup final shirt sells for $4.9m,BBC,neutral,0.9059,AUTO_ACCEPTED
+2026-07-17 04:08:51,M&M.NS,"Adobe's AI platform hits $300M ARR, boosting gr...",Pluang,positive,0.9972,AUTO_ACCEPTED
+2026-07-16 22:12:56,M&M.NS,Oak Lands $60M Seed to Reinvent Identity Governance With AI,BankInfoSecurity,neutral,0.7392,AUTO_ACCEPTED
+2026-07-17 03:14:46,M&M.NS,AMR Resources prices $250M IPO on Nasdaq at $10 per unit,Investing.com Nigeria,neutral,0.9899,AUTO_ACCEPTED
+2026-07-17 05:03:46,M&M.NS,CPI(M) leader Mani cites lack of vision of UDF govt as reason for power crisis in Kerala,The Economic Times,negative,0.9716,AUTO_ACCEPTED
+2026-07-17 04:03:49,M&M.NS,"Deutsche Bank pays A$2m for misreporting 260,000 OTC transactions",Asian Banking & Finance,negative,0.9519,AUTO_ACCEPTED
+2026-07-16 19:54:09,M&M.NS,Toyota Spin-Out Launches From Stealth With $300M,AI Business,positive,0.8446,AUTO_ACCEPTED
+2026-07-17 01:57:18,M&M.NS,Marvell Technology president Sandeep Bharathi sells $1.79m in shares By Investing.com,Investing.com Nigeria,negative,0.9537,AUTO_ACCEPTED
+2026-07-16 19:37:12,M&M.NS,Wire Harness Software Startup Senra Raises $65m For Third Factory,Aviation Week,positive,0.9833,AUTO_ACCEPTED
+2026-07-17 04:41:00,M&M.NS,Gina Rinehart’s estimated A$700m profit from SpaceX IPO all but wiped out as stock price dips,The Guardian,negative,0.9904,AUTO_ACCEPTED
+2026-07-16 21:19:53,M&M.NS,Wise Group Q1 sales $714M beat estimates on volume growth,scanx.trade,positive,0.9945,AUTO_ACCEPTED
+2026-07-16 20:03:21,M&M.NS,Plastic-bag manufacturer settles allegations of customs fraud for $7.3M,FreightWaves,positive,0.4,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:00:21,M&M.NS,"First Ascent of the West Face of 6,600m Pakistan Spire",Explorersweb »,positive,0.6219,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:16:31,M&M.NS,"Whale sells $28M in HYPE tokens, causing a 12% price drop in two days.",Pluang,negative,0.9903,AUTO_ACCEPTED
+2026-07-16 15:02:00,M&M.NS,How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product,TechCrunch,neutral,0.9423,AUTO_ACCEPTED
+2026-07-16 20:31:54,M&M.NS,BNY Mellon prices $500M preferred stock offerin...,Pluang,neutral,0.8358,AUTO_ACCEPTED
+2026-07-16 16:26:27,M&M.NS,Weekly quiz: What name did scientists give this $50m dinosaur?,BBC,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 22:12:21,M&M.NS,DECD Opens $25M Brownfield Grant Funding Round,CBIA,positive,0.585,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 05:10:21,M&M.NS,"Bitcoin ETFs see $79M inflows, ending 8-week ou...",Pluang,negative,0.9649,AUTO_ACCEPTED
+2026-07-16 20:27:21,M&M.NS,Historic 1958 Pele World Cup Jersey Sold for Record $4.9M,Devdiscourse,neutral,0.8932,AUTO_ACCEPTED
+2026-07-16 11:30:00,M&M.NS,ATERRA Reports Totora Cu/Au Project Drilling Returns 284 m Grading 0.64% CuEq Including 180 m at 0.71% CuEq,TMX Newsfile,positive,0.4566,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 18:19:50,M&M.NS,"FEMA Awards Dearborn, Mich., $8.1M for Flood Prevention",GovTech,positive,0.8032,AUTO_ACCEPTED
+2026-07-17 00:45:12,M&M.NS,SkyCity secures $43.6M from Auckland property sale under monetization drive,Asia Gaming Brief (AGB),positive,0.9913,AUTO_ACCEPTED
+2026-07-16 23:15:02,M&M.NS,"MotorCycle Holdings Identifies Employee Leave Loading Underpayments, Estimates $1.1m–$1.3m Remediation Cost",Kalkine,neutral,0.8817,AUTO_ACCEPTED
+2026-07-17 00:25:42,M&M.NS,State Street SPDR S&P/ASX 200 Listed Property ETF Reaches $482.5M in Assets as Fund Units Expand to 39.2 Million,Kalkine,positive,0.9872,AUTO_ACCEPTED
+2026-07-16 14:00:00,M&M.NS,"Whale Raises $40M Series C3 Extension, Bringing Total Series C to $100M, to Scale Global Enterprise AI Operations",Yahoo Finance,positive,0.9942,AUTO_ACCEPTED
+2026-07-16 23:13:28,M&M.NS,UMass Dartmouth receives $1.1M state grant to expand geothermal energy system,UMass Dartmouth,positive,0.9786,AUTO_ACCEPTED
+2026-07-16 20:32:22,M&M.NS,REGENXBIO stock tumbles on $100M public offering plan,Investing.com,negative,0.9937,AUTO_ACCEPTED
+2026-07-17 00:38:00,M&M.NS,"Orono Town Council approves $9M bond for sewer upgrades, library expansion, and new police station",newscentermaine.com,positive,0.9417,AUTO_ACCEPTED
+2026-07-17 00:21:59,M&M.NS,William H Bartels sells $3.3m in SPAR Group stock By Investing.com,Investing.com Nigeria,negative,0.9567,AUTO_ACCEPTED
+2026-07-16 19:39:50,M&M.NS,Quantum Computing (QUBT) Completes Acquisition of NHanced Semiconductors for $73.1M,Yahoo Finance,positive,0.6189,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 17:46:02,M&M.NS,$2.5M grant to start street medicine program at College of Medicine,Penn State Health News,positive,0.8521,AUTO_ACCEPTED
+2026-07-16 23:15:02,M&M.NS,Athena Resources Launches Narryer Drilling Program With $3.5M Capital Raise to Define Maiden Magnetite Resource,Kalkine,positive,0.959,AUTO_ACCEPTED
+2026-07-16 20:00:13,M&M.NS,DOE’s AI Tools Could Deliver $74M in Annual Savings,MeriTalk,positive,0.9915,AUTO_ACCEPTED
+2026-07-16 23:07:39,M&M.NS,UFC’s McGregor-Holloway Rematch Muscles Up 6.5M Viewers Across U.S. & Latin America,Yahoo Sports,positive,0.9867,AUTO_ACCEPTED
+2026-07-16 17:23:00,M&M.NS,"Jon M. Chu’s Electric Somewhere Names Jana Helman Head Of TV, Aimee Rivera SVP Motion Pictures",Deadline,neutral,0.9939,AUTO_ACCEPTED
+2026-07-16 17:20:34,M&M.NS,Oscar Piastri brushes off recent Max Verstappen McLaren links: ‘I’m very comfortable’,The New York Times,negative,0.6805,AUTO_ACCEPTED
+2026-07-16 18:30:00,M&M.NS,"""I'm always curious"" - Rising Norwegian star Kalkenberg on not being afraid to do things differently",International Biathlon Union,neutral,0.6804,AUTO_ACCEPTED
+2026-07-17 01:42:15,M&M.NS,Butterfly Network director Rothberg sells $29.4m in shares By Investing.com,Investing.com Nigeria,negative,0.9452,AUTO_ACCEPTED
+2026-07-16 19:30:55,M&M.NS,Ghost gun company ordered to pay $100M in the death of a Kentucky teen in historic verdict - ABC News,"ABC News - Breaking News, Latest News and Videos",negative,0.7563,AUTO_ACCEPTED
+2026-07-16 16:59:28,M&M.NS,‘I’m His Lawyer’: Blanche Told the Truth About Trump’s DOJ,Bloomberg.com,neutral,0.959,AUTO_ACCEPTED
+2026-07-16 20:30:11,M&M.NS,BlackRock Moves $147.5M In Bitcoin And Ethereum Off Coinbase Prime,Bitcoin World,negative,0.9862,AUTO_ACCEPTED
+2026-07-17 01:06:42,M&M.NS,ALDI faces $55m settlement over unpaid pre and post-shift work,hcamag.com,negative,0.5234,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 20:26:34,M&M.NS,Breakthrough U of M research on PFAS,FOX 9 Minneapolis-St. Paul,neutral,0.9307,AUTO_ACCEPTED
+2026-07-16 22:32:14,M&M.NS,Virginia casino revenue tops $92M in June,Virginia Business,positive,0.988,AUTO_ACCEPTED
+2026-07-16 21:39:35,M&M.NS,This Ice Cream Maker is the Smallest We’ve Tried!,Taste of Home,neutral,0.3956,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 21:24:52,M&M.NS,Greystone’s new $137M fund lands as LIHTC investment rises,HousingWire,positive,0.9961,AUTO_ACCEPTED
+2026-07-17 03:27:01,M&M.NS,Geo Energy begins MBJ coal loading with $4.2m cargo,Singapore Business Review,positive,0.4997,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 21:35:00,M&M.NS,"Blues sign recently acquired McMichael to 6-year, $40.5M deal",ESPN,positive,0.9622,AUTO_ACCEPTED
+2026-07-16 21:05:00,M&M.NS,"Interview With The Vampire Finally Brought Back Loustat, But I'm Scared For The Finale",Yahoo,negative,0.5266,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:54:07,M&M.NS,"Tech Mahindra's Q1 Net Profit Surges 28.4% to Rs 1,465 Crore, Signals Strong Demand",Rediff,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 06:14:40,M&M.NS,Kia Syros EV vs Mahindra XEV 9e comparison,CarDekho,neutral,0.9329,AUTO_ACCEPTED
+2026-07-16 06:09:53,M&M.NS,Mahindra's Chakan plant crosses 30 lakh production milestone with BE6,HT Auto,positive,0.9944,AUTO_ACCEPTED
+2026-07-16 07:14:43,M&M.NS,Mahindra Chakan Plant Rolls Out 3 Millionth Vehicle – BE 6 Marks Milestone,RushLane,positive,0.9752,AUTO_ACCEPTED
+2026-07-16 10:58:50,M&M.NS,Mahindra rolls out 3 millionth vehicle from Chakan plant,Team-BHP,positive,0.967,AUTO_ACCEPTED
+2026-07-16 08:54:41,M&M.NS,"June 2026 Passenger Vehicle Sales: Maruti Suzuki retains crown as Mahindra, Hyundai follow",HT Auto,neutral,0.6874,AUTO_ACCEPTED
+2026-07-17 04:34:02,M&M.NS,Mahindra EPC slides on reportong dismal Q1 performance,Business Standard,negative,0.9934,AUTO_ACCEPTED
+2026-07-16 11:07:44,M&M.NS,Tech Mahindra Q1: Strong revenue growth; deal wins top $1 billion for third straight quarter,CNBC TV18,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 15:32:47,M&M.NS,"Q1 Results Today Highlights: Wipro Q1 con. PAT flat, Tech Mahindra profit rises, BHEL posts ₹382 cr profit; Polycab, ITC Hotels, Jio Financial profit up, CEAT profit falls",BusinessLine,neutral,0.7433,AUTO_ACCEPTED
+2026-07-16 20:04:13,M&M.NS,"Stocks to Watch Today: Tech Mahindra, WeWork India, Borosil Renewables, Servotech Renewable, Maruti...",Moneycontrol.com,neutral,0.9903,AUTO_ACCEPTED
+2026-07-17 04:39:31,M&M.NS,"Tech Mahindra Q1 FY27 EBIT rises to ₹2,264 crores, up 53.3% YoY; New deal-wins at USD 1,078 Mn - up 33% YoY",Mahindra,positive,0.9975,AUTO_ACCEPTED
+2026-07-16 11:08:15,M&M.NS,India's Tech Mahindra tops quarterly revenue views on manufacturing segment growth,Reuters,positive,0.9966,AUTO_ACCEPTED
+2026-07-17 04:29:27,M&M.NS,New MG EV to Launch in August 2026: Mahindra XEV 9S Rival,CarLelo,neutral,0.878,AUTO_ACCEPTED
+2026-07-17 04:10:30,M&M.NS,Tech Mahindra Share Price Rises Over 3% After Q1 Results — Here's Why,NDTV Profit,positive,0.9961,AUTO_ACCEPTED
+2026-07-16 10:46:49,M&M.NS,"Tech Mahindra Q1 results: Net profit rises 28% to Rs 1,465 crore, misses estimates",Moneycontrol.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 01:05:28,M&M.NS,Tech Mahindra Posts Q1 Net Profit of ₹14.65B and Revenue of ₹157.1B,Sahi,neutral,0.8836,AUTO_ACCEPTED
+2026-07-17 03:54:00,M&M.NS,India's Tech Mahindra gains after revenue beat,TradingView,positive,0.9972,AUTO_ACCEPTED
+2026-07-17 04:27:55,M&M.NS,"Infosys, TCS, Tech Mahindra, HCLTech rally 2%; Why are IT stocks rising while Wipro falls?",India Today,positive,0.9958,AUTO_ACCEPTED
+2026-07-17 02:28:07,M&M.NS,"Tech Mahindra Q1 net profit rises 28.4% to Rs 1,465 Cr",YourStory.com,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 10:45:06,M&M.NS,Tech Mahindra Q1 Results: Profit Falls Short Of Street Estimates; Revenue Up 4%,NDTV Profit,negative,0.9862,AUTO_ACCEPTED
+2026-07-17 04:35:28,M&M.NS,"Tech Mahindra Reports Q1 Net Profit Of ₹1,465 Crore And USD 1,078 Million New Deals",Sahi,positive,0.834,AUTO_ACCEPTED
+2026-07-17 03:57:00,M&M.NS,"Tech Mahindra stock jumps over 2% after Q1 margin beat, strong deal wins, but brokerages split on valuation",TradingView,positive,0.9953,AUTO_ACCEPTED
+2026-07-17 02:17:46,M&M.NS,Tech Mahindra Gets Target Price Hike After Strong Q1; Motilal Oswal Sees 26% Upside — Check Key Reasons,NDTV Profit,positive,0.9808,AUTO_ACCEPTED
+2026-07-17 02:31:30,M&M.NS,"'Irrational': Tech Mahindra CEO Flags Rivals' Unrealistic Productivity Deals, Flat Pricing Amid Rising Chip Costs",NDTV Profit,negative,0.987,AUTO_ACCEPTED
+2026-07-17 03:46:12,M&M.NS,"Tech Mahindra Q1 Review: Brokerages Raise Price Targets After Earnings, Retain Cautious View — Check Potential Upside",NDTV Profit,neutral,0.9649,AUTO_ACCEPTED
+2026-07-17 03:56:25,M&M.NS,"Tech Mahindra share price jumps over 3% after strong Q1 results 2026 - Should you buy, sell, or hold the IT stock?",livemint.com,positive,0.9904,AUTO_ACCEPTED
+2026-07-16 13:39:09,M&M.NS,"Mahindra Chakan Plant Crosses 3 Million Vehicle Production Milestone, BE 6 Leads the Celebration",Autopunditz,positive,0.9949,AUTO_ACCEPTED
+2026-07-16 10:52:07,M&M.NS,"Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to ₹1,465 crore, revenue up 15% - Key takeaways",livemint.com,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 10:51:43,M&M.NS,"Tech Mahindra posts 28.4% rise in Q1 FY27 profit, misses estimates",Business Standard,positive,0.9965,AUTO_ACCEPTED
+2026-07-17 05:19:48,M&M.NS,"Wipro, Tech Mahindra, Piramal Finance, Angel One: Which Stocks Got Target Price Revisions After Q1? Details Inside",NDTV Profit,neutral,0.994,AUTO_ACCEPTED
+2026-07-16 14:47:24,M&M.NS,"Tech Mahindra Q1 FY27 Results: Profit Rises 8.2% QoQ to ₹1,465 Crore, EBIT Margin Expands to 14.4%",India Infoline,positive,0.9972,AUTO_ACCEPTED
+2026-07-16 16:35:12,M&M.NS,"Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion",BusinessLine,positive,0.9949,AUTO_ACCEPTED
+2026-07-17 03:55:24,M&M.NS,Tech Mahindra Q1 FY27 revenue rises 17.7% as margins and deal wins improve,dqindia.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 05:16:21,M&M.NS,"Stock Markets Today: Sensex, Nifty Gain on IT Stocks' Rally",Rediff,positive,0.9911,AUTO_ACCEPTED
+2026-07-17 04:46:01,M&M.NS,"Tech Mahindra rises after Q1 PAT jumps 28% YoY to Rs 1,465 cr",Business Standard,positive,0.9968,AUTO_ACCEPTED
+2026-07-16 16:59:30,M&M.NS,Tech Mahindra To Roll Out Salary Hikes From Q2 In Phased Manner,NDTV Profit,neutral,0.9656,AUTO_ACCEPTED
+2026-07-16 19:12:46,M&M.NS,"TechM reports 28% profit rise in Q1, says deal momentum remains strong as margins improve",The New Indian Express,positive,0.9966,AUTO_ACCEPTED
+2026-07-16 17:34:00,M&M.NS,Tech Mahindra Q1 YoY revenue up 6.1% to $1.6 billion,The Times of India,positive,0.9975,AUTO_ACCEPTED
+2026-07-17 03:54:19,M&M.NS,Tech Mahindra Q1 FY27 – A show of strength,Moneycontrol.com,positive,0.9945,AUTO_ACCEPTED
+2026-07-16 07:57:48,M&M.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-17 04:04:00,M&M.NS,"Tech Mahindra shares jump 3% after Q1 earnings beat estimates. What Nomura, Nuvama, other brokerages now e",The Economic Times,positive,0.9964,AUTO_ACCEPTED
+2026-07-16 16:10:17,M&M.NS,Tech Mahindra Q1 revenue climbs 17.7% as deal wins top $1 billion,Staffing Industry Analysts,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 02:20:20,M&M.NS,Mahindra's Chakan plant hits 3M vehicles! Last million made in just 27 months vs 107 for the first,Cartoq,negative,0.967,AUTO_ACCEPTED
+2026-07-16 12:03:44,M&M.NS,"Tech Mahindra Q1 net profit grows 32% to ₹1,486 crore",BusinessLine,positive,0.9968,AUTO_ACCEPTED
+2026-07-16 16:02:16,M&M.NS,Tech Mahindra posts third straight quarter of over $1 billion in deal wins,Moneycontrol.com,positive,0.9057,AUTO_ACCEPTED
+2026-07-16 16:07:38,M&M.NS,Tech Mahindra revs up while Wipro slows down in a tale of two IT firms,livemint.com,positive,0.9711,AUTO_ACCEPTED
+2026-07-17 01:25:20,M&M.NS,"5 New Mahindra SUVs Launching Soon, Starting August: Scorpio-N Facelift To BE07",Cartoq,positive,0.9397,AUTO_ACCEPTED
+2026-07-16 13:49:35,M&M.NS,Earnings call transcript: Tech Mahindra posts strong Q1 2026 growth,Investing.com,positive,0.997,AUTO_ACCEPTED
+2026-07-16 12:49:10,M&M.NS,"Tech Mahindra Q1 Results 2027: PAT Rises 32% YoY, Revenue Grows 18%",Sahi,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 15:22:19,M&M.NS,Lack of revenue visibility had held back Tech Mahindra’s hiring plans,BusinessLine,negative,0.9778,AUTO_ACCEPTED
+2026-07-16 14:25:32,M&M.NS,"MC Tech3 | Govt to take stakes in chip startups; Q1FY27: Wipro disappoints, Tech Mahindra mixed bag; and more",LinkedIn,negative,0.5033,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 07:18:45,M&M.NS,Mahindra Rolls Out Three Millionth Vehicle From Chakan Plant,Car and Bike,positive,0.9589,AUTO_ACCEPTED
+2026-07-17 04:33:43,M&M.NS,IT Stocks Rally: Why Brokerages Favour Tech Mahindra Over Wipro After Q1 Earnings?,News18,positive,0.9963,AUTO_ACCEPTED
+2026-07-16 12:19:40,M&M.NS,"Tech Mahindra Q1 FY27 EBIT Surges 53% YoY to ₹2,264 Crore as New Deal Wins Hit $1.08 Billion",Sahi,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 12:00:45,M&M.NS,"Tech Mahindra Q1 result: Profit Jumps 28% to ₹1,465 crore; revenue rises 18%",Fortune India,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 06:35:24,M&M.NS,"Q1 Results Today: Wipro, Tech Mahindra, ITC Hotels, BHEL, Jio Financial Among 40 Companies In Focus",NDTV Profit,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 11:04:40,M&M.NS,"Tech Mahindra Q1 Results: Net Profit Climbs 8.2% QoQ to ₹1,465 Cr, New Deal Wins Touch $1.08B",Sahi,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 04:33:42,M&M.NS,New Spacious 7-Seater To Rival Mahindra XEV 9S Launching Next Month,MotorOctane,positive,0.8713,AUTO_ACCEPTED
+2026-07-16 13:32:12,M&M.NS,Tech Mahindra’s AI Bets Help Lift Margins as Q1 Profit Rises 28%,analyticsindiamag.com,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 12:22:41,M&M.NS,"Mahindra Reaches 3 Million Vehicle Production At Chakan, BE 06 Becomes Landmark Vehicle",DriveSpark,positive,0.9906,AUTO_ACCEPTED
+2026-07-17 02:02:57,M&M.NS,"Tech Mahindra Gains on Profit, Margin Growth; Skips Q1 Dividend",BW Businessworld,negative,0.8262,AUTO_ACCEPTED
+2026-07-16 10:40:43,M&M.NS,India's Tech Mahindra beats quarterly revenue estimate,TradingView,positive,0.9922,AUTO_ACCEPTED
+2026-07-16 11:37:27,M&M.NS,India's Tech Mahindra Exec Says Seeing Opportunities In Vendor Consolidation & AI-Led Discretionary Spending,TradingView,positive,0.9726,AUTO_ACCEPTED
+2026-07-16 11:23:30,M&M.NS,"Tech Mahindra Q1 Net Profit Jumps 28.4% to Rs 1,465 Cr",Rediff MoneyWiz,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 13:33:05,M&M.NS,"Stocks to Watch for July 17: Wipro, Jio Financial, Tech Mahindra and more",CNBC TV18,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 18:19:28,M&M.NS,"Tech Mahindra June quarter net profit rises 28.4% to Rs 1,465 crore",MillenniumPost,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 10:58:52,M&M.NS,"Tech Mahindra Q1 Attrition Slips To 11.8%; IT Headcount Falls Below 75,000",NDTV Profit,negative,0.9922,AUTO_ACCEPTED
+2026-07-16 11:08:18,M&M.NS,"Tech Mahindra's headcount plunges by 863 employees in Q1, attrition rate falls to 11.8%",Moneycontrol.com,negative,0.9929,AUTO_ACCEPTED
+2026-07-16 05:51:36,M&M.NS,"Mahindra Bolero Neo Prices Increased by up to Rs. 30,500",CarWale,positive,0.9844,AUTO_ACCEPTED
+2026-07-16 12:39:08,M&M.NS,Mahindra EPC Appoints Rajeev Goyal As Chairman Of Board Effective July 16,TradingView,neutral,0.9944,AUTO_ACCEPTED
+2026-07-16 11:32:21,M&M.NS,"Tech Mahindra Q1 profit rises 28.5% to Rs 1,465 crore; headcount falls by 863",Storyboard18,positive,0.9732,AUTO_ACCEPTED
+2026-07-16 15:11:00,M&M.NS,"Mahindra Chakan Crosses 3 Million Vehicles, Flags Off BE 6 as Future‑Ready Manufacturing Hub",Indianweb2.com,positive,0.8765,AUTO_ACCEPTED
+2026-07-17 00:30:00,M&M.NS,"Tech Mahindra's Q1 profit up 28% to Rs 1,465 crore",The Economic Times,positive,0.9975,AUTO_ACCEPTED
+2026-07-16 13:35:31,M&M.NS,"Tech Mahindra Q1 FY27 slides: AI deals fuel 6.1% growth, margins hit 14.4%",Investing.com,positive,0.7954,AUTO_ACCEPTED
+2026-07-16 12:46:40,M&M.NS,Mahindra EPC Irrigation reports consolidated net loss of Rs 2.14 crore in the June 2026 quarter,Business Standard,neutral,0.9357,AUTO_ACCEPTED
+2026-07-16 06:52:00,M&M.NS,"Mahindra XUV 7XO Price Increased in India by Up to Rs 88,000",autoX,positive,0.9953,AUTO_ACCEPTED
+2026-07-16 14:27:40,M&M.NS,"Tech Mahindra Q1 FY27 EBIT rises to ₹2,264 crores, up 53.3% YoY;",CXOToday.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 14:40:35,MARUTI.NS,Indian court orders Maruti to replace car in first E20 fuel damage ruling,Reuters,negative,0.9462,AUTO_ACCEPTED
+2026-07-16 05:48:20,MARUTI.NS,"'Damage caused by E20 petrol': In a first, consumer court sides with vehicle owner as ethanol push fuels row, orders Maruti Suzuki to compensate",Deccan Herald,negative,0.9735,AUTO_ACCEPTED
+2026-07-16 13:50:00,MARUTI.NS,"Update on my Maruti Suzuki XL6: DIY upgrades, soundproofing and more",Team-BHP,neutral,0.9765,AUTO_ACCEPTED
+2026-07-16 08:54:41,MARUTI.NS,"June 2026 Passenger Vehicle Sales: Maruti Suzuki retains crown as Mahindra, Hyundai follow",HT Auto,neutral,0.6874,AUTO_ACCEPTED
+2026-07-17 02:34:20,MARUTI.NS,"Stocks to Watch today: RIL, Jio Financial, Wipro, Maruti Suzuki, Ceat",Business Standard,neutral,0.993,AUTO_ACCEPTED
+2026-07-17 02:02:47,MARUTI.NS,"12 stocks to watch today: Maruti Suzuki, HCLTech, Coal India, PhysicsWallah, ITI, Sky Gold and more",BusinessLine,neutral,0.9922,AUTO_ACCEPTED
+2026-07-16 12:09:10,MARUTI.NS,Rosmerta Technologies Joins ACMA–Maruti Suzuki Supplier Development Conference as Platinum Sponsor,TheWire.in,neutral,0.8227,AUTO_ACCEPTED
+2026-07-16 15:28:36,MARUTI.NS,ARAI Certifies Maruti Suzuki Wind Tunnel for WLTP Testing,Autocar Professional,neutral,0.7584,AUTO_ACCEPTED
+2026-07-16 14:08:47,MARUTI.NS,Maruti Suzuki to challenge Raipur consumer court order on E20-compatible vehicle,Moneycontrol.com,negative,0.9825,AUTO_ACCEPTED
+2026-07-16 14:22:58,MARUTI.NS,Did Maruti Suzuki sell a non-E20 Grand Vitara? Know why you need to pay attention,India Today,neutral,0.593,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:37:06,MARUTI.NS,E20 Fuel Controversy Deepens as Maruti Suzuki Challenges Consumer Court Verdict,outlookbusiness.com,negative,0.9632,AUTO_ACCEPTED
+2026-07-17 03:58:54,MARUTI.NS,Maruti Suzuki to challenge Raipur consumer court order in landmark E20 fuel case,Storyboard18,negative,0.9291,AUTO_ACCEPTED
+2026-07-16 07:23:24,MARUTI.NS,"Consumer Court Backs Owner In E20 Case, Orders Maruti To Replace Damaged Grand Vitara",NDTV,negative,0.803,AUTO_ACCEPTED
+2026-07-16 10:07:39,MARUTI.NS,Consumer court orders Maruti to replace Grand Vitara which broke down due to E20 fuel,Bar and Bench,negative,0.7094,AUTO_ACCEPTED
+2026-07-16 15:07:00,MARUTI.NS,Maruti Suzuki to challenge Raipur consumer panel order on E20-compatible car replacement,ANI News,negative,0.9683,AUTO_ACCEPTED
+2026-07-16 15:31:07,MARUTI.NS,India’s Maruti to Fight Order to Replace Car Over Ethanol Damage,Bloomberg.com,negative,0.9585,AUTO_ACCEPTED
+2026-07-16 12:51:24,MARUTI.NS,My uncle upgraded from the Maruti Suzuki Ciaz to Victoris Strong Hybrid,Team-BHP,positive,0.9897,AUTO_ACCEPTED
+2026-07-16 07:40:00,MARUTI.NS,E20 fuel damages Maruti car; company ordered to give customer a new vehicle,The Times of India,negative,0.9857,AUTO_ACCEPTED
+2026-07-16 09:06:41,MARUTI.NS,E20 Fuel Compatibility: Raipur Consumer Commission Orders Maruti Suzuki To Replace Car Or Pay Over ₹21.6...,LawBeat,negative,0.5254,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:40:10,MARUTI.NS,"In what could have a huge ramification for India's push towards ethanol blended fuel, a district consumer court in Raipur ordered Maruti Suzuki replace the complainant's car with a new E20 compliant vehicle. The court, while passing its order said that Maruti di",LinkedIn,negative,0.7965,AUTO_ACCEPTED
+2026-07-17 02:33:01,MARUTI.NS,"Top stocks in news: RIL, TechM, CEAT, Wipro, Maruti Suzuki, Coal India, BHEL, WeWork, JFSL",Business Today,neutral,0.9916,AUTO_ACCEPTED
+2026-07-16 15:13:42,MARUTI.NS,Maruti Suzuki to challenge Raipur consumer forum order to replace E20 fuel vehicle,BusinessLine,negative,0.933,AUTO_ACCEPTED
+2026-07-16 05:45:55,MARUTI.NS,Consumer court directs Maruti Grand Vitara replacement over E20 fuel dispute,Autocar India,negative,0.8261,AUTO_ACCEPTED
+2026-07-16 14:52:49,MARUTI.NS,"Fuel Contamination, Not E20 Issue: Maruti Suzuki To Challenge Raipur Court Order",NDTV Profit,negative,0.9594,AUTO_ACCEPTED
+2026-07-16 13:36:14,MARUTI.NS,Maruti Suzuki Says Will Take Necessary Steps To Challenge Court Order,TradingView,neutral,0.6672,AUTO_ACCEPTED
+2026-07-16 12:36:38,MARUTI.NS,Maruti Suzuki told to replace car in first court ruling against E20 fuel damage,livemint.com,negative,0.8605,AUTO_ACCEPTED
+2026-07-16 09:05:48,MARUTI.NS,"Tata Punch reclaims top spot as India's best-selling car in June 2026, outselling Maruti Suzuki Dzire",ET BrandEquity,positive,0.9928,AUTO_ACCEPTED
+2026-07-17 02:55:20,MARUTI.NS,"5 Upcoming Maruti Cars, Starting July: Brezza SUV Facelift To YMC Electric MPV",Cartoq,positive,0.97,AUTO_ACCEPTED
+2026-07-16 10:13:28,MARUTI.NS,Maruti Suzuki opens Brezza facelift bookings with turbo option,MSN,positive,0.9902,AUTO_ACCEPTED
+2026-07-16 14:38:18,MARUTI.NS,E20 petrol row: Consumer court orders Maruti Suzuki to replace customer's Grand Vitara,Udayavani,negative,0.9755,AUTO_ACCEPTED
+2026-07-16 14:31:37,MARUTI.NS,SUV was E20 compatible: Maruti Suzuki to challenge order to replace Grand Vitara,India Today,neutral,0.8142,AUTO_ACCEPTED
+2026-07-16 05:31:43,MARUTI.NS,"E20 petrol row: In a first, Raipur consumer court asks Maruti Suzuki to replace damaged Grand Vitara or refund buyer",livemint.com,negative,0.8059,AUTO_ACCEPTED
+2026-07-16 16:33:00,MARUTI.NS,"Maruti Suzuki to take on Raipur consumer court, claims ‘contamination’, not E20 petrol behind Grand Vitara fiasco",The Statesman,negative,0.9504,AUTO_ACCEPTED
+2026-07-16 14:15:39,MARUTI.NS,"Maruti Suzuki to challenge Raipur consumer panel order directing Grand Vitara SUV replacement, cites fuel...",Moneycontrol.com,negative,0.9857,AUTO_ACCEPTED
+2026-07-16 15:51:10,MARUTI.NS,Consumer panel orders Maruti Suzuki to replace car in first E20 fuel dispute; company to appeal,The Economic Times,neutral,0.737,AUTO_ACCEPTED
+2026-07-16 14:20:27,MARUTI.NS,Maruti Suzuki says will contest Raipur consumer court order for car replacement over E20 fuel compliance i,The Economic Times,negative,0.7717,AUTO_ACCEPTED
+2026-07-17 05:05:20,MARUTI.NS,Maruti To Challenge Consumer Court's E20 Order: Blames Fuel Contamination For Grand Vitara Breakdown,Cartoq,negative,0.9784,AUTO_ACCEPTED
+2026-07-16 05:55:26,MARUTI.NS,Maruti Suzuki Brezza Facelift Bookings Begin Ahead Of July 24 Launch,NDTV,neutral,0.6981,AUTO_ACCEPTED
+2026-07-16 11:23:54,MARUTI.NS,Consumer Court asks Maruti to replace damaged car in E20 case,Telangana Today,neutral,0.5146,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 13:50:38,MARUTI.NS,Maruti says will contest Raipur consumer court order for car replacement over E20 fuel compliance issue,ThePrint,negative,0.9268,AUTO_ACCEPTED
+2026-07-16 10:29:52,MARUTI.NS,Raipur consumer court orders Maruti Suzuki to replace vehicle in E20 petrol dispute,The Federal,negative,0.8756,AUTO_ACCEPTED
+2026-07-16 15:37:37,MARUTI.NS,Maruti to challenge Raipur Consumer Court Order; says car E20 compatible,ChiniMandi,negative,0.9699,AUTO_ACCEPTED
+2026-07-16 16:30:15,MARUTI.NS,Maruti Suzuki to challenge landmark E20 consumer court ruling,CNBC TV18,negative,0.8962,AUTO_ACCEPTED
+2026-07-16 18:02:51,MARUTI.NS,Consumer court orders Maruti to replace car over E20 fuel damage - India Today,India Today,negative,0.7632,AUTO_ACCEPTED
+2026-07-17 05:10:20,MARUTI.NS,Maruti Brezza Facelift: What It Will Look Like,Cartoq,neutral,0.8879,AUTO_ACCEPTED
+2026-07-16 15:43:10,MARUTI.NS,E20 Verdict: Raipur Consumer Court Orders Maruti Suzuki To Replace Grand Vitara or Refund ₹20.5 Lakh,Moneylife,negative,0.5387,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 16:00:39,MARUTI.NS,Damage caused by E20 petrol? Consumer court orders Maruti Suzuki to compensate vehicle owner in landmark verdict,Northeast Herald,negative,0.9212,AUTO_ACCEPTED
+2026-07-17 03:06:23,MARUTI.NS,"2026 Maruti Brezza Facelift – 3 Engine Options, Mileage & Expected Prices",India Car News,neutral,0.5021,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 13:54:57,MARUTI.NS,Maruti Suzuki to challenge consumer court order directing replacement of ‘non-E20 compatible’ Grand Vitara,Business Today,negative,0.9709,AUTO_ACCEPTED
+2026-07-16 11:28:27,MARUTI.NS,E20 fuel dispute: Consumer panel orders Maruti Suzuki to replace car in landmark judgment,National Herald,neutral,0.682,AUTO_ACCEPTED
+2026-07-16 15:21:16,MARUTI.NS,"Grand Vitara is E20 compatible, says Maruti Suzuki after consumer court order",thehawk.in,positive,0.9496,AUTO_ACCEPTED
+2026-07-16 12:55:26,MARUTI.NS,"Consumer Commission Directs Maruti Suzuki To Replace Non-E20 Grand Vitara, Orders Refund If Replacement Is Not Made",Court Book,neutral,0.9803,AUTO_ACCEPTED
+2026-07-16 07:30:52,MARUTI.NS,E20 Fuel's First Setback: Consumer Court Orders Maruti Suzuki To Refund Or Replace Damaged Car,outlookbusiness.com,negative,0.9914,AUTO_ACCEPTED
+2026-07-16 15:38:13,MARUTI.NS,Indian Court Orders Maruti Suzuki to Replace Car Over E20 Fuel,Межа. Новини України.,neutral,0.519,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 08:31:00,MARUTI.NS,"E20 mayhem continues: In a first, Raipur consumer court tells Maruti Suzuki to replace Rs 20.5 lakh damaged car",The Statesman,neutral,0.6643,AUTO_ACCEPTED
+2026-07-16 09:58:12,MARUTI.NS,E20 Fuel Row: Consumer Forum Orders Maruti To Pay Rs 21 Lakh Over Engine Stalling,NDTV Profit,negative,0.9873,AUTO_ACCEPTED
+2026-07-16 07:34:22,MARUTI.NS,Consumer Court Orders Maruti Suzuki To Replace Grand Vitara Over E20 Fuel Dispute,MotorBeam,negative,0.6288,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:26:51,MARUTI.NS,"In First E20-Linked Consumer Ruling, Raipur Court Orders Maruti Suzuki to Replace Grand Vitara",The Observer Post,neutral,0.951,AUTO_ACCEPTED
+2026-07-16 06:17:26,MARUTI.NS,First consumer court verdict on E20 petrol: Maruti Suzuki ordered to replace car,theweek.in,neutral,0.8804,AUTO_ACCEPTED
+2026-07-16 14:43:03,MARUTI.NS,Maruti Suzuki Ordered to Replace Car in First E20 Fuel Damage Court Ruling,MotorOctane,negative,0.8999,AUTO_ACCEPTED
+2026-07-16 15:12:34,MARUTI.NS,Maruti Suzuki Challenges Order for E20-Compatible Vehicle Replacement,Devdiscourse,neutral,0.7749,AUTO_ACCEPTED
+2026-07-16 16:36:55,MARUTI.NS,Consumer court orders Maruti to replace Grand Vitara after it broke down due to E20 fuel; Company set to chal,India.Com,positive,0.7815,AUTO_ACCEPTED
+2026-07-16 15:26:36,MARUTI.NS,Court Backs Vehicle Owner in First E20 Petrol Case,Deccan Chronicle,negative,0.6633,AUTO_ACCEPTED
+2026-07-16 06:01:00,MARUTI.NS,2026 Maruti Brezza Teased: Should You Wait Before Considering These Rivals? Here’s Our Take!,CarDekho,neutral,0.9137,AUTO_ACCEPTED
+2026-07-16 15:01:39,MARUTI.NS,Driver claims India’s eco-friendly fuel damaged his car. Court agrees,South China Morning Post,negative,0.8953,AUTO_ACCEPTED
+2026-07-16 12:49:12,MARUTI.NS,"Consumer forum pulls up dealer for selling non-E20-compliant car, orders replacement",DT Next,neutral,0.5786,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 09:30:19,MARUTI.NS,E20 Fuel Row Deepens: Consumer Court Orders Maruti To Replace Car Over Alleged Engine Damage,Swarajya,negative,0.9929,AUTO_ACCEPTED
+2026-07-16 06:16:32,NESTLEIND.NS,"Nestlé India Faces VAT Demand of ₹6.67 Crore, Plans Legal Appeal",Lapaas Voice,negative,0.9023,AUTO_ACCEPTED
+2026-07-16 15:49:17,NTPC.NS,"NHRC notice to CMD of NTPC Muzaffarpur, SSP over drowning of three children in ‘ash dyke lagoon’",ThePrint,negative,0.8108,AUTO_ACCEPTED
+2026-07-16 19:23:02,NTPC.NS,"NTPC-NPCIL JV floats Rs28,000 crore tender for Rajasthan nuclear power project",The New Indian Express,neutral,0.755,AUTO_ACCEPTED
+2026-07-16 09:47:28,NTPC.NS,NPCIL-NTPC JV invites bids to build core of Mahi Banswara nuclear project,Business Standard,neutral,0.8569,AUTO_ACCEPTED
+2026-07-16 11:55:44,NTPC.NS,NTPC REL Announces Winners of 1 GW Solar Module Supply Auction,Mercomindia.com,neutral,0.8077,AUTO_ACCEPTED
+2026-07-16 19:31:43,NTPC.NS,Himachal: NTPC renovates fitness centre in Bilaspur for Rs 33 lakh,The Tribune,positive,0.8041,AUTO_ACCEPTED
+2026-07-16 06:11:09,NTPC.NS,"Ambit Capital Power Play: ‘Buy’ on NTPC and Suzlon, ‘Sell’ Tata Power as battery costs reset",financialexpress.com,positive,0.4472,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 17:07:00,NTPC.NS,"NTPC-NPCIL JV floats ₹28,000 crore tender for nuclear power plant in Rajasthan",livemint.com,neutral,0.6223,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 13:04:34,NTPC.NS,"NTPC Board Approves Rs 20,457 Cr Investment For Lara Thermal Power Expansion",BW Businessworld,positive,0.9366,AUTO_ACCEPTED
+2026-07-16 07:38:54,NTPC.NS,Bluebird Solar wins 439.35 MW NTPC REL module order,Solarbytes,positive,0.9878,AUTO_ACCEPTED
+2026-07-16 10:53:08,ONGC.NS,Fitch Upgrades ONGC’s Standalone Credit Profile to 'bbb+',IndianMandarins,positive,0.984,AUTO_ACCEPTED
+2026-07-16 08:23:53,ONGC.NS,ONGC subsidiary MRPL share price surges 13% on stellar Q1 results; swings to profit from loss,livemint.com,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 17:43:22,ONGC.NS,ONGC stock holds steady as profit and output metrics frame the outlook,ad-hoc-news.de,neutral,0.6488,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 07:17:24,ONGC.NS,"Government Revises Windfall Tax: Impact On ONGC, HPCL, BPCL & Oil Prices",Business Today,neutral,0.9261,AUTO_ACCEPTED
+2026-07-16 06:31:09,ONGC.NS,ONGC Drills Second Geothermal Well In Ladakh,Construction World,positive,0.8995,AUTO_ACCEPTED
+2026-07-16 16:54:00,POWERGRID.NS,IDACORP Schedules Second Quarter 2026 Earnings Release & Conference Call,Yahoo Finance Singapore,neutral,0.9939,AUTO_ACCEPTED
+2026-07-16 22:15:03,POWERGRID.NS,Quanta Services (PWR) Suffers a Larger Drop Than the General Market: Key Insights,Yahoo Finance Singapore,negative,0.9894,AUTO_ACCEPTED
+2026-07-17 03:30:00,POWERGRID.NS,Power grids face unexpected slow-burn threat from solar storms,The Hindu,negative,0.9846,AUTO_ACCEPTED
+2026-07-16 14:25:00,POWERGRID.NS,"Energy storage the answer to solar boom stress on power grid, says new study",The Times of India,neutral,0.8134,AUTO_ACCEPTED
+2026-07-16 13:00:38,POWERGRID.NS,Power Grid Share Price Highlights: Power Grid Stock Price History,The Economic Times,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 20:10:33,POWERGRID.NS,Smart Energy Management Research Could Unlock Grid Flexibility & Cost Savings,CleanTechnica,positive,0.9896,AUTO_ACCEPTED
+2026-07-16 09:00:00,POWERGRID.NS,"For energy systems that power a reliable grid, the future is all about location",MIT News,neutral,0.8876,AUTO_ACCEPTED
+2026-07-17 04:51:00,POWERGRID.NS,"POWERGRID Board Meeting on 22 July 2026: Borrowing Limit Hiked to Rs 35,000 Crore",PSU Connect,positive,0.9395,AUTO_ACCEPTED
+2026-07-17 02:30:28,POWERGRID.NS,"Power Grid To Review Increasing FY27 Borrowing Limit To ₹35,000 Crore On July 22",Sahi,neutral,0.9452,AUTO_ACCEPTED
+2026-07-17 03:40:12,POWERGRID.NS,power grid to consider 35 000 cr borrowings on july 22,ICICI Direct,neutral,0.9893,AUTO_ACCEPTED
+2026-07-17 05:03:10,POWERGRID.NS,Belgium strengthens its power grid to accelerate the energy transition,Review Energy,positive,0.9902,AUTO_ACCEPTED
+2026-07-16 11:34:43,POWERGRID.NS,US Power Grid Faces Defining Test for AI Boom,Bloomberg.com,neutral,0.9043,AUTO_ACCEPTED
+2026-07-16 12:52:07,POWERGRID.NS,"Solid State Transformers Market Size, Share | Forecast – 2035",Global Market Insights Inc.,positive,0.7938,AUTO_ACCEPTED
+2026-07-16 19:50:13,POWERGRID.NS,The data centre boom won’t mean higher power prices – if we unlock stalled renewable projects,The Conversation,positive,0.8575,AUTO_ACCEPTED
+2026-07-16 16:01:00,POWERGRID.NS,Jacobs Wins Strategic Role in Germany Grid Modernization,TradingView,positive,0.7989,AUTO_ACCEPTED
+2026-07-16 12:34:41,POWERGRID.NS,Powering data centers: the rise and challenges of the “behind the meter” model,A&O Shearman,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 10:10:45,POWERGRID.NS,Inside the Race to Tame AI’s Wild Power Swings,IEEE Spectrum,neutral,0.9522,AUTO_ACCEPTED
+2026-07-16 12:40:16,POWERGRID.NS,"EXCLUSIVE: Iran tells Houthis to close Red Sea gateway if US hits power network, sources say",Reuters,neutral,0.9285,AUTO_ACCEPTED
+2026-07-16 19:49:50,POWERGRID.NS,Power ministry plans grid for data centres as demand surges,The Economic Times,positive,0.9149,AUTO_ACCEPTED
+2026-07-16 11:00:06,POWERGRID.NS,Shanghai’s computing-grid coordination marks a national first,South China Morning Post,positive,0.9727,AUTO_ACCEPTED
+2026-07-16 20:17:21,POWERGRID.NS,From Mine to Megawatt: How NLR Is Securing Critical Mineral Supply Chains for the Power Grid,CleanTechnica,neutral,0.9795,AUTO_ACCEPTED
+2026-07-16 06:27:37,POWERGRID.NS,Explained: Demand Response—Why Consumers Are Becoming an Active Part of the Power Grid,SolarQuarter,positive,0.7854,AUTO_ACCEPTED
+2026-07-16 19:10:45,POWERGRID.NS,AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating?,BW Businessworld,neutral,0.9896,AUTO_ACCEPTED
+2026-07-16 11:20:57,POWERGRID.NS,Thailand needs ‘many regulatory reforms’ of electricity sector to catch up with ASEAN leaders on energy storage,Energy-Storage.News,neutral,0.9694,AUTO_ACCEPTED
+2026-07-17 04:10:00,POWERGRID.NS,Wiring Singapore for energy security through the Asean power grid,The Edge Singapore,neutral,0.7107,AUTO_ACCEPTED
+2026-07-16 17:55:00,POWERGRID.NS,Huawei Unveils LUTERRA Grid-Forming Strategy to Anchor Europe's Renewable-Dominated Future,finance.biggo.com,positive,0.985,AUTO_ACCEPTED
+2026-07-17 04:30:00,POWERGRID.NS,"Iraq warns of 1,400MW power shortage as Dana Gas shuts operations due to 'credible security threats'",thenationalnews.com,negative,0.9934,AUTO_ACCEPTED
+2026-07-16 14:50:00,POWERGRID.NS,ORNL Grid Researchers Elevated to IEEE Senior Membership,Newswise,positive,0.9547,AUTO_ACCEPTED
+2026-07-16 13:37:14,POWERGRID.NS,'Speed to Power' doesn’t require a utility monopoly,Niskanen Center,neutral,0.918,AUTO_ACCEPTED
+2026-07-16 14:00:00,POWERGRID.NS,Africa's Grid Bottleneck Is Straining Industrial Growth,Environment+Energy Leader,negative,0.9869,AUTO_ACCEPTED
+2026-07-16 18:00:00,POWERGRID.NS,Spearmint Energy Secures Site Permit for 600 MWh Battery Energy Storage in MISO,Business Wire,positive,0.9897,AUTO_ACCEPTED
+2026-07-16 19:05:00,POWERGRID.NS,America's growing AI power crisis may have an unexpected software solution,TechRadar,negative,0.8598,AUTO_ACCEPTED
+2026-07-17 00:36:00,POWERGRID.NS,Why this week’s heat is straining the power grid and pushing your bill higher,Yahoo,negative,0.9219,AUTO_ACCEPTED
+2026-07-16 13:25:14,POWERGRID.NS,Iran tells Houthis to target Red Sea if US strikes power grid: Report,Latest news from Azerbaijan,neutral,0.7246,AUTO_ACCEPTED
+2026-07-16 06:20:04,POWERGRID.NS,CEA Releases Draft 2026 Grid Connectivity Regulations To Strengthen Renewable Energy Integration And Grid Stability,SolarQuarter,neutral,0.8926,AUTO_ACCEPTED
+2026-07-17 00:00:00,POWERGRID.NS,"Scoop: A Key Democrat Wants to Fix the Power Grid, Texas-Style",Heatmap News,neutral,0.8885,AUTO_ACCEPTED
+2026-07-16 12:20:00,POWERGRID.NS,EnBW and Zelestra Partner on 1.2 GWh Battery Storage,Fuel Cells Works,positive,0.9768,AUTO_ACCEPTED
+2026-07-16 15:20:00,POWERGRID.NS,Report: Iran Tells Yemen's Houthis to Prepare to Close Red Sea Oil Route if U.S. Strikes Power Grid,Haaretz,neutral,0.7139,AUTO_ACCEPTED
+2026-07-16 13:30:00,POWERGRID.NS,EKPO Fuel Cell Technology Powers zepp.G240,Fuel Cells Works,positive,0.9889,AUTO_ACCEPTED
+2026-07-16 10:59:00,POWERGRID.NS,Norris set for grid penalty at Belgian GP after exceeding power unit allocation,Formula 1,negative,0.9842,AUTO_ACCEPTED
+2026-07-16 15:04:49,POWERGRID.NS,"Canada invests in reliable, affordable and clean electricity",canada.ca,positive,0.8887,AUTO_ACCEPTED
+2026-07-16 15:29:45,POWERGRID.NS,Defense Innovation Unit seeks commercial path to deliver electrical power from orbit,SpaceNews,neutral,0.8165,AUTO_ACCEPTED
+2026-07-16 07:54:00,POWERGRID.NS,Huawei Launches the latest Grid-Forming Strategy for Future Power Systems at The Smarter E 2026,PR Newswire,positive,0.6417,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 14:11:00,POWERGRID.NS,Fight over who expands Wisconsin’s power grid heads to Washington,Civic Media,neutral,0.9896,AUTO_ACCEPTED
+2026-07-17 04:14:41,RELIANCE.NS,"Reliance Industries Q1 preview: Strong O2C, steady Jio seen supporting earnings; retail margins a key...",Moneycontrol.com,positive,0.9038,AUTO_ACCEPTED
+2026-07-17 01:20:51,RELIANCE.NS,"Stocks to watch: Reliance Industries, Wipro, CEAT among shares in focus today; check list here",livemint.com,neutral,0.9907,AUTO_ACCEPTED
+2026-07-17 04:05:14,RELIANCE.NS,"Reliance Industries Q1 Results Today: Time, Earnings Call Schedule And What To Expect",NDTV Profit,neutral,0.993,AUTO_ACCEPTED
+2026-07-17 04:08:30,RELIANCE.NS,RIL Q1 strategy: How to trade Reliance Industries shares ahead of June quarter earnings?,The Economic Times,neutral,0.9941,AUTO_ACCEPTED
+2026-07-17 05:22:29,RELIANCE.NS,"Sensex jumps 800 pts, Nifty nears 24,300 as banks, IT lead rally; RIL climbs 2% ahead of Q1",Fortune India,positive,0.9936,AUTO_ACCEPTED
+2026-07-17 01:30:01,RELIANCE.NS,"Reliance Industries, JSW Steel, Federal Bank, Havells, Tata Technologies Q1 Results Today — Earnings Estimates",NDTV Profit,neutral,0.9919,AUTO_ACCEPTED
+2026-07-17 04:43:25,RELIANCE.NS,"Q1 Results today: Reliance Industries, JSW Steel among 33 companies announcing June quarter earnings. What",The Economic Times,neutral,0.9905,AUTO_ACCEPTED
+2026-07-17 02:51:16,RELIANCE.NS,"Q1 Results Today: Reliance, Tata Technologies, JSW Steel, Federal Bank Among Key Earnings On July 17",NDTV Profit,neutral,0.9903,AUTO_ACCEPTED
+2026-07-17 04:55:05,RELIANCE.NS,RIL share price rises over 2% ahead of Q1 results 2026 today: Here's what to expect,livemint.com,positive,0.9957,AUTO_ACCEPTED
+2026-07-17 05:00:22,RELIANCE.NS,Jio likely to begin IPO marketing from next week for India's largest offer,livemint.com,neutral,0.7805,AUTO_ACCEPTED
+2026-07-16 11:07:53,RELIANCE.NS,Buy Reliance Industries Share Before Q1 Results? Here's What The Expert Says,Business Today,neutral,0.8832,AUTO_ACCEPTED
+2026-07-17 00:30:49,RELIANCE.NS,"Adani, Reliance, Birla, Vedanta, Jindal among suitors for Odisha's prized Karlapat bauxite block",livemint.com,neutral,0.7627,AUTO_ACCEPTED
+2026-07-17 03:06:25,RELIANCE.NS,Q1 results today 2026: RIL to Federal Bank among companies to declare Q1 earnings on 17 July; full list here,livemint.com,neutral,0.9826,AUTO_ACCEPTED
+2026-07-16 09:12:07,RELIANCE.NS,"Quant Mid Cap Fund exits Reliance Industries and 3 others, adds BHEL, 1 other stock in June",The Economic Times,negative,0.5916,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 22:34:14,RELIANCE.NS,India’s Earnings Calendar Puts Reliance And Banks In Focus,Finimize,negative,0.5417,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 07:44:21,RELIANCE.NS,"Jio Platforms Q1 preview: Revenue, PAT, ARPU growth in focus for Reliance's IPO-bound arm",Business Today,neutral,0.9841,AUTO_ACCEPTED
+2026-07-17 04:13:00,RELIANCE.NS,RIL investors lose Rs 3.5 lakh crore this year. Can Q1 earnings bring the stock back to life?,The Economic Times,neutral,0.7618,AUTO_ACCEPTED
+2026-07-16 08:50:00,RELIANCE.NS,Jio Platforms Appoints Pankaj Pawar as CEO Ahead of Planned $4 Billion IPO,digital terminal,neutral,0.9944,AUTO_ACCEPTED
+2026-07-16 05:47:00,SBILIFE.NS,SBI Life Insurance Company shares fall 2.06% in early trade,TradingView,negative,0.9925,AUTO_ACCEPTED
+2026-07-17 02:21:09,SBILIFE.NS,"Stocks to buy in 2026 for long term: Jindal Saw, SBI Life among 5 stocks that could give 10-20% return",The Economic Times,positive,0.9905,AUTO_ACCEPTED
+2026-07-16 07:47:57,SBILIFE.NS,"IT stocks prop up Nifty at midday; SBI Life, Eternal lead losers",BusinessLine,positive,0.9817,AUTO_ACCEPTED
+2026-07-16 11:14:41,SBILIFE.NS,"Nifty 50 Gainers and Losers at 4:00 PM IST, July 16, 2026",HDFC Sky,neutral,0.988,AUTO_ACCEPTED
+2026-07-16 11:25:55,SBILIFE.NS,"Top gainers and losers, July 16: Eternal falls 3%, SBI LIC down over 2%, IndiGo up 2%; check list",Upstox,negative,0.9879,AUTO_ACCEPTED
+2026-07-16 07:57:48,SBILIFE.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-16 12:07:35,SBILIFE.NS,SBI Funds Management IPO Allotment Status Tomorrow,HDFC Sky,neutral,0.9938,AUTO_ACCEPTED
+2026-07-16 07:50:34,SBILIFE.NS,SBI Funds Management IPO Day 3 Subscription Status: Issue Booked 5.85 Times So Far,HDFC Sky,neutral,0.6903,AUTO_ACCEPTED
+2026-07-16 18:05:11,SBIN.NS,India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO,Yahoo Finance Singapore,positive,0.9355,AUTO_ACCEPTED
+2026-07-16 13:01:47,SBIN.NS,State Bank of India | World’s Best Consumer Bank 2026,Global Finance Magazine,neutral,0.9815,AUTO_ACCEPTED
+2026-07-16 07:17:10,SBIN.NS,"Man finds grandfather's 20-year-old SBI passbook at home, shares pic with a query",India Today,neutral,0.907,AUTO_ACCEPTED
+2026-07-17 02:53:26,SBIN.NS,"SBI Funds Management IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here",Upstox,neutral,0.9936,AUTO_ACCEPTED
+2026-07-16 19:30:34,SBIN.NS,"An eye for dollars: SBI brings in $1.9 billion in foreign-currency resources via special scheme, way ahead",The Economic Times,positive,0.988,AUTO_ACCEPTED
+2026-07-17 02:46:30,SBIN.NS,SBI Funds Management IPO allotment likely today; GMP signals 17% listing premium. Here's how to check stat,The Economic Times,positive,0.8911,AUTO_ACCEPTED
+2026-07-16 13:45:15,SBIN.NS,"SBI Funds Management gets highest applications for any IPO this year, sees Rs 2.98 lakh crore investor rus",The Economic Times,positive,0.9828,AUTO_ACCEPTED
+2026-07-16 11:15:55,SBIN.NS,SBI Mutual Fund CEO Mishra outlines four priorities to drive growth,livemint.com,neutral,0.9801,AUTO_ACCEPTED
+2026-07-16 12:16:09,SBIN.NS,Sunil Agrawal to Take Charge as SBI Chief Financial Officer,CXO Digitalpulse,neutral,0.9943,AUTO_ACCEPTED
+2026-07-16 14:49:56,SBIN.NS,"SBI Funds Management IPO closes with 42x subscription, led by strong QIB demand; GMP signals healthy listing",livemint.com,positive,0.9937,AUTO_ACCEPTED
+2026-07-16 07:37:48,SBIN.NS,"SBI Funds Management IPO Day 3: Check Subscription Status, Key Details, GMP, And More",NDTV Profit,neutral,0.993,AUTO_ACCEPTED
+2026-07-16 09:17:53,SBIN.NS,"SBI Funds Management IPO: Check day 3 subscription status, latest GMP, allotment and more",Business Today,neutral,0.9873,AUTO_ACCEPTED
+2026-07-16 06:13:29,SBIN.NS,"FCNR(B) FD interest rates for NRIs: HDFC Bank, SBI, PNB, ICICI Bank and Axis Bank- which offers highest ma",The Economic Times,neutral,0.9033,AUTO_ACCEPTED
+2026-07-16 11:30:00,SUNPHARMA.NS,Organon to Report Second Quarter 2026 Results in Its Regularly Scheduled Form 10-Q Filing,Yahoo Finance,neutral,0.9931,AUTO_ACCEPTED
+2026-07-16 05:44:43,SUNPHARMA.NS,Sun Pharma Gets South Africa Approval For Semaglutide Manufacture and Marketing,Deccan Chronicle,positive,0.9953,AUTO_ACCEPTED
+2026-07-16 09:46:35,TATAMOTORS.NS,Tata Motors PV shares: Should one exit stock after recent correction? Angel One's Osho Krishan replies,Business Today,negative,0.9555,AUTO_ACCEPTED
+2026-07-17 05:12:46,TATAMOTORS.NS,"Tata Nexon, Curvv, Harrier, Safari and more get discounts of up to ₹95,000 in July 2026 | Hindustan Times",Hindustan Times,negative,0.5672,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:19:33,TATAMOTORS.NS,Nagaland Signs Memorandum of Agreement with Tata Motors for Procurement of 43 Buses to Boost Public Transport,News On AIR,positive,0.9832,AUTO_ACCEPTED
+2026-07-16 19:14:01,TATAMOTORS.NS,GenNext Motors Ushers in a “Just WOW” Era with Grand Launch of Next-Gen Tata Tiago & Tiago.ev,Andaman Chronicle,positive,0.9948,AUTO_ACCEPTED
+2026-07-16 21:30:00,TATASTEEL.NS,"Algoma Steel Group Inc. to Announce 2026 Second Quarter Results July 29, 2026",Yahoo Finance Singapore,neutral,0.9937,AUTO_ACCEPTED
+2026-07-16 10:30:00,TATASTEEL.NS,Insteel Industries Reports Third Quarter 2026 Results,Yahoo Finance Singapore,neutral,0.9884,AUTO_ACCEPTED
+2026-07-16 12:10:14,TATASTEEL.NS,Tata Steel Colours supports Pandharpur Wari pilgrimage,Manufacturing Today India,positive,0.7107,AUTO_ACCEPTED
+2026-07-16 12:56:38,TATASTEEL.NS,Community outreach along the Pandharpur Wari brings Tata Steel Colors closer to devotees across Maharashtra,Prittle Prattle News,positive,0.9564,AUTO_ACCEPTED
+2026-07-16 07:15:26,TATASTEEL.NS,Tata Group plots $1bn shipyard in India as part of newbuilding push,TradeWinds News,positive,0.8674,AUTO_ACCEPTED
+2026-07-16 15:17:49,TATASTEEL.NS,"‘We plan to raise ore output to 12 lakh tonnes annually with ₹1,200 cr investment’",BusinessLine,positive,0.9947,AUTO_ACCEPTED
+2026-07-17 02:51:16,TATASTEEL.NS,"Q1 Results Today: Reliance, Tata Technologies, JSW Steel, Federal Bank Among Key Earnings On July 17",NDTV Profit,neutral,0.9903,AUTO_ACCEPTED
+2026-07-17 01:30:01,TATASTEEL.NS,"Reliance Industries, JSW Steel, Federal Bank, Havells, Tata Technologies Q1 Results Today — Earnings Estimates",NDTV Profit,neutral,0.9919,AUTO_ACCEPTED
+2026-07-16 05:42:59,TATASTEEL.NS,"Tata Group Seeks Kerala's Approval For ₹10,000 Cr Shipbuilding Investment",outlookbusiness.com,positive,0.5259,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 19:50:26,TATACONSUM.NS,"Tata Consumer Products struggles with Capital Foods, its most expensive buy",The Morning Context,negative,0.9897,AUTO_ACCEPTED
+2026-07-16 10:23:01,TCS.NS,India's Wipro misses first-quarter revenue view,Yahoo Finance Singapore,negative,0.9934,AUTO_ACCEPTED
+2026-07-16 10:42:28,TCS.NS,India's Tech Mahindra beats quarterly revenue estimate,Yahoo Finance Singapore,positive,0.9922,AUTO_ACCEPTED
+2026-07-16 08:18:02,TCS.NS,Tata Consultancy Services and Google Cloud launch AI-focused Gemini experience centre in Kolkata,Telegraph India,neutral,0.9208,AUTO_ACCEPTED
+2026-07-16 08:03:53,TCS.NS,TCS and Google Cloud launch Gemini Experience Center in Kolkata,The Economic Times,neutral,0.9469,AUTO_ACCEPTED
+2026-07-16 10:52:47,TCS.NS,"TCS, Google Cloud launch Gemini Experience Center in Kolkata to accelerate agentic AI adoption",Moneycontrol.com,neutral,0.53,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 19:43:55,TCS.NS,Tata Consultancy Services Stock Leads 3 India Dividend Picks For Reliable Income,simplywall.st,positive,0.9876,AUTO_ACCEPTED
+2026-07-17 03:00:00,TCS.NS,TCS and ABB expand partnership to transform global network operations with AI,FutureCIO,positive,0.947,AUTO_ACCEPTED
+2026-07-16 08:39:13,TCS.NS,"TCS is selling an AI future, not IT services: Inside its brand repositioning around enterprise transformation",Storyboard18,neutral,0.9454,AUTO_ACCEPTED
+2026-07-16 16:13:47,TCS.NS,"Wipro Vs TCS Vs HCLTech: Deal Wins To Guidance, What Q1 Numbers Of Indian IT Majors Reveal",NDTV Profit,neutral,0.9858,AUTO_ACCEPTED
+2026-07-16 07:08:32,TCS.NS,TCS Launches Gemini AI Centre With Google Cloud; Shares Up1.66%,HDFC Sky,positive,0.9877,AUTO_ACCEPTED
+2026-07-16 06:39:30,TCS.NS,TCS & Google Cloud Launch Kolkata Gemini Hub; Targets 10 Global Centers by 2026,Sahi,neutral,0.7722,AUTO_ACCEPTED
+2026-07-16 07:48:30,TCS.NS,"TCS, Google Cloud open Gemini Experience Center in Kolkata to boost agentic AI adoption",Techcircle,positive,0.7691,AUTO_ACCEPTED
+2026-07-16 09:30:46,TCS.NS,Andy Mukherjee: India's IT industry should be alert to why companies like Starbucks are adopting AI,livemint.com,neutral,0.8737,AUTO_ACCEPTED
+2026-07-16 20:13:13,TECHM.NS,Tech Mahindra (NSEI:TECHM) Stock Fair Value Edges Lower On Softer Growth And Multiple Assumptions,Yahoo Finance,negative,0.9923,AUTO_ACCEPTED
+2026-07-16 06:45:00,TECHM.NS,Wipro and Tech Mahindra Brace for Muted Q1 as Wage Hikes and AI Costs Weigh on Margins,finance.biggo.com,negative,0.962,AUTO_ACCEPTED
+2026-07-16 10:42:28,TECHM.NS,India's Tech Mahindra beats quarterly revenue estimate,Yahoo Finance Singapore,positive,0.9922,AUTO_ACCEPTED
+2026-07-16 10:42:28,TECHM.NS,India's Tech Mahindra tops quarterly revenue views on manufacturing segment growth,Yahoo Finance,positive,0.9966,AUTO_ACCEPTED
+2026-07-16 11:26:00,TECHM.NS,"Tech Mahindra Q1 Revenue Rises 17.7%, Beating Estimates on Manufacturing and Weak Rupee",finance.biggo.com,positive,0.991,AUTO_ACCEPTED
+2026-07-16 13:33:05,TECHM.NS,"Stocks to Watch for July 17: Wipro, Jio Financial, Tech Mahindra and more",CNBC TV18,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 15:32:47,TECHM.NS,"Q1 Results Today Highlights: Wipro Q1 con. PAT flat, Tech Mahindra profit rises, BHEL posts ₹382 cr profit; Polycab, ITC Hotels, Jio Financial profit up, CEAT profit falls",BusinessLine,neutral,0.7433,AUTO_ACCEPTED
+2026-07-16 15:54:07,TECHM.NS,"Tech Mahindra's Q1 Net Profit Surges 28.4% to Rs 1,465 Crore, Signals Strong Demand",Rediff,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 01:20:56,TECHM.NS,"Stock Picks Today: HDFC Bank, Siemens Energy, HCLTech, Tech Mahindra, BHEL, And More On Brokerages' Radar",NDTV Profit,neutral,0.9838,AUTO_ACCEPTED
+2026-07-17 04:04:00,TECHM.NS,"Tech Mahindra shares jump 3% after Q1 earnings beat estimates. What Nomura, Nuvama, other brokerages now e",The Economic Times,positive,0.9964,AUTO_ACCEPTED
+2026-07-17 05:23:19,TECHM.NS,"Tech Mahindra shares gain 2.29% to Rs 1,544.90",Moneycontrol.com,positive,0.9968,AUTO_ACCEPTED
+2026-07-17 04:27:55,TECHM.NS,"Infosys, TCS, Tech Mahindra, HCLTech rally 2%; Why are IT stocks rising while Wipro falls?",India Today,positive,0.9958,AUTO_ACCEPTED
+2026-07-16 14:47:24,TECHM.NS,"Tech Mahindra Q1 FY27 Results: Profit Rises 8.2% QoQ to ₹1,465 Crore, EBIT Margin Expands to 14.4%",India Infoline,positive,0.9972,AUTO_ACCEPTED
+2026-07-16 10:55:07,TECHM.NS,"Tech Mahindra Q1 results: PAT jumps 28%, revenue rises; deal wins cross $1 billion",Business Today,positive,0.9968,AUTO_ACCEPTED
+2026-07-17 03:55:24,TECHM.NS,Tech Mahindra Q1 FY27 revenue rises 17.7% as margins and deal wins improve,dqindia.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 04:39:31,TECHM.NS,"Tech Mahindra Q1 FY27 EBIT rises to ₹2,264 crores, up 53.3% YoY; New deal-wins at USD 1,078 Mn - up 33% YoY",Mahindra,positive,0.9975,AUTO_ACCEPTED
+2026-07-17 04:10:30,TECHM.NS,Tech Mahindra Share Price Rises Over 3% After Q1 Results — Here's Why,NDTV Profit,positive,0.9961,AUTO_ACCEPTED
+2026-07-16 10:46:49,TECHM.NS,"Tech Mahindra Q1 results: Net profit rises 28% to Rs 1,465 crore, misses estimates",Moneycontrol.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 01:05:28,TECHM.NS,Tech Mahindra Posts Q1 Net Profit of ₹14.65B and Revenue of ₹157.1B,Sahi,neutral,0.8836,AUTO_ACCEPTED
+2026-07-16 11:07:44,TECHM.NS,Tech Mahindra Q1: Strong revenue growth; deal wins top $1 billion for third straight quarter,CNBC TV18,positive,0.9969,AUTO_ACCEPTED
+2026-07-17 03:54:00,TECHM.NS,India's Tech Mahindra gains after revenue beat,TradingView,positive,0.9972,AUTO_ACCEPTED
+2026-07-17 02:28:07,TECHM.NS,"Tech Mahindra Q1 net profit rises 28.4% to Rs 1,465 Cr",YourStory.com,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 10:45:06,TECHM.NS,Tech Mahindra Q1 Results: Profit Falls Short Of Street Estimates; Revenue Up 4%,NDTV Profit,negative,0.9862,AUTO_ACCEPTED
+2026-07-17 04:35:28,TECHM.NS,"Tech Mahindra Reports Q1 Net Profit Of ₹1,465 Crore And USD 1,078 Million New Deals",Sahi,positive,0.834,AUTO_ACCEPTED
+2026-07-17 03:57:00,TECHM.NS,"Tech Mahindra stock jumps over 2% after Q1 margin beat, strong deal wins, but brokerages split on valuation",TradingView,positive,0.9953,AUTO_ACCEPTED
+2026-07-17 02:17:46,TECHM.NS,Tech Mahindra Gets Target Price Hike After Strong Q1; Motilal Oswal Sees 26% Upside — Check Key Reasons,NDTV Profit,positive,0.9808,AUTO_ACCEPTED
+2026-07-17 02:31:30,TECHM.NS,"'Irrational': Tech Mahindra CEO Flags Rivals' Unrealistic Productivity Deals, Flat Pricing Amid Rising Chip Costs",NDTV Profit,negative,0.987,AUTO_ACCEPTED
+2026-07-17 03:46:12,TECHM.NS,"Tech Mahindra Q1 Review: Brokerages Raise Price Targets After Earnings, Retain Cautious View — Check Potential Upside",NDTV Profit,neutral,0.9649,AUTO_ACCEPTED
+2026-07-16 10:52:07,TECHM.NS,"Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to ₹1,465 crore, revenue up 15% - Key takeaways",livemint.com,positive,0.9974,AUTO_ACCEPTED
+2026-07-17 03:56:25,TECHM.NS,"Tech Mahindra share price jumps over 3% after strong Q1 results 2026 - Should you buy, sell, or hold the IT stock?",livemint.com,positive,0.9904,AUTO_ACCEPTED
+2026-07-16 10:51:43,TECHM.NS,"Tech Mahindra posts 28.4% rise in Q1 FY27 profit, misses estimates",Business Standard,positive,0.9965,AUTO_ACCEPTED
+2026-07-17 05:19:48,TECHM.NS,"Wipro, Tech Mahindra, Piramal Finance, Angel One: Which Stocks Got Target Price Revisions After Q1? Details Inside",NDTV Profit,neutral,0.994,AUTO_ACCEPTED
+2026-07-16 16:35:12,TECHM.NS,"Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion",BusinessLine,positive,0.9949,AUTO_ACCEPTED
+2026-07-16 16:59:30,TECHM.NS,Tech Mahindra To Roll Out Salary Hikes From Q2 In Phased Manner,NDTV Profit,neutral,0.9656,AUTO_ACCEPTED
+2026-07-16 19:12:46,TECHM.NS,"TechM reports 28% profit rise in Q1, says deal momentum remains strong as margins improve",The New Indian Express,positive,0.9966,AUTO_ACCEPTED
+2026-07-17 04:46:01,TECHM.NS,"Tech Mahindra rises after Q1 PAT jumps 28% YoY to Rs 1,465 cr",Business Standard,positive,0.9968,AUTO_ACCEPTED
+2026-07-17 05:16:21,TECHM.NS,"Stock Markets Today: Sensex, Nifty Gain on IT Stocks' Rally",Rediff,positive,0.9911,AUTO_ACCEPTED
+2026-07-16 17:34:00,TECHM.NS,Tech Mahindra Q1 YoY revenue up 6.1% to $1.6 billion,The Times of India,positive,0.9975,AUTO_ACCEPTED
+2026-07-17 03:54:19,TECHM.NS,Tech Mahindra Q1 FY27 – A show of strength,Moneycontrol.com,positive,0.9945,AUTO_ACCEPTED
+2026-07-16 07:57:48,TECHM.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-16 16:10:17,TECHM.NS,Tech Mahindra Q1 revenue climbs 17.7% as deal wins top $1 billion,Staffing Industry Analysts,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 14:25:32,TECHM.NS,"MC Tech3 | Govt to take stakes in chip startups; Q1FY27: Wipro disappoints, Tech Mahindra mixed bag; and more",LinkedIn,negative,0.5033,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 13:49:35,TECHM.NS,Earnings call transcript: Tech Mahindra posts strong Q1 2026 growth,Investing.com,positive,0.997,AUTO_ACCEPTED
+2026-07-16 12:03:44,TECHM.NS,"Tech Mahindra Q1 net profit grows 32% to ₹1,486 crore",BusinessLine,positive,0.9968,AUTO_ACCEPTED
+2026-07-16 15:22:19,TECHM.NS,Lack of revenue visibility had held back Tech Mahindra’s hiring plans,BusinessLine,negative,0.9778,AUTO_ACCEPTED
+2026-07-16 16:02:16,TECHM.NS,Tech Mahindra posts third straight quarter of over $1 billion in deal wins,Moneycontrol.com,positive,0.9057,AUTO_ACCEPTED
+2026-07-16 16:07:38,TECHM.NS,Tech Mahindra revs up while Wipro slows down in a tale of two IT firms,livemint.com,positive,0.9711,AUTO_ACCEPTED
+2026-07-16 12:49:10,TECHM.NS,"Tech Mahindra Q1 Results 2027: PAT Rises 32% YoY, Revenue Grows 18%",Sahi,positive,0.9969,AUTO_ACCEPTED
+2026-07-16 12:19:40,TECHM.NS,"Tech Mahindra Q1 FY27 EBIT Surges 53% YoY to ₹2,264 Crore as New Deal Wins Hit $1.08 Billion",Sahi,positive,0.9973,AUTO_ACCEPTED
+2026-07-17 04:33:43,TECHM.NS,IT Stocks Rally: Why Brokerages Favour Tech Mahindra Over Wipro After Q1 Earnings?,News18,positive,0.9963,AUTO_ACCEPTED
+2026-07-16 11:04:40,TECHM.NS,"Tech Mahindra Q1 Results: Net Profit Climbs 8.2% QoQ to ₹1,465 Cr, New Deal Wins Touch $1.08B",Sahi,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 13:32:12,TECHM.NS,Tech Mahindra’s AI Bets Help Lift Margins as Q1 Profit Rises 28%,analyticsindiamag.com,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 12:00:45,TECHM.NS,"Tech Mahindra Q1 result: Profit Jumps 28% to ₹1,465 crore; revenue rises 18%",Fortune India,positive,0.9974,AUTO_ACCEPTED
+2026-07-17 04:27:10,TECHM.NS,Stock markets rally in early trade propelled by buying in IT firms,The New Indian Express,positive,0.9964,AUTO_ACCEPTED
+2026-07-17 02:02:57,TECHM.NS,"Tech Mahindra Gains on Profit, Margin Growth; Skips Q1 Dividend",BW Businessworld,negative,0.8262,AUTO_ACCEPTED
+2026-07-16 11:37:27,TECHM.NS,India's Tech Mahindra Exec Says Seeing Opportunities In Vendor Consolidation & AI-Led Discretionary Spending,TradingView,positive,0.9726,AUTO_ACCEPTED
+2026-07-16 18:19:28,TECHM.NS,"Tech Mahindra June quarter net profit rises 28.4% to Rs 1,465 crore",MillenniumPost,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 06:35:24,TECHM.NS,"Q1 Results Today: Wipro, Tech Mahindra, ITC Hotels, BHEL, Jio Financial Among 40 Companies In Focus",NDTV Profit,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 11:08:18,TECHM.NS,"Tech Mahindra's headcount plunges by 863 employees in Q1, attrition rate falls to 11.8%",Moneycontrol.com,negative,0.9929,AUTO_ACCEPTED
+2026-07-17 00:30:00,TECHM.NS,"Tech Mahindra's Q1 profit up 28% to Rs 1,465 crore",The Economic Times,positive,0.9975,AUTO_ACCEPTED
+2026-07-16 10:58:52,TECHM.NS,"Tech Mahindra Q1 Attrition Slips To 11.8%; IT Headcount Falls Below 75,000",NDTV Profit,negative,0.9922,AUTO_ACCEPTED
+2026-07-16 13:35:31,TECHM.NS,"Tech Mahindra Q1 FY27 slides: AI deals fuel 6.1% growth, margins hit 14.4%",Investing.com,positive,0.7954,AUTO_ACCEPTED
+2026-07-16 14:27:40,TECHM.NS,"Tech Mahindra Q1 FY27 EBIT rises to ₹2,264 crores, up 53.3% YoY;",CXOToday.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 11:32:21,TECHM.NS,"Tech Mahindra Q1 profit rises 28.5% to Rs 1,465 crore; headcount falls by 863",Storyboard18,positive,0.9732,AUTO_ACCEPTED
+2026-07-16 18:51:40,TECHM.NS,"TechM New Deal-Wins At USD 1,078 Mn Up 33% YoY",fintechbiznews.com,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 20:04:13,TECHM.NS,"Stocks to Watch Today: Tech Mahindra, WeWork India, Borosil Renewables, Servotech Renewable, Maruti...",Moneycontrol.com,neutral,0.9903,AUTO_ACCEPTED
+2026-07-16 17:00:14,TECHM.NS,Tech Mahindra Profit Jumps 28% In Q1,BW Businessworld,positive,0.9967,AUTO_ACCEPTED
+2026-07-16 13:09:21,TECHM.NS,"Tech Mahindra's profit increased by 28% to ₹1,465 crore: Revenue increased by 17.6% in the first quarter, c...",Bhaskar English,positive,0.9963,AUTO_ACCEPTED
+2026-07-16 11:23:31,TECHM.NS,"Tech Mahindra Q1 Net Profit Jumps 28.4% to Rs 1,465 Cr",Rediff MoneyWiz,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 11:08:18,TECHM.NS,"Tech Mahindra's headcount plunges by 863 employees in Q1, attrition rate falls to 11.1%",Moneycontrol.com,negative,0.9929,AUTO_ACCEPTED
+2026-07-16 10:40:41,TECHM.NS,Tech Mahindra Q1 Consol Net Profit 14.65 Billion Rupees,TradingView,neutral,0.9611,AUTO_ACCEPTED
+2026-07-16 11:46:24,TECHM.NS,Tech Mahindra consolidated net profit rises 28.45% in the June 2026 quarter,Business Standard,positive,0.9968,AUTO_ACCEPTED
+2026-07-16 12:37:17,TECHM.NS,Tech Mahindra reports 53% YoY Q1 EBIT Surge,Mediabrief.com,positive,0.9925,AUTO_ACCEPTED
+2026-07-16 11:20:42,TECHM.NS,"Top earnings reports today: BHEL, Wipro, Tech Mahindra, Polycab among key Q1 movers",CNBC TV18,neutral,0.7563,AUTO_ACCEPTED
+2026-07-16 12:22:50,TECHM.NS,"Tech Mahindra Limited Reports Earnings Results for the First Quarter Ended June 30, 2026",marketscreener.com,neutral,0.9908,AUTO_ACCEPTED
+2026-07-17 05:15:36,TECHM.NS,India's Tech Mahindra gains as strong deal wins lift growth outlook,CNA,positive,0.9973,AUTO_ACCEPTED
+2026-07-16 14:23:32,TECHM.NS,"Tech3 | Govt to take stakes in chip startups; Q1FY27: Wipro disappoints, Tech Mahindra mixed bag; and more",Moneycontrol.com,neutral,0.641,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 15:08:38,TECHM.NS,"Tech Mahindras net profit jumps 28.4% to Rs 1,465 crore in Q1 FY27",The Tribune,positive,0.9972,AUTO_ACCEPTED
+2026-07-16 12:10:37,TECHM.NS,Tech Mahindra’s Revenue Beat Got A Hand From The Rupee,Finimize,positive,0.9498,AUTO_ACCEPTED
+2026-07-16 08:34:52,TECHM.NS,"Tech Mahindra, Wipro rally ahead of Q1 results. Is Dalal Street betting on a surprise?",Northeast Herald,positive,0.9894,AUTO_ACCEPTED
+2026-07-16 19:15:38,TECHM.NS,"Tech Mahindra Q1 FY27 Results: Net Profit Climbs to ₹1,465 Crore as Operating Profit Surges 53% on Strong AI and Telecom Deal Wins",EquityBulls,positive,0.9975,AUTO_ACCEPTED
+2026-07-17 03:05:22,TECHM.NS,"LIVE: Iran Warns Over Strait of Hormuz | Oil Above $85 | RIL, Tech M & Wipro in Focus | Opening Bell",Moneycontrol.com,neutral,0.7299,AUTO_ACCEPTED
+2026-07-16 11:35:08,TECHM.NS,"Tech Mahindra Q1 Net profit Rises 28.4% to ₹1,465 Cr",outlookbusiness.com,positive,0.9974,AUTO_ACCEPTED
+2026-07-16 05:54:42,TECHM.NS,"IT shares in focus: Nifty IT up 2% ahead of Wipro, Tech Mahindra Q1 results",Business Standard,positive,0.9971,AUTO_ACCEPTED
+2026-07-16 09:20:29,ULTRACEMCO.NS,"Cement sector June quarter preview: Demand to stay strong, but rising costs may hit earnings",CNBC TV18,neutral,0.9274,AUTO_ACCEPTED
+2026-07-17 03:31:06,UPL.NS,"UPL among 5 stocks that closed above VWAP, signaling bullish shift",The Economic Times,positive,0.9967,AUTO_ACCEPTED
+2026-07-17 02:06:27,UPL.NS,"Trade Spotlight: How should you trade Deepak Nitrite, Kajaria Ceramics, CESC, UPL, Deepak Fertilisers,...",Moneycontrol.com,neutral,0.9899,AUTO_ACCEPTED
+2026-07-17 03:31:24,UPL.NS,"UPL - IIFL Finance among 3 stocks flashing bullish signals, hinting at a possible uptrend",The Economic Times,positive,0.9965,AUTO_ACCEPTED
+2026-07-17 03:33:31,UPL.NS,"Indian Energy Exchange - UPL among 5 stocks that closed above VWAP, signaling bullish shift",The Economic Times,positive,0.9959,AUTO_ACCEPTED
+2026-07-17 02:06:00,UPL.NS,"Trade Spotlight: How should you trade Deepak Nitrite, Kajaria Ceramics, CESC, UPL, Deepak Fertilisers, Ramkrishna Forgings, and others on July 17?",TradingView,neutral,0.9927,AUTO_ACCEPTED
+2026-07-16 14:55:28,UPL.NS,"UPL Introduces Ricebeaux, Smart Weed Management Solution for Rice Cultivation",AgriBusiness Global,positive,0.8588,AUTO_ACCEPTED
+2026-07-17 03:50:54,UPL.NS,"Mitessh Thakkar bets on SRF, UPL and SBI Cards; Shrikant Chouhan recommends Delhivery, WeWork",CNBC TV18,neutral,0.9119,AUTO_ACCEPTED
+2026-07-16 13:34:00,UPL.NS,UPL denies claims of ‘preferential’ government treatment,ECR,neutral,0.8622,AUTO_ACCEPTED
+2026-07-17 02:33:43,UPL.NS,UPL's R17 billion investment boosts eThekwini's economic recovery,IOL,positive,0.9962,AUTO_ACCEPTED
+2026-07-17 04:25:47,WIPRO.NS,India's Wipro slips as weak forecast deepens IT slowdown fears,Reuters,negative,0.9936,AUTO_ACCEPTED
+2026-07-16 06:45:00,WIPRO.NS,Wipro and Tech Mahindra Brace for Muted Q1 as Wage Hikes and AI Costs Weigh on Margins,finance.biggo.com,negative,0.962,AUTO_ACCEPTED
+2026-07-16 13:05:25,WIPRO.NS,"India's Wipro lags peers after earnings miss, weak forecast",Reuters,negative,0.9936,AUTO_ACCEPTED
+2026-07-16 10:23:01,WIPRO.NS,India's Wipro misses first-quarter revenue view,Yahoo Finance Singapore,negative,0.9934,AUTO_ACCEPTED
+2026-07-17 02:21:15,WIPRO.NS,'Sell Wipro' recommendations from analysts are the highest in a year; Check new targets after Q1 results,CNBC TV18,negative,0.9613,AUTO_ACCEPTED
+2026-07-16 08:20:04,WIPRO.NS,"Q1 results today: Jio Financial, Wipro, Polycab India, BHEL among 41 companies to report earnings",The Economic Times,neutral,0.9912,AUTO_ACCEPTED
+2026-07-17 05:18:40,WIPRO.NS,Wipro shares fall Over 2% on friday morning trade,Moneycontrol.com,negative,0.9935,AUTO_ACCEPTED
+2026-07-16 11:13:18,WIPRO.NS,"Wipro's Q1 FY27 profit nearly flat at Rs 3,352 crore, revenue up 11%",Rediff,neutral,0.9804,AUTO_ACCEPTED
+2026-07-17 02:00:00,WIPRO.NS,Stable policy push for ISM 2.0; Wipro misses Q1 estimates,The Economic Times,negative,0.7677,AUTO_ACCEPTED
+2026-07-16 13:32:12,WIPRO.NS,Wipro Posts Muted June Quarter; AI-Led Transformation Deals Lift Large Bookings,analyticsindiamag.com,positive,0.9957,AUTO_ACCEPTED
+2026-07-16 16:35:12,WIPRO.NS,"Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion",BusinessLine,positive,0.9949,AUTO_ACCEPTED
+2026-07-16 14:23:32,WIPRO.NS,"Tech3 | Govt to take stakes in chip startups; Q1FY27: Wipro disappoints, Tech Mahindra mixed bag; and more",Moneycontrol.com,neutral,0.641,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 02:40:26,WIPRO.NS,Wipro’s Q1 FY 27 strengthens deal momentum as recovery remains a work in progress,dqindia.com,positive,0.9935,AUTO_ACCEPTED
+2026-07-16 17:10:07,WIPRO.NS,"Wipro Q1 Results: Net Profit Falls 4.3%, Margins Narrow; Dividend Declared",NDTV Profit,negative,0.9909,AUTO_ACCEPTED
+2026-07-17 03:49:00,WIPRO.NS,"Wipro stock falls 2%, top Nifty loser, after muted Q1 outlook and cautious demand commentary",TradingView,negative,0.9932,AUTO_ACCEPTED
+2026-07-16 16:30:09,WIPRO.NS,"Top Stories | Wipro margins at 15-qtr low, TechM tops Street, ISRO's new exit norms",LinkedIn,negative,0.908,AUTO_ACCEPTED
+2026-07-17 04:03:37,WIPRO.NS,Wipro shares slip over 2% on muted Q1 show; check what analysts said,Upstox,negative,0.9935,AUTO_ACCEPTED
+2026-07-17 02:28:07,WIPRO.NS,Andhra Pradesh’s founder-first growth strategy; Wipro’s net profit remains flat,YourStory.com,neutral,0.9708,AUTO_ACCEPTED
+2026-07-17 04:20:07,WIPRO.NS,Wipro shares slip 2.5% after Q1 miss; brokerages flag weak growth outlook,Business Standard,negative,0.9941,AUTO_ACCEPTED
+2026-07-16 14:38:46,WIPRO.NS,"Wipro Q1 FY27 Results: Profit Rises Marginally, Margins Fall to 15-Quarter Low; Stock Gains 1.77%",India Infoline,positive,0.5578,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:28:52,WIPRO.NS,Wipro shares fall over 2% after Q1 results and weak outlook disappoint Street,BusinessLine,negative,0.9943,AUTO_ACCEPTED
+2026-07-17 04:01:36,WIPRO.NS,"Wipro share price falls over 2% after Q1 results. Should you buy, sell or hold the IT stock?",livemint.com,negative,0.9896,AUTO_ACCEPTED
+2026-07-17 02:55:13,WIPRO.NS,Wipro Q1 Review: Brokerages Turn More Cautious As Guidance Disappoints — Check Target Prices,NDTV Profit,negative,0.9707,AUTO_ACCEPTED
+2026-07-16 10:32:59,WIPRO.NS,"Wipro Q1 results: Profit remains flat YoY at ₹3,352 crore; declares interim dividend of ₹2",livemint.com,neutral,0.9839,AUTO_ACCEPTED
+2026-07-17 04:20:00,WIPRO.NS,"Wipro Limited Stock 12‑Month Price Target Cut to $1.98, Implies 7% Upside",TradingView,negative,0.7829,AUTO_ACCEPTED
+2026-07-17 03:56:44,WIPRO.NS,Wipro Is The Only IT Stock In Red After Q1 Disappointment,NDTV Profit,negative,0.9697,AUTO_ACCEPTED
+2026-07-16 10:30:41,WIPRO.NS,"Wipro Declares Interim Dividend Of Rs 2/Share; Check Record Date, Payout Details",NDTV Profit,neutral,0.9356,AUTO_ACCEPTED
+2026-07-17 00:40:28,WIPRO.NS,Wipro Q1 Net Profit Declines to 33.5B Rupees; EBIT Margin Contracts to 15.64% QoQ,Sahi,negative,0.9927,AUTO_ACCEPTED
+2026-07-16 10:28:46,WIPRO.NS,"Wipro Q1 net profit nearly flat at ₹3,325 crore; revenue rises 10.6%",Business Standard,neutral,0.9613,AUTO_ACCEPTED
+2026-07-17 00:41:12,WIPRO.NS,Wipro Says Longer Client Decision Cycles Delayed Some Large Deals Into Q2,NDTV Profit,negative,0.7138,AUTO_ACCEPTED
+2026-07-17 02:13:00,WIPRO.NS,Key facts: Wipro Q1 EBIT 16.0% Low; $3.37B Bookings; $500M AI Fund,TradingView,negative,0.9882,AUTO_ACCEPTED
+2026-07-16 19:14:50,WIPRO.NS,"Wipro revenue, profit flat in Q1as weak discretionary spending continues to weigh",The New Indian Express,neutral,0.5245,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 10:22:23,WIPRO.NS,"Wipro Q1 net profit at Rs 3,352 crore, revenue at Rs 24,479 crore; co declares Rs 2 per share dividend",Moneycontrol.com,neutral,0.9771,AUTO_ACCEPTED
+2026-07-16 14:45:08,WIPRO.NS,"Wipro posts a flat Q1 bottom-line at ₹3,352 cr; maintains a muted outlook for upcoming quarter",The Hindu,neutral,0.9837,AUTO_ACCEPTED
+2026-07-16 10:27:54,WIPRO.NS,Wipro Q1 Results: Margins down to lowest in nearly four years; Deal wins drop 2.5%,CNBC TV18,negative,0.9926,AUTO_ACCEPTED
+2026-07-17 04:13:28,WIPRO.NS,"Wipro Frees Up Bench For New Deals, But Rules Out Sharp Headcount Increase",NDTV Profit,neutral,0.8617,AUTO_ACCEPTED
+2026-07-17 02:49:46,WIPRO.NS,Wipro Sees BFSI Demand Improving As Clients Reinvest Cost Savings Into AI,NDTV Profit,positive,0.9958,AUTO_ACCEPTED
+2026-07-17 03:15:11,WIPRO.NS,Wipro Gets Rating Upgrade Despite Weak Q1; Dolat Capital Cites Reasonable Valuations — Check New Target Price,NDTV Profit,positive,0.9927,AUTO_ACCEPTED
+2026-07-16 14:25:32,WIPRO.NS,"MC Tech3 | Govt to take stakes in chip startups; Q1FY27: Wipro disappoints, Tech Mahindra mixed bag; and more",LinkedIn,negative,0.5033,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 03:04:44,WIPRO.NS,"Wipro stock rating: Brokerages split after Q1 results; Nomura stays bullish, Jefferies cuts estimates",Moneycontrol.com,neutral,0.8427,AUTO_ACCEPTED
+2026-07-17 01:26:18,WIPRO.NS,"Wipro Dividend Explained: Amount, Record Date, Payment Date And Other Details — What Investors Should Know",NDTV Profit,neutral,0.9942,AUTO_ACCEPTED
+2026-07-16 10:27:47,WIPRO.NS,"Wipro Q1 Results: Profit flat YoY at Rs 3,352 crore; co declares Rs 2/share dividend",The Economic Times,neutral,0.985,AUTO_ACCEPTED
+2026-07-17 02:35:55,WIPRO.NS,"Stocks to watch, July 17: Jio Finance, RIL, Wipro, TechM, CEAT, ITI, Federal Bank, WeWork India",Upstox,neutral,0.9935,AUTO_ACCEPTED
+2026-07-17 05:19:48,WIPRO.NS,"Wipro, Tech Mahindra, Piramal Finance, Angel One: Which Stocks Got Target Price Revisions After Q1? Details Inside",NDTV Profit,neutral,0.994,AUTO_ACCEPTED
+2026-07-17 03:45:22,WIPRO.NS,"Stocks To Watch Today, July 17: Wipro, HCL Tech, Borosil Renewables, Coal India, Piramal Finance",HDFC Sky,neutral,0.9929,AUTO_ACCEPTED
+2026-07-16 15:56:06,WIPRO.NS,Wipro Sees Companies Running Into An Unexpected AI Problem. It's Not Jobs,NDTV Profit,negative,0.9651,AUTO_ACCEPTED
+2026-07-16 15:00:09,WIPRO.NS,"Wipro reports Q1 revenue growth, but IT services edges down",Staffing Industry Analysts,negative,0.9835,AUTO_ACCEPTED
+2026-07-17 04:27:55,WIPRO.NS,"Infosys, TCS, Tech Mahindra, HCLTech rally 2%; Why are IT stocks rising while Wipro falls?",India Today,positive,0.9958,AUTO_ACCEPTED
+2026-07-17 04:24:51,WIPRO.NS,"Wipro bets on AI as clients stay cautious on discretionary spending, targets margin recovery",CNBC TV18,negative,0.558,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 05:20:30,WIPRO.NS,"Wipro slides after Q1 PAT fall 5% QoQ; revenue rises 1%, declares Rs 2 interim dividend",Business Standard,negative,0.987,AUTO_ACCEPTED
+2026-07-16 07:57:48,WIPRO.NS,"Nifty 50 Gainers and Losers Today, July 16, 2026: HCLTech, Wipro, Tech Mahindra Among Gainers; Eternal, SBI Life, Axis Bank Among Losers",HDFC Sky,neutral,0.8403,AUTO_ACCEPTED
+2026-07-16 17:41:30,WIPRO.NS,"WIPRO: Q1 revenue grew modestly year-on-year, but margin and sequential growth remain under pressure",TradingView,negative,0.6804,AUTO_ACCEPTED
+2026-07-16 16:15:10,WIPRO.NS,"WIPRO: Q1 FY27 delivered modest growth and margin pressure, with cautious Q2 guidance and strong AI focus",TradingView,neutral,0.9587,AUTO_ACCEPTED
+2026-07-16 16:13:47,WIPRO.NS,"Wipro Vs TCS Vs HCLTech: Deal Wins To Guidance, What Q1 Numbers Of Indian IT Majors Reveal",NDTV Profit,neutral,0.9858,AUTO_ACCEPTED
+2026-07-16 15:56:05,WIPRO.NS,Wipro Ltd reports results for the quarter ended June 30 - Earnings Summary,TradingView,neutral,0.9923,AUTO_ACCEPTED
+2026-07-16 13:21:18,WIPRO.NS,"WIPRO: Strong revenue growth, major share buyback, and interim dividend highlight the quarter",TradingView,positive,0.9912,AUTO_ACCEPTED
+2026-07-16 14:04:08,WIPRO.NS,Wipro ADRs Slip Into Red As IT Firm Projects Up To 1.5% Degrowth In Q2,NDTV Profit,negative,0.9922,AUTO_ACCEPTED
+2026-07-17 02:33:01,WIPRO.NS,"Top stocks in news: RIL, TechM, CEAT, Wipro, Maruti Suzuki, Coal India, BHEL, WeWork, JFSL",Business Today,neutral,0.9916,AUTO_ACCEPTED
+2026-07-16 14:43:31,WIPRO.NS,"Wipro reports mixed Q1: Guidance improves, margins contract",BusinessLine,negative,0.7865,AUTO_ACCEPTED
+2026-07-16 13:20:45,WIPRO.NS,Wipro guides for -1.5% to 0.5% sequential revenue growth for Q2FY27,Moneycontrol.com,positive,0.9352,AUTO_ACCEPTED
+2026-07-16 13:49:45,WIPRO.NS,Wipro Q2 Guidance: Sequential Revenue Growth Seen Between -1.5% And 0.5%,NDTV Profit,positive,0.938,AUTO_ACCEPTED
+2026-07-16 13:22:28,WIPRO.NS,"Wipro extends hiring streak, TechM cuts jobs again; here's how IT peers stack up - CNBC TV18",LinkedIn,neutral,0.9633,AUTO_ACCEPTED
+2026-07-16 12:29:40,WIPRO.NS,"Wipro Q1 Net Profit Drops 4.3% QoQ to ₹3,352 Crore Amid Margin Pressures",Sahi,negative,0.9935,AUTO_ACCEPTED
+2026-07-16 13:02:03,WIPRO.NS,"WIPRO: Q1 saw modest year-on-year growth, margin pressure, and cautious Q2 guidance amid macro uncertainty",TradingView,neutral,0.6524,AUTO_ACCEPTED
+2026-07-16 16:07:38,WIPRO.NS,Tech Mahindra revs up while Wipro slows down in a tale of two IT firms,livemint.com,positive,0.9711,AUTO_ACCEPTED
+2026-07-16 14:31:54,WIPRO.NS,Wipro’s net profit remains flat in Q1 of FY27,YourStory.com,neutral,0.9915,AUTO_ACCEPTED
+2026-07-17 01:20:51,WIPRO.NS,"Stocks to watch: Reliance Industries, Wipro, CEAT among shares in focus today; check list here",livemint.com,neutral,0.9907,AUTO_ACCEPTED
+2026-07-16 20:41:26,WIPRO.NS,"Wipro announces results for the Quarter ended June 30, 2026",CXOToday.com,neutral,0.9928,AUTO_ACCEPTED
+2026-07-16 14:21:49,WIPRO.NS,"Wipro says demand environment unchanged, discretionary spending remains intense",Moneycontrol.com,neutral,0.9902,AUTO_ACCEPTED
+2026-07-16 13:40:24,WIPRO.NS,"WIPRO: Q1 revenue grew 0.9% year-on-year, but margins fell; Q2 guidance remains cautious",TradingView,negative,0.8171,AUTO_ACCEPTED
+2026-07-16 12:26:26,WIPRO.NS,"WIPRO: Q1 revenue grew 0.9% YoY, margins declined, and Q2 guidance remains cautious amid uncertainty",TradingView,negative,0.9768,AUTO_ACCEPTED
+2026-07-16 15:04:51,WIPRO.NS,Enterprise AI success is about more than Large Language Models - Wipro's birthday message to clients as it enters its ninth decade,Diginomica,positive,0.5361,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:03:00,WIPRO.NS,India's Wipro slips as weak forecast fuels fears of prolonged IT slowdown,Yahoo News Singapore,negative,0.9937,AUTO_ACCEPTED
+2026-07-16 13:46:17,WIPRO.NS,"Wipro Q1 net profit flat at Rs 3,352 crore",Deccan Herald,neutral,0.9887,AUTO_ACCEPTED
+2026-07-16 16:16:14,WIPRO.NS,"Wipro's AI-led deal wins grow, but revenue outlook remains cautious",Techcircle,neutral,0.6717,AUTO_ACCEPTED
+2026-07-16 14:53:36,WIPRO.NS,"WIPRO: Q1 revenue grew 0.9% year-on-year, margins declined, and AI investments accelerated",TradingView,negative,0.7778,AUTO_ACCEPTED
+2026-07-17 00:57:05,WIPRO.NS,Wipro's strong deal wins offset by weak revenue and margin decline,The Economic Times,negative,0.989,AUTO_ACCEPTED
+2026-07-16 17:45:32,WIPRO.NS,"AI Squeeze On Margin: Wipro Admits Drag, But Won't Slow Down On Future Bets",NDTV Profit,negative,0.6437,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-17 04:33:43,WIPRO.NS,IT Stocks Rally: Why Brokerages Favour Tech Mahindra Over Wipro After Q1 Earnings?,News18,positive,0.9963,AUTO_ACCEPTED
+2026-07-16 11:50:14,WIPRO.NS,"Wipro Q1 FY27 Results: Revenue Grows 11% YoY, PAT Remains Flat",Sahi,positive,0.5498,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-16 12:42:34,WIPRO.NS,Wipro hires 888 more employees in Q1. What's driving the headcount growth?,India Today,neutral,0.9758,AUTO_ACCEPTED
+2026-07-17 02:34:20,WIPRO.NS,"Stocks to Watch today: RIL, Jio Financial, Wipro, Maruti Suzuki, Ceat",Business Standard,neutral,0.993,AUTO_ACCEPTED
+2026-07-16 15:56:37,WIPRO.NS,Beyond the numbers: Wipro CEO Srini Pallia explains the IT giant's AI strategy,CNBC TV18,neutral,0.9175,AUTO_ACCEPTED
+2026-07-16 12:00:18,WIPRO.NS,India's Wipro Exec Sees Deal Momentum Building Up In Banking Segment In Q2,TradingView,positive,0.9955,AUTO_ACCEPTED
+2026-07-16 11:07:34,WIPRO.NS,"WIPRO: Strong revenue growth, major share buyback, and interim dividend highlight Q1 FY27",TradingView,positive,0.9916,AUTO_ACCEPTED
+2026-07-16 11:49:55,WIPRO.NS,"Wipro Q1 Results: Profit rises 1%, revenue up 11%; declares Rs 2 interim dividend",India Today,positive,0.9962,AUTO_ACCEPTED
