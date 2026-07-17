@@ -14,3 +14,4 @@ python-dotenv>=1.0.0
 lime
 transformers-interpret
 yfinance>=0.2.40
+pytz
