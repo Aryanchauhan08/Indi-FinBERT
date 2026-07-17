@@ -1320,7 +1320,7 @@ _js_for_iframe = (
     .replace("new IntersectionObserver(", "new window.parent.IntersectionObserver(")  # FIXED: Observer must use parent context to observe parent elements
 )
 
-st.html("<script>" + _js_for_iframe + "</script>")
+components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
 # ── Navigation radio  ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
