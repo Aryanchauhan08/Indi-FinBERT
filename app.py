@@ -824,62 +824,7 @@ st.markdown('''
 .finbert-content-push {
     height: 0px !important;
 }
-/* Float the main navigation into the custom navbar */
-div.st-key-navigation {
-    position: fixed !important;
-    top: 11px !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    z-index: 10000 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    width: auto !important;
-}
 
-/* Apply the scoping to all sub-elements */
-div.st-key-navigation div[role="radiogroup"] {
-    background: rgba(255, 255, 255, 0.03) !important;
-    border: 1px solid rgba(255, 255, 255, 0.08) !important;
-    padding: 6px !important;
-    border-radius: 4px !important;
-    gap: 4px !important;
-}
-div.st-key-navigation label {
-    background: transparent !important;
-    border-radius: 4px !important;
-    padding: 8px 24px !important;
-    cursor: pointer !important;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
-    border: 1px solid transparent !important;
-    margin: 0 !important;
-}
-div.st-key-navigation label > div:first-child {
-    display: none !important;
-}
-div.st-key-navigation label:hover {
-    background: rgba(255, 255, 255, 0.06) !important;
-    border: 1px solid rgba(0, 242, 255, 0.3) !important;
-    box-shadow: 0 0 15px rgba(0, 242, 255, 0.2), inset 0 0 10px rgba(255, 255, 255, 0.02) !important;
-    transform: translateY(-2px) !important;
-}
-div.st-key-navigation label[data-checked="true"] {
-    background: rgba(255, 255, 255, 0.1) !important;
-    border: 1px solid rgba(255, 255, 255, 0.2) !important;
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1) !important;
-}
-div.st-key-navigation label p {
-    color: #8A99AD !important;
-    font-family: 'Geist Mono', monospace !important;
-    font-weight: 700 !important;
-    font-size: 11px !important;
-    letter-spacing: 1px !important;
-    text-transform: uppercase !important;
-    transition: color 0.3s ease !important;
-}
-div.st-key-navigation label:hover p, 
-div.st-key-navigation label[data-checked="true"] p {
-    color: #FFFFFF !important;
-}
 /* VISUAL: Add Plotly chart hover glow effect */
 .stPlotlyChart:hover {
     box-shadow: 0 0 30px rgba(0, 242, 255, 0.08),
@@ -1322,52 +1267,8 @@ _js_for_iframe = (
 
 components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
-# ── Navigation radio  ──
+# ── Navigation Options & Sidebar ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
-st.sidebar.toggle("⚡ Auto-Refresh (60s)", value=False, key="auto_refresh")
-
-# ── Sidebar Info Panel ──
-_last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S") if not df.empty else "No data"
-_today_count = int((df["Date"].dt.date == datetime.date.today()).sum()) if not df.empty else 0
-st.sidebar.markdown(
-    f"""
-    <div style="background:#0A0F1D;border:1px solid rgba(255,255,255,0.06);border-radius:8px;padding:12px;margin-top:8px;">
-        <div style="font-family:'Geist Mono',monospace;font-size:10px;color:#8A99AD;margin-bottom:6px;text-transform:uppercase;letter-spacing:1px;">Pipeline Status</div>
-        <div style="font-family:'Geist Mono',monospace;font-size:11px;color:#FFFFFF;margin-bottom:4px;">🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span></div>
-        <div style="font-family:'Geist Mono',monospace;font-size:11px;color:#FFFFFF;margin-bottom:4px;">📊 Today's signals: <span style="color:#00FF66;">{_today_count}</span></div>
-        <div style="font-family:'Geist Mono',monospace;font-size:10px;color:#64748B;margin-top:6px;">{source_info}</div>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
-
-if st.session_state.get("show_waitlist", False):
-    with st.sidebar.form("waitlist_form"):
-        st.markdown("""
-### 📬 Join the Beta Waitlist
-<p style='font-size:0.78rem;color:#94A3B8;margin-top:-8px;'>
-Get early access to <b style='color:#00F2FF;'>FinBERT Trader v3.0</b> — 
-live NSE/BSE signal alerts, portfolio integration, and real-time FinBERT inference API access.<br><br>
-We'll notify you at launch.
-</p>
-""", unsafe_allow_html=True)
-        name = st.text_input("Name")
-        email = st.text_input("Email")
-        submitted = st.form_submit_button("Submit")
-        if submitted:
-            waitlist_entry = pd.DataFrame([{
-                "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                "name": name.strip(),
-                "email": email.strip()
-            }])
-            waitlist_entry.to_csv(
-                WAITLIST_PATH,
-                mode="a",
-                header=not os.path.exists(WAITLIST_PATH),
-                index=False
-            )
-            st.success("✅ You're on the waitlist! We'll be in touch.")
-            st.caption("📁 Saved to waitlist.csv — we'll reach out when beta opens.")
 
 if st.session_state.current_page not in options:
     st.session_state.current_page = "⚡ LIVE PIPELINE"
@@ -1377,16 +1278,84 @@ default_ix = options.index(st.session_state.current_page)
 def on_nav_change():
     if "navigation" in st.session_state:
         st.session_state.current_page = st.session_state.navigation
+
+with st.sidebar:
+    st.markdown(
+        "<div style='font-family:\"Inter\", sans-serif; font-size:1rem; font-weight:700; color:#FFFFFF; margin-bottom:4px;'>🧭 Navigation</div>", 
+        unsafe_allow_html=True
+    )
+    st.radio(
+        "Navigation Options",
+        options,
+        index=default_ix,
+        key="navigation",
+        on_change=on_nav_change,
+        label_visibility="collapsed"
+    )
+    
+    # Render global filter in sidebar only on Live Pipeline page
+    if st.session_state.current_page == "⚡ LIVE PIPELINE":
+        st.markdown("---")
+        st.markdown(
+            "<div style='font-family:\"Inter\", sans-serif; font-size:1.0rem; font-weight:700; color:#FFFFFF; margin-bottom:4px;'>🔍 Evaluation Filters</div>", 
+            unsafe_allow_html=True
+        )
+        min_confidence = st.slider(
+            "Min Classification Confidence Score",
+            min_value=0.0,
+            max_value=1.0,
+            step=0.05,
+            key="confidence_slider"
+        )
+    else:
+        # Fallback value for min_confidence on other pages
+        min_confidence = CONFIDENCE_THRESHOLD
         
-st.radio(
-    "Navigation",
-    options,
-    horizontal=True,
-    index=default_ix,
-    key="navigation",
-    on_change=on_nav_change,
-    label_visibility="collapsed"
-)
+    st.markdown("---")
+    st.toggle("⚡ Auto-Refresh (60s)", value=False, key="auto_refresh")
+    
+    # ── Sidebar Info Panel ──
+    _last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S") if not df.empty else "No data"
+    _today_count = int((df["Date"].dt.date == datetime.date.today()).sum()) if not df.empty else 0
+    st.markdown(
+        f"""
+        <div style="background:#0A0F1D;border:1px solid rgba(255,255,255,0.06);border-radius:8px;padding:12px;margin-top:8px;">
+            <div style="font-family:'Geist Mono',monospace;font-size:10px;color:#8A99AD;margin-bottom:6px;text-transform:uppercase;letter-spacing:1px;">Pipeline Status</div>
+            <div style="font-family:'Geist Mono',monospace;font-size:11px;color:#FFFFFF;margin-bottom:4px;">🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span></div>
+            <div style="font-family:'Geist Mono',monospace;font-size:11px;color:#FFFFFF;margin-bottom:4px;">📊 Today's signals: <span style="color:#00FF66;">{_today_count}</span></div>
+            <div style="font-family:'Geist Mono',monospace;font-size:10px;color:#64748B;margin-top:6px;">{source_info}</div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+    
+    if st.session_state.get("show_waitlist", False):
+        with st.form("waitlist_form"):
+            st.markdown("""
+    ### 📬 Join the Beta Waitlist
+    <p style='font-size:0.78rem;color:#94A3B8;margin-top:-8px;'>
+    Get early access to <b style='color:#00F2FF;'>FinBERT Trader v3.0</b> — 
+    live NSE/BSE signal alerts, portfolio integration, and real-time FinBERT inference API access.<br><br>
+    We'll notify you at launch.
+    </p>
+    """, unsafe_allow_html=True)
+            name = st.text_input("Name")
+            email = st.text_input("Email")
+            submitted = st.form_submit_button("Submit")
+            if submitted:
+                waitlist_entry = pd.DataFrame([{
+                    "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                    "name": name.strip(),
+                    "email": email.strip()
+                }])
+                waitlist_entry.to_csv(
+                    WAITLIST_PATH,
+                    mode="a",
+                    header=not os.path.exists(WAITLIST_PATH),
+                    index=False
+                )
+                st.success("✅ You're on the waitlist! We'll be in touch.")
+                st.caption("📁 Saved to waitlist.csv — we'll reach out when beta opens.")
 
 # -----------------
 # Real FinBERT Inference Helper
@@ -1579,7 +1548,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     height=200,
                     margin=dict(l=20, r=20, t=40, b=20)
                 )
-                st.plotly_chart(fig, width='stretch')
+                st.plotly_chart(fig, use_container_width=True)
                 
             with col_probs:
                 st.markdown("### Probability Distribution")
@@ -1820,7 +1789,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
 
             if _batch_valid:
                 st.markdown("#### Sample Preview (First 10 rows)")
-                st.dataframe(batch_df.head(10), width='stretch')
+                st.dataframe(batch_df.head(10), use_container_width=True)
                 
                 if st.button("Process Batch Predictions", type="primary", key="batch_predict_btn"):
                     with st.spinner("Processing batch pipeline predictions..."):
@@ -1870,7 +1839,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     donut_col, table_col = st.columns([1, 1.8])
                     
                     with donut_col:
-                        st.plotly_chart(fig_donut, width='stretch')
+                        st.plotly_chart(fig_donut, use_container_width=True)
                         
                     with table_col:
                         conf_threshold = st.slider("Gating Confidence Threshold (%)", min_value=0, max_value=100, value=65, key="batch_conf_slider")
@@ -1884,7 +1853,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         else:
                             display_pdf = gated_pdf
                             
-                        st.dataframe(display_pdf.head(10), width='stretch')
+                        st.dataframe(display_pdf.head(10), use_container_width=True)
                         
                         csv_data = gated_pdf.to_csv(index=False).encode('utf-8')
                         st.download_button(
@@ -1995,7 +1964,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             </div>
         </div>
         """
-        st.iframe(_donut_html, height=190)
+        components.html(_donut_html, height=190)
 
     st.markdown("---")
     st.markdown("### 📡 Live NSE/BSE Feed Tracker")
@@ -2206,7 +2175,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     """,
                     unsafe_allow_html=True
                 )
-                st.plotly_chart(fig_spark, width='stretch', key=f"spark_{t.lower()}")
+                st.plotly_chart(fig_spark, use_container_width=True, key=f"spark_{t.lower()}")
                 st.markdown(alert_banner, unsafe_allow_html=True)
             
     st.markdown("---")
@@ -2414,7 +2383,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                 margin=dict(l=40, r=40, t=30, b=40),
                 height=560
             )
-            st.plotly_chart(fig, width='stretch', key="news_impact_chart")
+            st.plotly_chart(fig, use_container_width=True, key="news_impact_chart")
 
             # --- Summary metric row ---
             unique_news_dates = nic_df["Date_Only"].nunique() if not nic_df.empty else 0
@@ -2610,7 +2579,7 @@ fig_map.update_layout(
     coloraxis_showscale=False
 )
 
-st.plotly_chart(fig_map, width='stretch')
+st.plotly_chart(fig_map, use_container_width=True)
 
 # VISUAL: 90-Day Sentiment Heatmap Calendar above the data table
 if not df.empty:
@@ -2657,7 +2626,7 @@ if not df.empty:
         )
     )
     st.markdown("#### 📅 90-Day Sentiment Heatmap")
-    st.plotly_chart(fig_heat, width='stretch')
+    st.plotly_chart(fig_heat, use_container_width=True)
 
 # No user filters — display full latest data autonomously
 df_filtered = df.copy()
@@ -2808,14 +2777,7 @@ else:
     latest_run_date = datetime.date.today()
     todays_df = pd.DataFrame()
 
-# Confidence slider filter
-min_confidence = st.slider(
-    "Filter by Minimum Classification Confidence Score",
-    min_value=0.0,
-    max_value=1.0,
-    step=0.05,
-    key="confidence_slider"
-)
+# Confidence slider filter is now managed in the sidebar dynamically
 
 # Apply filter
 if not todays_df.empty:
@@ -2869,7 +2831,7 @@ if not filtered_headlines.empty:
         .format({"Confidence": "{:.4f}"})
     )
     
-    st.dataframe(styled_df, width='stretch', height=350)
+    st.dataframe(styled_df, use_container_width=True, height=350)
     
     # Download matrix export button
     csv_bytes = display_df.to_csv(index=False).encode("utf-8")
@@ -2884,7 +2846,7 @@ else:
     st.info(f"No headlines found for the latest evaluation date ({latest_run_date}).")
 
 st.markdown("---")
-if st.button("⚡ Run Live Inference Pipeline", width='stretch', type="primary"):
+if st.button("⚡ Run Live Inference Pipeline", use_container_width=True, type="primary"):
     with st.spinner("Executing pipeline subprocess..."):
         try:
             result = subprocess.run(
