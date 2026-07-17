@@ -1391,11 +1391,14 @@ st.radio(
 # -----------------
 # Real FinBERT Inference Helper
 # -----------------
-# Pull token from Streamlit Secrets if deployed
-hf_token = None
-if "HF_TOKEN" in st.secrets:
-    os.environ["HF_TOKEN"] = st.secrets["HF_TOKEN"]
-    hf_token = st.secrets["HF_TOKEN"]
+# Pull token from Streamlit Secrets if deployed or environment variable locally
+hf_token = os.environ.get("HF_TOKEN")
+try:
+    if "HF_TOKEN" in st.secrets:
+        os.environ["HF_TOKEN"] = st.secrets["HF_TOKEN"]
+        hf_token = st.secrets["HF_TOKEN"]
+except Exception:
+    pass
 
 @st.cache_resource
 def load_finbert_model():
