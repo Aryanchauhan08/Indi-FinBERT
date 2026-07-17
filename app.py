@@ -1320,7 +1320,7 @@ _js_for_iframe = (
     .replace("new IntersectionObserver(", "new window.parent.IntersectionObserver(")  # FIXED: Observer must use parent context to observe parent elements
 )
 
-components.html("<script>" + _js_for_iframe + "</script>", height=0)
+st.iframe("<script>" + _js_for_iframe + "</script>", height=0)
 
 # ── Navigation radio  ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
@@ -1391,12 +1391,16 @@ st.radio(
 # -----------------
 # Real FinBERT Inference Helper
 # -----------------
+# Pull token from Streamlit Secrets if deployed
+hf_token = None
+if "HF_TOKEN" in st.secrets:
+    os.environ["HF_TOKEN"] = st.secrets["HF_TOKEN"]
+    hf_token = st.secrets["HF_TOKEN"]
+
 @st.cache_resource
 def load_finbert_model():
     # Force Streamlit to check for the token and alert if it's completely missing
-    try:
-        hf_token = st.secrets["HF_TOKEN"]
-    except KeyError:
+    if not hf_token:
         st.error("🚨 Streamlit Secrets Error: 'HF_TOKEN' was not found! Please verify your Streamlit Cloud settings.")
         st.stop()
         
@@ -1409,7 +1413,12 @@ def load_finbert_model():
 
 @st.cache_resource
 def load_vanilla_finbert():
-    return pipeline("text-classification", model="ProsusAI/finbert", top_k=None)
+    return pipeline(
+        "text-classification", 
+        model="ProsusAI/finbert", 
+        token=hf_token,
+        top_k=None
+    )
 
 def real_predict_api(headline):
     # 1. Run inference on Indi-FinBERT
@@ -1983,7 +1992,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             </div>
         </div>
         """
-        components.html(_donut_html, height=190, scrolling=False)
+        st.iframe(_donut_html, height=190)
 
     st.markdown("---")
     st.markdown("### 📡 Live NSE/BSE Feed Tracker")
