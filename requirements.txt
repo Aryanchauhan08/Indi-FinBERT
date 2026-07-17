@@ -4,6 +4,7 @@ numpy>=1.24.0
 plotly>=5.24.0
 transformers>=4.25.0
 torch>=1.13.0
+torchvision>=0.14.0
 jinja2>=3.0.0
 huggingface_hub>=0.10.0
 beautifulsoup4>=4.11.0
