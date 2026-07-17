@@ -29,7 +29,7 @@ st.set_page_config(
     page_title="FINBERT TRADER v2.5",
     page_icon="⚡",
     layout="wide",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="expanded"
 )
 
 
