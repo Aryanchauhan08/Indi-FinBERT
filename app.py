@@ -657,12 +657,14 @@ if not df.empty:
     df = df.drop_duplicates(subset=['Ticker', 'Headline'], keep='first')
 
 # Calculate pipeline metrics for header and body
-_last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S") if not df.empty else "17 Jul 2026, 05:23:19"
-_today_count = int((df["Date"].dt.date == datetime.date.today()).sum()) if not df.empty else 215
-
-if df.empty:
-    _last_run = "17 Jul 2026, 05:23:19"
-    _today_count = 215
+_last_run = "--"
+_today_count = "--"
+if not df.empty and "Date" in df.columns:
+    try:
+        _last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S")
+        _today_count = str(int((df["Date"].dt.date == datetime.date.today()).sum()))
+    except Exception:
+        pass
 
 if df.empty:
     st.warning("⚠️ No sentiment data could be loaded from any source. Please run the inference pipeline first or check your data files.")
@@ -1044,8 +1046,6 @@ st.markdown(f"""
             🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span><br>
             📊 Today's signals: <span style="display:inline-flex; align-items:center; gap:5px; background: rgba(0, 255, 102, 0.07); border: 1px solid rgba(0, 255, 102, 0.2); color: #00FF66; padding: 2px 6px; border-radius: 4px; font-weight:700; margin-left: 2px;"><span style="width: 6px; height: 6px; background: #00FF66; border-radius: 50%; animation: livePulse 1.8s ease-in-out infinite; display: inline-block;"></span>{_today_count}</span>
         </div>
-        <div style="border-left: 1px solid rgba(255, 255, 255, 0.08); height: 32px; margin: 0 10px;"></div>
-        <div class="nb-clock" id="ist-clock" style="color: #8A99AD !important; font-weight: 600;">--:--:-- IST</div>
     </div>
 </div>
 <div class="finbert-content-push" style="height: 25px !important;"></div>
@@ -1075,35 +1075,7 @@ resetScroll();
 setTimeout(resetScroll, 50);
 setTimeout(resetScroll, 150);
 
-// ── 2. Live IST Clock ── Always clear and restart so it survives iframe recreation on every tab switch
-if (window._clockInterval) {{
-    window.parent.clearInterval(window._clockInterval);
-    window._clockInterval = null;
-}}
-window._clockInterval = window.parent.setInterval(function() {{
-    var now = new Date();
-    var timeString = now.toLocaleTimeString('en-US', {{
-        timeZone: 'Asia/Kolkata',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false
-    }});
-    var clockEl = document.getElementById('ist-clock');
-    if (clockEl) clockEl.innerText = timeString + ' IST';
-}}, 1000);
-window.parent.setTimeout(function() {{
-    var now = new Date();
-    var timeString = now.toLocaleTimeString('en-US', {{
-        timeZone: 'Asia/Kolkata',
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-        hour12: false
-    }});
-    var clockEl = document.getElementById('ist-clock');
-    if (clockEl) clockEl.innerText = timeString + ' IST';
-}}, 30);
+// Clock feature removed
 
 // ── 3. Stat Counter Animation ──
 const easeOutExpo = (elapsed, start, change, duration) => {{
