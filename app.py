@@ -26,7 +26,7 @@ except ImportError:
 
 # Configure page settings
 st.set_page_config(
-    page_title="FINBERT TRADER v2.5",
+    page_title="Indi-FinBERT v2.5",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -656,6 +656,14 @@ df, source_info = load_data(GITHUB_RAW_URL)
 if not df.empty:
     df = df.drop_duplicates(subset=['Ticker', 'Headline'], keep='first')
 
+# Calculate pipeline metrics for header and body
+_last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S") if not df.empty else "17 Jul 2026, 05:23:19"
+_today_count = int((df["Date"].dt.date == datetime.date.today()).sum()) if not df.empty else 215
+
+if df.empty:
+    _last_run = "17 Jul 2026, 05:23:19"
+    _today_count = 215
+
 if df.empty:
     st.warning("⚠️ No sentiment data could be loaded from any source. Please run the inference pipeline first or check your data files.")
     st.stop()
@@ -706,8 +714,9 @@ st.markdown('''
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 28px;
-    height: 58px;
+    padding: 8px 28px;
+    min-height: 58px;
+    height: auto;
     background: rgba(5, 8, 17, 0.85);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
@@ -784,8 +793,9 @@ st.markdown('''
 }
 .finbert-navbar .nb-live {
     display: flex;
-    align-items: center;
-    gap: 8px;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
     flex-shrink: 0;
 }
 .finbert-navbar .nb-live-pill {
@@ -1012,7 +1022,7 @@ st.markdown(f"""
                 </svg>
             </div>
             <div class="nb-brand">
-                <span class="nb-name">FinBERT Trader</span>
+                <span class="nb-name">Indi-FinBERT</span>
                 <span class="nb-sub">v2.5 &nbsp;•&nbsp; Indian Markets</span>
             </div>
         </div>
@@ -1030,11 +1040,18 @@ st.markdown(f"""
     </div>
     <div style="flex:1;"></div>
     <div class="nb-live">
-        <div class="nb-live-pill"><span class="nb-live-dot"></span>LIVE &nbsp;•&nbsp; 3 feeds</div>
-        <div class="nb-clock" id="ist-clock" style="color: #8A99AD !important; font-weight: 600; margin-left: 8px;">--:--:-- IST</div>
+        <div style="display:flex; align-items:center; gap:8px;">
+            <div class="nb-live-pill"><span class="nb-live-dot"></span>LIVE &nbsp;•&nbsp; 3 feeds</div>
+            <div class="nb-clock" id="ist-clock" style="color: #8A99AD !important; font-weight: 600; margin-left: 8px;">--:--:-- IST</div>
+        </div>
+        <div style="font-family:'Geist Mono', monospace; font-size:10.5px; color:#8A99AD; text-align:right; font-weight:600; line-height:1.4; margin-top:2px;">
+            <span style="color:#475569; font-weight:700;">Pipeline Status</span><br>
+            🕐 Last run: <span style="color:#00F2FF;">{_last_run}</span><br>
+            📊 Today's signals: <span style="color:#00FF66;">{_today_count}</span>
+        </div>
     </div>
 </div>
-<div class="finbert-content-push"></div>
+<div class="finbert-content-push" style="height: 25px !important;"></div>
 """, unsafe_allow_html=True)
 
 # ── Consolidated parent-scope Javascript execution wrapper ──
@@ -1323,25 +1340,7 @@ _js_for_iframe = (
 
 components.html("<script>" + _js_for_iframe + "</script>", height=0)
 
-# ── Pipeline Status Tracker (Near top of the app) ──
-_last_run = df["Date"].max().strftime("%d %b %Y, %H:%M:%S") if not df.empty else "17 Jul 2026, 05:23:19"
-_today_count = int((df["Date"].dt.date == datetime.date.today()).sum()) if not df.empty else 215
-
-# Fallback values to match example requirements if no live data is set
-if df.empty:
-    _last_run = "17 Jul 2026, 05:23:19"
-    _today_count = 215
-
-st.markdown(
-    f"""
-    <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 8px; padding: 14px; margin: 10px auto 20px auto; max-width: 450px; text-align: center; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4); backdrop-filter: blur(5px);">
-        <div style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 700; color: #8A99AD; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.08em;">Pipeline Status</div>
-        <div style="font-family: 'Geist Mono', monospace; font-size: 0.85rem; color: #FFFFFF; margin-bottom: 4px;">🕐 Last run: <span style="color: #00F2FF; font-weight: 600;">{_last_run}</span></div>
-        <div style="font-family: 'Geist Mono', monospace; font-size: 0.85rem; color: #FFFFFF;">📊 Today's signals: <span style="color: #00FF66; font-weight: 600;">{_today_count}</span></div>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# ── Pipeline Status Tracker has been relocated to the top-right navbar ──
 
 # ── Navigation Options ──
 options = ["⚡ LIVE PIPELINE", "📊 SENTIMENT ENGINE", "🛡️ GATING SIGNALS"]
@@ -1388,7 +1387,7 @@ with st.sidebar:
             st.markdown("""
     ### 📬 Join the Beta Waitlist
     <p style='font-size:0.78rem;color:#94A3B8;margin-top:-8px;'>
-    Get early access to <b style='color:#00F2FF;'>FinBERT Trader v3.0</b> — 
+    Get early access to <b style='color:#00F2FF;'>Indi-FinBERT v3.0</b> — 
     live NSE/BSE signal alerts, portfolio integration, and real-time FinBERT inference API access.<br><br>
     We'll notify you at launch.
     </p>
@@ -2506,7 +2505,7 @@ st.markdown(
         <div class="hero-circle-guide" style="width: 600px; height: 600px;"></div>
         <h1 class="hero-title">Trade the <span>Financial Sentiment</span> Edge</h1>
         <p class="hero-desc">
-            FinBERT Trader v2.5 ingests real-time Indian stock market headlines, computes the Market Sentiment Index (MSI), 
+            Indi-FinBERT v2.5 ingests real-time Indian stock market headlines, computes the Market Sentiment Index (MSI), 
             and gates predictions via cascading Human-in-the-Loop (HITL) MLOps guardrails.
         </p>
     </div>
