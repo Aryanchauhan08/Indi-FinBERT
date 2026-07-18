@@ -1570,7 +1570,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     height=200,
                     margin=dict(l=20, r=20, t=40, b=20)
                 )
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width='stretch')
                 
             with col_probs:
                 st.markdown("### Probability Distribution")
@@ -1811,7 +1811,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
 
             if _batch_valid:
                 st.markdown("#### Sample Preview (First 10 rows)")
-                st.dataframe(batch_df.head(10), use_container_width=True)
+                st.dataframe(batch_df.head(10), width='stretch')
                 
                 if st.button("Process Batch Predictions", type="primary", key="batch_predict_btn"):
                     with st.spinner("Processing batch pipeline predictions..."):
@@ -1861,7 +1861,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     donut_col, table_col = st.columns([1, 1.8])
                     
                     with donut_col:
-                        st.plotly_chart(fig_donut, use_container_width=True)
+                        st.plotly_chart(fig_donut, width='stretch')
                         
                     with table_col:
                         conf_threshold = st.slider("Gating Confidence Threshold (%)", min_value=0, max_value=100, value=65, key="batch_conf_slider")
@@ -1875,7 +1875,7 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         else:
                             display_pdf = gated_pdf
                             
-                        st.dataframe(display_pdf.head(10), use_container_width=True)
+                        st.dataframe(display_pdf.head(10), width='stretch')
                         
                         csv_data = gated_pdf.to_csv(index=False).encode('utf-8')
                         st.download_button(
@@ -2033,7 +2033,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
             unsafe_allow_html=True
         )
 
-        if st.button("⚡ Refresh Feed", type="primary", use_container_width=True):
+        if st.button("⚡ Refresh Feed", type="primary", width='stretch'):
             st.cache_data.clear()
             st.rerun()
         
@@ -2197,7 +2197,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     """,
                     unsafe_allow_html=True
                 )
-                st.plotly_chart(fig_spark, use_container_width=True, key=f"spark_{t.lower()}")
+                st.plotly_chart(fig_spark, width='stretch', key=f"spark_{t.lower()}")
                 st.markdown(alert_banner, unsafe_allow_html=True)
             
     st.markdown("---")
@@ -2405,7 +2405,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                 margin=dict(l=40, r=40, t=30, b=40),
                 height=560
             )
-            st.plotly_chart(fig, use_container_width=True, key="news_impact_chart")
+            st.plotly_chart(fig, width='stretch', key="news_impact_chart")
 
             # --- Summary metric row ---
             unique_news_dates = nic_df["Date_Only"].nunique() if not nic_df.empty else 0
@@ -2601,7 +2601,7 @@ fig_map.update_layout(
     coloraxis_showscale=False
 )
 
-st.plotly_chart(fig_map, use_container_width=True)
+st.plotly_chart(fig_map, width='stretch')
 
 # VISUAL: 90-Day Sentiment Heatmap Calendar above the data table
 if not df.empty:
@@ -2648,7 +2648,7 @@ if not df.empty:
         )
     )
     st.markdown("#### 📅 90-Day Sentiment Heatmap")
-    st.plotly_chart(fig_heat, use_container_width=True)
+    st.plotly_chart(fig_heat, width='stretch')
 
 # No user filters — display full latest data autonomously
 df_filtered = df.copy()
@@ -2860,7 +2860,7 @@ if not filtered_headlines.empty:
         .format({"Confidence": "{:.4f}"})
     )
     
-    st.dataframe(styled_df, use_container_width=True, height=350)
+    st.dataframe(styled_df, width='stretch', height=350)
     
     # Download matrix export button
     csv_bytes = display_df.to_csv(index=False).encode("utf-8")
@@ -2875,7 +2875,7 @@ else:
     st.info(f"No headlines found for the latest evaluation date ({latest_run_date}).")
 
 st.markdown("---")
-if st.button("⚡ Run Live Inference Pipeline", use_container_width=True, type="primary"):
+if st.button("⚡ Run Live Inference Pipeline", width='stretch', type="primary"):
     with st.spinner("Executing pipeline subprocess..."):
         try:
             result = subprocess.run(
