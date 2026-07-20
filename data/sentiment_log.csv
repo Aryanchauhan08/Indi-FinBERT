@@ -1284,3 +1284,497 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-16 12:00:18,WIPRO.NS,India's Wipro Exec Sees Deal Momentum Building Up In Banking Segment In Q2,TradingView,positive,0.9955,AUTO_ACCEPTED
 2026-07-16 11:07:34,WIPRO.NS,"WIPRO: Strong revenue growth, major share buyback, and interim dividend highlight Q1 FY27",TradingView,positive,0.9916,AUTO_ACCEPTED
 2026-07-16 11:49:55,WIPRO.NS,"Wipro Q1 Results: Profit rises 1%, revenue up 11%; declares Rs 2 interim dividend",India Today,positive,0.9962,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,Buy HDFC Bank; target of Rs 1020: ICICI Securities,moneycontrol,positive,0.9485,AUTO_ACCEPTED
+2026-07-20 05:51:28,JSWSTEEL.NS,Accumulate JSW Steel; target of Rs 1351: Prabhudas Lilladher,moneycontrol,neutral,0.9633,AUTO_ACCEPTED
+2026-07-20 05:51:28,KOTAKBANK.NS,Kotak Mahindra Bank Q1 FY27: Steady quarter with decent valuation,moneycontrol,neutral,0.6634,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,Buy HDFC Bank; target of Rs 1040: Prabhudas Lilladher,moneycontrol,positive,0.9836,AUTO_ACCEPTED
+2026-07-20 05:51:28,JSWSTEEL.NS,JSW Steel Q1 FY27: Profit doubles as debt falls sharply,moneycontrol,positive,0.9321,AUTO_ACCEPTED
+2026-07-20 05:51:28,KOTAKBANK.NS,Buy Kotak Mahindra Bank; target of Rs 480: Prabhudas Lilladher,moneycontrol,positive,0.9877,AUTO_ACCEPTED
+2026-07-20 05:51:28,AXISBANK.NS,Axis Bank stock crashes 5% as margin pressure offsets Q1 profit beat; brokerages remain bullish for long term,moneycontrol,negative,0.9899,AUTO_ACCEPTED
+2026-07-20 05:51:28,ICICIBANK.NS,Buy ICICI Bank; target of Rs 1850: Prabhudas Lilladher,moneycontrol,positive,0.9779,AUTO_ACCEPTED
+2026-07-20 05:51:28,AXISBANK.NS,Axis Bank Q1 FY27 – All eyes on interest margin,moneycontrol,neutral,0.9947,AUTO_ACCEPTED
+2026-07-20 05:51:28,ICICIBANK.NS,"ICICI Bank stock gains over 1% after Q1 beat; brokerages bullish on sustained growth, see up to 18% upside",moneycontrol,positive,0.9974,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,"HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish calls",moneycontrol,negative,0.9939,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,"HDFC Bank shares crash over 4% after Q1 results miss estimates, despite brokerages maintaining bullish calls",moneycontrol,negative,0.9939,AUTO_ACCEPTED
+2026-07-20 05:51:28,AXISBANK.NS,Buy Axis Bank; target of Rs 1550: Prabhudas Lilladher,moneycontrol,positive,0.9817,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,HDFC Bank Q1 FY27: A weak start to the year,moneycontrol,negative,0.9442,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,"HDFC Bank stock outlook: Brokerages bullish post Q1 results on growth, asset quality; check target prices",moneycontrol,positive,0.9817,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,"HDFC Bank stock outlook: Brokerages bullish post Q1 results on growth, asset quality; check target prices",moneycontrol,positive,0.9817,AUTO_ACCEPTED
+2026-07-20 05:51:28,ICICIBANK.NS,"RIL, ICICI Bank Report healthy Q1 Earnings | Will Global Sentiment Check Mate Bulls? | Opening Bell",moneycontrol,neutral,0.6762,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,"RIL, ICICI Bank Report healthy Q1 Earnings | Will Global Sentiment Check Mate Bulls? | Opening Bell",moneycontrol,neutral,0.6762,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,"Q1 Results 2026 LIVE: Paytm, UltraTech Cement, CMPDI among major firms to declare June quarter earnings today",moneycontrol,neutral,0.9847,AUTO_ACCEPTED
+2026-07-20 05:51:28,ULTRACEMCO.NS,"Q1 Results 2026 LIVE: Paytm, UltraTech Cement, CMPDI among major firms to declare June quarter earnings today",moneycontrol,neutral,0.9847,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,Banks put Wadia Realty's 95-acre Thane land on the block to recover Go Airlines dues,moneycontrol,positive,0.703,AUTO_ACCEPTED
+2026-07-20 05:51:28,SBIN.NS,"SBI Funds Management IPO GMP at 18% ahead of listing tomorrow, check latest updates here",moneycontrol,neutral,0.9578,AUTO_ACCEPTED
+2026-07-20 05:51:28,AXISBANK.NS,"Bank Nifty falls 1.6% post-Q1 results by heavyweight private banks; HDFC, Axis Bank decline up to 5%",moneycontrol,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,"Bank Nifty falls 1.6% post-Q1 results by heavyweight private banks; HDFC, Axis Bank decline up to 5%",moneycontrol,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 05:51:28,AXISBANK.NS,"Sensex falls 600 pts, Nifty below 24,200: Selling in HDFC, Axis Bank shares among key factors behind market decline",moneycontrol,negative,0.9928,AUTO_ACCEPTED
+2026-07-20 05:51:28,HDFCBANK.NS,"HDFC Bank may top in size, but ICICI Bank wins every other prize",moneycontrol,neutral,0.9125,AUTO_ACCEPTED
+2026-07-20 05:51:28,ICICIBANK.NS,"HDFC Bank may top in size, but ICICI Bank wins every other prize",moneycontrol,neutral,0.9125,AUTO_ACCEPTED
+2026-07-20 05:51:28,LT.NS,Moneycontrol Pro Market Outlook | Earnings season continues: Will results drive the next big move?,moneycontrol,neutral,0.7596,AUTO_ACCEPTED
+2026-07-19 15:06:58,ADANIENT.NS,Adani Enterprises to release Q1 FY27 results on July 29,MSN,neutral,0.9942,AUTO_ACCEPTED
+2026-07-20 02:00:03,ADANIENT.NS,Quote of the Day by Gautam Adani: ‘I analyse in my own way...’,Business Today,neutral,0.9854,AUTO_ACCEPTED
+2026-07-20 03:55:50,ADANIPORTS.NS,EXIM operations at Kerala’s Vizhinjam seaport set to begin on August 18,India Shipping News,neutral,0.9718,AUTO_ACCEPTED
+2026-07-19 09:32:47,ADANIPORTS.NS,Kerala Chief Minister Announces 18th August Start Date for Full Export-Import Operations at Vizhinjam Port,Swarajya,neutral,0.5531,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 02:00:03,ADANIPORTS.NS,Quote of the Day by Gautam Adani: ‘I analyse in my own way...’,Business Today,neutral,0.9854,AUTO_ACCEPTED
+2026-07-19 06:33:50,ADANIPORTS.NS,"Vizhinjam Seaport’s ₹219-crore question: Waiver, win-win or political spin?",The South First,neutral,0.9904,AUTO_ACCEPTED
+2026-07-20 05:35:37,APOLLOHOSP.NS,"Medtronic, Apollo Hospitals Launch Advanced ICU in Hyderabad to Strengthen Critical Care",eHealth Magazine,positive,0.9087,AUTO_ACCEPTED
+2026-07-19 09:04:22,APOLLOHOSP.NS,Apollo Hospitals & Medtronic Partner to Launch Advanced ICU in Hyderabad,Digital Health News,neutral,0.9171,AUTO_ACCEPTED
+2026-07-19 10:25:00,AXISBANK.NS,India’s Private Banks Ride Corporate Loan Wave as Firms Ditch Pricey Bonds,finance.biggo.com,negative,0.9005,AUTO_ACCEPTED
+2026-07-20 04:02:04,AXISBANK.NS,"Sensex falls 600 pts, Nifty below 24,200: Selling in HDFC, Axis Bank shares among key factors behind...",Moneycontrol.com,negative,0.9922,AUTO_ACCEPTED
+2026-07-19 19:41:12,AXISBANK.NS,Axis Bank weighs raising stake in its insurance venture to 30%,The Economic Times,positive,0.9576,AUTO_ACCEPTED
+2026-07-20 03:54:06,AXISBANK.NS,"Neutral Axis Bank for the Target Rs 1,500 by Motilal Oswal Financial Services Ltd",Investment Guru India,neutral,0.9921,AUTO_ACCEPTED
+2026-07-20 05:26:00,AXISBANK.NS,"Axis Bank shares fall 5% after Q1 results miss, but 'bulls' still see 42% upside",CNBC TV18,negative,0.9916,AUTO_ACCEPTED
+2026-07-20 01:22:31,AXISBANK.NS,Axis Bank Q1 Standalone Net Profit Rises to ₹71 Billion vs ₹58 Billion YoY,Sahi,positive,0.9921,AUTO_ACCEPTED
+2026-07-20 03:43:49,AXISBANK.NS,axis bank q1 profit jumps 23 to 7 114 cr despite margin pressures,ICICI Direct,positive,0.9969,AUTO_ACCEPTED
+2026-07-20 04:00:41,AXISBANK.NS,"HDFC, Axis, Kotak to Yes Bank: Private bank stocks slip over 5% after Q1 results; ICICI Bank shares outperform",livemint.com,negative,0.9928,AUTO_ACCEPTED
+2026-07-20 01:13:00,AXISBANK.NS,Weekly Recap: Axis Bank Q1 earnings and AT1 notes listing approval,TradingView,neutral,0.993,AUTO_ACCEPTED
+2026-07-20 02:36:54,AXISBANK.NS,"Stocks to Watch today: RIL, Vi, HDFC Bank, ICICI Bank, Axis Bank, JSW Steel",Business Standard,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 03:00:38,AXISBANK.NS,"HDFC Bank, ICICI Bank, RIL, Axis Bank In Focus: 10 Stocks To Watch Today After Q1 Results",NDTV Profit,neutral,0.9926,AUTO_ACCEPTED
+2026-07-20 04:43:55,AXISBANK.NS,"Nifty Bank index tanks 2%; HDFC Bank, Axis Bank plunge 5% post Q1 results",Business Standard,negative,0.9901,AUTO_ACCEPTED
+2026-07-20 04:24:20,AXISBANK.NS,"Axis Bank falls 5% as analysts cut estimates post Q1 show; buy, sell, hold?",Business Standard,negative,0.993,AUTO_ACCEPTED
+2026-07-20 04:05:54,AXISBANK.NS,"Stocks To Watch Today, July 20: Reliance Industries, Power Grid, ICICI Bank, Yes Bank, Axis Bank",HDFC Sky,neutral,0.9939,AUTO_ACCEPTED
+2026-07-20 04:20:55,AXISBANK.NS,"Axis Bank Ltd Falls 4.55%, BSE Financial Services index Drops 1.26%",Business Standard,negative,0.991,AUTO_ACCEPTED
+2026-07-20 04:13:44,AXISBANK.NS,HDFC Bank Tumbles Nearly 5% After Q1 Results; Axis Bank Slides Over 5%; ICICI Bucks Trend,News18,negative,0.9858,AUTO_ACCEPTED
+2026-07-20 04:32:56,AXISBANK.NS,"Sensex tumbles 700 pts, Nifty slips below 24,200 as private banks drag; HDFC Bank, Axis, Kotak Mahindra Bank lead fall",Fortune India,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 04:12:59,AXISBANK.NS,"SENSEX drops over 500 points, NIFTY50 below 24,200 dragged down by HDFC Bank, Axis Bank, Kotak Bank",Upstox,negative,0.9932,AUTO_ACCEPTED
+2026-07-20 04:07:31,AXISBANK.NS,"Bank Stocks Under Pressure: Axis, Kotak, HDFC Bank Shares Fall 5% After Q1 Results — Buy, Sell, Or Hold?",NDTV Profit,negative,0.9929,AUTO_ACCEPTED
+2026-07-20 04:10:33,AXISBANK.NS,Sensex tumbles over 600 points: Why is the stock market falling today?,India Today,negative,0.9932,AUTO_ACCEPTED
+2026-07-20 04:10:42,AXISBANK.NS,Axis Bank shares fall 5% after Q1 earnings fail to cheer D-Street. What brokerages say,The Economic Times,negative,0.9945,AUTO_ACCEPTED
+2026-07-20 05:04:18,AXISBANK.NS,"Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",The Economic Times,negative,0.9797,AUTO_ACCEPTED
+2026-07-20 05:27:55,AXISBANK.NS,Axis Bank plans to hike stake in Axis Max Life Insurance to 30%,Lapaas Voice,positive,0.9336,AUTO_ACCEPTED
+2026-07-20 04:56:00,AXISBANK.NS,"Stock Markets Today: Sensex, Nifty Tumble, HDFC Bank, Oil Spike Hurt Sentiments",Rediff,negative,0.9832,AUTO_ACCEPTED
+2026-07-20 03:10:42,AXISBANK.NS,Q1 FY27 Outlook: Top six private banks bet on corporate credit revival as bond market loses pricing edge,Moneycontrol.com,neutral,0.7439,AUTO_ACCEPTED
+2026-07-20 01:30:47,AXISBANK.NS,Mint Quick Edit | Indian bank profits are on an incline but retail asset quality must be kept on the risk radar,livemint.com,neutral,0.8272,AUTO_ACCEPTED
+2026-07-20 04:20:01,AXISBANK.NS,"Stock market update: Why Sensex, Nifty tumbled in opening deals today",Business Today,negative,0.8717,AUTO_ACCEPTED
+2026-07-20 00:00:46,AXISBANK.NS,"For private banks, data on FCNR deposits is... private.",livemint.com,neutral,0.9938,AUTO_ACCEPTED
+2026-07-19 18:10:54,AXISBANK.NS,"Axis Bank Group Delivers Stellar Q1 FY27 Performance: Consolidated Net Profit Climbs to ₹7,632 Crore and Advances Surge 19% Y-o-Y",EquityBulls,positive,0.9971,AUTO_ACCEPTED
+2026-07-19 10:29:23,AXISBANK.NS,Axis Bank - 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?,The Economic Times,positive,0.6673,AUTO_ACCEPTED
+2026-07-19 06:23:03,BAJAJ-AUTO.NS,"Q1 results this week: Infosys, IndiGo, Paytm, Bajaj Auto, Eternal, Meesho, Adani Power and more",Upstox,neutral,0.9933,AUTO_ACCEPTED
+2026-07-19 15:14:53,BAJAJ-AUTO.NS,"Buy, Sell Or Hold: Vedanta, Paytm, Bajaj Auto, SBI Cards, And Zee Enterprises — Ask Profit",NDTV Profit,neutral,0.9897,AUTO_ACCEPTED
+2026-07-20 05:25:32,BAJAJ-AUTO.NS,Bajaj Auto Q1 preview: Volume growth to lift earnings; margins under watch,Business Standard,positive,0.9803,AUTO_ACCEPTED
+2026-07-19 23:42:35,BAJAJ-AUTO.NS,"Q1 Results This Week: Infosys, Bajaj Auto, Paytm, among 150 others report numbers",CNBC TV18,neutral,0.9917,AUTO_ACCEPTED
+2026-07-20 04:59:45,BAJAJ-AUTO.NS,"Q1 Results This Week: Infosys, Bajaj Auto, NTPC, Bank of Baroda Among 250+ Firms Reporting Earnings",NDTV Profit,neutral,0.9753,AUTO_ACCEPTED
+2026-07-20 05:02:56,BAJFINANCE.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-20 05:02:56,BAJAJFINSV.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-19 06:50:14,BPCL.NS,"BPCL launches Bharatgas Lite ZIP, says premium LPG service to expand to 100 more cities by August 15",IBTimes India,positive,0.9635,AUTO_ACCEPTED
+2026-07-20 05:34:53,BHARTIARTL.NS,"Nxtra by Airtel Revenue Up 17% in FY26, Plans 1GW Expansion",Indiatimes,positive,0.9967,AUTO_ACCEPTED
+2026-07-20 03:39:53,BHARTIARTL.NS,"‘Airtel data center arm Nxtra’s revenue from operations up by 17% to ₹2,430 crore in FY26’",Indiatimes,positive,0.9966,AUTO_ACCEPTED
+2026-07-20 02:57:29,BHARTIARTL.NS,"Dividends, bonus issues, stock splits this week: Bharti Airtel, Hero MotoCorp, Info Edge, Pidilite, Divi's Labs, Abbott India, others in focus",Upstox,neutral,0.9925,AUTO_ACCEPTED
+2026-07-19 17:43:36,BHARTIARTL.NS,Fine Print Alert: Airtel Officially Bans Hotspot Sharing on “Unlimited” 5G Data Plans,PaidFreeDroid,negative,0.9825,AUTO_ACCEPTED
+2026-07-19 14:13:28,BHARTIARTL.NS,"Corporate Actions This Week: Angel One, Bharti Airtel, Hero MotoCorp, Zydus Lifesciences And Pidilite Industries | Full List",NDTV Profit,neutral,0.9879,AUTO_ACCEPTED
+2026-07-20 00:07:59,BHARTIARTL.NS,Should You Buy Bharti Airtel Limited (NSE:BHARTIARTL) For Its Upcoming Dividend?,simplywall.st,neutral,0.9182,AUTO_ACCEPTED
+2026-07-19 23:11:43,BHARTIARTL.NS,"Bharti Airtel, Hero MotoCorp Lead 88 Stocks with Ex-Date Events This Week – Key Corporate Actions to Watch - Consensus Miss Rate",dars.gov.et,neutral,0.9205,AUTO_ACCEPTED
+2026-07-19 11:07:47,BHARTIARTL.NS,Bharti Airtel - 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?,The Economic Times,positive,0.9365,AUTO_ACCEPTED
+2026-07-19 08:25:14,BHARTIARTL.NS,"Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week.",The Economic Times,neutral,0.9902,AUTO_ACCEPTED
+2026-07-19 06:49:12,BHARTIARTL.NS,Mcap Of Five Of Top-10 Most Valued Firms Jumps Rs 1.54 Lakh Cr; TCS Biggest Winner,ETV Bharat,positive,0.9961,AUTO_ACCEPTED
+2026-07-20 05:10:32,BHARTIARTL.NS,Airtel Money Eyes London IPO at a Reported $10 Billion Valuation,TechTrendsKE,neutral,0.5857,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 06:30:46,BRITANNIA.NS,Britannia sharpening regional playbook to take on local rivals: MD & CEO Rakshit Hargave,BusinessLine,neutral,0.9023,AUTO_ACCEPTED
+2026-07-20 04:06:49,BRITANNIA.NS,"Mitessh Thakkar recommends Indian Bank, Reliance Industries and Britannia; advises selling Angel One",CNBC TV18,neutral,0.5287,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 12:18:00,BRITANNIA.NS,"Karawal Nagar, Britannia Chowk elevated roads move a step closer; PWD invites feasibility consultants",The Times of India,positive,0.5696,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 17:00:35,BRITANNIA.NS,Britannia Rules the … Cosmos? The UK Is Bringing War to Space,The National Interest,neutral,0.9368,AUTO_ACCEPTED
+2026-07-20 01:38:26,CIPLA.NS,"Stocks to watch: JSW Steel, Alembic Pharma, Cipla, Laser Power, 5Paisa, Prestige Estates, NBCC (India)",BusinessLine,neutral,0.9931,AUTO_ACCEPTED
+2026-07-20 01:51:16,CIPLA.NS,Cipla's New York-facility gets 1 observation from FDA,ETPharma.com,positive,0.5134,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 03:43:43,CIPLA.NS,"Cipla receives one USFDA observation for US subsidiary, stock in focus today",Business Today,neutral,0.9701,AUTO_ACCEPTED
+2026-07-20 05:43:05,CIPLA.NS,"Top stock picks: Union Bank of India, Cipla and other stocks recommended by analysts",CNBC TV18,neutral,0.9548,AUTO_ACCEPTED
+2026-07-19 07:24:42,CIPLA.NS,Cipla Shares Slip Despite USFDA Nod for Generic Ventolin Inhaler; Should You Buy or Sell This Pharma Stock?,Goodreturns,negative,0.9935,AUTO_ACCEPTED
+2026-07-20 04:56:04,CIPLA.NS,GLP-1 opportunity to lift domestic business at Indian pharmaceutical firms,Business Standard,positive,0.9939,AUTO_ACCEPTED
+2026-07-20 05:08:29,COALINDIA.NS,Ahasolar Wins Coal India's 750 MWh Telangana BESS Project Consultancy Contract,Saur Energy,positive,0.9917,AUTO_ACCEPTED
+2026-07-20 00:44:30,DIVISLAB.NS,Three Days Left Until Divi's Laboratories Limited (NSE:DIVISLAB) Trades Ex-Dividend,simplywall.st,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 02:22:54,DRREDDY.NS,"Standard Chartered, Dr Reddy’s Foundation to skill PwDs",HR Katha,neutral,0.9519,AUTO_ACCEPTED
+2026-07-19 09:09:41,DRREDDY.NS,Dr Reddy's Foundation soil lab nears 1 lakh samples before 2026 rabi season,BusinessLine,neutral,0.991,AUTO_ACCEPTED
+2026-07-20 04:56:04,DRREDDY.NS,GLP-1 opportunity to lift domestic business at Indian pharmaceutical firms,Business Standard,positive,0.9939,AUTO_ACCEPTED
+2026-07-19 07:50:19,DRREDDY.NS,"Q1 Results This Week, July 20-25: Infosys, Paytm, NTPC, Dr Reddys, IndiGo Among 250+ Companies to Announce",Goodreturns,neutral,0.9875,AUTO_ACCEPTED
+2026-07-19 08:02:51,DRREDDY.NS,Dr. Reddy's Laboratories Ltd $RDY Holdings Lifted by Bessemer Group Inc.,MarketBeat,positive,0.9755,AUTO_ACCEPTED
+2026-07-19 15:39:32,GRASIM.NS,Grasim Industries files Business Responsibility and Sustainability Report for FY 2025-26,scanx.trade,neutral,0.9912,AUTO_ACCEPTED
+2026-07-20 05:02:56,HCLTECH.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-20 01:13:00,HCLTECH.NS,Weekly Recap: Strong Q1 results and ₹35bn 50MW AI data‑centre plan,TradingView,positive,0.8465,AUTO_ACCEPTED
+2026-07-19 16:16:40,HCLTECH.NS,Fortune India Exclusive: How Roshni Nadar Malhotra is reshaping HCLTech,Fortune India,neutral,0.992,AUTO_ACCEPTED
+2026-07-20 05:15:00,HCLTECH.NS,How is HCLTech Transforming Financial Services with AI?,analyticsindiamag.com,neutral,0.9896,AUTO_ACCEPTED
+2026-07-20 04:27:00,HDFCBANK.NS,"India's HDFC Bank drops on weak margins; drags Nifty, bank stocks",Yahoo Finance Singapore,negative,0.9939,AUTO_ACCEPTED
+2026-07-20 05:09:52,HDFCBANK.NS,HDFC Bank Q1 results trigger 5.5% selloff; analysts highlight key positives and concerns,Upstox,negative,0.7057,AUTO_ACCEPTED
+2026-07-20 02:22:11,HDFCBANK.NS,"Stock Picks Today: HDFC Bank, Reliance Industries, ICICI Bank, JSW Steel, And More On Brokerages' Radar",NDTV Profit,neutral,0.9862,AUTO_ACCEPTED
+2026-07-20 04:38:00,HDFCBANK.NS,HDFC Bank drags Indian shares down; higher oil also weighs,TradingView,negative,0.9938,AUTO_ACCEPTED
+2026-07-20 02:36:23,HDFCBANK.NS,"Stocks to watch, July 20: CMPDI, HDFC Bank, RIL, ICICI Bank, PNB, Paytm, Oil-linked stocks, Kotak Bank",Upstox,neutral,0.9934,AUTO_ACCEPTED
+2026-07-20 04:30:45,HDFCBANK.NS,"Stock Markets Tumble: HDFC Bank, Crude Oil Spike Drag Indices",Rediff MoneyWiz,negative,0.9933,AUTO_ACCEPTED
+2026-07-19 19:23:40,HDFCBANK.NS,"Regional conflict-driven curbs weigh on flow: FCNR(B) inflows may miss initial estimates, says HDFC Bank C",The Economic Times,negative,0.9926,AUTO_ACCEPTED
+2026-07-20 03:44:02,HDFCBANK.NS,"Buy HDFC Bank for the Target Rs 1,050 by Motilal Oswal Financial Services Ltd",Investment Guru India,positive,0.8963,AUTO_ACCEPTED
+2026-07-20 02:00:46,HDFCBANK.NS,HDFC Bank vs ICICI Bank vs Yes Bank: Which stock to buy after Q1 results 2026?,livemint.com,neutral,0.9937,AUTO_ACCEPTED
+2026-07-20 01:47:31,HDFCBANK.NS,"HDFC Bank Q1 Standalone Net Profit Reaches ₹191 Billion, Revenue Touches ₹794 Billion",Sahi,positive,0.9265,AUTO_ACCEPTED
+2026-07-20 02:40:31,HDFCBANK.NS,"HDFC Bank shares get a downgrade from Investec after Q1 results, no more a 'consensus buy'",CNBC TV18,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 03:49:52,HDFCBANK.NS,"HDFC Bank shares fall 5% after Q1 NIM miss: Targets by UBS, Bernstein, Citi, Jefferies and others",Business Today,negative,0.9926,AUTO_ACCEPTED
+2026-07-20 04:56:00,HDFCBANK.NS,"Stock Markets Today: Sensex, Nifty Tumble, HDFC Bank, Oil Spike Hurt Sentiments",Rediff,negative,0.9832,AUTO_ACCEPTED
+2026-07-20 02:36:54,HDFCBANK.NS,"Stocks to Watch today: RIL, Vi, HDFC Bank, ICICI Bank, Axis Bank, JSW Steel",Business Standard,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 04:13:27,HDFCBANK.NS,"NIFTY Bank slides over 1.5%; HDFC Bank, Axis Bank tumble 5% after Q1 earnings",Upstox,negative,0.9897,AUTO_ACCEPTED
+2026-07-20 04:18:44,HDFCBANK.NS,HDFC Bank drops as weak margins weigh,BusinessLine,negative,0.9916,AUTO_ACCEPTED
+2026-07-20 04:22:31,HDFCBANK.NS,"HDFC Bank Standalone Net Profit Reaches ₹191 Billion In Q1, Missing ₹193 Billion Estimate",Sahi,negative,0.9901,AUTO_ACCEPTED
+2026-07-20 04:10:23,HDFCBANK.NS,HDFC Bank shares fall nearly 5% despite upbeat Q1; analysts bullish,Business Standard,negative,0.9936,AUTO_ACCEPTED
+2026-07-20 04:50:51,HDFCBANK.NS,"Bank Stocks Underperform post Q1: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline",BusinessLine,negative,0.8662,AUTO_ACCEPTED
+2026-07-20 01:13:00,HDFCBANK.NS,Weekly Recap: Q1 FY2027 results and HDFC Bank sales recovery,TradingView,neutral,0.9835,AUTO_ACCEPTED
+2026-07-20 02:17:39,HDFCBANK.NS,HDFC Bank Q1 Review: Brokerages Flag Margin Pressure Despite Steady Loan Growth,NDTV Profit,negative,0.988,AUTO_ACCEPTED
+2026-07-20 05:41:12,HDFCBANK.NS,HDFC Bank Shares Tank 5% Post Q1 Earnings Disappointment,Rediff MoneyWiz,negative,0.9903,AUTO_ACCEPTED
+2026-07-20 04:43:55,HDFCBANK.NS,"Nifty Bank index tanks 2%; HDFC Bank, Axis Bank plunge 5% post Q1 results",Business Standard,negative,0.9901,AUTO_ACCEPTED
+2026-07-20 04:02:04,HDFCBANK.NS,"Sensex falls 600 pts, Nifty below 24,200: Selling in HDFC, Axis Bank shares among key factors behind...",Moneycontrol.com,negative,0.9922,AUTO_ACCEPTED
+2026-07-20 04:00:20,HDFCBANK.NS,"HDFC Bank shares fall 5% after Q1 results. Should you buy, sell or hold the stock?",The Economic Times,negative,0.9922,AUTO_ACCEPTED
+2026-07-20 05:12:39,HDFCBANK.NS,"Stock markets tumble in early trade dragged by HDFC Bank, spike in crude oil prices",Rediff,negative,0.9939,AUTO_ACCEPTED
+2026-07-20 04:32:56,HDFCBANK.NS,"Sensex tumbles 700 pts, Nifty slips below 24,200 as private banks drag; HDFC Bank, Axis, Kotak Mahindra Bank lead fall",Fortune India,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 03:00:38,HDFCBANK.NS,"HDFC Bank, ICICI Bank, RIL, Axis Bank In Focus: 10 Stocks To Watch Today After Q1 Results",NDTV Profit,neutral,0.9926,AUTO_ACCEPTED
+2026-07-20 04:00:41,HDFCBANK.NS,"HDFC, Axis, Kotak to Yes Bank: Private bank stocks slip over 5% after Q1 results; ICICI Bank shares outperform",livemint.com,negative,0.9928,AUTO_ACCEPTED
+2026-07-20 04:24:28,HDFCBANK.NS,HDFC Life banking on HDFC Bank revival to sustain FY27 growth as competitive pressures ease: Vibha...,Moneycontrol.com,positive,0.9943,AUTO_ACCEPTED
+2026-07-20 04:00:33,HDFCBANK.NS,HDFC Bank’s Margin Miss Dragged India’s Private Lenders,Finimize,negative,0.9909,AUTO_ACCEPTED
+2026-07-20 03:48:16,HDFCBANK.NS,India's HDFC Bank drops as weak margins weigh,marketscreener.com,negative,0.992,AUTO_ACCEPTED
+2026-07-20 04:07:31,HDFCBANK.NS,"Bank Stocks Under Pressure: Axis, Kotak, HDFC Bank Shares Fall 5% After Q1 Results — Buy, Sell, Or Hold?",NDTV Profit,negative,0.9929,AUTO_ACCEPTED
+2026-07-20 02:18:05,HDFCBANK.NS,"Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here",livemint.com,neutral,0.9904,AUTO_ACCEPTED
+2026-07-20 04:13:44,HDFCBANK.NS,HDFC Bank Tumbles Nearly 5% After Q1 Results; Axis Bank Slides Over 5%; ICICI Bucks Trend,News18,negative,0.9858,AUTO_ACCEPTED
+2026-07-20 01:46:34,HDFCBANK.NS,"Top stocks in news: RIL, HDFC Bank, ICICI Bank, GAIL, KMB, Power Grid, YES Bank, NBCC, PNB",Business Today,neutral,0.9913,AUTO_ACCEPTED
+2026-07-20 04:05:19,HDFCBANK.NS,"Bank Nifty falls 1.6% post-Q1 results by heavyweight private banks; HDFC, Axis Bank decline up to 5%",Moneycontrol.com,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 04:03:11,HDFCBANK.NS,"Indian shares open lower, dragged by HDFC Bank; higher oil also weighs",marketscreener.com,negative,0.9937,AUTO_ACCEPTED
+2026-07-20 04:12:59,HDFCBANK.NS,"SENSEX drops over 500 points, NIFTY50 below 24,200 dragged down by HDFC Bank, Axis Bank, Kotak Bank",Upstox,negative,0.9932,AUTO_ACCEPTED
+2026-07-19 21:44:26,HDFCBANK.NS,"Stocks to Watch Today: Reliance Industries, ICICI Bank, HDFC Bank, NATCO Pharma, Oberoi Realty, RBL Bank,...",Moneycontrol.com,neutral,0.9932,AUTO_ACCEPTED
+2026-07-20 00:36:56,HDFCBANK.NS,HDFC Bank Ltd (HDB) Q1 2027 Earnings Call Highlights: Strong Dep,GuruFocus,positive,0.9784,AUTO_ACCEPTED
+2026-07-19 14:11:32,HDFCBANK.NS,Has HDFC Bank lost its governance premium?,Fortune India,neutral,0.7647,AUTO_ACCEPTED
+2026-07-20 02:45:18,HDFCBANK.NS,Board Working On CEO Jagdishan's Reappointment: HDFC Bank,BW Businessworld,neutral,0.9944,AUTO_ACCEPTED
+2026-07-20 05:04:18,HDFCBANK.NS,"Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",The Economic Times,negative,0.9797,AUTO_ACCEPTED
+2026-07-20 04:10:33,HDFCBANK.NS,Sensex tumbles over 600 points: Why is the stock market falling today?,India Today,negative,0.9932,AUTO_ACCEPTED
+2026-07-20 05:02:56,HDFCBANK.NS,"Kotak Mahindra Bank Q1 Profit Up 22.6% to Rs 5,480.46 Crore",HDFC Sky,positive,0.9974,AUTO_ACCEPTED
+2026-07-20 04:05:00,HDFCBANK.NS,"Bank Nifty falls 1.4% post-Q1 results by heavyweight private banks; HDFC, Axis Bank decline up to 5%",TradingView,negative,0.9918,AUTO_ACCEPTED
+2026-07-19 09:52:08,HDFCBANK.NS,"ICICI Vs HDFC Bank: Profit, Asset Quality To Margins — Q1 Results Compared",NDTV Profit,neutral,0.9933,AUTO_ACCEPTED
+2026-07-20 04:51:57,HDFCBANK.NS,HDFC Bank Shares Crash Over 4% After Q1 Results Miss Estimates,Lapaas Voice,negative,0.994,AUTO_ACCEPTED
+2026-07-19 10:46:22,HDFCBANK.NS,"HDFC Bank board to soon decide on CEO reappointment, says deputy MD",Business Standard,neutral,0.9948,AUTO_ACCEPTED
+2026-07-19 09:52:43,HDFCBANK.NS,"Banks Q1 Scorecard: ICICI, Axis, Kotak To HDFC Bank — Profit, NII, NPAs At A Glance",NDTV Profit,neutral,0.99,AUTO_ACCEPTED
+2026-07-20 04:02:00,HDFCBANK.NS,"Sensex falls 600 pts, Nifty below 24,200: Selling in HDFC, Axis Bank shares among key factors behind market decline",TradingView,negative,0.9928,AUTO_ACCEPTED
+2026-07-19 06:39:18,HDFCBANK.NS,ICICI To HDFC Bank — India's Private Lenders Bet On Corporate Loan Revival For Growth,NDTV Profit,positive,0.9747,AUTO_ACCEPTED
+2026-07-20 04:24:28,HDFCLIFE.NS,HDFC Life banking on HDFC Bank revival to sustain FY27 growth as competitive pressures ease: Vibha...,Moneycontrol.com,positive,0.9943,AUTO_ACCEPTED
+2026-07-20 01:13:00,HDFCLIFE.NS,Weekly Recap: Q1 FY2027 results and HDFC Bank sales recovery,TradingView,neutral,0.9835,AUTO_ACCEPTED
+2026-07-20 02:34:00,HDFCLIFE.NS,HDFC Life Insurance Company Ltd Faces Bearish Momentum Amid Technical Shifts,MarketsMojo,negative,0.9932,AUTO_ACCEPTED
+2026-07-19 19:10:39,HDFCLIFE.NS,HDFC Life stock trades steadily as premium growth supports long term earnings,ad-hoc-news.de,positive,0.9947,AUTO_ACCEPTED
+2026-07-20 04:39:54,HDFCLIFE.NS,HDFC Life Targets Growth Revival Via HDFC Bank Channel,Whalesbook,positive,0.888,AUTO_ACCEPTED
+2026-07-19 11:49:00,HDFCLIFE.NS,"9 Stocks To Buy For Long Term: Analysts recommend 8 largecap, 1 midcap scrips; HUL, HDFC Bank on the list",Zee Business,positive,0.9417,AUTO_ACCEPTED
+2026-07-20 02:57:29,HEROMOTOCO.NS,"Dividends, bonus issues, stock splits this week: Bharti Airtel, Hero MotoCorp, Info Edge, Pidilite, Divi's Labs, Abbott India, others in focus",Upstox,neutral,0.9925,AUTO_ACCEPTED
+2026-07-19 14:13:28,HEROMOTOCO.NS,"Corporate Actions This Week: Angel One, Bharti Airtel, Hero MotoCorp, Zydus Lifesciences And Pidilite Industries | Full List",NDTV Profit,neutral,0.9879,AUTO_ACCEPTED
+2026-07-19 10:15:26,HEROMOTOCO.NS,"XPulse 200 4V And XPulse Pro Now In Germany, Hero MotoCorp's 53rd Global Market",Cartoq,positive,0.831,AUTO_ACCEPTED
+2026-07-20 05:24:17,HEROMOTOCO.NS,"Hero MotoCorp Sales June 2026: Dispatches Down 4%, VIDA EV Jumps 184%, Splendor Leads",Autopunditz,negative,0.991,AUTO_ACCEPTED
+2026-07-20 00:24:22,HEROMOTOCO.NS,Hero MotoCorp (NSE:HEROMOTOCO) Could Be A Buy For Its Upcoming Dividend,simplywall.st,positive,0.9961,AUTO_ACCEPTED
+2026-07-19 10:21:59,HEROMOTOCO.NS,Hero MotoCorp raises Ather stake to 30.68% for ₹959.99 crore,scanx.trade,positive,0.9837,AUTO_ACCEPTED
+2026-07-19 09:04:48,HEROMOTOCO.NS,Hero MotoCorp Stock Tops 3 Indian Dividend Shares With 5% Yields,simplywall.st,positive,0.9921,AUTO_ACCEPTED
+2026-07-19 23:11:43,HEROMOTOCO.NS,"Bharti Airtel, Hero MotoCorp Lead 88 Stocks with Ex-Date Events This Week – Key Corporate Actions to Watch - Consensus Miss Rate",dars.gov.et,neutral,0.9205,AUTO_ACCEPTED
+2026-07-19 08:25:14,HEROMOTOCO.NS,"Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week.",The Economic Times,neutral,0.9902,AUTO_ACCEPTED
+2026-07-19 17:26:31,HINDALCO.NS,"Hindalco Industries, among FIIs' favourites, gets a fresh price target from Kotak; here's why",MSN,positive,0.9833,AUTO_ACCEPTED
+2026-07-19 06:58:50,HINDUNILVR.NS,HUL Q4 Results Alert: Hindustan Unilever Board to Meet On This Date; Big Dividend Announcement Expected,Goodreturns,neutral,0.9885,AUTO_ACCEPTED
+2026-07-20 04:27:00,ICICIBANK.NS,"India's HDFC Bank drops on weak margins; drags Nifty, bank stocks",Yahoo Finance Singapore,negative,0.9939,AUTO_ACCEPTED
+2026-07-19 10:25:00,ICICIBANK.NS,India’s Private Banks Ride Corporate Loan Wave as Firms Ditch Pricey Bonds,finance.biggo.com,negative,0.9005,AUTO_ACCEPTED
+2026-07-20 02:22:11,ICICIBANK.NS,"Stock Picks Today: HDFC Bank, Reliance Industries, ICICI Bank, JSW Steel, And More On Brokerages' Radar",NDTV Profit,neutral,0.9862,AUTO_ACCEPTED
+2026-07-20 02:36:23,ICICIBANK.NS,"Stocks to watch, July 20: CMPDI, HDFC Bank, RIL, ICICI Bank, PNB, Paytm, Oil-linked stocks, Kotak Bank",Upstox,neutral,0.9934,AUTO_ACCEPTED
+2026-07-19 21:44:26,ICICIBANK.NS,"Stocks to Watch Today: Reliance Industries, ICICI Bank, HDFC Bank, NATCO Pharma, Oberoi Realty, RBL Bank,...",Moneycontrol.com,neutral,0.9932,AUTO_ACCEPTED
+2026-07-20 02:36:54,ICICIBANK.NS,"Stocks to Watch today: RIL, Vi, HDFC Bank, ICICI Bank, Axis Bank, JSW Steel",Business Standard,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 01:46:34,ICICIBANK.NS,"Top stocks in news: RIL, HDFC Bank, ICICI Bank, GAIL, KMB, Power Grid, YES Bank, NBCC, PNB",Business Today,neutral,0.9913,AUTO_ACCEPTED
+2026-07-20 02:00:46,ICICIBANK.NS,HDFC Bank vs ICICI Bank vs Yes Bank: Which stock to buy after Q1 results 2026?,livemint.com,neutral,0.9937,AUTO_ACCEPTED
+2026-07-20 04:27:34,ICICIBANK.NS,ICICI Bank Q1 profit surges 15.9% to $1.6b on more loans and fees,Asian Banking & Finance,positive,0.9967,AUTO_ACCEPTED
+2026-07-20 01:52:31,ICICIBANK.NS,ICICI Bank Q1 Standalone Net Profit Rises to 148b Rupees against 127.7b Rupees YoY,Sahi,positive,0.958,AUTO_ACCEPTED
+2026-07-20 04:07:00,ICICIBANK.NS,ICICI Bank shares jump 2.5% on Q1 beat; brokerages see up to 25% upside,Business Standard,positive,0.997,AUTO_ACCEPTED
+2026-07-20 04:05:54,ICICIBANK.NS,"Stocks To Watch Today, July 20: Reliance Industries, Power Grid, ICICI Bank, Yes Bank, Axis Bank",HDFC Sky,neutral,0.9939,AUTO_ACCEPTED
+2026-07-20 03:59:19,ICICIBANK.NS,ICICI Bank shares gain after strong Q1 but only one analyst remains unconvinced,CNBC TV18,positive,0.9937,AUTO_ACCEPTED
+2026-07-20 04:50:51,ICICIBANK.NS,"Bank Stocks Underperform post Q1: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline",BusinessLine,negative,0.8662,AUTO_ACCEPTED
+2026-07-20 03:01:43,ICICIBANK.NS,"ICICI Bank Q1 Review: Strong Loan Growth, Stable Margins Keep Analysts Upbeat",NDTV Profit,positive,0.9567,AUTO_ACCEPTED
+2026-07-20 03:00:38,ICICIBANK.NS,"HDFC Bank, ICICI Bank, RIL, Axis Bank In Focus: 10 Stocks To Watch Today After Q1 Results",NDTV Profit,neutral,0.9926,AUTO_ACCEPTED
+2026-07-20 04:35:34,ICICIBANK.NS,"ICICI Bank Q1 PAT rises 16% YoY to Rs 14,805 crore",Business Standard,positive,0.9973,AUTO_ACCEPTED
+2026-07-20 04:00:41,ICICIBANK.NS,"HDFC, Axis, Kotak to Yes Bank: Private bank stocks slip over 5% after Q1 results; ICICI Bank shares outperform",livemint.com,negative,0.9928,AUTO_ACCEPTED
+2026-07-19 16:53:14,ICICIBANK.NS,ICICI Bank Q1 profit jumps 16% as asset quality improves,MSN,positive,0.9972,AUTO_ACCEPTED
+2026-07-19 08:40:11,ICICIBANK.NS,ICICI Bank emerges top pick as Q1 results widen gap in sector,MSN,positive,0.9854,AUTO_ACCEPTED
+2026-07-20 00:36:56,ICICIBANK.NS,ICICI Bank Ltd (IBN) Q1 2027 Earnings Call Highlights: Strong Pr,GuruFocus,positive,0.994,AUTO_ACCEPTED
+2026-07-20 01:13:00,ICICIBANK.NS,Weekly Recap: Q1 profit and loan growth and higher provisions,TradingView,neutral,0.9412,AUTO_ACCEPTED
+2026-07-20 04:43:17,ICICIBANK.NS,"Dharmesh Kant picks ICICI Bank as top banking bet, stays selective on IT and jewellery",CNBC TV18,positive,0.6565,AUTO_ACCEPTED
+2026-07-20 03:49:04,ICICIBANK.NS,"Buy ICICI Bank for the Target Rs 1,750 by Motilal Oswal Financial Services Ltd",Investment Guru India,positive,0.9316,AUTO_ACCEPTED
+2026-07-20 03:43:48,ICICIBANK.NS,kotak bank s q1 profit jumps 26 to 4 123 cr loan growth robust but margins flat,ICICI Direct,positive,0.9952,AUTO_ACCEPTED
+2026-07-20 04:13:44,ICICIBANK.NS,HDFC Bank Tumbles Nearly 5% After Q1 Results; Axis Bank Slides Over 5%; ICICI Bucks Trend,News18,negative,0.9858,AUTO_ACCEPTED
+2026-07-19 18:15:00,ICICIBANK.NS,ICICI Bank’s workforce strength sees the biggest decline among private sector banks in FY26,BusinessLine,negative,0.9818,AUTO_ACCEPTED
+2026-07-20 03:57:33,ICICIBANK.NS,ICICI Bank shares rise 3% after Q1 results. Why Bernstein and 4 other brokerages see up to 32% upside,The Economic Times,positive,0.9973,AUTO_ACCEPTED
+2026-07-20 04:07:31,ICICIBANK.NS,"Bank Stocks Under Pressure: Axis, Kotak, HDFC Bank Shares Fall 5% After Q1 Results — Buy, Sell, Or Hold?",NDTV Profit,negative,0.9929,AUTO_ACCEPTED
+2026-07-20 04:32:33,ICICIBANK.NS,ICICI Bank workforce decline: what changed in FY26,Lapaas Voice,negative,0.9737,AUTO_ACCEPTED
+2026-07-20 04:13:48,ICICIBANK.NS,Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Piramal Pharma on 20 July,livemint.com,neutral,0.9695,AUTO_ACCEPTED
+2026-07-20 04:13:27,ICICIBANK.NS,"NIFTY Bank slides over 1.5%; HDFC Bank, Axis Bank tumble 5% after Q1 earnings",Upstox,negative,0.9897,AUTO_ACCEPTED
+2026-07-20 04:43:55,ICICIBANK.NS,"Nifty Bank index tanks 2%; HDFC Bank, Axis Bank plunge 5% post Q1 results",Business Standard,negative,0.9901,AUTO_ACCEPTED
+2026-07-19 09:52:08,ICICIBANK.NS,"ICICI Vs HDFC Bank: Profit, Asset Quality To Margins — Q1 Results Compared",NDTV Profit,neutral,0.9933,AUTO_ACCEPTED
+2026-07-20 03:10:42,ICICIBANK.NS,Q1 FY27 Outlook: Top six private banks bet on corporate credit revival as bond market loses pricing edge,Moneycontrol.com,neutral,0.7439,AUTO_ACCEPTED
+2026-07-20 04:09:11,ICICIBANK.NS,Top private banks take measured approach to FCNR-B deposit mobilisation,Moneycontrol.com,neutral,0.988,AUTO_ACCEPTED
+2026-07-20 04:00:33,ICICIBANK.NS,HDFC Bank’s Margin Miss Dragged India’s Private Lenders,Finimize,negative,0.9909,AUTO_ACCEPTED
+2026-07-20 04:05:19,ICICIBANK.NS,"Bank Nifty falls 1.6% post-Q1 results by heavyweight private banks; HDFC, Axis Bank decline up to 5%",Moneycontrol.com,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 00:00:46,ICICIBANK.NS,"For private banks, data on FCNR deposits is... private.",livemint.com,neutral,0.9938,AUTO_ACCEPTED
+2026-07-20 04:49:37,ICICIBANK.NS,"Sensex rises 250 pts from day's low, Nifty reclaims 24,200: Four key reasons behind market paring losses",Moneycontrol.com,positive,0.9816,AUTO_ACCEPTED
+2026-07-20 01:30:47,ICICIBANK.NS,Mint Quick Edit | Indian bank profits are on an incline but retail asset quality must be kept on the risk radar,livemint.com,neutral,0.8272,AUTO_ACCEPTED
+2026-07-19 09:52:43,ICICIBANK.NS,"Banks Q1 Scorecard: ICICI, Axis, Kotak To HDFC Bank — Profit, NII, NPAs At A Glance",NDTV Profit,neutral,0.99,AUTO_ACCEPTED
+2026-07-20 05:47:00,ICICIBANK.NS,Hold South Indian Bank; target of Rs 45: ICICI Securities,Moneycontrol.com,neutral,0.9934,AUTO_ACCEPTED
+2026-07-20 05:41:27,ICICIBANK.NS,Buy HDFC Bank; target of Rs 1020: ICICI Securities,Moneycontrol.com,positive,0.9485,AUTO_ACCEPTED
+2026-07-19 20:35:13,ITC.NS,ITC Hotels signs Rs 155 crore Welcomhotel Ahmedabad acquisition,BW Hotelier,neutral,0.9334,AUTO_ACCEPTED
+2026-07-19 15:43:59,ITC.NS,"United Heat Transfer receives GST notice blocking ITC of ₹9,38,860",scanx.trade,negative,0.9852,AUTO_ACCEPTED
+2026-07-19 09:34:00,ITC.NS,ITC Hotels signs 117-key Welcomhotel project in Dehradun to expand Uttarakhand portfolio,Prop News Time,positive,0.9289,AUTO_ACCEPTED
+2026-07-19 12:07:29,INFY.NS,Infosys Q1FY27 preview: Sequential growth likely to be aided by acquisitions,BusinessLine,positive,0.8432,AUTO_ACCEPTED
+2026-07-19 06:23:03,INFY.NS,"Q1 results this week: Infosys, IndiGo, Paytm, Bajaj Auto, Eternal, Meesho, Adani Power and more",Upstox,neutral,0.9933,AUTO_ACCEPTED
+2026-07-19 23:42:35,INFY.NS,"Q1 Results This Week: Infosys, Bajaj Auto, Paytm, among 150 others report numbers",CNBC TV18,neutral,0.9917,AUTO_ACCEPTED
+2026-07-19 06:53:54,INFY.NS,Q1 results 2026: Infosys to Eternal among companies to declare Q1 results next week; check full list here,livemint.com,neutral,0.9895,AUTO_ACCEPTED
+2026-07-19 11:07:47,INFY.NS,Infosys - 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?,The Economic Times,positive,0.7482,AUTO_ACCEPTED
+2026-07-20 04:59:45,INFY.NS,"Q1 Results This Week: Infosys, Bajaj Auto, NTPC, Bank of Baroda Among 250+ Firms Reporting Earnings",NDTV Profit,neutral,0.9753,AUTO_ACCEPTED
+2026-07-20 01:13:00,INFY.NS,Weekly Recap: EPS beat and independent director retirement,TradingView,neutral,0.9923,AUTO_ACCEPTED
+2026-07-19 16:42:52,INFY.NS,Infosys Q1 preview: acquisitions may lift growth,Lapaas Voice,positive,0.992,AUTO_ACCEPTED
+2026-07-19 07:50:19,INFY.NS,"Q1 Results This Week, July 20-25: Infosys, Paytm, NTPC, Dr Reddys, IndiGo Among 250+ Companies to Announce",Goodreturns,neutral,0.9875,AUTO_ACCEPTED
+2026-07-19 19:04:38,JSWSTEEL.NS,"Middle East peace, reconstruction can help stabilise steel market: JSW Steel JMD Jayant Acharya",The Economic Times,positive,0.6005,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 01:38:26,JSWSTEEL.NS,"Stocks to watch: JSW Steel, Alembic Pharma, Cipla, Laser Power, 5Paisa, Prestige Estates, NBCC (India)",BusinessLine,neutral,0.9931,AUTO_ACCEPTED
+2026-07-20 03:30:37,JSWSTEEL.NS,"JSW Steel Targets Leverage Under 2.5X And Outlines ₹1,000 Pipeline Cost Savings",Sahi,positive,0.9536,AUTO_ACCEPTED
+2026-07-20 02:22:11,JSWSTEEL.NS,"Stock Picks Today: HDFC Bank, Reliance Industries, ICICI Bank, JSW Steel, And More On Brokerages' Radar",NDTV Profit,neutral,0.9862,AUTO_ACCEPTED
+2026-07-20 01:28:38,JSWSTEEL.NS,JSW forging stronger second half with India demand boost and disciplined expansion,Telegraph India,positive,0.9914,AUTO_ACCEPTED
+2026-07-20 02:02:47,JSWSTEEL.NS,"JSW Steel Q1 Review: Brokerages Raise Earnings Estimates, Stay Positive On Growth Outlook",NDTV Profit,positive,0.9899,AUTO_ACCEPTED
+2026-07-20 01:13:00,JSWSTEEL.NS,Weekly Recap: 11% Q1 EBITDA estimate and ₹811cr JOPL share sale,TradingView,positive,0.7594,AUTO_ACCEPTED
+2026-07-20 02:36:54,JSWSTEEL.NS,"Stocks to Watch today: RIL, Vi, HDFC Bank, ICICI Bank, Axis Bank, JSW Steel",Business Standard,neutral,0.9936,AUTO_ACCEPTED
+2026-07-19 07:43:42,JSWSTEEL.NS,"JSW Steel sees West Asia reconstruction opportunity, warns of steel import diversion",livemint.com,negative,0.8855,AUTO_ACCEPTED
+2026-07-19 18:15:56,JSWSTEEL.NS,"JSW Steel Q1 FY27 Net Profit Attributable to Owners Surges 113% YoY to ₹4,651 Crore",EquityBulls,positive,0.9969,AUTO_ACCEPTED
+2026-07-19 17:35:30,JSWSTEEL.NS,JSW Steel Approves ₹811 Crore Offer for Sale in Proposed JSW One Platforms IPO,EquityBulls,positive,0.9764,AUTO_ACCEPTED
+2026-07-20 04:27:00,KOTAKBANK.NS,"India's HDFC Bank drops on weak margins; drags Nifty, bank stocks",Yahoo Finance Singapore,negative,0.9939,AUTO_ACCEPTED
+2026-07-19 10:25:00,KOTAKBANK.NS,India’s Private Banks Ride Corporate Loan Wave as Firms Ditch Pricey Bonds,finance.biggo.com,negative,0.9005,AUTO_ACCEPTED
+2026-07-20 04:04:42,KOTAKBANK.NS,Buy Kotak Mahindra Bank for the Target Rs 470 by Motilal Oswal Financial Services Ltd,Investment Guru India,positive,0.9568,AUTO_ACCEPTED
+2026-07-20 05:04:18,KOTAKBANK.NS,"Rs 91,000 crore wipeout: What spooked HDFC Bank, Axis Bank and Kotak investors even as credit growth picked up?",The Economic Times,negative,0.9797,AUTO_ACCEPTED
+2026-07-20 03:25:07,KOTAKBANK.NS,Kotak Mahindra Bank Shares In Focus As Brokerages Stay Mixed On Q1 Growth — Should You Buy?,NDTV Profit,neutral,0.9648,AUTO_ACCEPTED
+2026-07-20 04:50:51,KOTAKBANK.NS,"Bank Stocks Underperform post Q1: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline",BusinessLine,negative,0.8662,AUTO_ACCEPTED
+2026-07-20 03:43:48,KOTAKBANK.NS,kotak bank s q1 profit jumps 26 to 4 123 cr loan growth robust but margins flat,ICICI Direct,positive,0.9952,AUTO_ACCEPTED
+2026-07-19 22:37:30,KOTAKBANK.NS,"Kotak has a ‘very strong’ internal bench, NRC to ‘look broader’: Ashok Vaswani on CEO appointment",BFSI News,neutral,0.9215,AUTO_ACCEPTED
+2026-07-20 02:36:23,KOTAKBANK.NS,"Stocks to watch, July 20: CMPDI, HDFC Bank, RIL, ICICI Bank, PNB, Paytm, Oil-linked stocks, Kotak Bank",Upstox,neutral,0.9934,AUTO_ACCEPTED
+2026-07-20 01:13:00,KOTAKBANK.NS,"Weekly Recap: Kotak CEO resignation and net advances, deposits growth",TradingView,neutral,0.982,AUTO_ACCEPTED
+2026-07-20 04:32:56,KOTAKBANK.NS,"Sensex tumbles 700 pts, Nifty slips below 24,200 as private banks drag; HDFC Bank, Axis, Kotak Mahindra Bank lead fall",Fortune India,negative,0.9918,AUTO_ACCEPTED
+2026-07-20 04:00:41,KOTAKBANK.NS,"HDFC, Axis, Kotak to Yes Bank: Private bank stocks slip over 5% after Q1 results; ICICI Bank shares outperform",livemint.com,negative,0.9928,AUTO_ACCEPTED
+2026-07-20 04:07:31,KOTAKBANK.NS,"Bank Stocks Under Pressure: Axis, Kotak, HDFC Bank Shares Fall 5% After Q1 Results — Buy, Sell, Or Hold?",NDTV Profit,negative,0.9929,AUTO_ACCEPTED
+2026-07-20 04:12:59,KOTAKBANK.NS,"SENSEX drops over 500 points, NIFTY50 below 24,200 dragged down by HDFC Bank, Axis Bank, Kotak Bank",Upstox,negative,0.9932,AUTO_ACCEPTED
+2026-07-20 04:43:55,KOTAKBANK.NS,"Nifty Bank index tanks 2%; HDFC Bank, Axis Bank plunge 5% post Q1 results",Business Standard,negative,0.9901,AUTO_ACCEPTED
+2026-07-19 06:47:32,KOTAKBANK.NS,"Haryana government recovers Rs 127.27 crore from Kotak Mahindra Bank, clears all outstanding dues",The News Mill,positive,0.981,AUTO_ACCEPTED
+2026-07-20 04:53:33,KOTAKBANK.NS,"Kotak Mahindra Bank shares fall over 3% after Q1 earnings. What are Motilal Oswal, other brokerages saying",The Economic Times,negative,0.9935,AUTO_ACCEPTED
+2026-07-19 21:46:26,KOTAKBANK.NS,"Kotak Mahindra Bank Q1 FY27 Profit Rises 26% to ₹4,123 Crore, NII Grows 9%",ascendants.in,positive,0.9971,AUTO_ACCEPTED
+2026-07-20 01:30:47,KOTAKBANK.NS,Mint Quick Edit | Indian bank profits are on an incline but retail asset quality must be kept on the risk radar,livemint.com,neutral,0.8272,AUTO_ACCEPTED
+2026-07-20 04:20:01,KOTAKBANK.NS,"Stock market update: Why Sensex, Nifty tumbled in opening deals today",Business Today,negative,0.8717,AUTO_ACCEPTED
+2026-07-19 09:52:43,KOTAKBANK.NS,"Banks Q1 Scorecard: ICICI, Axis, Kotak To HDFC Bank — Profit, NII, NPAs At A Glance",NDTV Profit,neutral,0.99,AUTO_ACCEPTED
+2026-07-19 18:10:54,KOTAKBANK.NS,"Kotak Mahindra Bank Group Posts Strong Q1 FY27 Performance: Consolidated Net Profit Rises 23% Year-on-Year to ₹5,480 Crore driven by Retail and Subsidiary Strengths",EquityBulls,positive,0.9967,AUTO_ACCEPTED
+2026-07-19 08:26:16,KOTAKBANK.NS,"Stocks to Watch for July 20: Reliance Industries, RBL Bank, Aditya Birla Capital and more",CNBC TV18,neutral,0.9925,AUTO_ACCEPTED
+2026-07-19 06:49:00,KOTAKBANK.NS,KMB’s PAT Up 26% @ Rs41Bn,fintechbiznews.com,positive,0.9975,AUTO_ACCEPTED
+2026-07-20 05:20:12,LT.NS,Larsen & Toubro wins multiple orders under its metals and mineral vertical,Business Standard,positive,0.9889,AUTO_ACCEPTED
+2026-07-20 05:45:00,LT.NS,L&T bags mega orders in metals and minerals business from public and private sector companies,ANI News,positive,0.9758,AUTO_ACCEPTED
+2026-07-20 04:05:30,LT.NS,L&T Wins Multiple Mega Orders for Metals & Minerals Business,scanx.trade,positive,0.9951,AUTO_ACCEPTED
+2026-07-20 04:47:11,LT.NS,"L&T's metals and minerals vertical wins 'mega' orders worth up to ₹15,000 crore; Stock volatile",CNBC TV18,positive,0.98,AUTO_ACCEPTED
+2026-07-20 04:12:31,LT.NS,"L&T Secures Mega Contract Valued Between ₹10,000 Crore and ₹15,000 Crore",Sahi,positive,0.9867,AUTO_ACCEPTED
+2026-07-20 05:05:52,LT.NS,"L&T wins mega orders worth over ₹10,000 crore for metals and minerals business",Business Outreach Magazine,positive,0.9899,AUTO_ACCEPTED
+2026-07-19 17:40:21,LT.NS,Larsen’s water resources bill clears committee hurdle,theorcasonian.com,neutral,0.684,AUTO_ACCEPTED
+2026-07-20 01:40:13,M&M.NS,The Odyssey storms global box office with $264m opening,The Guardian,negative,0.8808,AUTO_ACCEPTED
+2026-07-19 16:40:56,M&M.NS,‘The Odyssey’ Seizes $124M Opening in Box Office Triumph,The Hollywood Reporter,positive,0.9879,AUTO_ACCEPTED
+2026-07-19 15:39:00,M&M.NS,ox Office Global: 'The Odyssey' $257M Bow A Record for Christopher Nolan,Deadline,positive,0.9931,AUTO_ACCEPTED
+2026-07-19 18:11:02,M&M.NS,Weekend Box Office: THE ODYSSEY Shines with $124M Domestic / $264M Global Debut,Boxoffice Pro,positive,0.9951,AUTO_ACCEPTED
+2026-07-19 15:13:00,M&M.NS,"‘The Odyssey’ Slays With $124M+ U.S. Opening, Best Live-Action Haul Of 2026; Global At $264M A Nolan Best",Deadline,positive,0.9827,AUTO_ACCEPTED
+2026-07-19 21:45:00,M&M.NS,Netflix paid $587M for Ben Affleck’s AI filmmaking startup,TechCrunch,neutral,0.9358,AUTO_ACCEPTED
+2026-07-19 12:45:00,M&M.NS,Russia’s 370-ton nuclear battery reactor clears key milestone for deployment,Interesting Engineering,positive,0.9936,AUTO_ACCEPTED
+2026-07-20 03:25:01,M&M.NS,"CPI(M) opposes introduction of Bill to give Vande Mataram legal protection, calls it unconstitutional",The Hindu,negative,0.9049,AUTO_ACCEPTED
+2026-07-20 03:58:00,M&M.NS,Drake curse is real: Rapper backs Argentina for $1.5m and Spain wins the FIFA World Cup anyway,The Times of India,neutral,0.7086,AUTO_ACCEPTED
+2026-07-20 05:43:34,M&M.NS,"Kerala Health Minister bars political activities in hospitals; CPI(M), BJP object",Nagaland Post,negative,0.8226,AUTO_ACCEPTED
+2026-07-19 23:13:19,M&M.NS,Weekly Recap: Q1 revenue and profit decline and 3.9M Class B buyback,TradingView,negative,0.8775,AUTO_ACCEPTED
+2026-07-20 04:42:00,M&M.NS,'I'm still dreaming': Gavi celebrates as Spain lift second FIFA World Cup title,ANI News,positive,0.9767,AUTO_ACCEPTED
+2026-07-20 00:01:17,M&M.NS,Bangladesh: Settlement of unpaid claims of over US$568m will be the top priority of the new IDRA chief,Asia Insurance Review,neutral,0.9777,AUTO_ACCEPTED
+2026-07-20 03:42:38,M&M.NS,"Asia FX: Won outperforms on reform plans as dollar steadies, M.East tensions flare",Investing.com India,positive,0.392,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 23:12:01,M&M.NS,'Odyssey' tops North American box office with $125M,upi.com,positive,0.9941,AUTO_ACCEPTED
+2026-07-20 05:43:43,M&M.NS,$12m AI coffee research facility given green light,Global Coffee Report,positive,0.9545,AUTO_ACCEPTED
+2026-07-19 15:18:51,M&M.NS,"CPI(M) accuses governments of neglecting dalits, warns of protests for house site pattas",The Hindu,negative,0.9226,AUTO_ACCEPTED
+2026-07-20 05:07:52,M&M.NS,“The road condition is worsening. When we return I’m afraid we may have to walk through.”,Nagaland Post,negative,0.9824,AUTO_ACCEPTED
+2026-07-20 04:43:00,M&M.NS,Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?,The Guardian,neutral,0.9366,AUTO_ACCEPTED
+2026-07-19 18:45:00,M&M.NS,Messi Faces The Infamous 'Drake Curse' Again After Rapper's $1.5M Bet | WATCH,The Times of India,negative,0.9145,AUTO_ACCEPTED
+2026-07-19 11:14:11,M&M.NS,"Kalaburagi: CPI(M) protests detention of Sonam Wangchuk, seeks Education Minister’s resignation",The Hindu,negative,0.6603,AUTO_ACCEPTED
+2026-07-19 14:28:08,M&M.NS,CPI(M) demands urgent rehabilitation of Polavaram project displaced families,The Hindu,neutral,0.9877,AUTO_ACCEPTED
+2026-07-19 14:14:19,M&M.NS,"Prioritise State’s interests in Parliament, CPI(M) urges TDP and YSRCP MPs",The Hindu,neutral,0.9871,AUTO_ACCEPTED
+2026-07-20 05:33:50,M&M.NS,"Shreya Murthy, founder of $120M US startup, recalls immigrant parents saving for a month just to call India",Hindustan Times,neutral,0.6249,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 17:15:00,M&M.NS,5 of family dead in roof collapse amid heavy rain in M’nagar,The Times of India,negative,0.8863,AUTO_ACCEPTED
+2026-07-19 20:13:26,M&M.NS,Executive education investment in Middle East nears $100m annually amid rising demand for workforce upskilling,Dailynewsegypt,positive,0.9827,AUTO_ACCEPTED
+2026-07-19 14:51:49,M&M.NS,Syntetica Raises $30M Series A With Investment From Lululemon And MAS Holdings To Advance Solutions For Nylon Recycling,Textile World,positive,0.9925,AUTO_ACCEPTED
+2026-07-20 04:10:14,M&M.NS,'I'm fully compliant': Employee fears PIP after requesting hybrid work over father's health issue,Hindustan Times,negative,0.9917,AUTO_ACCEPTED
+2026-07-20 00:30:11,M&M.NS,Medical AI Startup OpenEvidence Weighs $200 Million Funding Round,PYMNTS.com,negative,0.6382,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 04:35:12,M&M.NS,Micro Silver (XAGUSD-M) Volatility Intensified on Jul 20: What to Watch,TradingKey,negative,0.9064,AUTO_ACCEPTED
+2026-07-20 05:00:15,M&M.NS,Singapore Awards $4.1M to Three Projects Upcycling Food Waste Into High-Value Products,Green Queen Media,positive,0.954,AUTO_ACCEPTED
+2026-07-20 05:24:46,M&M.NS,"Ethereum spot ETFs see $105M inflows, best week since April, led by BlackRock's ETHA fund",Pluang,positive,0.9424,AUTO_ACCEPTED
+2026-07-20 03:52:00,M&M.NS,"Vande Mataram Bill in Rajya Sabha: Amit Shah to Table, CPI(M)'s John Brittas Files Notice | News18",News18,neutral,0.9877,AUTO_ACCEPTED
+2026-07-20 04:24:00,M&M.NS,Qoria (ASX:QOR) Revenue Hits A$69.15M—Is This Cyber-Safety Stock Approaching Turning Point?,Kalkine,positive,0.9914,AUTO_ACCEPTED
+2026-07-20 05:14:03,M&M.NS,New Zealand backs Golden Bay Cement with $60m support package,Devdiscourse,positive,0.8102,AUTO_ACCEPTED
+2026-07-20 03:34:00,M&M.NS,PV Sindhu: I’m out of words as it’s been 19 months since I won,Mid-day,negative,0.5499,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 17:30:00,M&M.NS,"‘The Odyssey’ storms theaters with $124M debut, Nolan’s best since ‘The Dark Knight Rises’",Gold Derby,positive,0.8251,AUTO_ACCEPTED
+2026-07-20 04:06:03,M&M.NS,"World Cup 2026: Tournament brought extra HK$500M revenue to Hong Kong’s bars and restaurants, industry rep says",Hong Kong Free Press HKFP,positive,0.9945,AUTO_ACCEPTED
+2026-07-20 03:12:27,M&M.NS,Allbridge Core halts protocol after $1.1M flash loan attack distorts stablecoin pools.,Pluang,negative,0.9835,AUTO_ACCEPTED
+2026-07-20 05:45:31,M&M.NS,Allbridge Core halts protocol after $1.65M Sola...,Pluang,negative,0.9632,AUTO_ACCEPTED
+2026-07-20 01:54:47,M&M.NS,China Merchants splashing out close to $728m on six-ship VLOC order,TradeWinds News,positive,0.9305,AUTO_ACCEPTED
+2026-07-19 23:45:00,M&M.NS,Deep Yellow boosts Tumas Project with $34m contract awards,Capital Brief,positive,0.996,AUTO_ACCEPTED
+2026-07-20 05:04:00,M&M.NS,EQ Resources (ASX:EQR) Revenue Reaches A$44.53M—Is Its Tungsten Growth Story Gathering Momentum?,Kalkine,positive,0.9878,AUTO_ACCEPTED
+2026-07-19 16:30:00,M&M.NS,M-Pesa joint venture in first Sh102m profit,Business Daily,positive,0.9054,AUTO_ACCEPTED
+2026-07-19 13:31:10,M&M.NS,Bank ABC joins consortium providing $550m financing for Cheiron’s Egyptian oil fields,Dailynewsegypt,positive,0.6956,AUTO_ACCEPTED
+2026-07-20 04:23:00,M&M.NS,Polymetals Resources (ASX:POL) Generates A$39.39M Revenue—But Can It Overcome Profitability Challenge?,Kalkine,neutral,0.8607,AUTO_ACCEPTED
+2026-07-19 21:20:00,M&M.NS,I was wrong about the Leica M EV1 – this really is an M camera,Digital Camera World,neutral,0.9122,AUTO_ACCEPTED
+2026-07-20 05:05:00,M&M.NS,Electro Optic Systems (ASX:EOS) Posts A$128.46M Revenue—Why This Defence-Technology Stock Remains in Focus,Kalkine,positive,0.9969,AUTO_ACCEPTED
+2026-07-20 04:12:25,M&M.NS,Eva Live to acquire 51% stake in Airbeam Wireless for $16M,Investing.com Nigeria,positive,0.5677,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 14:24:14,M&M.NS,Kimbell Royalty Partners (KRP) Stock Could Be Pricey After $215.4m Acquisition,simplywall.st,negative,0.9852,AUTO_ACCEPTED
+2026-07-20 04:23:00,M&M.NS,Elevra Lithium (ASX:ELV) Posts A$226.83M Revenue—Can It Capitalise on Next Lithium Recovery?,Kalkine,positive,0.9946,AUTO_ACCEPTED
+2026-07-19 06:58:17,M&M.NS,Fidelity’s Bitcoin ETF leads $42M inflow as spot BTC ETFs rebound,eciks.org,positive,0.981,AUTO_ACCEPTED
+2026-07-19 19:00:00,M&M.NS,"I was a high-flyer. Now, I’m broke and unemployed",The Times,neutral,0.9791,AUTO_ACCEPTED
+2026-07-19 20:01:17,M&M.NS,"While One Farm Owner Turned Down $26M From an AI Data Center Developer, Another Couple Sold Their Struggling Farm for $22M",Yahoo Finance,negative,0.7693,AUTO_ACCEPTED
+2026-07-20 04:23:00,M&M.NS,Vulcan Energy Resources (ASX:VUL) Posts EUR 7.35M Revenue—Is a Major Commercial Breakthrough Ahead?,Kalkine,positive,0.9951,AUTO_ACCEPTED
+2026-07-20 00:36:50,M&M.NS,Tilta Nucleus-M II Wireless Lens Control System Firmware Update,Newsshooter,neutral,0.9886,AUTO_ACCEPTED
+2026-07-19 22:42:31,M&M.NS,"$10m eligibility threshold must be across the board for SBCGT concessions, IPA says",Accounting Times,neutral,0.9835,AUTO_ACCEPTED
+2026-07-19 18:17:53,M&M.NS,Obituary for Barbara J. (McLaughlin) Champion,"Leo M. Bacha Funeral Home, Inc.",neutral,0.9854,AUTO_ACCEPTED
+2026-07-19 17:15:53,M&M.NS,Brand spending exceeds $857M for ads on U.S. World Cup coverage,Sports Business Journal,positive,0.9843,AUTO_ACCEPTED
+2026-07-19 17:23:00,M&M.NS,'The Odyssey' brings in $264.1M in global opening: studio,The Detroit News,positive,0.9949,AUTO_ACCEPTED
+2026-07-19 15:20:00,M&M.NS,'I'm not going to blame Lewis' - Russell reflects on 'one thing after another' luckless spell,Formula 1,neutral,0.5953,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 04:02:00,M&M.NS,Eartheater: Heavenly Body: If I’m the Bottle You’re the Message Album Review,Pitchfork,positive,0.5731,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 03:25:04,M&M.NS,SIA open to more Air India funding despite $945m loss share,Singapore Business Review,positive,0.9135,AUTO_ACCEPTED
+2026-07-20 01:08:09,M&M.NS,Government moves to keep cement production in NZ with up to $60m in financial support,RNZ,positive,0.9302,AUTO_ACCEPTED
+2026-07-20 05:01:15,M&M.NS,£15.9m investment sees 70% phosphorus drop at five East Yorkshire treatment sites,Water Magazine,negative,0.988,AUTO_ACCEPTED
+2026-07-19 16:03:00,M&M.NS,Ukrainian oil producer wins US$10.9m in court case against Russia,Українська правда,positive,0.7544,AUTO_ACCEPTED
+2026-07-20 05:04:00,M&M.NS,ImpediMed (ASX:IPD) Posts A$7.5M Revenue—Could This Medtech Stock Be Approaching Inflection Point?,Kalkine,positive,0.9831,AUTO_ACCEPTED
+2026-07-19 12:43:00,M&M.NS,I promised to care for my mom with Alzheimer's. I'm building a tiny home in our yard instead of choosing a care facility.,Business Insider,neutral,0.9819,AUTO_ACCEPTED
+2026-07-20 01:10:00,M&M.NS,"Drysdale, Flyers Agree on 4-year $26M Deal",Yahoo Sports,positive,0.9546,AUTO_ACCEPTED
+2026-07-20 04:07:30,M&M.NS,"ASIC Penalties Hit Record $830M on Banks, Super Fines",Law360,negative,0.9453,AUTO_ACCEPTED
+2026-07-19 19:50:57,M&M.NS,"GCC population hits 62.8m, projected to hit 83.6m by 2050",Kuwait Times,positive,0.875,AUTO_ACCEPTED
+2026-07-19 17:39:11,M&M.NS,"""Hopefully, in my career, I'm able to do something like that"" - Giannis Antetokounmpo aims to match the greatness of Lionel Messi",Yahoo Sports,positive,0.5067,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 22:26:21,M&M.NS,"PNM, Blackstone to reverse problematic $400M early stock sale and extend acquisition timeline to 2027",New Mexico Political Report,positive,0.5741,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 00:29:03,M&M.NS,Metal Powder Works (ASX:MPW) maps 800MT build for US$1.7m capex,Stocks Down Under,neutral,0.9458,AUTO_ACCEPTED
+2026-07-19 11:54:00,M&M.NS,56.60m! Bull stuns for javelin gold with big PB as Great Britain’s success continues,European Athletics,positive,0.975,AUTO_ACCEPTED
+2026-07-20 05:10:19,M&M.NS,California Utility Says It’s Offered $750M in Program for Eaton Fire Victims,Insurance Journal,positive,0.6595,AUTO_ACCEPTED
+2026-07-19 11:16:00,M&M.NS,16.12m! Odunaike in triple jump takes Great Britain’s fourth championship record of Rieti,European Athletics,positive,0.7315,AUTO_ACCEPTED
+2026-07-20 03:34:45,M&M.NS,Job website visits slump despite $22m replacement,RNZ,negative,0.9938,AUTO_ACCEPTED
+2026-07-19 06:53:22,M&M.NS,M-cap of five of top 10 most valued firms jumps Rs 1.54 lakh cr; TCS biggest winner,The Economic Times,positive,0.996,AUTO_ACCEPTED
+2026-07-20 05:01:45,M&M.NS,"Sarah Moss: I'm glad people listen to audiobooks of my writing, but it's not like reading",The Irish Times,neutral,0.9884,AUTO_ACCEPTED
+2026-07-19 22:31:54,M&M.NS,(LIVESTREA.M) Yankees vs Dodgers Live Free 20 July 2026 direct,Universidad Autónoma del Estado de Hidalgo,neutral,0.9785,AUTO_ACCEPTED
+2026-07-20 01:46:41,M&M.NS,"Linda M. Erickson Obituary Jun 3, 2026 - Downs Life Celebration Center",Downs Life Celebration Center,neutral,0.9897,AUTO_ACCEPTED
+2026-07-19 15:54:14,M&M.NS,'No way I'm getting taken off that court',BBC,neutral,0.4687,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 05:36:37,M&M.NS,Next-Gen Mahindra Thar - Vision T Patented in India,CarLelo,neutral,0.9221,AUTO_ACCEPTED
+2026-07-19 06:36:07,M&M.NS,Mahindra Vision T Patented in India,CarWale,positive,0.643,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 15:31:00,M&M.NS,"Watch: Mahindra Thar tows broken-down BMTC bus through Bengaluru streets, video sparks buzz online",The Times of India,positive,0.9529,AUTO_ACCEPTED
+2026-07-20 04:11:44,M&M.NS,"Anand Mahindra shares Indonesian remake of Hindi classic, calls it 'beyond borders'",India Today,positive,0.9009,AUTO_ACCEPTED
+2026-07-19 10:35:41,M&M.NS,"Anand Mahindra, Jackie Shroff, Pawan Kalyan congratulate P V Sindhu on first Japan Open title",The Indian Express,neutral,0.6419,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 03:25:07,M&M.NS,Kotak Mahindra Bank Shares In Focus As Brokerages Stay Mixed On Q1 Growth — Should You Buy?,NDTV Profit,neutral,0.9648,AUTO_ACCEPTED
+2026-07-20 04:11:00,M&M.NS,Buy Kotak Mahindra Bank; target of Rs 480: Prabhudas Lilladher,TradingView,positive,0.9877,AUTO_ACCEPTED
+2026-07-20 05:02:56,M&M.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-20 04:57:00,M&M.NS,Insight: Suzuki's no-frills cars once ruled India. Then buyers demanded frills.,Reuters,neutral,0.9422,AUTO_ACCEPTED
+2026-07-20 04:50:51,M&M.NS,"Bank Stocks Underperform post Q1: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline",BusinessLine,negative,0.8662,AUTO_ACCEPTED
+2026-07-19 21:01:52,M&M.NS,Electric Car Sales - June 2026,Autopunditz,neutral,0.977,AUTO_ACCEPTED
+2026-07-20 02:10:26,M&M.NS,10 Upcoming Electric And Hybrid Mahindra SUVs For India: BE07 To XUV 7X0 Hybrid,Cartoq,positive,0.7581,AUTO_ACCEPTED
+2026-07-20 04:00:52,M&M.NS,"Mahindra Vision T (Thar EV) Design Patented In India, Launch Next FY?",Gaadiwaadi.com,neutral,0.7901,AUTO_ACCEPTED
+2026-07-20 04:00:33,M&M.NS,Mahindra BE 07 Spotted Testing; New Electric SUV Could Sit Above BE 6,Gaadiwaadi.com,positive,0.9859,AUTO_ACCEPTED
+2026-07-20 01:13:00,M&M.NS,Weekly Recap: Q1 revenue and profit growth and scaling agentic AI platform,TradingView,neutral,0.9864,AUTO_ACCEPTED
+2026-07-20 01:13:00,M&M.NS,"Weekly Recap: Kotak CEO resignation and net advances, deposits growth",TradingView,neutral,0.982,AUTO_ACCEPTED
+2026-07-20 04:04:42,M&M.NS,Buy Kotak Mahindra Bank for the Target Rs 470 by Motilal Oswal Financial Services Ltd,Investment Guru India,positive,0.9568,AUTO_ACCEPTED
+2026-07-20 02:35:26,M&M.NS,7 4X4/AWD SUVs Launching Soon: All-New Toyota Hilux To Mahindra Scorpio-N Facelift,Cartoq,positive,0.9827,AUTO_ACCEPTED
+2026-07-20 04:53:33,M&M.NS,"Kotak Mahindra Bank shares fall over 3% after Q1 earnings. What are Motilal Oswal, other brokerages saying",The Economic Times,negative,0.9935,AUTO_ACCEPTED
+2026-07-19 11:15:19,M&M.NS,"Mahindra Thar tows broken-down BMTC bus in Bengaluru, viral video sparks debate",Moneycontrol.com,negative,0.8122,AUTO_ACCEPTED
+2026-07-19 09:30:00,M&M.NS,Mahindra’s Answer To Tata Harrier Coming To India,MotorOctane,neutral,0.9935,AUTO_ACCEPTED
+2026-07-20 04:57:00,MARUTI.NS,Suzuki's no-frills cars once ruled India. Then buyers demanded frills.,Yahoo Finance Singapore,neutral,0.9245,AUTO_ACCEPTED
+2026-07-19 07:05:15,MARUTI.NS,2026 Maruti Suzuki Brezza facelift details leaked,Team-BHP,neutral,0.9772,AUTO_ACCEPTED
+2026-07-20 05:04:46,MARUTI.NS,Suzuki’s no-frills cars once ruled India. Then buyers demanded frills. By Reuters,Investing.com,neutral,0.9619,AUTO_ACCEPTED
+2026-07-20 04:57:00,MARUTI.NS,Insight: Suzuki's no-frills cars once ruled India. Then buyers demanded frills.,Reuters,neutral,0.9422,AUTO_ACCEPTED
+2026-07-20 01:35:58,MARUTI.NS,"2026 Maruti Brezza Facelift Top Features, Mileage and Safety Tech Leaked",CarLelo,positive,0.5827,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 05:16:13,MARUTI.NS,Maruti Suzuki shifts strategy as market share falls amid demand for bigger cars,Межа. Новини України.,negative,0.9888,AUTO_ACCEPTED
+2026-07-20 05:04:05,MARUTI.NS,Maruti Suzuki Is Learning India No Longer Buys Basic,Finimize,neutral,0.9628,AUTO_ACCEPTED
+2026-07-19 21:01:52,MARUTI.NS,Electric Car Sales - June 2026,Autopunditz,neutral,0.977,AUTO_ACCEPTED
+2026-07-20 04:54:22,MARUTI.NS,Revving Up: Suzuki's Drive to Reclaim Indian Roads,Devdiscourse,positive,0.9245,AUTO_ACCEPTED
+2026-07-20 04:59:45,NTPC.NS,"Q1 Results This Week: Infosys, Bajaj Auto, NTPC, Bank of Baroda Among 250+ Firms Reporting Earnings",NDTV Profit,neutral,0.9753,AUTO_ACCEPTED
+2026-07-19 22:04:38,NTPC.NS,"NPCIL-NTPC joint venture to invite bids for INR 28,000 crore Rajasthan nuclear project",Prop News Time,neutral,0.8437,AUTO_ACCEPTED
+2026-07-19 10:49:23,NTPC.NS,NTPC - 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?,The Economic Times,positive,0.7023,AUTO_ACCEPTED
+2026-07-19 07:50:19,NTPC.NS,"Q1 Results This Week, July 20-25: Infosys, Paytm, NTPC, Dr Reddys, IndiGo Among 250+ Companies to Announce",Goodreturns,neutral,0.9875,AUTO_ACCEPTED
+2026-07-19 12:08:36,ONGC.NS,ONGC gave over Rs 670 cr in CSR funds to RSS-linked bodies over 12 yrs: Report,National Herald,neutral,0.9587,AUTO_ACCEPTED
+2026-07-19 12:43:10,ONGC.NS,ONGC Channelled ₹671 Crore in CSR Funds to 20 RSS-Linked Organisations Between 2013 and 2025: Report,theobserverpost.com,neutral,0.9475,AUTO_ACCEPTED
+2026-07-20 03:46:34,ONGC.NS,"ONGC Completes India's First Deep Geothermal Wells at Puga, Ladakh — A Major Step for Energy Security I India SCR",India CSR,positive,0.9864,AUTO_ACCEPTED
+2026-07-19 21:00:00,ONGC.NS,ONGC stock trades steadily as recent quarterly earnings and crude price trends shape valuation,ad-hoc-news.de,positive,0.8489,AUTO_ACCEPTED
+2026-07-20 03:41:10,ONGC.NS,Puga geothermal project completes two wells in Ladakh,Power Peak Digest,positive,0.8679,AUTO_ACCEPTED
+2026-07-19 14:12:55,ONGC.NS,ONGC’s ₹671 Crore CSR Funding to Sangh-Linked Organisations Raises Questions Over PSU Transparency,India CSR,negative,0.6701,AUTO_ACCEPTED
+2026-07-20 04:05:54,POWERGRID.NS,"Stocks To Watch Today, July 20: Reliance Industries, Power Grid, ICICI Bank, Yes Bank, Axis Bank",HDFC Sky,neutral,0.9939,AUTO_ACCEPTED
+2026-07-20 04:06:19,POWERGRID.NS,A Yo-Yo monsoon in India is threatening crops and the power grid,BusinessLine,negative,0.9841,AUTO_ACCEPTED
+2026-07-20 01:46:34,POWERGRID.NS,"Top stocks in news: RIL, HDFC Bank, ICICI Bank, GAIL, KMB, Power Grid, YES Bank, NBCC, PNB",Business Today,neutral,0.9913,AUTO_ACCEPTED
+2026-07-20 05:00:26,POWERGRID.NS,"As Solar and Wind Meet A Larger Share of India’s Grid Load , Incremental Additions Come At Ever Higher Cost To Grid",Saur Energy,positive,0.7795,AUTO_ACCEPTED
+2026-07-20 02:57:31,POWERGRID.NS,Tata Power Gets SECI Approval For 324 MW Pumped Storage Plant Services,Sahi,positive,0.9942,AUTO_ACCEPTED
+2026-07-20 02:50:47,POWERGRID.NS,Mizoram to replace 2010 grid code with new state-specific framework,Power Peak Digest,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 03:33:00,POWERGRID.NS,"A problem of when, not how much",The Statesman,neutral,0.9928,AUTO_ACCEPTED
+2026-07-20 03:26:42,POWERGRID.NS,The grid behind the energy transition,Asian Power,neutral,0.9577,AUTO_ACCEPTED
+2026-07-20 03:51:11,POWERGRID.NS,PGCIL wins Fatehgarh-II synchronous condenser project,Power Peak Digest,positive,0.9785,AUTO_ACCEPTED
+2026-07-20 04:42:48,POWERGRID.NS,"As Boulder’s power grid falters, Xcel begins major undergrounding projects",The Boulder Reporting Lab,negative,0.9047,AUTO_ACCEPTED
+2026-07-20 03:15:17,POWERGRID.NS,EV industry shifts focus from vehicles to energy ecosystems,China Daily,neutral,0.9752,AUTO_ACCEPTED
+2026-07-20 03:23:00,POWERGRID.NS,No fixed schedule for power restrictions: Bishkek electric grid enterprise responds to outages,AKIpress News Agency,neutral,0.9871,AUTO_ACCEPTED
+2026-07-19 12:00:00,POWERGRID.NS,Why data centers are part of the solution for our power grid | Opinion,Tri-City Herald,neutral,0.7921,AUTO_ACCEPTED
+2026-07-19 08:50:00,POWERGRID.NS,Tesla Superchargers in Japan: Impact on the Power Grid,Inspenet,negative,0.9215,AUTO_ACCEPTED
+2026-07-20 04:22:00,POWERGRID.NS,"Sungrow Secures World's First German Inertia Market ""Passport"" with VDE FNN Prototype Certificate",PR Newswire UK,positive,0.9324,AUTO_ACCEPTED
+2026-07-20 00:01:00,POWERGRID.NS,The Grid Bottleneck: The Hidden Trillion-Dollar Crisis Threatening The Green Transition - OpEd,Eurasia Review,negative,0.9654,AUTO_ACCEPTED
+2026-07-19 11:30:33,POWERGRID.NS,Iranians suffer from power blackouts during war and heatwave,Al Jazeera,neutral,0.5072,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 18:23:04,POWERGRID.NS,"Egypt, WB probe boosting cooperation in power grid, renewable energy financing",الهيئة العامة للاستعلامات,positive,0.9832,AUTO_ACCEPTED
+2026-07-19 11:21:00,POWERGRID.NS,Carlos Sainz becomes fifth driver to take Belgian GP grid drop for power unit changes,Formula 1,positive,0.864,AUTO_ACCEPTED
+2026-07-20 04:43:40,POWERGRID.NS,Forum Live: Exploring Quantum Inward & Reaching for Space Outward - A Dialogue at the Starting Point of the New Computing Power Civilization,36Kr,neutral,0.9702,AUTO_ACCEPTED
+2026-07-19 18:13:00,POWERGRID.NS,Opinion | AI Can Be the Fast Track to Grid Reliability,WSJ,positive,0.9899,AUTO_ACCEPTED
+2026-07-19 12:01:20,POWERGRID.NS,Foresight Q&A: Investing in the Energy Transition & Climate,Sustainability Magazine,neutral,0.8358,AUTO_ACCEPTED
+2026-07-19 10:57:09,POWERGRID.NS,Drone Strikes Hit Russian Fuel Hubs in Stavropol Krai and Power Grid in Occupied Crimea,Kyiv Post,neutral,0.7382,AUTO_ACCEPTED
+2026-07-19 14:00:00,POWERGRID.NS,"Keep ACs at 25°C to help ease pressure on grid, expert says",Times of Malta,neutral,0.893,AUTO_ACCEPTED
+2026-07-19 23:44:02,POWERGRID.NS,Data centre boom won’t mean higher power prices—if we unlock stalled renewable projects,Energy Source & Distribution,positive,0.8563,AUTO_ACCEPTED
+2026-07-20 02:22:11,RELIANCE.NS,"Stock Picks Today: HDFC Bank, Reliance Industries, ICICI Bank, JSW Steel, And More On Brokerages' Radar",NDTV Profit,neutral,0.9862,AUTO_ACCEPTED
+2026-07-19 12:34:45,RELIANCE.NS,Reliance Industries' FMCG business turns EBITDA positive for the first time,The Economic Times,positive,0.9967,AUTO_ACCEPTED
+2026-07-19 21:44:26,RELIANCE.NS,"Stocks to Watch Today: Reliance Industries, ICICI Bank, HDFC Bank, NATCO Pharma, Oberoi Realty, RBL Bank,...",Moneycontrol.com,neutral,0.9932,AUTO_ACCEPTED
+2026-07-19 08:26:16,RELIANCE.NS,"Stocks to Watch for July 20: Reliance Industries, RBL Bank, Aditya Birla Capital and more",CNBC TV18,neutral,0.9925,AUTO_ACCEPTED
+2026-07-20 02:18:05,RELIANCE.NS,"Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here",livemint.com,neutral,0.9904,AUTO_ACCEPTED
+2026-07-19 23:18:24,RELIANCE.NS,US President Trump Announces $300 Billion Partnership with Reliance to Build First Major US Refinery in 50 Years,News On AIR,positive,0.9807,AUTO_ACCEPTED
+2026-07-20 05:05:16,RELIANCE.NS,"Reliance Industries share price can go up to ₹1,890, analysts project after Q1 results - CNBC TV18",LinkedIn,positive,0.5092,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 01:32:31,RELIANCE.NS,"Reliance Industries Reports Q1 Net Profit of ₹20,946 Crore as EBITDA Margins Reach 15.24%",Sahi,positive,0.9957,AUTO_ACCEPTED
+2026-07-20 04:03:04,RELIANCE.NS,Reliance Industries gains 1% after Q1 results; should you take a fresh bet?,Business Standard,positive,0.997,AUTO_ACCEPTED
+2026-07-20 00:30:46,RELIANCE.NS,"Reliance Industries: O2C shines, but digital commerce push weighs on Q1 earnings",livemint.com,negative,0.5664,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 04:59:13,RELIANCE.NS,"Reliance Industries share price can go up to ₹1,890, analysts project after Q1 results",CNBC TV18,positive,0.8872,AUTO_ACCEPTED
+2026-07-20 04:05:54,RELIANCE.NS,"Stocks To Watch Today, July 20: Reliance Industries, Power Grid, ICICI Bank, Yes Bank, Axis Bank",HDFC Sky,neutral,0.9939,AUTO_ACCEPTED
+2026-07-20 04:06:00,RELIANCE.NS,Breakingviews - Reliance mostly pulls off wartime balancing act,Reuters,neutral,0.8173,AUTO_ACCEPTED
+2026-07-20 04:12:07,RELIANCE.NS,Reliance Industries share price rises after Q1 results. Should you buy or sell the stock?,livemint.com,neutral,0.6374,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 17:12:11,RELIANCE.NS,Jio Platforms' IPO remains the key driver for Reliance Industries stock,Business Standard,positive,0.9941,AUTO_ACCEPTED
+2026-07-20 04:29:32,RELIANCE.NS,"Buy Reliance Industries for the Target Rs 1,550 by Motilal Oswal Financial Services Ltd",Investment Guru India,positive,0.8885,AUTO_ACCEPTED
+2026-07-20 01:40:00,RELIANCE.NS,RIL Q1FY27 results get brokerages' thumbs-up; here's what they said,Business Standard,positive,0.9437,AUTO_ACCEPTED
+2026-07-20 04:07:01,RELIANCE.NS,Reliance Industries share price target: What are brokerages saying after Q1 results?,The Economic Times,neutral,0.9934,AUTO_ACCEPTED
+2026-07-20 04:06:49,RELIANCE.NS,"Mitessh Thakkar recommends Indian Bank, Reliance Industries and Britannia; advises selling Angel One",CNBC TV18,neutral,0.5287,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 17:34:00,RELIANCE.NS,"Reliance's Campa gains double-digit share in key markets, steps up competition in soft drinks segment",The New Indian Express,positive,0.9969,AUTO_ACCEPTED
+2026-07-20 00:32:57,RELIANCE.NS,"Refining gains, clean energy push lift Reliance outlook despite retail drag",The Economic Times,positive,0.9888,AUTO_ACCEPTED
+2026-07-20 03:35:22,RELIANCE.NS,"Stocks to buy for short term: Reliance, DMart among 3 shares Anand Rathi's Jigar Patel recommends for next 1-2 weeks",livemint.com,positive,0.9539,AUTO_ACCEPTED
+2026-07-19 07:25:20,RELIANCE.NS,Should you buy Reliance shares after strong Q1 results 2026?,livemint.com,neutral,0.8662,AUTO_ACCEPTED
+2026-07-19 18:10:54,RELIANCE.NS,Reliance Industries Starts New Fiscal on a High: Q1 FY27 Revenue Surges 24.5% to ₹3.4 Lakh Crore as Jio and O2C Units Drive Record Earnings,EquityBulls,positive,0.9973,AUTO_ACCEPTED
+2026-07-19 11:07:48,RELIANCE.NS,Reliance Industries - 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?,The Economic Times,positive,0.7679,AUTO_ACCEPTED
+2026-07-19 13:39:18,RELIANCE.NS,"Reliance Retail plans to expand online business and dark stores in FY27, CFO Dinesh Taluja lays out three-year roadmap",livemint.com,neutral,0.8842,AUTO_ACCEPTED
+2026-07-19 18:11:15,RELIANCE.NS,Early birds set a strong Q1 tone as earnings growth hits an 11-quarter high,Business Standard,positive,0.9965,AUTO_ACCEPTED
+2026-07-19 10:16:32,RELIANCE.NS,"Reliance Retail to rapidly expand JioMart, dark stores, omni-channel business",Telangana Today,positive,0.9599,AUTO_ACCEPTED
+2026-07-19 11:50:13,RELIANCE.NS,"Reliance Retail bets big on JioMart, omni-channel push; aims to double EBITDA in 3 years",CNBC TV18,positive,0.9969,AUTO_ACCEPTED
+2026-07-20 04:33:50,RELIANCE.NS,"Reliance share gains despite 22% fall in Q1 profit; Motilal Oswal retains buy, trims target price",MSN,positive,0.9926,AUTO_ACCEPTED
+2026-07-20 01:13:00,SBILIFE.NS,Weekly Recap: FY2026 SBILIFE results and Kotak adds SBILIFE,TradingView,neutral,0.987,AUTO_ACCEPTED
+2026-07-20 04:56:24,SBIN.NS,SBI Funds Management IPO listing tomorrow: GMP signals 18% listing gain,The Economic Times,positive,0.9968,AUTO_ACCEPTED
+2026-07-20 03:20:06,SBIN.NS,"Suzlon Energy, Bharat Electronics, SBI: Stocks to trade — Target prices, stop loss & more",Business Today,neutral,0.9608,AUTO_ACCEPTED
+2026-07-20 04:51:18,SBIN.NS,Bank Holidays Next Week: Bank Holiday List From July 20–26,INDToday,neutral,0.9939,AUTO_ACCEPTED
+2026-07-19 06:20:43,SBIN.NS,"Bank Holiday Next Week: SBI, HDFC, ICICI And Other Banks Closed For Three Days; Check Full List",Outlook Money,neutral,0.9904,AUTO_ACCEPTED
+2026-07-19 07:06:14,SBIN.NS,Five of India’s top-10 most valued firms add ₹1.54 lakh crore in market capitalisation; TCS biggest winner,Upstox,positive,0.9939,AUTO_ACCEPTED
+2026-07-19 17:00:00,SBIN.NS,‘Not Simply Another Community Bank’: Critics Sound Alarm Over New Indian Bank in Texas,Daily Signal,negative,0.9928,AUTO_ACCEPTED
+2026-07-20 05:15:17,TATAMOTORS.NS,Man wins over Rs 9 lakh payout after dealer ‘sold test-drive’ car as brand new,The Indian Express,positive,0.9914,AUTO_ACCEPTED
+2026-07-20 02:50:34,TATAMOTORS.NS,"Tata Leads June 2026 EV Dispatches As Segment Crosses 33,000 Units",Gaadiwaadi.com,positive,0.9391,AUTO_ACCEPTED
+2026-07-19 06:53:43,TATAMOTORS.NS,Tata Motors Opposes Govt's CAFE2 Credit Sale Move: Says It's Cheaper To Buy Credits Than Build Clean Cars,Cartoq,negative,0.9467,AUTO_ACCEPTED
+2026-07-19 09:16:21,TATAMOTORS.NS,Nagaland Signs Memorandum of Agreement with Tata Motors for Procurement of 43 Buses to Boost Public Transport,News On AIR,positive,0.9832,AUTO_ACCEPTED
+2026-07-19 21:01:52,TATAMOTORS.NS,Electric Car Sales - June 2026,Autopunditz,neutral,0.977,AUTO_ACCEPTED
+2026-07-19 09:00:11,TATASTEEL.NS,Uncertain Or Unquantified Claims Cannot Be Permitted To Resurface Years After Approval: Supreme Court On...,Verdictum,neutral,0.9876,AUTO_ACCEPTED
+2026-07-19 11:00:02,TATASTEEL.NS,"UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders",Financial Times,negative,0.9775,AUTO_ACCEPTED
+2026-07-19 14:30:04,TATASTEEL.NS,Why is China protesting about the nationalisation of British Steel?,Al Jazeera,negative,0.8678,AUTO_ACCEPTED
+2026-07-20 05:39:32,TATACONSUM.NS,"Marico, Tata Consumer CEOs get double-digit pay hikes in FY26; HUL, Nestlé chiefs earn lower",Storyboard18,neutral,0.8925,AUTO_ACCEPTED
+2026-07-19 11:26:04,TATACONSUM.NS,Tata Consumer Products FY26 March-quarter profit rises 21.6% on broad-based volume growth,Goodreturns,positive,0.9974,AUTO_ACCEPTED
+2026-07-19 19:59:37,TATACONSUM.NS,Snigdha Singh joins Tata Digital as CHRO,ETHRWorld.com,neutral,0.9942,AUTO_ACCEPTED
+2026-07-19 19:49:19,TATACONSUM.NS,Tata Consumer stock trades steady as growth momentum and integration of Tata Sampann support earning,ad-hoc-news.de,positive,0.6652,AUTO_ACCEPTED
+2026-07-19 16:59:55,TATACONSUM.NS,Tata Consumer stock trades steady as growth metrics support valuation,ad-hoc-news.de,neutral,0.4995,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-20 05:02:56,TCS.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-20 01:13:00,TCS.NS,Weekly Recap: TCS $2.6B AI Revenue and Earnings Beat Lift IT Stocks,TradingView,positive,0.9947,AUTO_ACCEPTED
+2026-07-19 14:12:00,TCS.NS,Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer,The Times of India,positive,0.9941,AUTO_ACCEPTED
+2026-07-20 02:28:19,TCS.NS,Why did Tata Consultancy Services shares jump nearly 7% today?,MSN,positive,0.9925,AUTO_ACCEPTED
+2026-07-19 10:17:01,TCS.NS,Mint Explainer | Why IT services companies are betting big on data centres,livemint.com,positive,0.538,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-19 09:04:48,TCS.NS,Hero MotoCorp Stock Tops 3 Indian Dividend Shares With 5% Yields,simplywall.st,positive,0.9921,AUTO_ACCEPTED
+2026-07-19 10:41:00,TECHM.NS,"9 Stocks To Buy For Long Term: Motilal Oswal, Sharekhan bullish on SBI, Titan, Tech Mahindra; up to 34% upside",Zee Business,positive,0.9966,AUTO_ACCEPTED
+2026-07-20 05:02:56,TECHM.NS,"TCS Leads Weekly Gainers After Earnings; Tech Mahindra, Bajaj Finance, HCLTech Also Shine",HDFC Sky,positive,0.9959,AUTO_ACCEPTED
+2026-07-20 01:13:00,TECHM.NS,Weekly Recap: Q1 revenue and profit growth and scaling agentic AI platform,TradingView,neutral,0.9864,AUTO_ACCEPTED
+2026-07-20 00:30:00,TECHM.NS,Clients seek up to 40% discount on IT contracts,The Economic Times,negative,0.7387,AUTO_ACCEPTED
+2026-07-19 17:33:56,ULTRACEMCO.NS,"Stocks To Watch Today: JSW Cement, Piramal Finance, UltraTech Cement, Karur Vysaya Bank And Reliance Power",NDTV Profit,neutral,0.9928,AUTO_ACCEPTED
+2026-07-20 03:20:03,ULTRACEMCO.NS,"Q1 results: UltraTech Cement, Paytm, Shyam Metalics, 43 more on July 20",Business Standard,neutral,0.9936,AUTO_ACCEPTED
+2026-07-20 02:53:58,ULTRACEMCO.NS,Q1 results 2026: Paytm to UltraTech Cement among companies to declare Q1 results today; full list here,livemint.com,neutral,0.9694,AUTO_ACCEPTED
+2026-07-20 02:30:00,ULTRACEMCO.NS,"Stocks to Watch: TARIL, Paytm, UltraTech Cement and 4 Other Stocks Announcing Q1 Results Today",Trade Brains,neutral,0.9876,AUTO_ACCEPTED
+2026-07-19 16:51:51,ULTRACEMCO.NS,NCB signs MoU with UltraTech Cement Limited to strengthen skill development & capacity building in construction sector | Akashvani News,News On AIR,positive,0.89,AUTO_ACCEPTED
+2026-07-20 03:13:51,ULTRACEMCO.NS,"Q1 Results Today: UltraTech Cement, Paytm, Indian Overseas Bank Among 45+ Companies Announcing Q1FY27 Earnings",NDTV Profit,neutral,0.9492,AUTO_ACCEPTED
+2026-07-19 12:57:13,UPL.NS,UPL directors in court on criminal charges – and a R99m property damage claim,Daily Maverick,negative,0.8778,AUTO_ACCEPTED
+2026-07-19 14:27:51,UPL.NS,UPL Directors Face Criminal Charges Over 2021 Chemical Warehouse Fire,ad-hoc-news.de,negative,0.9196,AUTO_ACCEPTED
+2026-07-20 05:34:57,WIPRO.NS,"TCS, HCLTech and Wipro split workloads across SLMs and LLMs",NewsBytes,neutral,0.993,AUTO_ACCEPTED
+2026-07-20 01:13:00,WIPRO.NS,"Weekly Recap: Q1 revenue miss, margin slump and Interim dividend, $3B+ returned",TradingView,negative,0.8642,AUTO_ACCEPTED
+2026-07-19 21:06:45,WIPRO.NS,Deven Choksey Remains a Buy on Wipro Limited (WIPRO),The Globe and Mail,positive,0.784,AUTO_ACCEPTED
