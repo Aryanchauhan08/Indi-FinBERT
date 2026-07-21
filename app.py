@@ -1902,91 +1902,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         unsafe_allow_html=True
     )
     
-    # VISUAL: Sentiment donut ring for real-time positive/neutral/negative split
-    if not df.empty:
-        _pos_p = round(len(df[df["Predicted_Class"].str.lower()=="positive"]) / len(df) * 100, 1)
-        _neu_p = round(len(df[df["Predicted_Class"].str.lower()=="neutral"])  / len(df) * 100, 1)
-        # FIXED: Clamp negative values and ensure total sums to exactly 100
-        _neg_p = round(max(0.0, 100 - _pos_p - _neu_p), 1)
 
-        _r     = 54
-        _circ  = round(2 * np.pi * _r, 4)
-
-        # FIXED: Each segment uses (dash_length, remaining_circumference) so only its arc is drawn
-        _pos_dash = round(_circ * _pos_p / 100, 4)
-        _neu_dash = round(_circ * _neu_p / 100, 4)
-        _neg_dash = round(_circ * _neg_p / 100, 4)
-
-        # Gap = circumference minus this segment's dash so the rest of the ring is transparent
-        _pos_gap  = round(_circ - _pos_dash, 4)
-        _neu_gap  = round(_circ - _neu_dash, 4)
-        _neg_gap  = round(_circ - _neg_dash, 4)
-
-        # Offset: SVG strokes start at 3 o'clock; subtract circ*0.25 to start at 12 o'clock
-        # Each segment begins where the previous one ended
-        _pos_offset = round(_circ * 0.25, 4)
-        _neu_offset = round(_pos_offset - _pos_dash, 4)
-        _neg_offset = round(_neu_offset - _neu_dash, 4)
-
-        _donut_html = f"""
-        <div style="display:flex;justify-content:center;align-items:center;gap:40px;margin:24px 0;background:transparent;">
-            <svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#1E293B" stroke-width="14"/>
-                <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#00FF66" stroke-width="14"
-                    stroke-dasharray="{_pos_dash} {_pos_gap}"
-                    stroke-dashoffset="{_pos_offset}"
-                    stroke-linecap="butt"
-                    transform="rotate(-90 70 70)">
-                    <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_pos_dash} {_pos_gap}"
-                        dur="1.0s" begin="0s" fill="freeze" calcMode="spline"
-                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-                </circle>
-                <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#F59E0B" stroke-width="14"
-                    stroke-dasharray="{_neu_dash} {_neu_gap}"
-                    stroke-dashoffset="{_neu_offset}"
-                    stroke-linecap="butt"
-                    transform="rotate(-90 70 70)">
-                    <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_neu_dash} {_neu_gap}"
-                        dur="1.0s" begin="0.35s" fill="freeze" calcMode="spline"
-                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-                </circle>
-                <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#EF4444" stroke-width="14"
-                    stroke-dasharray="{_neg_dash} {_neg_gap}"
-                    stroke-dashoffset="{_neg_offset}"
-                    stroke-linecap="butt"
-                    transform="rotate(-90 70 70)">
-                    <animate attributeName="stroke-dasharray"
-                        from="0 {_circ}" to="{_neg_dash} {_neg_gap}"
-                        dur="1.0s" begin="0.7s" fill="freeze" calcMode="spline"
-                        keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-                </circle>
-                <text x="70" y="65" text-anchor="middle" fill="#FFFFFF"
-                    font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
-                <text x="70" y="82" text-anchor="middle" fill="#64748B"
-                    font-size="10" font-family="Inter">POSITIVE</text>
-            </svg>
-            <div style="font-family:Inter,sans-serif;">
-                <div style="margin-bottom:10px;">
-                    <span style="color:#00FF66;font-weight:700;">&#9679;</span>
-                    <span style="color:#94A3B8;"> Positive</span>
-                    <b style="color:#FFFFFF;margin-left:8px;">{_pos_p}%</b>
-                </div>
-                <div style="margin-bottom:10px;">
-                    <span style="color:#F59E0B;font-weight:700;">&#9679;</span>
-                    <span style="color:#94A3B8;"> Neutral</span>
-                    <b style="color:#FFFFFF;margin-left:8px;">{_neu_p}%</b>
-                </div>
-                <div>
-                    <span style="color:#EF4444;font-weight:700;">&#9679;</span>
-                    <span style="color:#94A3B8;"> Negative</span>
-                    <b style="color:#FFFFFF;margin-left:8px;">{_neg_p}%</b>
-                </div>
-            </div>
-        </div>
-        """
-        components.html(_donut_html, height=190)
 
     st.markdown("---")
     st.markdown("### 📡 Live NSE/BSE Feed Tracker")
@@ -2036,6 +1952,105 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         if st.button("⚡ Refresh Feed", type="primary", width='stretch'):
             st.cache_data.clear()
             st.rerun()
+
+        # Recalculate donut using only the rows where df["Ticker"] == ticker_query AND df["Date"].dt.date >= (today - 30 days)
+        today = datetime.date.today()
+        thirty_days_ago = today - datetime.timedelta(days=30)
+        donut_df = df[(df["Ticker"] == ticker_query) & (df["Date"].dt.date >= thirty_days_ago)]
+        
+        if not donut_df.empty:
+            _pos_p = round(len(donut_df[donut_df["Predicted_Class"].str.lower()=="positive"]) / len(donut_df) * 100, 1)
+            _neu_p = round(len(donut_df[donut_df["Predicted_Class"].str.lower()=="neutral"])  / len(donut_df) * 100, 1)
+            _neg_p = round(max(0.0, 100 - _pos_p - _neu_p), 1)
+
+            _r     = 54
+            _circ  = round(2 * np.pi * _r, 4)
+
+            _pos_dash = round(_circ * _pos_p / 100, 4)
+            _neu_dash = round(_circ * _neu_p / 100, 4)
+            _neg_dash = round(_circ * _neg_p / 100, 4)
+
+            _pos_gap  = round(_circ - _pos_dash, 4)
+            _neu_gap  = round(_circ - _neu_dash, 4)
+            _neg_gap  = round(_circ - _neg_dash, 4)
+
+            _pos_offset = round(_circ * 0.25, 4)
+            _neu_offset = round(_pos_offset - _pos_dash, 4)
+            _neg_offset = round(_neu_offset - _neu_dash, 4)
+
+            _donut_html = f"""
+            <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin:24px 0;background:transparent;">
+                <svg width="120" height="120" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#1E293B" stroke-width="14"/>
+                    <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#00FF66" stroke-width="14"
+                        stroke-dasharray="{_pos_dash} {_pos_gap}"
+                        stroke-dashoffset="{_pos_offset}"
+                        stroke-linecap="butt"
+                        transform="rotate(-90 70 70)">
+                        <animate attributeName="stroke-dasharray"
+                            from="0 {_circ}" to="{_pos_dash} {_pos_gap}"
+                            dur="1.0s" begin="0s" fill="freeze" calcMode="spline"
+                            keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+                    </circle>
+                    <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#F59E0B" stroke-width="14"
+                        stroke-dasharray="{_neu_dash} {_neu_gap}"
+                        stroke-dashoffset="{_neu_offset}"
+                        stroke-linecap="butt"
+                        transform="rotate(-90 70 70)">
+                        <animate attributeName="stroke-dasharray"
+                            from="0 {_circ}" to="{_neu_dash} {_neu_gap}"
+                            dur="1.0s" begin="0.35s" fill="freeze" calcMode="spline"
+                            keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+                    </circle>
+                    <circle cx="70" cy="70" r="{_r}" fill="none" stroke="#EF4444" stroke-width="14"
+                        stroke-dasharray="{_neg_dash} {_neg_gap}"
+                        stroke-dashoffset="{_neg_offset}"
+                        stroke-linecap="butt"
+                        transform="rotate(-90 70 70)">
+                        <animate attributeName="stroke-dasharray"
+                            from="0 {_circ}" to="{_neg_dash} {_neg_gap}"
+                            dur="1.0s" begin="0.7s" fill="freeze" calcMode="spline"
+                            keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+                    </circle>
+                    <text x="70" y="65" text-anchor="middle" fill="#FFFFFF"
+                        font-size="18" font-weight="800" font-family="Inter">{_pos_p}%</text>
+                    <text x="70" y="82" text-anchor="middle" fill="#64748B"
+                        font-size="10" font-family="Inter">POSITIVE</text>
+                </svg>
+                <div style="font-family:Inter,sans-serif;font-size:11px;">
+                    <div style="margin-bottom:6px;">
+                        <span style="color:#00FF66;font-weight:700;">&#9679;</span>
+                        <span style="color:#94A3B8;"> Pos</span>
+                        <b style="color:#FFFFFF;margin-left:4px;">{_pos_p}%</b>
+                    </div>
+                    <div style="margin-bottom:6px;">
+                        <span style="color:#F59E0B;font-weight:700;">&#9679;</span>
+                        <span style="color:#94A3B8;"> Neu</span>
+                        <b style="color:#FFFFFF;margin-left:4px;">{_neu_p}%</b>
+                    </div>
+                    <div>
+                        <span style="color:#EF4444;font-weight:700;">&#9679;</span>
+                        <span style="color:#94A3B8;"> Neg</span>
+                        <b style="color:#FFFFFF;margin-left:4px;">{_neg_p}%</b>
+                    </div>
+                </div>
+            </div>
+            """
+            st.markdown(
+                "<div style='font-size:0.75rem;font-weight:700;color:#64748B;"
+                "text-transform:uppercase;letter-spacing:0.08em;margin-top:16px;margin-bottom:6px;'>"
+                "30-Day Sentiment Split</div>",
+                unsafe_allow_html=True
+            )
+            components.html(_donut_html, height=160)
+        else:
+            st.markdown(
+                "<div style='font-size:0.75rem;font-weight:700;color:#64748B;"
+                "text-transform:uppercase;letter-spacing:0.08em;margin-top:16px;margin-bottom:6px;'>"
+                "30-Day Sentiment Split</div>",
+                unsafe_allow_html=True
+            )
+            st.info("No sentiment data available for this ticker in the last 30 days.")
         
     with feed_col2:
         selected_ticker = ticker_query.upper().strip()
