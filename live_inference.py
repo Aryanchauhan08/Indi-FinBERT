@@ -40,10 +40,31 @@ except ImportError:
     TRANSFORMERS_AVAILABLE = False
 
 # Quality filters shared across all sources (aligned with notebooks)
+BLOCKED_SOURCES = {
+    "facebook.com",
+    "Українські Національні Новини (УНН)",
+    "Межа. Новини України.",
+    "IranWire",
+    "AlleyWatch",
+    "GovCon Wire",
+    "Business Wire",
+    "simplywall.st",
+}
+
+INDIA_SIGNALS = [
+    "india", "indian", "nse", "bse", "nifty", "sensex",
+    "mumbai", "delhi", "bengaluru", "sebi", "rbi",
+    "crore", "lakh", "rupee", "rs.", "fy27", "fy26", "fy25",
+    "q1", "q2", "q3", "q4"
+]
+
 NOISE_WORDS = [
     "cricket", "bollywood", "recipe", "horoscope", "fashion",
     "travel", "weather", "lifestyle", "us-iran", "ukraine",
-    "gaza", "election", "sports", "entertainment"
+    "gaza", "election", "sports", "entertainment",
+    "runs over", "sexual harassment", "bail granted", "assault", "accident",
+    "wimbledon", "premier league", "football club", "kyiv", "dynamo",
+    "ontario", "zambia", "cambodia", "poland", "french guiana",
 ]
 SKIP_PREFIXES = [
     "sensex today", "stock market highlights", "market highlights",
@@ -51,7 +72,6 @@ SKIP_PREFIXES = [
     "buzzing stocks", "10 things that will", "week ahead",
     "trading guide", "market wrap", "top business & market headlines",
     "bl morning report", "morning report", "dalal street watch",
-    # --- ADD THESE ---
     "share price live",
     "share price today",
     "share price update",
@@ -59,11 +79,13 @@ SKIP_PREFIXES = [
     "stock price today",
     "adani ent share price",
     "nse bse",
+    "opinion:", "interview:", "exclusive:", "explained:", "watch:", 
+    "podcast:", "photo:", "gallery:", "ipo allotment", "ipo listing",
+    "ipo gmp", "ipo subscription", "sme ipo", "budget 2025", "union budget",
 ]
 JUNK_PHRASES = [
     "day’s trial", "subscribe", "sign up", "download the app",
     "advisory alert", "read also", "also read", "newsletter",
-    # --- ADD THESE ---
     "live updates",
     "market performance",
     "opens at",
@@ -77,6 +99,13 @@ JUNK_PHRASES = [
     "52-week high",
     "52-week low",
     "watch the stock",
+    "stocks to watch", "stocks in focus",
+    "series a", "seed round",
+    "raises $", "secures $", "scores $", "closes $", "bags $",
+    "click here", "read more", "follow us",
+    "personal finance", "mutual fund sip", "fixed deposit",
+    "gold rate", "silver rate", "petrol price", "diesel price",
+    "cryptocurrency", "bitcoin", "ethereum",
 ]
 
 
@@ -203,6 +232,10 @@ def fetch_gnews_rss():
                     if not is_valid_headline(title):
                         continue
                         
+                    if not any(sig in title.lower() for sig in INDIA_SIGNALS):
+                        logging.debug(f"  [GNews] Skipped (no India signal): {title[:60]}")
+                        continue
+                        
                     pub_date_str = entry.get("published", "")
                     pub_dt = parse_rss_date(pub_date_str)
                     
@@ -210,6 +243,8 @@ def fetch_gnews_rss():
                         continue
                         
                     source = entry.get("source", {}).get("title", "Google News")
+                    if source in BLOCKED_SOURCES:
+                        continue
                     
                     results.append({
                         "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
@@ -275,6 +310,8 @@ def fetch_news_api():
                     continue
                     
                 source = art.get("source", {}).get("name", "NewsAPI")
+                if source in BLOCKED_SOURCES:
+                    continue
                 
                 results.append({
                     "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
