@@ -2300,3 +2300,84 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-21 16:16:15,WIPRO.NS,Wipro assigned ESG rating of 78 by ESG Risk Assessments,scanx.trade,neutral,0.9696,AUTO_ACCEPTED
 2026-07-21 17:32:14,WIPRO.NS,Wipro stock holds firm as Q4 2025 profit rises and margin improves,Ad-hoc-news.de,positive,0.9948,AUTO_ACCEPTED
 2026-07-21 12:34:05,WIPRO.NS,"India’s Wipro Consumer buys PHL’s S Brands, signals intent to explore international markets",BusinessWorld Online,positive,0.9951,AUTO_ACCEPTED
+2026-07-22 08:39:22,NESTLEIND.NS,Nestle India shares rise 2.05% in today's session,moneycontrol,positive,0.9466,AUTO_ACCEPTED
+2026-07-22 08:39:22,LT.NS,"Adani Power Q1 results: Profit jumps 42% to Rs 4,806 crore; board approves Rs 15,000 crore fund raise",moneycontrol,positive,0.9469,AUTO_ACCEPTED
+2026-07-22 08:39:22,CIPLA.NS,Cipla Shares Fall 2.06% in Early Trade Amidst Mixed Financial Performance,moneycontrol,negative,0.9435,AUTO_ACCEPTED
+2026-07-22 08:39:22,BAJAJ-AUTO.NS,"Buy Bajaj Auto; target of Rs 12,650: ICICI Securities",moneycontrol,positive,0.9301,AUTO_ACCEPTED
+2026-07-22 08:39:22,LT.NS,M&M Finance shares jump 17% in two days post-Q1 results; brokerages see up to 29% upside,moneycontrol,positive,0.9472,AUTO_ACCEPTED
+2026-07-22 08:39:22,BAJAJ-AUTO.NS,"Buy Bajaj Auto; target of Rs 13,700: Emkay Global Financial",moneycontrol,positive,0.9143,AUTO_ACCEPTED
+2026-07-22 08:39:23,SBIN.NS,"SBI Funds Management shares fall 3% on second day of listing; should you buy, sell or hold?",moneycontrol,negative,0.9432,AUTO_ACCEPTED
+2026-07-22 08:39:23,LT.NS,Nestle India Q1 results: Consolidated net profit jumps 48% to Rs 959 crore; stock gains over 3% post earnings,moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-22 08:39:23,NESTLEIND.NS,Nestle India Q1 results: Consolidated net profit jumps 48% to Rs 959 crore; stock gains over 3% post earnings,moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-22 08:39:23,LT.NS,"Bandhan Bank Q1 results beat estimates, but stock crashes 15%: Here's what brokerages say on lender's guidance cut",moneycontrol,negative,0.9421,AUTO_ACCEPTED
+2026-07-22 08:39:23,LT.NS,Q1 Results 2026 LIVE: Nestle India net profit rises 48% to Rs 959 crore,moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-22 08:39:23,NESTLEIND.NS,Q1 Results 2026 LIVE: Nestle India net profit rises 48% to Rs 959 crore,moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-22 08:39:23,LT.NS,"Momentum Stocks: Bandhan Bank, Sunteck Realty, Gradiente Infotainment see negative breakdowns",moneycontrol,neutral,0.9381,AUTO_ACCEPTED
+2026-07-22 01:11:20,AXISBANK.NS,"Axis Bank Q1 profit rises 23% YoY to ₹7,114 crore",scanx.trade,positive,0.748,AUTO_ACCEPTED
+2026-07-21 16:40:58,BAJAJ-AUTO.NS,Strong Q1 show by TVS Motor and Bajaj Auto over record sales and exports,The New Indian Express,positive,0.7332,AUTO_ACCEPTED
+2026-07-21 12:02:08,BAJAJ-AUTO.NS,"Bajaj Auto Q1 Results: Profit Jumps 46% to ₹3,226 Cr",Lapaas Voice,positive,0.748,AUTO_ACCEPTED
+2026-07-22 02:45:22,BAJAJ-AUTO.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-21 16:41:56,BAJAJ-AUTO.NS,Bajaj Auto Q1 Profit Rises 42% on Record Export Volumes,Whalesbook,positive,0.7477,AUTO_ACCEPTED
+2026-07-22 03:58:08,BPCL.NS,"BPCL Q1 Results Today: Time, Dividend, Earnings Call, Share Price, Key Things To Watch",NDTV Profit,neutral,0.7454,AUTO_ACCEPTED
+2026-07-22 02:45:22,BPCL.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-22 05:12:54,BPCL.NS,"Q1 results: Eternal, Nestle India, BPCL, Adani Power among 63 firms today",Business Standard,neutral,0.7403,AUTO_ACCEPTED
+2026-07-21 17:24:03,BPCL.NS,"Earning Estimates: BPCL, Nestle, HPCL, Dr Reddys, IndusInd Bank, United Spirits, JSW Energy Q1 Results Today — What To Expect",NDTV Profit,neutral,0.7444,AUTO_ACCEPTED
+2026-07-22 02:41:20,BPCL.NS,"Q1 Results Today: IndusInd Bank, Tata Communications, Adani Green, BPCL, Nestlé India Among 60+ Companies Reporting On July 22",NDTV Profit,neutral,0.743,AUTO_ACCEPTED
+2026-07-22 05:45:01,BPCL.NS,"Earnings Season Gathers Steam: Key takeaways from Indian Hotels, Bandhan, BPCL numbers",Zee Business,positive,0.5926,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-22 02:25:13,BPCL.NS,"Q1 Results Today Live, July 22: Eternal, IndusInd Bank, BPCL, Adani Power, Tata Communications among 63 quarterly earnings today - Check report card",ET Now,neutral,0.7428,AUTO_ACCEPTED
+2026-07-22 04:00:05,BPCL.NS,"Top Q1 results today, July 22: Adani Power, Nestle India, Eternal, BPCL, IndusInd Bank among key companies to announce rarnings",Business Upturn,neutral,0.7427,AUTO_ACCEPTED
+2026-07-22 03:53:01,CIPLA.NS,"Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan",Moneycontrol.com,negative,0.7452,AUTO_ACCEPTED
+2026-07-22 05:42:23,CIPLA.NS,Indian pharma stocks fall after Trump outlines tariffs on generics By Investing.com,Investing.com South Africa,negative,0.745,AUTO_ACCEPTED
+2026-07-22 08:25:03,COALINDIA.NS,Coal India fixes Sept 4 record date for ₹5.25 dividend,scanx.trade,neutral,0.6875,AUTO_ACCEPTED
+2026-07-22 03:53:01,DRREDDY.NS,"Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan",Moneycontrol.com,negative,0.7452,AUTO_ACCEPTED
+2026-07-22 02:45:22,DRREDDY.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-22 06:33:43,HDFCBANK.NS,HDFC Bank share price drops for third straight session after Q1FY27 results: Should you buy on dip or avoid?,livemint.com,negative,0.7442,AUTO_ACCEPTED
+2026-07-22 02:45:22,INDUSINDBK.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-22 02:18:09,INDUSINDBK.NS,India’s Big Earnings Day Puts BSE 500 Names On Deck,Finimize,positive,0.7168,AUTO_ACCEPTED
+2026-07-22 02:41:20,INDUSINDBK.NS,"Q1 Results Today: IndusInd Bank, Tata Communications, Adani Green, BPCL, Nestlé India Among 60+ Companies Reporting On July 22",NDTV Profit,neutral,0.743,AUTO_ACCEPTED
+2026-07-22 04:31:56,INDUSINDBK.NS,"Q1 Results today: Eternal, Nestle, IndusInd Bank among 63 companies announcing June earnings. What to expe",The Economic Times,neutral,0.7434,AUTO_ACCEPTED
+2026-07-21 17:24:03,INDUSINDBK.NS,"Earning Estimates: BPCL, Nestle, HPCL, Dr Reddys, IndusInd Bank, United Spirits, JSW Energy Q1 Results Today — What To Expect",NDTV Profit,neutral,0.7444,AUTO_ACCEPTED
+2026-07-21 10:51:05,INDUSINDBK.NS,"IndusInd Bank Q1 Results Today: Time, Earnings Call Schedule, AGM, Share Price History And More",NDTV Profit,neutral,0.7458,AUTO_ACCEPTED
+2026-07-22 02:25:13,INDUSINDBK.NS,"Q1 Results Today Live, July 22: Eternal, IndusInd Bank, BPCL, Adani Power, Tata Communications among 63 quarterly earnings today - Check report card",ET Now,neutral,0.7428,AUTO_ACCEPTED
+2026-07-22 04:11:53,INDUSINDBK.NS,"Adani Green, Nestle, IndusInd Bank Q1 Results Due Today",Whalesbook,neutral,0.7439,AUTO_ACCEPTED
+2026-07-22 04:00:05,INDUSINDBK.NS,"Top Q1 results today, July 22: Adani Power, Nestle India, Eternal, BPCL, IndusInd Bank among key companies to announce rarnings",Business Upturn,neutral,0.7427,AUTO_ACCEPTED
+2026-07-22 07:38:44,LT.NS,Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED
+2026-07-21 12:17:08,LT.NS,Hi-Tech Audio & Image advances L-Acoustics education in India,Pro AVL Asia,neutral,0.5893,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-21 10:33:31,LT.NS,Inditex partners with Conservation Int'l to protect Amazon forest,Fibre2Fashion,positive,0.5585,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-21 12:42:04,LT.NS,"Used 2016 Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT Black Edition AT for sale in Bangalore at Rs.5,40,000",CarWale,neutral,0.4273,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-21 09:30:20,M&M.NS,"SML Isuzu Share Price Today, SML Isuzu Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.7451,AUTO_ACCEPTED
+2026-07-22 07:46:59,M&M.NS,"Emami Paper Mills Q1 net profit surges to ₹386.1M, EBITDA margin expands",scanx.trade,positive,0.7479,AUTO_ACCEPTED
+2026-07-22 06:52:57,M&M.NS,Fenix Outdoor Q2 2026: operating loss widens to €11.1m,Sporting Goods Intelligence Europe,negative,0.7359,AUTO_ACCEPTED
+2026-07-22 08:18:40,M&M.NS,Hyperliquid leads with $462M net inflow as Arbi...,Pluang,positive,0.7464,AUTO_ACCEPTED
+2026-07-22 06:51:08,NESTLEIND.NS,"Nestle India surges 4%, hits new high post Q1; PAT up 48% on robust sales",Business Standard,positive,0.748,AUTO_ACCEPTED
+2026-07-22 06:56:35,NESTLEIND.NS,"Nifty 50 Gainers and Losers | July 22, 2026",HDFC Sky,neutral,0.7447,AUTO_ACCEPTED
+2026-07-22 07:05:25,NESTLEIND.NS,"Nestlé India Q1 Results 2026: Profit Jumps 48%, Sales Rise 25%",Business Outreach Magazine,positive,0.7476,AUTO_ACCEPTED
+2026-07-22 06:10:55,NESTLEIND.NS,"Nestle India hits a record high after Q1 profit jumps 47.9 percent, but part of the margin gain sits in inventory",Business Upturn,positive,0.7456,AUTO_ACCEPTED
+2026-07-22 05:46:41,NESTLEIND.NS,Nestle India Q1 results: Consolidated net profit jumps 48% to Rs 959 crore; stock gains over 3% post...,Moneycontrol.com,positive,0.748,AUTO_ACCEPTED
+2026-07-22 07:03:55,NESTLEIND.NS,"Nestlé India Share Price jumps 1% after Q1 FY27 Results: Net Profit Jumps 48%, Revenue Rises 25%",India Infoline,positive,0.7475,AUTO_ACCEPTED
+2026-07-22 05:52:13,NESTLEIND.NS,"Nestle India Q1 Results: Stock soars after 40% operating profit growth, margin expansion",CNBC TV18,positive,0.748,AUTO_ACCEPTED
+2026-07-22 07:09:18,NESTLEIND.NS,"Nestle India Q1 Results 2027: Revenue Rises 25% YoY, PAT Surges 48%",Sahi,positive,0.7477,AUTO_ACCEPTED
+2026-07-22 08:05:35,NESTLEIND.NS,"Nestlé India Limited Reports Earnings Results for the First Quarter Ended June 30, 2026",marketscreener.com,neutral,0.7436,AUTO_ACCEPTED
+2026-07-22 06:06:19,NESTLEIND.NS,"Nestle India Q1 results 2026: Net profit rises 48% YoY to ₹975 crore, revenue up 25%",livemint.com,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 05:51:00,NESTLEIND.NS,Nestle India's quarterly profit jumps 48% on demand boost,Reuters,positive,0.748,AUTO_ACCEPTED
+2026-07-22 07:27:07,NESTLEIND.NS,"Nestle India Q1 Results: Net Profit Jumps To ₹958 Cr, Revenue Up 25%",outlookbusiness.com,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 07:15:28,NESTLEIND.NS,Nestle India net profit jumps 48.3% on strong performance in Q1FY27,Business Standard,positive,0.748,AUTO_ACCEPTED
+2026-07-22 02:45:22,NESTLEIND.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-22 06:08:49,NESTLEIND.NS,"Nestle India Q1 Net Profit Reaches ₹975 Crore, Delivering 25.4% Sales Growth",Sahi,positive,0.7473,AUTO_ACCEPTED
+2026-07-22 06:04:08,NESTLEIND.NS,"Nestle India Q1 results: Net profit soars 48% YoY to ₹975 crore, EBITDA margin expands",Upstox,positive,0.7477,AUTO_ACCEPTED
+2026-07-22 05:55:08,NESTLEIND.NS,"Nestle India Q1 Result: Net Profit Jumps 48% To Rs 975 Crore, Revenue Up 25%",NDTV Profit,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 02:41:20,NESTLEIND.NS,"Q1 Results Today: IndusInd Bank, Tata Communications, Adani Green, BPCL, Nestlé India Among 60+ Companies Reporting On July 22",NDTV Profit,neutral,0.743,AUTO_ACCEPTED
+2026-07-22 06:46:26,NESTLEIND.NS,"Nestle India Q1 result: Net profit jumps 48% to ₹958.68 cr, revenue up 25%",Business Standard,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 06:03:03,NESTLEIND.NS,Nestle India shares climb 4% to hit record high after Q1 results,Business Today,positive,0.7478,AUTO_ACCEPTED
+2026-07-22 05:50:38,NESTLEIND.NS,"Nestle India Q1 Sales Surge 25.4% to ₹6,363.3 Crore on Broad-Based Volume Growth",scanx.trade,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 05:12:54,NESTLEIND.NS,"Q1 results: Eternal, Nestle India, BPCL, Adani Power among 63 firms today",Business Standard,neutral,0.7403,AUTO_ACCEPTED
+2026-07-22 02:52:03,NESTLEIND.NS,Q1 results 2026: Eternal to Adani Power among companies to declare Q1 results today; full list here,livemint.com,neutral,0.7404,AUTO_ACCEPTED
+2026-07-21 17:24:03,NESTLEIND.NS,"Earning Estimates: BPCL, Nestle, HPCL, Dr Reddys, IndusInd Bank, United Spirits, JSW Energy Q1 Results Today — What To Expect",NDTV Profit,neutral,0.7444,AUTO_ACCEPTED
+2026-07-22 06:26:52,NESTLEIND.NS,"Nestle India Q1 Results: Net Profit Jumps 48% to Rs 959 Crore, Revenue Surges 25%",News18,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 05:49:56,NESTLEIND.NS,Nestle India Q1 Results: Net profit surges 48% YoY to Rs 975 crore; revenue rises 25%,The Economic Times,positive,0.7481,AUTO_ACCEPTED
+2026-07-22 04:31:56,NESTLEIND.NS,"Q1 Results today: Eternal, Nestle, IndusInd Bank among 63 companies announcing June earnings. What to expe",The Economic Times,neutral,0.7434,AUTO_ACCEPTED
+2026-07-22 02:45:22,NTPC.NS,"Q1 Results: Adani Power, Nestle India, Eternal, BPCL, Adani Green, HPCL, IndusInd Bank, others to post earnings on July 22",Upstox,neutral,0.7432,AUTO_ACCEPTED
+2026-07-21 12:31:56,RELIANCE.NS,Four strategic takeaways from Reliance Q1 FY27 earnings call,MediaNama,neutral,0.743,AUTO_ACCEPTED
+2026-07-22 05:46:06,SBIN.NS,State Bank of India and Amundi announce the successful listing of SBI Funds Management Ltd,Passionate In Marketing,positive,0.3785,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-22 03:53:01,SUNPHARMA.NS,"Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan",Moneycontrol.com,negative,0.7452,AUTO_ACCEPTED
+2026-07-22 05:42:05,SUNPHARMA.NS,Indian pharma stocks fall after Trump outlines tariffs on generics,Investing.com India,negative,0.7452,AUTO_ACCEPTED
