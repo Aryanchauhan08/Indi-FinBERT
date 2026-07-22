@@ -58,6 +58,8 @@ INDIA_SIGNALS = [
     "q1", "q2", "q3", "q4"
 ]
 
+FOREIGN_EXCHANGE_SIGNALS = ["asx:", "(asx", "nyse:", "nasdaq:", "tsx:", "lse:", "ftse"]
+
 NOISE_WORDS = [
     "cricket", "bollywood", "recipe", "horoscope", "fashion",
     "travel", "weather", "lifestyle", "us-iran", "ukraine",
@@ -65,6 +67,8 @@ NOISE_WORDS = [
     "runs over", "sexual harassment", "bail granted", "assault", "accident",
     "wimbledon", "premier league", "football club", "kyiv", "dynamo",
     "ontario", "zambia", "cambodia", "poland", "french guiana",
+    "westgold", "mastermyne", "telix",
+    "de zerbi", "soccer", "premier league manager",
 ]
 SKIP_PREFIXES = [
     "sensex today", "stock market highlights", "market highlights",
@@ -106,6 +110,11 @@ JUNK_PHRASES = [
     "personal finance", "mutual fund sip", "fixed deposit",
     "gold rate", "silver rate", "petrol price", "diesel price",
     "cryptocurrency", "bitcoin", "ethereum",
+    "opinion |", "opinion:", "seán", "people love",
+    "raises €", "secures €", "closes €",
+    "fy26 guidance", "fy26 slides",
+    "asx:", "(asx:", "nyse:", "tsx:",
+    "wildfire", "orbit", "in-orbit",
 ]
 
 
@@ -234,6 +243,10 @@ def fetch_gnews_rss():
                         
                     if not any(sig in title.lower() for sig in INDIA_SIGNALS):
                         logging.debug(f"  [GNews] Skipped (no India signal): {title[:60]}")
+                        continue
+                        
+                    if any(sig in title.lower() for sig in FOREIGN_EXCHANGE_SIGNALS):
+                        logging.debug(f"  [GNews] Skipped (foreign exchange): {title[:60]}")
                         continue
                         
                     pub_date_str = entry.get("published", "")
