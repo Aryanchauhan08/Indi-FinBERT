@@ -2,6 +2,7 @@ import os
 import csv
 import logging
 import datetime
+import time
 import urllib.request
 import hashlib
 import email.utils
@@ -9,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import feedparser
 from dotenv import load_dotenv
-from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH, MODEL_PATH, TICKER_KEYWORDS, TICKER_QUERIES
+from config import TICKER_LIST, CONFIDENCE_THRESHOLD, LOG_FILE_PATH, MODEL_PATH, TICKER_KEYWORDS, TICKER_QUERIES, CREDIBILITY_WEIGHTS
 
 # Load environment variables from local .env file
 load_dotenv()
@@ -269,6 +270,7 @@ def fetch_gnews_rss():
                     
                 if added_count > 0:
                     logging.info(f"  [GNews] Fetched {added_count} articles for {ticker} using query '{query}'")
+                time.sleep(0.5)
         except Exception as e:
             logging.error(f"  Error fetching GNews RSS for {ticker}: {e}")
             
@@ -317,7 +319,8 @@ def fetch_news_api():
                 try:
                     pub_dt = datetime.datetime.fromisoformat(pub_date_str.replace("Z", "+00:00"))
                 except Exception:
-                    pub_dt = datetime.datetime.now()
+                    logging.warning(f"  [NewsAPI] Malformed date string '{pub_date_str}' for article: {title[:50]}. Skipping.")
+                    continue
                     
                 if not is_within_last_24_hours(pub_dt):
                     continue
@@ -502,12 +505,21 @@ def run_inference(news_items, nlp):
                 pred = nlp(headline)[0]
                 predicted_class = pred["label"].lower()
                 confidence = float(pred["score"])
+                source = item.get("Source", "Unknown").lower()
+                weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
+                confidence = round(min(confidence * weight, 1.0), 4)
                 logging.info(f"[{ticker}] Predicted: '{predicted_class}' with confidence {confidence:.4f}")
             except Exception as e:
                 logging.error(f"Inference error on headline '{headline}': {e}. Using fallback.")
                 predicted_class, confidence = predict_sentiment_fallback(headline)
+                source = item.get("Source", "Unknown").lower()
+                weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
+                confidence = round(min(confidence * weight, 1.0), 4)
         else:
             predicted_class, confidence = predict_sentiment_fallback(headline)
+            source = item.get("Source", "Unknown").lower()
+            weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
+            confidence = round(min(confidence * weight, 1.0), 4)
             logging.info(f"[{ticker}] (Fallback) Predicted: '{predicted_class}' with confidence {confidence:.4f}")
             
         # Gating
