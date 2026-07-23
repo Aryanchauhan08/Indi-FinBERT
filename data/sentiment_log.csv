@@ -2494,3 +2494,74 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-23 05:35:41,LT.NS,Waaree Renewable Technologies share price slips nearly 5% despite healthy Q1 earnings,moneycontrol,negative,0.9429,AUTO_ACCEPTED
 2026-07-23 05:35:41,NESTLEIND.NS,"Trade Spotlight: How should you trade Nestle India, GlaxoSmithKline Pharma, AU Small Finance Bank, RR Kabel, Delhivery, and others on July 23?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED
 2026-07-23 05:35:41,NTPC.NS,NTPC Green Energy shares gain 3% after robust Q1 earnings,moneycontrol,positive,0.9474,AUTO_ACCEPTED
+2026-07-23 12:10:16,INFY.NS,"Infosys Q1 results: ADR falls 5% as IT firm cuts upper end of revenue growth guidance, profit down 9% QoQ",moneycontrol,negative,0.9432,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,"Infosys Q1 results: ADR falls 5% as IT firm cuts upper end of revenue growth guidance, profit down 9% QoQ",moneycontrol,negative,0.9432,AUTO_ACCEPTED
+2026-07-23 12:10:16,INFY.NS,"Infosys Q1 net profit rises 12% to Rs 7,769 crore, appoints Ashiss Kumar Dash as CEO-designate",moneycontrol,positive,0.7806,AUTO_ACCEPTED
+2026-07-23 12:10:16,SBILIFE.NS,SBI Life Insurance Company shares rise 2.04 percent in today's session,moneycontrol,positive,0.9445,AUTO_ACCEPTED
+2026-07-23 12:10:16,SBIN.NS,SBI Life Insurance Company shares rise 2.04 percent in today's session,moneycontrol,positive,0.9445,AUTO_ACCEPTED
+2026-07-23 12:10:16,BAJFINANCE.NS,"Bajaj Finance shares fall 2.06 percent, trading at Rs 1,038.50",moneycontrol,negative,0.9436,AUTO_ACCEPTED
+2026-07-23 12:10:16,BRITANNIA.NS,"Britannia Industries shares fall 2.02 percent to Rs 5,374.50",moneycontrol,negative,0.9433,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,Rajratan Global Q4 Results due tomorrow; Shares declined 2.85 percent in previous session,moneycontrol,negative,0.9431,AUTO_ACCEPTED
+2026-07-23 12:10:16,ADANIPORTS.NS,"Adani Ports and Special Economic Zone shares fall 2.20 percent to Rs 1,779.30",moneycontrol,negative,0.9436,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,"Neogen board to convene tomorrow for quarterly results, Fund raising; Shares declined 2.32 percent in previous session",moneycontrol,negative,0.9316,AUTO_ACCEPTED
+2026-07-23 12:10:16,DRREDDY.NS,Dr Reddy's Laboratories shares fall 4.02 percent in today's session,moneycontrol,negative,0.943,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,"Q1 results impact: Bandhan Bank shares extend decline, down 20% in two days",moneycontrol,negative,0.944,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,Rattan Power Board to consider quarterly results tomorrow; Shares declined 2.60 percent in previous session,moneycontrol,negative,0.9416,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,WPIL Q4 and annual results tomorrow; Stock rose 1.08 percent in previous session,moneycontrol,positive,0.9458,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,Alldigi Tech shares rise 3.51% as board set to consider Q1 results and interim dividend tomorrow,moneycontrol,positive,0.9468,AUTO_ACCEPTED
+2026-07-23 12:10:16,LT.NS,Greenply Industries Board to Convene Tomorrow for Quarterly Results; Shares Gain 2.00 percent,moneycontrol,positive,0.945,AUTO_ACCEPTED
+2026-07-23 12:10:17,INFY.NS,From IIT Kharagpur to three decades at Infosys: All about Ashiss Kumar Dash - new MD and CEO-designate of IT giant,moneycontrol,neutral,0.9345,AUTO_ACCEPTED
+2026-07-23 12:10:17,INFY.NS,Infosys CEO Salil Parekh to step down; board appoints Ashiss Kumar Dash as CEO-designate,moneycontrol,neutral,0.9436,AUTO_ACCEPTED
+2026-07-23 12:10:17,LT.NS,"Coolie's son built Rs 4,000 crore company: Meet PC Musthafa, who once failed class 6 and started working at age 10",moneycontrol,neutral,0.8516,AUTO_ACCEPTED
+2026-07-23 12:10:17,LT.NS,"Vishal Mega Mart stock crashes 4% after Q1 results despite 26% rise in profit, 19% revenue growth",moneycontrol,negative,0.9429,AUTO_ACCEPTED
+2026-07-23 12:10:17,CIPLA.NS,"Cipla Q1 FY27 profit falls 39% to Rs 789 crore, misses Street estimates; margin contracts sharply",moneycontrol,negative,0.9438,AUTO_ACCEPTED
+2026-07-23 12:10:17,INDUSINDBK.NS,"IndusInd Bank stock crashes 5% as brokerages stay cautious over weak NIM, fee income despite Q1 beat",moneycontrol,negative,0.9439,AUTO_ACCEPTED
+2026-07-22 20:21:54,ADANIENT.NS,Adani Power Share Price - Live NSE: ADANIPOWER Stock Price & Chart,Upstox,neutral,0.7455,AUTO_ACCEPTED
+2026-07-23 08:24:58,ADANIENT.NS,"Sensex, Nifty Fall Below 50-Day EMA; Adani Enterprises Drops",Whalesbook,negative,0.7448,AUTO_ACCEPTED
+2026-07-23 03:55:42,ASIANPAINT.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-22 13:32:00,BPCL.NS,"BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins",The Times of India,negative,0.7359,AUTO_ACCEPTED
+2026-07-23 02:48:45,BPCL.NS,"Gulf crisis pushes HPCL, BPCL into losses despite higher revenues | The New Indian Express Chennai - newspaper",Magzter,negative,0.7403,AUTO_ACCEPTED
+2026-07-22 14:20:25,BPCL.NS,"BPCL Strong, HPCL Weak: How Suppressed Fuel Margins Dictated Q1 Earnings",NDTV Profit,negative,0.6171,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 08:12:12,CIPLA.NS,Cipla Share Price - Live NSE: CIPLA Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED
+2026-07-23 07:23:26,CIPLA.NS,Cipla posts growth in Q1 FY27; records highest-ever quarterly revenue in India,Business Upturn,positive,0.7473,AUTO_ACCEPTED
+2026-07-23 07:52:49,CIPLA.NS,Cipla Share Price Falls Over 3% After Q1 FY27 Results Disappoint Investors; Profit Drops 39%,India Infoline,negative,0.7452,AUTO_ACCEPTED
+2026-07-23 07:21:00,CIPLA.NS,Cipla Q1 FY27 result: Net profit jumps 42% QoQ; India business records 12% annual growth,Upstox,positive,0.7467,AUTO_ACCEPTED
+2026-07-23 09:03:23,CIPLA.NS,"Cipla Q1 profit drops 39% as North America weakness, margin compression overshadow record India sales",Fortune India,negative,0.745,AUTO_ACCEPTED
+2026-07-23 07:02:19,CIPLA.NS,Indian drugmaker Cipla's quarterly profit shrinks more than expected,Yahoo Finance Singapore,negative,0.7452,AUTO_ACCEPTED
+2026-07-23 04:17:22,CIPLA.NS,"Q1 results: Infosys, Cipla, Indigo Airlines, IEX among 63 firms on July 23",Business Standard,neutral,0.7433,AUTO_ACCEPTED
+2026-07-22 16:36:50,CIPLA.NS,"Earning Estimates: Infosys, Cipla, IndiGo, Meesho, Mphasis & Allied Blenders Q1 Results Today — What To Expect",NDTV Profit,neutral,0.7438,AUTO_ACCEPTED
+2026-07-23 02:39:22,CIPLA.NS,"Q1 Results Today: Infosys, Indigo, Cipla, PVR Inox Among Companies To Share Earnings On July 23",NDTV Profit,neutral,0.7382,AUTO_ACCEPTED
+2026-07-23 08:02:36,CIPLA.NS,Cipla Q1FY27 results: Profit falls to Rs 789 crore despite record India sales; revenue rises 2%,financialexpress.com,negative,0.7442,AUTO_ACCEPTED
+2026-07-23 07:29:49,CIPLA.NS,Cipla Shares Slide 2% Following Q1 FY27 Results: Net Profit Drops 39% to ₹789 Crore Amid North American Headwinds,Republic World,negative,0.7453,AUTO_ACCEPTED
+2026-07-23 09:13:49,CIPLA.NS,Cipla reports record-breaking Q1FY27 revenue in latest investor presentation,Business Upturn,positive,0.7457,AUTO_ACCEPTED
+2026-07-23 03:42:39,COALINDIA.NS,"BCCL Q1 FY27 Results: Revenue Falls 3.6%, Company Reports ₹68 Crore Loss; Production Drops to 6.56 MMT",Indianmasterminds,negative,0.7443,AUTO_ACCEPTED
+2026-07-22 21:28:29,DRREDDY.NS,Dr. Reddy's Laboratories Share Price - Live NSE: DRREDDY Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED
+2026-07-22 18:04:44,DRREDDY.NS,"DRREDDY: Revenue fell 5.6% year-over-year, but base business and India delivered strong double-digit growth",TradingView,negative,0.7342,AUTO_ACCEPTED
+2026-07-23 03:56:30,DRREDDY.NS,Indian shares extend drop on oil surge; Dr Reddy's falls on subdued earnings,marketscreener.com,negative,0.7446,AUTO_ACCEPTED
+2026-07-23 07:05:15,DRREDDY.NS,"Indian drugmaker Dr Reddy’s slips on margin, semaglutide supply woes",WTAQ,negative,0.7458,AUTO_ACCEPTED
+2026-07-22 12:14:59,DRREDDY.NS,"Dr. Reddy’s Q1 profit plunges 69% as semaglutide API issue, lenalidomide transition weigh",Fortune India,negative,0.7454,AUTO_ACCEPTED
+2026-07-22 14:03:00,DRREDDY.NS,Doctor Reddy's: Fiscal Q1 Earnings Snapshot,kens5.com,neutral,0.7367,AUTO_ACCEPTED
+2026-07-22 16:20:18,DRREDDY.NS,"DRREDDY: Revenue fell 5.6% YoY, but base business and India growth remained robust; margin guidance steady",TradingView,negative,0.5269,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 00:24:53,DRREDDY.NS,One-time API charge drags Dr Reddy’s Q1 net down 69%,The Hans India,negative,0.7441,AUTO_ACCEPTED
+2026-07-23 10:30:04,INDUSINDBK.NS,"IndusInd Bank falls over 6% as investors look past 72% Q1 profit jump, fret over weak core growth",Fortune India,negative,0.7454,AUTO_ACCEPTED
+2026-07-22 12:18:09,INDUSINDBK.NS,India’s Big Earnings Day Puts BSE 500 Names On Deck,Finimize,positive,0.7168,AUTO_ACCEPTED
+2026-07-23 05:13:26,LT.NS,"Talliki Vandanam: 42.70L mothers get Rs 10,120.78 crore across Andhra Pradesh",The New Indian Express,positive,0.7298,AUTO_ACCEPTED
+2026-07-23 02:53:00,LT.NS,L'Oréal wins Delhi High Court appeal to expand Indian trademark suit,MLex,positive,0.5461,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-22 17:43:00,LT.NS,Manipur CM disburses Rs 91.66 crore welfare aid to 2.41L beneficiaries,The Times of India,neutral,0.7091,AUTO_ACCEPTED
+2026-07-22 23:48:00,LT.NS,T+L First In: Meet the Gorgeous Onsen Stay With a Secret Tunnel Into Town,Travel and Leisure Asia,neutral,0.6537,AUTO_ACCEPTED
+2026-07-23 10:24:09,M&M.NS,"Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",Yahoo Finance,positive,0.6211,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 11:04:51,M&M.NS,RLI’s gross premiums written rise 3% to $579.7m in Q2’26,Reinsurance News,positive,0.7468,AUTO_ACCEPTED
+2026-07-23 11:43:53,M&M.NS,Pernod Ricard drops challenge to $314m Indian tax bill,The Spirits Business,negative,0.4996,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 08:00:36,M&M.NS,Jensen Huang Plows $75M Into Art School’s Rebirth—and Other Art World Matters,Artnet News,positive,0.7206,AUTO_ACCEPTED
+2026-07-23 08:01:47,M&M.NS,"RenRe gets $83m third-party capital fees, writes fewer premiums, buys more retro in Q2 2026",Artemis.bm,positive,0.659,AUTO_ACCEPTED
+2026-07-23 02:27:06,NESTLEIND.NS,"Trade Spotlight: How should you trade Nestle India, GlaxoSmithKline Pharma, AU Small Finance Bank, RR...",Moneycontrol.com,neutral,0.7424,AUTO_ACCEPTED
+2026-07-23 04:25:00,NESTLEIND.NS,"Buy Nestle India after its Q1 earnings beat? Here's what Citi, Nomura, Jefferies and others say",Zee Business,positive,0.6338,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 03:55:54,NESTLEIND.NS,"Nestle India stock extends fall to over 2% after post-results rally, among top Nifty losers; brokerages...",Moneycontrol.com,negative,0.745,AUTO_ACCEPTED
+2026-07-23 00:30:00,NESTLEIND.NS,Nestle India Q1 FY27 Results | M&M Financial Q1 FY27 Results | Top Buzzing Stocks Today,Equitymaster,neutral,0.7446,AUTO_ACCEPTED
+2026-07-23 04:25:56,NESTLEIND.NS,Nestle India Shares Fall 2.04% in Early Trade,Moneycontrol.com,negative,0.7447,AUTO_ACCEPTED
+2026-07-22 14:12:58,NESTLEIND.NS,Nestle India shares climb 4% to hit record high after Q1 results,MSN,positive,0.7478,AUTO_ACCEPTED
+2026-07-23 03:55:42,ONGC.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-22 19:26:18,POWERGRID.NS,"Power Grid Raises FY27-28 Borrowing Limit to ₹35,000 Crore",Whalesbook,positive,0.7382,AUTO_ACCEPTED
+2026-07-23 06:51:00,SBILIFE.NS,"SBI Life Q1 Preview: PAT may rise 13%, premium income seen up 13%; key things to watch",Zee Business,positive,0.7427,AUTO_ACCEPTED
+2026-07-22 19:42:40,TATAMOTORS.NS,Tata Motors stock holds recent gains as JLR margin and India EV push stay in focus,Ad-hoc-news.de,positive,0.7468,AUTO_ACCEPTED
+2026-07-22 15:32:12,ULTRACEMCO.NS,"Q1 results today live, July 20: Paytm, UltraTech Cement, Indian Overseas Bank, Karur Vysya Bank and 43 others set to release quarterly earnings",MSN,neutral,0.7402,AUTO_ACCEPTED
