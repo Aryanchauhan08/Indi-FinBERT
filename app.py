@@ -678,25 +678,39 @@ automation_rate = (auto_accepted_count / total_volume) * 100 if total_volume > 0
 # -----------------
 # 1. Navigation Header Bar (Geotrade v2.0 Replica)
 # -----------------
-if not df.empty:
-    pos_count = len(df[df["Predicted_Class"].str.lower() == "positive"])
-    neg_count = len(df[df["Predicted_Class"].str.lower() == "negative"])
-    total_count = len(df)
-    net_sentiment = (pos_count - neg_count) / total_count if total_count > 0 else 0.0
-    
-    # Calculate MSI Badge
-    msi_label = str(round(50 + net_sentiment * 50, 1))
-    if net_sentiment > 0.15:
-        msi_badge = "BULLISH"
-    elif net_sentiment < -0.15:
-        msi_badge = "BEARISH"
-    else:
-        msi_badge = "NEUTRAL"
-    last_sync = df["Date"].max().strftime("%H:%M:%S")
+# MSI — Confidence-Weighted 7-Day Rolling Sentiment Index
+_msi_cutoff = datetime.date.today() - datetime.timedelta(days=7)
+
+if not df.empty and "Date" in df.columns:
+    _msi_df = df[df["Date"].dt.date >= _msi_cutoff].copy()
 else:
-    msi_label = "50.0"
+    _msi_df = pd.DataFrame()
+
+if not _msi_df.empty and "Predicted_Class" in _msi_df.columns and "Confidence" in _msi_df.columns:
+    _msi_df["Predicted_Class"] = _msi_df["Predicted_Class"].str.lower().str.strip()
+
+    _pos_score = _msi_df[_msi_df["Predicted_Class"] == "positive"]["Confidence"].sum()
+    _neg_score = _msi_df[_msi_df["Predicted_Class"] == "negative"]["Confidence"].sum()
+    _neu_score = _msi_df[_msi_df["Predicted_Class"] == "neutral"]["Confidence"].sum()
+    _total_score = _pos_score + _neg_score + _neu_score
+
+    if _total_score > 0:
+        _msi = round((_pos_score / _total_score) * 100, 1)
+    else:
+        _msi = 50.0  # neutral fallback if no data
+else:
+    _msi = 50.0  # neutral fallback if df empty
+
+# MSI label and badge — keep existing thresholds
+if _msi >= 60:
+    msi_label = str(_msi)
+    msi_badge = "BULLISH"
+elif _msi <= 40:
+    msi_label = str(_msi)
+    msi_badge = "BEARISH"
+else:
+    msi_label = str(_msi)
     msi_badge = "NEUTRAL"
-    last_sync = "12:51:33"
 
 # MSI dynamic color based on badge state
 msi_color = "#00FF66" if msi_badge == "BULLISH" else ("#EF4444" if msi_badge == "BEARISH" else "#F59E0B")
@@ -2646,7 +2660,7 @@ if not df.empty:
         text=_daily["DateStr"],
         hovertemplate="<b>%{text}</b><br>Net Sentiment: %{z:.2f}<extra></extra>",
         colorscale=[[0.0, "#EF4444"], [0.5, "#1E293B"], [1.0, "#00FF66"]],
-        zmin=-1, zmax=1, showscale=False, xgap=3, ygap=3
+        zmin=-0.5, zmax=0.5, showscale=False, xgap=3, ygap=3
     ))
     fig_heat.update_layout(
         paper_bgcolor="rgba(0,0,0,0)",
