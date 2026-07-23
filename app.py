@@ -2639,7 +2639,14 @@ if not df.empty:
     """, unsafe_allow_html=True)
 
 
-st.subheader("Live Geospatial Sentiment Map")
+# Recompute net_sentiment safely in case it is out of scope
+if not df.empty and "Predicted_Class" in df.columns:
+    _pos_count = len(df[df["Predicted_Class"].str.lower() == "positive"])
+    _neg_count = len(df[df["Predicted_Class"].str.lower() == "negative"])
+    _total_count = len(df)
+    net_sentiment = round((_pos_count - _neg_count) / _total_count, 4) if _total_count > 0 else 0.0
+else:
+    net_sentiment = 0.0
 
 _net = net_sentiment  # already computed globally above the navbar
 np.random.seed(int(abs(_net * 100)))
