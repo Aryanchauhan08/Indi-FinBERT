@@ -2175,48 +2175,47 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
     st.markdown("### 📊 Watchlist & Sentiment Trend Sparklines")
     alert_threshold = st.slider("Watchlist Alert Threshold (Trigger warning if negative sentiment exceeds %):", min_value=30, max_value=100, value=60)
     
-    tickers_list = TICKER_LIST[:6]
+    st.markdown("#### 👁️ Configure Your Watchlist")
 
-    # get_sparkline is defined at module level above
+    # Default tickers — most active from the dataset
+    _default_watchlist = ["HDFCBANK.NS", "RELIANCE.NS", "INFY.NS", "TCS.NS", "BAJFINANCE.NS", "ICICIBANK.NS"]
 
-    for chunk_idx in range(0, len(tickers_list), 3):
-        chunk = tickers_list[chunk_idx:chunk_idx+3]
+    _watchlist_cols = st.columns(6)
+    watchlist_tickers = []
+
+    for i, col in enumerate(_watchlist_cols):
+        with col:
+            selected = st.selectbox(
+                f"Slot {i+1}",
+                options=TICKER_LIST,
+                index=TICKER_LIST.index(_default_watchlist[i]) if _default_watchlist[i] in TICKER_LIST else 0,
+                key=f"watchlist_slot_{i}"
+            )
+            watchlist_tickers.append(selected)
+
+    # Remove duplicates while preserving order
+    watchlist_tickers = list(dict.fromkeys(watchlist_tickers))
+
+    for chunk_idx in range(0, len(watchlist_tickers), 3):
+        chunk = watchlist_tickers[chunk_idx:chunk_idx+3]
         watch_cols = st.columns(3)
-        for col_idx, t in enumerate(chunk):
+        for col_idx, ticker in enumerate(chunk):
             with watch_cols[col_idx]:
-                t_df_w = df[df["Ticker"] == t]
-                neg_count_w = (t_df_w["Predicted_Class"].str.lower() == "negative").sum()
-                t_neg_ratio = (neg_count_w / len(t_df_w) * 100) if len(t_df_w) > 0 else 50.0
-                y_values = get_sparkline(t, df)
-                x_values = list(range(len(y_values)))
-                
+                ticker_df = df[df["Ticker"] == ticker].copy()
+                if ticker_df.empty or len(ticker_df) < 2:
+                    st.caption(f"No data available for {ticker}")
+                    continue
+
+                neg_count_w = (ticker_df["Predicted_Class"].str.lower() == "negative").sum()
+                t_neg_ratio = (neg_count_w / len(ticker_df) * 100) if len(ticker_df) > 0 else 50.0
                 alert_triggered = t_neg_ratio > alert_threshold
-                spark_color = "#EF4444" if alert_triggered else "#00F2FF"
-                
-                fig_spark = go.Figure()
-                fig_spark.add_trace(go.Scatter(
-                    x=x_values, 
-                    y=y_values, 
-                    mode='lines', 
-                    line=dict(color=spark_color, width=2.5),
-                    hoverinfo='none'
-                ))
-                fig_spark.update_layout(
-                    xaxis=dict(visible=False),
-                    yaxis=dict(visible=False),
-                    paper_bgcolor='#0A0F1D',
-                    plot_bgcolor='#050811',
-                    margin=dict(l=0, r=0, t=0, b=0),
-                    height=45
-                )
-                
                 alert_banner = '<div style="background: rgba(255,0,85,0.1); border: 1px solid rgba(255,0,85,0.2); color: #FF0055; padding: 4px 10px; border-radius: 4px; font-size: 0.75rem; margin-top: 8px; font-weight: 700;">⚠️ ALERT EXCEEDED</div>' if alert_triggered else ''
-                    
+
                 st.markdown(
                     f"""
                     <div style="background: #0A0D12; border: 1px solid rgba(255,255,255,0.05); padding: 16px; border-radius: 8px; height: 110px; display: flex; flex-direction: column; justify-content: space-between; margin-bottom: 8px;">
                         <div style="display: flex; justify-content: space-between;">
-                            <span style="font-weight: 700; color: #FFFFFF; font-size: 1.1rem;">{t}</span>
+                            <span style="font-weight: 700; color: #FFFFFF; font-size: 1.1rem;">{ticker}</span>
                             <span style="color: #64748B; font-size: 0.8rem;">7D Trend</span>
                         </div>
                         <div style="font-size: 0.95rem; font-family: sans-serif; color: #8A99AD;">
@@ -2226,7 +2225,64 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     """,
                     unsafe_allow_html=True
                 )
-                st.plotly_chart(fig_spark, width='stretch', key=f"spark_{t.lower()}")
+
+                # Group by date and compute confidence-weighted net sentiment
+                ticker_df["Date_Only"] = ticker_df["Date"].dt.date
+                ticker_df["Sentiment_Score"] = ticker_df.apply(
+                    lambda row: row["Confidence"] if str(row["Predicted_Class"]).lower() == "positive"
+                    else -row["Confidence"] if str(row["Predicted_Class"]).lower() == "negative"
+                    else 0.0,
+                    axis=1
+                )
+
+                daily_scores = (
+                    ticker_df.groupby("Date_Only")["Sentiment_Score"]
+                    .mean()
+                    .reset_index()
+                    .sort_values("Date_Only")
+                    .tail(7)
+                )
+
+                x_vals = daily_scores["Date_Only"].astype(str).tolist()
+                y_vals = daily_scores["Sentiment_Score"].tolist()
+
+                if not y_vals:
+                    st.caption(f"No data available for {ticker}")
+                    continue
+
+                fig = go.Figure()
+
+                fig.add_trace(go.Scatter(
+                    x=x_vals,
+                    y=y_vals,
+                    mode="lines+markers",
+                    line=dict(
+                        color="#22c55e" if y_vals[-1] >= 0 else "#ef4444",
+                        width=2
+                    ),
+                    marker=dict(size=4),
+                    fill="tozeroy",
+                    fillcolor="rgba(34,197,94,0.1)" if y_vals[-1] >= 0 else "rgba(239,68,68,0.1)"
+                ))
+
+                fig.update_layout(
+                    height=80,
+                    margin=dict(l=0, r=0, t=0, b=0),
+                    xaxis=dict(visible=False),
+                    yaxis=dict(
+                        visible=True,
+                        range=[-1, 1],
+                        zeroline=True,
+                        zerolinecolor="#64748B",
+                        zerolinewidth=1,
+                        showticklabels=False
+                    ),
+                    paper_bgcolor="rgba(0,0,0,0)",
+                    plot_bgcolor="rgba(0,0,0,0)",
+                    showlegend=False
+                )
+
+                st.plotly_chart(fig, use_container_width=True, key=f"sparkline_{ticker}")
                 st.markdown(alert_banner, unsafe_allow_html=True)
             
     st.markdown("---")
