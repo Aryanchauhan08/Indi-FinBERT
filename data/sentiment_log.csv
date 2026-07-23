@@ -2474,3 +2474,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-22 03:53:01,SUNPHARMA.NS,"Nifty Pharma crashes nearly 2%; Cipla, Dr Reddy's among top Nifty losers after Trump's tariff plan",Moneycontrol.com,negative,0.7452,AUTO_ACCEPTED
 2026-07-22 05:42:05,SUNPHARMA.NS,Indian pharma stocks fall after Trump outlines tariffs on generics,Investing.com India,negative,0.7452,AUTO_ACCEPTED
 2026-07-22 11:15:00,SUNPHARMA.NS,"Trump Threatens 200% Tariffs on Generic Drugs by 2029, Rattling Indian Pharma Stocks",finance.biggo.com,negative,0.5644,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 05:35:39,BAJAJ-AUTO.NS,"Bajaj Auto Shares Gain 2.06 percent to Rs 11,225",moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,Share India board meeting tomorrow: shares gain 2.61 percent ahead of Q4 FY26 results,moneycontrol,positive,0.9461,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,Shree Digvijay Cement shares rise 1.86 percent as board to consider quarterly results tomorrow,moneycontrol,positive,0.9463,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,INDO-MIM Ltd: Can it mould investors to bet on its IPO?,moneycontrol,neutral,0.9167,AUTO_ACCEPTED
+2026-07-23 05:35:39,NESTLEIND.NS,Nestle India Shares Fall 2.04% in Early Trade,moneycontrol,negative,0.9432,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,Arihant Capital to Convene Board Meeting Tomorrow for Quarterly Results; Shares Decline 1.77 percent in Previous Session,moneycontrol,negative,0.943,AUTO_ACCEPTED
+2026-07-23 05:35:39,DRREDDY.NS,"Buzzing Stock: Tanla Platforms jumps 13%; Dr Reddy's, IndusInd Bank decline after Q1 earnings",moneycontrol,positive,0.9447,AUTO_ACCEPTED
+2026-07-23 05:35:39,INDUSINDBK.NS,"Buzzing Stock: Tanla Platforms jumps 13%; Dr Reddy's, IndusInd Bank decline after Q1 earnings",moneycontrol,positive,0.9447,AUTO_ACCEPTED
+2026-07-23 05:35:39,BPCL.NS,Bharat Petroleum Corporation shares fall 2.58% in early trade,moneycontrol,negative,0.9435,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,Hind Zinc Board to Meet Tomorrow to Consider Quarterly Results; Stock Closed Marginally Higher,moneycontrol,positive,0.9453,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,Shriram Finance board to meet tomorrow for Q4 results,moneycontrol,neutral,0.9449,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,CG Power to hold board meeting tomorrow to consider quarterly results; shares closed marginally lower,moneycontrol,negative,0.9406,AUTO_ACCEPTED
+2026-07-23 05:35:39,LT.NS,"Nestle India stock extends fall to over 2% after post-results rally, among top Nifty losers; brokerages divided on outlook",moneycontrol,negative,0.9438,AUTO_ACCEPTED
+2026-07-23 05:35:39,NESTLEIND.NS,"Nestle India stock extends fall to over 2% after post-results rally, among top Nifty losers; brokerages divided on outlook",moneycontrol,negative,0.9438,AUTO_ACCEPTED
+2026-07-23 05:35:41,UPL.NS,"Gandhar Oil hits 20% UC as Q1 net profit quadruples QoQ; Panama Petro, Savita Oil rise up to 10% on rub-off effect",moneycontrol,positive,0.9428,AUTO_ACCEPTED
+2026-07-23 05:35:41,DRREDDY.NS,"Dr Reddy's shares slip 2.5% on margin, semaglutide supply woes; brokerages slash earnings estimates post-Q1",moneycontrol,negative,0.9445,AUTO_ACCEPTED
+2026-07-23 05:35:41,DRREDDY.NS,Brent at $95 | Trump threatens to bomb Iran Infra | Dr Reddy’s misses the mark in Q1,moneycontrol,negative,0.7769,AUTO_ACCEPTED
+2026-07-23 05:35:41,LT.NS,Waaree Renewable Technologies share price slips nearly 5% despite healthy Q1 earnings,moneycontrol,negative,0.9429,AUTO_ACCEPTED
+2026-07-23 05:35:41,NESTLEIND.NS,"Trade Spotlight: How should you trade Nestle India, GlaxoSmithKline Pharma, AU Small Finance Bank, RR Kabel, Delhivery, and others on July 23?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED
+2026-07-23 05:35:41,NTPC.NS,NTPC Green Energy shares gain 3% after robust Q1 earnings,moneycontrol,positive,0.9474,AUTO_ACCEPTED
