@@ -2565,3 +2565,51 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-23 06:51:00,SBILIFE.NS,"SBI Life Q1 Preview: PAT may rise 13%, premium income seen up 13%; key things to watch",Zee Business,positive,0.7427,AUTO_ACCEPTED
 2026-07-22 19:42:40,TATAMOTORS.NS,Tata Motors stock holds recent gains as JLR margin and India EV push stay in focus,Ad-hoc-news.de,positive,0.7468,AUTO_ACCEPTED
 2026-07-22 15:32:12,ULTRACEMCO.NS,"Q1 results today live, July 20: Paytm, UltraTech Cement, Indian Overseas Bank, Karur Vysya Bank and 43 others set to release quarterly earnings",MSN,neutral,0.7402,AUTO_ACCEPTED
+2026-07-23 11:27:14,ADANIENT.NS,Adani Power Share Price - Live NSE: ADANIPOWER Stock Price & Chart,Upstox,neutral,0.7455,AUTO_ACCEPTED
+2026-07-23 17:48:46,ASIANPAINT.NS,Asian Paints schedules Q4FY26 earnings call for July 29,scanx.trade,neutral,0.7451,AUTO_ACCEPTED
+2026-07-23 08:12:12,CIPLA.NS,Cipla Share Price - Live NSE: CIPLA Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED
+2026-07-23 07:23:26,CIPLA.NS,Cipla posts growth in Q1 FY27; records highest-ever quarterly revenue in India,Business Upturn,positive,0.7473,AUTO_ACCEPTED
+2026-07-23 09:13:49,CIPLA.NS,Cipla reports record-breaking Q1FY27 revenue in latest investor presentation,Business Upturn,positive,0.7457,AUTO_ACCEPTED
+2026-07-23 07:52:49,CIPLA.NS,Cipla Share Price Falls Over 3% After Q1 FY27 Results Disappoint Investors; Profit Drops 39%,India Infoline,negative,0.7452,AUTO_ACCEPTED
+2026-07-23 06:40:00,CIPLA.NS,"India's Cipla posts another profit decline, names insider Dinesh Jain CFO",Reuters,negative,0.7432,AUTO_ACCEPTED
+2026-07-23 07:02:19,CIPLA.NS,Indian drugmaker Cipla's quarterly profit shrinks more than expected,Yahoo Finance Singapore,negative,0.7452,AUTO_ACCEPTED
+2026-07-23 09:03:23,CIPLA.NS,"Cipla Q1 profit drops 39% as North America weakness, margin compression overshadow record India sales",Fortune India,negative,0.745,AUTO_ACCEPTED
+2026-07-23 08:02:36,CIPLA.NS,Cipla Q1FY27 results: Profit falls to Rs 789 crore despite record India sales; revenue rises 2%,financialexpress.com,negative,0.7442,AUTO_ACCEPTED
+2026-07-23 07:29:49,CIPLA.NS,Cipla Shares Slide 2% Following Q1 FY27 Results: Net Profit Drops 39% to ₹789 Crore Amid North American Headwinds,Republic World,negative,0.7453,AUTO_ACCEPTED
+2026-07-23 13:15:49,CIPLA.NS,Cipla Q1 FY27 result: Net profit jumps 42% QoQ; India business records 12% annual growth,Dailyhunt,positive,0.7467,AUTO_ACCEPTED
+2026-07-23 19:34:21,COALINDIA.NS,Coal India stock holds steady as profit and output numbers shape the view,Ad-hoc-news.de,neutral,0.4087,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 14:38:00,DRREDDY.NS,"Dr. Reddy's Q1 Earnings and Revenues Miss Estimates, Stock Down",TradingView,negative,0.7455,AUTO_ACCEPTED
+2026-07-23 08:06:48,DRREDDY.NS,"Indian drugmaker Dr Reddy’s slips on margin, semaglutide supply woes",WSAU,negative,0.7458,AUTO_ACCEPTED
+2026-07-23 07:27:28,ICICIBANK.NS,ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED
+2026-07-23 17:30:28,ITC.NS,"ITC aspires to be the top FMCG player, expects the market to be worth Rs 8 lakh crore by 2035",The New Indian Express,positive,0.7407,AUTO_ACCEPTED
+2026-07-23 10:30:04,INDUSINDBK.NS,"IndusInd Bank falls over 6% as investors look past 72% Q1 profit jump, fret over weak core growth",Fortune India,negative,0.7454,AUTO_ACCEPTED
+2026-07-24 01:40:00,INFY.NS,"Infosys Q1 revenue up 2.8%, guidance cut",The Times of India,positive,0.746,AUTO_ACCEPTED
+2026-07-23 14:29:13,INFY.NS,"Infosys Q1: Profit rises 12%, guidance cut; Ashiss Kumar Dash named next CEO",The Economic Times,positive,0.674,AUTO_ACCEPTED
+2026-07-23 13:27:37,INFY.NS,"Infosys Q1FY27: New CEO, wage hike from January and trim in revenue guidance- 5 key highlights",financialexpress.com,neutral,0.7435,AUTO_ACCEPTED
+2026-07-23 14:13:09,INFY.NS,Infosys ADRs plunge post-FY27 guidance cut: How this security works,Zee Business,negative,0.741,AUTO_ACCEPTED
+2026-07-23 14:50:01,KOTAKBANK.NS,Kotak Mahindra Mutual Fund increases its stake in The South Indian Bank,Business Upturn,positive,0.7427,AUTO_ACCEPTED
+2026-07-24 05:28:23,LT.NS,Andhra Pradesh attracted Rs 29.3L crore investment proposals: Minister Lokesh,The New Indian Express,positive,0.722,AUTO_ACCEPTED
+2026-07-24 02:57:03,LT.NS,"CBI nabs IRCTC official, hospitality firm director in ₹3.98L bribery case | Mumbai news",Hindustan Times,negative,0.5615,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 13:59:54,LT.NS,Mihika Industries Q1FY26 profit holds at ₹1.06 L as revenue falls 73%,scanx.trade,negative,0.4175,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-24 01:24:00,LT.NS,Athletico Paranaense vs Internacional: Serie A stats & head-to-head,BBC,neutral,0.7432,AUTO_ACCEPTED
+2026-07-23 14:54:16,LT.NS,Serbin: Let’s get a new perspective on being ‘old’,Delco Times,neutral,0.7231,AUTO_ACCEPTED
+2026-07-24 05:08:49,LT.NS,Int'l hacking defense competition held in Seoul,Yonhap News Agency,neutral,0.7454,AUTO_ACCEPTED
+2026-07-24 01:24:00,LT.NS,Santos vs Chapecoense: Serie A stats & head-to-head,BBC,neutral,0.7423,AUTO_ACCEPTED
+2026-07-23 17:34:45,M&M.NS,Ramco Systems posts USD 18.38m revenue in Q1FY27,scanx.trade,positive,0.4219,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 18:44:32,M&M.NS,"Blue Star wins arbitration, dismisses OMR 2.1M claim",scanx.trade,positive,0.3416,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 18:57:53,M&M.NS,AF Adapter Lets Photographers Use M-Mount Lenses on Canon Cameras,PetaPixel,neutral,0.3991,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-23 18:00:59,M&M.NS,45.4m suffered food insecurity in 2023-25,The Daily Star,negative,0.6691,AUTO_ACCEPTED
+2026-07-23 16:18:25,M&M.NS,Lockheed Martin Ventures to invest $100M in European defense firms,Breaking Defense,positive,0.4814,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-24 02:41:42,NTPC.NS,"Q1 Results: NTPC, Shriram Finance, SBI Life, Hindustan Zinc, Lodha, Bank of Baroda, CG Power, REC, others to post earnings on July 24; check list",Upstox,neutral,0.7433,AUTO_ACCEPTED
+2026-07-24 02:41:42,SBILIFE.NS,"Q1 Results: NTPC, Shriram Finance, SBI Life, Hindustan Zinc, Lodha, Bank of Baroda, CG Power, REC, others to post earnings on July 24; check list",Upstox,neutral,0.7433,AUTO_ACCEPTED
+2026-07-24 01:58:51,SBILIFE.NS,"Q1 Results LIVE Update: Infosys, IndiGo react to earnings; Four Nifty names report today",CNBC TV18,neutral,0.7436,AUTO_ACCEPTED
+2026-07-24 02:37:01,SBILIFE.NS,"Q1 Results Today Live, July 24: NTPC, Tata Consumer, SAIL, Shriram Finance, SBI Life among 86 quarterly earnings today - Check report card",ET Now,neutral,0.7438,AUTO_ACCEPTED
+2026-07-24 02:45:14,SBILIFE.NS,"Top Q1 results today, July 24: Bank of Baroda, NTPC, Tata Consumer, SBI Life, SAIL, Hindustan Zinc among key companies to announce earnings",Business Upturn,neutral,0.7373,AUTO_ACCEPTED
+2026-07-24 02:41:42,SBIN.NS,"Q1 Results: NTPC, Shriram Finance, SBI Life, Hindustan Zinc, Lodha, Bank of Baroda, CG Power, REC, others to post earnings on July 24; check list",Upstox,neutral,0.7433,AUTO_ACCEPTED
+2026-07-24 02:48:53,TATACONSUM.NS,"Q1 Results Today: NTPC, Tata Consumer, Bank of Baroda, SAIL, REC Among 80+ Companies Reporting Earnings On July 24",NDTV Profit,neutral,0.7434,AUTO_ACCEPTED
+2026-07-24 03:26:08,TATACONSUM.NS,"Q1 results 2026: NTPC, Tata Consumer, Bank of Baroda, REC, Hind Zinc, among 80+ companies to announce earnings today",livemint.com,neutral,0.7363,AUTO_ACCEPTED
+2026-07-24 01:58:51,TATACONSUM.NS,"Q1 Results LIVE Update: Infosys, IndiGo react to earnings; Four Nifty names report today",CNBC TV18,neutral,0.7436,AUTO_ACCEPTED
+2026-07-24 03:16:01,TATACONSUM.NS,"Tata Consumer Products Q1 Results Today: Time, Key Things To Watch, Earnings Call Schedule And Share Price Performance",NDTV Profit,neutral,0.7447,AUTO_ACCEPTED
+2026-07-24 01:30:01,TATACONSUM.NS,"Earning Estimates: Tata Consumer Products, ACC, Hindustan Zinc, NTPC, Kfin Technologies Q1 Results Today — What To Expect",NDTV Profit,neutral,0.7447,AUTO_ACCEPTED
+2026-07-24 02:37:01,TATACONSUM.NS,"Q1 Results Today Live, July 24: NTPC, Tata Consumer, SAIL, Shriram Finance, SBI Life among 86 quarterly earnings today - Check report card",ET Now,neutral,0.7438,AUTO_ACCEPTED
+2026-07-24 02:45:14,TATACONSUM.NS,"Top Q1 results today, July 24: Bank of Baroda, NTPC, Tata Consumer, SBI Life, SAIL, Hindustan Zinc among key companies to announce earnings",Business Upturn,neutral,0.7373,AUTO_ACCEPTED
