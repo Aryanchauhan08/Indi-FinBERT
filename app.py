@@ -2713,6 +2713,7 @@ if not df.empty:
 
     _full_range = pd.DataFrame({"Date_Only": [d.date() for d in _date_range]})
     _daily = _full_range.merge(_daily, on="Date_Only", how="left").fillna(0)
+    _daily = _daily.sort_values("Date_Only", ascending=True).reset_index(drop=True)
     _daily["Week"]      = (pd.to_datetime(_daily["Date_Only"]) - pd.to_datetime(_start_date)).dt.days // 7
     _daily["DayOfWeek"] = pd.to_datetime(_daily["Date_Only"]).dt.dayofweek
     _daily["DateStr"]   = _daily["Date_Only"].astype(str)
@@ -2733,6 +2734,7 @@ if not df.empty:
         margin=dict(l=30, r=10, t=10, b=10),
         xaxis=dict(visible=False),
         yaxis=dict(
+            autorange="reversed",
             tickmode="array",
             tickvals=[0,1,2,3,4,5,6],
             ticktext=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],
