@@ -1222,22 +1222,23 @@ const startTypewriter = () => {{
         '<span style="color:#64748B">[' + now_ts_js + '] INFO: Ingesting raw event stream...</span><br>' +
         '<span style="color:#60A5FA">{{ "source": "gnews_rss", "id": "evt_8921a" }}</span><br>' +
         '<br>' +
-        '<span style="color:#64748B">[' + now_ts_js + '] PROCESS: Running LLM classification...</span><br>' +
-        '<span style="color:#00F2FF">Model: fine-tuned-finbert-v2.5</span><br>' +
+        '<span style="color:#64748B">[' + now_ts_js + '] PROCESS: Running Indi-FinBERT classification...</span><br>' +
+        '<span style="color:#00F2FF">Model: aryanchauhan08/Indi-FinBERT</span><br>' +
         '<span style="color:#34D399">Latency: 42ms</span><br>' +
         '<br>' +
-        '<span style="color:#64748B">[' + now_ts_js + '] OUTPUT: Vectorized Event Payload</span><br>' +
+        '<span style="color:#64748B">[' + now_ts_js + '] OUTPUT: Scored Event Payload</span><br>' +
         '<span style="color:#F8FAFC">{{</span><br>' +
-        '<span style="color:#F472B6">  "classification": "market_expansion",</span><br>';
+        '<span style="color:#F472B6">  "predicted_class": "positive",</span><br>';
 
-    // Only the last 5 lines are typed character-by-character
+    // Only the last lines are typed character-by-character
     var lines = [
-        {{ text: '  "confidence_score": 0.8800,', color: '#A78BFA' }},
-        {{ text: '  "entities": ["RELIANCE", "Retail Group"],', color: '#60A5FA' }},
+        {{ text: '  "confidence_score": 0.7461,', color: '#A78BFA' }},
+        {{ text: '  "ticker": "RELIANCE.NS",', color: '#60A5FA' }},
+        {{ text: '  "source": "moneycontrol",', color: '#60A5FA' }},
         {{ text: '  "action_type": "AUTO_ACCEPTED"', color: '#FB923C' }},
         {{ text: '}}', color: '#F8FAFC' }},
         {{ text: '', color: '' }},
-        {{ text: '\u25cf Signals dispatched to local ledger successfully.', color: '#34D399' }}
+        {{ text: '\u25cf Signal dispatched to sentiment ledger successfully.', color: '#34D399' }}
     ];
 
     var lineIdx = 0;
@@ -2856,19 +2857,20 @@ with col_terminal:
                     <span style="color: #64748B;">[{now}] INFO: Ingesting raw event stream...</span><br>
                     <span style="color: #60A5FA;">{{ "source": "gnews_rss", "id": "evt_8921a" }}</span><br>
                     <br>
-                    <span style="color: #64748B;">[{now}] PROCESS: Running LLM classification...</span><br>
-                    <span style="color: #00F2FF;">Model: fine-tuned-finbert-v2.5</span><br>
+                    <span style="color: #64748B;">[{now}] PROCESS: Running Indi-FinBERT classification...</span><br>
+                    <span style="color: #00F2FF;">Model: aryanchauhan08/Indi-FinBERT</span><br>
                     <span style="color: #34D399;">Latency: 42ms</span><br>
                     <br>
-                    <span style="color: #64748B;">[{now}] OUTPUT: Vectorized Event Payload</span><br>
+                    <span style="color: #64748B;">[{now}] OUTPUT: Scored Event Payload</span><br>
                     <span style="color: #F8FAFC;">{{</span><br>
-                    <span style="color: #F472B6;">  "classification": "market_expansion",</span><br>
-                    <span style="color: #A78BFA;">  "confidence_score": 0.8800,</span><br>
-                    <span style="color: #60A5FA;">  "entities": ["RELIANCE", "Retail Group"],</span><br>
+                    <span style="color: #F472B6;">  "predicted_class": "positive",</span><br>
+                    <span style="color: #A78BFA;">  "confidence_score": 0.7461,</span><br>
+                    <span style="color: #60A5FA;">  "ticker": "RELIANCE.NS",</span><br>
+                    <span style="color: #60A5FA;">  "source": "moneycontrol",</span><br>
                     <span style="color: #FB923C;">  "action_type": "AUTO_ACCEPTED"</span><br>
                     <span style="color: #F8FAFC;">}}</span><br>
                     <br>
-                    <span style="color: #34D399;">● Signals dispatched to local ledger successfully.</span>
+                    <span style="color: #34D399;">● Signal dispatched to sentiment ledger successfully.</span>
                 </div>
             </div>
             """,
