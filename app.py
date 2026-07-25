@@ -2696,10 +2696,10 @@ fig_map.update_layout(
 
 st.plotly_chart(fig_map, width='stretch')
 
-# VISUAL: 90-Day Sentiment Heatmap Calendar above the data table
+# VISUAL: 30-Day Sentiment Heatmap Calendar above the data table
 if not df.empty:
     _end_date   = datetime.date.today()
-    _start_date = _end_date - datetime.timedelta(days=89)
+    _start_date = _end_date - datetime.timedelta(days=29)
     _date_range = pd.date_range(start=_start_date, end=_end_date, freq="D")
 
     _heat_df = df.copy()
@@ -2740,7 +2740,7 @@ if not df.empty:
             showgrid=False
         )
     )
-    st.markdown("#### 📅 90-Day Sentiment Heatmap")
+    st.markdown("#### 📅 30-Day Sentiment Heatmap")
     st.plotly_chart(fig_heat, width='stretch')
 
 # No user filters — display full latest data autonomously
