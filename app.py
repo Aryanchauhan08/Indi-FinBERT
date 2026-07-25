@@ -2762,7 +2762,7 @@ else:
 st.markdown('<h1 class="target-main-heading">System Architecture</h1>', unsafe_allow_html=True)
 st.markdown(
     """
-    <p style='text-align: center; font-size: 1.1rem; color: #8A99AD; max-width: 600px; margin: 0 auto 3rem auto; font-family: "Inter", sans-serif;'>A high-frequency, multi-modal machine learning pipeline designed to front-run macroeconomic shifts.</p>
+    <p style='text-align: center; font-size: 1.1rem; color: #8A99AD; max-width: 600px; margin: 0 auto 3rem auto; font-family: "Inter", sans-serif;'>An automated sentiment intelligence pipeline for Indian equity markets, powered by a fine-tuned domain-specific BERT model.</p>
     """,
     unsafe_allow_html=True
 )
