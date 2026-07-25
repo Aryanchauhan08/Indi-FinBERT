@@ -2784,9 +2784,9 @@ with col_timeline:
                     </svg>
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
-                    <h3 class="tl-line" style="color: #FFFFFF !important;">1. Multi-Modal News Ingestion</h3>
-                    <p class="tl-line" style="color: #FFFFFF !important;">Async WebSocket + REST polling fetches headlines from GNews RSS, MoneyControl scraper, and NewsAPI. Tokenized and deduplicated via MD5 hashes in under 10ms.</p>
-                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Throughput: 5,000+ events/sec</span>
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">1. Multi-Source News Ingestion</h3>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Sequential HTTP scraping and RSS polling fetches headlines from GNews RSS, MoneyControl, and NewsAPI. Deduplicated via MD5 hashing before inference.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Sources: 3 | Tickers tracked: 50</span>
                 </div>
             </div>
             <!-- Item 2 -->
@@ -2803,9 +2803,9 @@ with col_timeline:
                     </svg>
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
-                    <h3 class="tl-line" style="color: #FFFFFF !important;">2. NLP Engine — ProsusAI FinBERT Stack</h3>
-                    <p class="tl-line" style="color: #FFFFFF !important;">Deep learning classifier analyzes sentence structure and outputs probability weights across positive, negative, and neutral sentiment tags.</p>
-                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: 42ms</span>
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">2. NLP Engine — Indi-FinBERT</h3>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Fine-tuned BERT classifier outputs probability scores across positive, negative, and neutral sentiment classes, trained on Indian financial news domain.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Classification latency: ~42ms per headline</span>
                 </div>
             </div>
             <!-- Item 3 -->
@@ -2817,8 +2817,8 @@ with col_timeline:
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
                     <h3 class="tl-line" style="color: #FFFFFF !important;">3. Cascading HITL Guardrails</h3>
-                    <p class="tl-line" style="color: #FFFFFF !important;">Threshold filters check classification confidence: entries &ge; 0.65 are Auto-Accepted; others are routed to the human-in-the-loop audit desk.</p>
-                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Brier accuracy score tracked</span>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Confidence threshold filter: predictions &ge; 0.65 are Auto-Accepted; below threshold are flagged for human review.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Threshold: 0.65 | Gating automation tracked per run</span>
                 </div>
             </div>
             <!-- Item 4 -->
@@ -2832,9 +2832,9 @@ with col_timeline:
                     </svg>
                 </div>
                 <div class="timeline-content" style="color: #FFFFFF;">
-                    <h3 class="tl-line" style="color: #FFFFFF !important;">4. Database Ledger Logging</h3>
-                    <p class="tl-line" style="color: #FFFFFF !important;">Ingests predictions and stores results as a persistent CSV spreadsheet ledger to support retraining cycles.</p>
-                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Backtested Sharpe: 1.42</span>
+                    <h3 class="tl-line" style="color: #FFFFFF !important;">4. Sentiment Ledger Logging</h3>
+                    <p class="tl-line" style="color: #FFFFFF !important;">Scored predictions appended to a persistent CSV ledger with ticker, headline, confidence, source, and action type &mdash; supporting audit trails and future retraining cycles.</p>
+                    <span class="tl-line" style="background: #1F2937; color: #9CA3AF; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-family: monospace; margin-top: 8px; display: inline-block;">&gt;_ Format: CSV | Updated twice daily via GitHub Actions</span>
                 </div>
             </div>
         </div>
