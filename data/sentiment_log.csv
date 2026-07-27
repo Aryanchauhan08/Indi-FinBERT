@@ -2715,3 +2715,28 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-27 01:59:26,M&M.NS,"Cathie Wood Bets $50M on Tesla Dip: Q2 Margin Crunch, SpaceX Catalyst, and $299 Floor",FXLeaders,neutral,0.4158,FLAGGED_FOR_HUMAN_REVIEW
 2026-07-27 01:46:22,SUNPHARMA.NS,"Q1 Results this week: L&T, BEL, Coal India, Adani Enterprises, Bajaj Finance, Sun Pharma, Maruti Suzuki, HUL, Tata Power, Swiggy and more",Upstox,neutral,0.7452,AUTO_ACCEPTED
 2026-07-26 05:03:50,TATACONSUM.NS,Tata Consumer Products Q1 Results: Net profit up 29% YoY,scanx.trade,positive,0.7481,AUTO_ACCEPTED
+2026-07-27 10:20:29,ASIANPAINT.NS,Asian Paints Q1 preview: Price hikes may push revenue by 17% amid oil shock,Business Standard,negative,0.7204,AUTO_ACCEPTED
+2026-07-27 01:13:00,AXISBANK.NS,Weekly Recap: Axis Bank Q1 FY27 earnings and filings to exchanges,TradingView,neutral,0.7454,AUTO_ACCEPTED
+2026-07-26 15:51:03,BAJAJ-AUTO.NS,Bajaj Auto February 2026 sales surge 27% YoY to 4.48 lakh units,Business Upturn,positive,0.7475,AUTO_ACCEPTED
+2026-07-27 02:35:28,BAJFINANCE.NS,"Q1 Results This Week: Coal India, Bharat Electronics, HUL, L&T, Varun Beverages Reporting Earnings",NDTV Profit,neutral,0.7439,AUTO_ACCEPTED
+2026-07-27 03:30:25,COALINDIA.NS,"Coal India Q1 Results Today: Time, Dividend News, Earnings Call Schedule, Key Things To Watch",NDTV Profit,neutral,0.7447,AUTO_ACCEPTED
+2026-07-27 12:55:43,COALINDIA.NS,"Coal India misses profit view on weak volumes, higher costs",Reuters,negative,0.7457,AUTO_ACCEPTED
+2026-07-27 13:11:10,COALINDIA.NS,"Coal India Q1 results: Net profit rises marginally to ₹8,852 crore YoY; board declares dividend of ₹5.5 per equity share for FY27",Dailyhunt,positive,0.7475,AUTO_ACCEPTED
+2026-07-27 02:35:28,HINDUNILVR.NS,"Q1 Results This Week: Coal India, Bharat Electronics, HUL, L&T, Varun Beverages Reporting Earnings",NDTV Profit,neutral,0.7439,AUTO_ACCEPTED
+2026-07-26 19:16:49,KOTAKBANK.NS,"Kotak Bank Q1FY27 PAT rises 23% to ₹5,480 crore; earnings call transcript released",scanx.trade,positive,0.748,AUTO_ACCEPTED
+2026-07-27 12:40:58,LT.NS,"Tata Group FY26 Revenue Jumps to Rs 16.24L Cr, PAT Up 51.9%",Rediff MoneyWiz,positive,0.7479,AUTO_ACCEPTED
+2026-07-26 13:28:39,LT.NS,"With 25 nat’l records in 2026, India’s aim for CWG highs in track & field",The Indian Express,positive,0.7293,AUTO_ACCEPTED
+2026-07-27 02:11:16,LT.NS,Scottish Mortgage Investment Trust (SMT.L): An Investor’s Guide to Current Performance and Analyst Consensus,DirectorsTalk Interviews,neutral,0.7445,AUTO_ACCEPTED
+2026-07-27 13:23:21,M&M.NS,Indian Long Jumper M Sreeshankar qualifies for Commonwealth Games long jump final,Daily Pioneer,neutral,0.7323,AUTO_ACCEPTED
+2026-07-27 09:32:55,M&M.NS,"P N Gadgil Jewellers posts ₹1,053M consolidated net profit in Q1FY26",scanx.trade,neutral,0.6355,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 12:03:35,M&M.NS,Medpace Holdings revenue up 17.2% to USD 707.3M in Q2 2026,Medical Buyer,positive,0.7478,AUTO_ACCEPTED
+2026-07-27 11:25:07,M&M.NS,"Weekly Recap: 2030 note repurchase, 12.54M shares and Aug 4 Q2 call",TradingView,neutral,0.7388,AUTO_ACCEPTED
+2026-07-27 10:32:00,M&M.NS,CWG 2026: Massive blow for India's medal hopes as Gurindervir Singh fails to reach men's 100 m semifinals,ANI News,negative,0.7393,AUTO_ACCEPTED
+2026-07-27 05:15:00,M&M.NS,"Weekly Recap: 2026 $550M spend, 94% streamer use and Q3 dividend USD0.155",TradingView,positive,0.7377,AUTO_ACCEPTED
+2026-07-27 06:43:23,M&M.NS,'I'm not going to accept these lies!' - Neymar furiously denies 'malicious' Santos dressing room claims after two-goal display vs Chapecoense,Goal.com,negative,0.6761,AUTO_ACCEPTED
+2026-07-27 09:01:00,M&M.NS,"""I'm confident, I've trusted my preparation"": India's relay runner Rajesh Ramesh excited for CWG debut in Glasgow",ANI News,positive,0.6668,AUTO_ACCEPTED
+2026-07-27 07:13:24,M&M.NS,Robinhood Q2 Results: Chain TVL hits record $333M,scanx.trade,positive,0.7437,AUTO_ACCEPTED
+2026-07-27 08:11:35,M&M.NS,The9 reports record US$23M Q1 net income on 9BIT token gains,scanx.trade,positive,0.7456,AUTO_ACCEPTED
+2026-07-27 13:12:41,M&M.NS,India-linked $7.3m drug ring dismantled by NDLEA; alleged kingpins exposed,Business Insider Africa,negative,0.6332,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 04:37:20,TATACONSUM.NS,Tata Consumer Products share price soars nearly 3% on robust Q1 earnings; check details,Upstox,positive,0.7481,AUTO_ACCEPTED
+2026-07-27 11:33:27,TECHM.NS,FICO Honors Tech Mahindra for Bold Solution Tackling India’s E-Commerce Returns Crisis,Passionate In Marketing,positive,0.7145,AUTO_ACCEPTED
