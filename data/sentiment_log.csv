@@ -2685,3 +2685,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-24 02:48:53,TATACONSUM.NS,"Q1 Results Today: NTPC, Tata Consumer, Bank of Baroda, SAIL, REC Among 80+ Companies Reporting Earnings On July 24",NDTV Profit,neutral,0.7434,AUTO_ACCEPTED
 2026-07-24 02:37:01,TATACONSUM.NS,"Q1 Results Today Live, July 24: NTPC, Tata Consumer, SAIL, Shriram Finance, SBI Life among 86 quarterly earnings today - Check report card",ET Now,neutral,0.7438,AUTO_ACCEPTED
 2026-07-24 02:45:14,TATACONSUM.NS,"Top Q1 results today, July 24: Bank of Baroda, NTPC, Tata Consumer, SBI Life, SAIL, Hindustan Zinc among key companies to announce earnings",Business Upturn,neutral,0.7373,AUTO_ACCEPTED
+2026-07-27 04:03:27,BPCL.NS,"BPCL gains over 2% after Brent crude drops below $90, Nomura raises target price to Rs 395",moneycontrol,positive,0.9469,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,"Tata Consumer shares jump nearly 3%, among top Nifty gainers after Q1 earnings beat; brokerages bullish on growth",moneycontrol,positive,0.9473,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,Tata Consumer Q1 FY27: Bottom line beat backed by growth businesses,moneycontrol,neutral,0.6076,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 04:03:27,LT.NS,Tata Consumer Products stock outlook: Brokerages bullish on growth post Q1 results despite margin concerns,moneycontrol,positive,0.9433,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,Tata Consumer Products stock outlook: Brokerages bullish on growth post Q1 results despite margin concerns,moneycontrol,positive,0.9433,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,Tata Consumer Products shares rise 2% on better earnings; Elara Capital retains 'accumulate',moneycontrol,positive,0.9469,AUTO_ACCEPTED
+2026-07-27 04:03:27,INFY.NS,"Infosys shares settle lower on Q1 miss, guidance cut; should you buy, sell or hold?",moneycontrol,negative,0.9434,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,"Tata Consumer Q1 net profit rises 28% YoY to Rs 427 crore, beats estimates; revenue up 12%",moneycontrol,positive,0.9471,AUTO_ACCEPTED
+2026-07-27 04:03:27,DRREDDY.NS,Dr Reddy's Laboratories shares fall 2.07 percent,moneycontrol,negative,0.9437,AUTO_ACCEPTED
+2026-07-27 04:03:27,TATACONSUM.NS,TATA Consumer Products shares fall 2.53 percent in afternoon trade,moneycontrol,negative,0.9434,AUTO_ACCEPTED
+2026-07-26 07:37:24,ADANIENT.NS,Q1 results 2026: BEL to Adani Enterprises among companies to declare Q1 results next week; check full list here,livemint.com,neutral,0.732,AUTO_ACCEPTED
+2026-07-27 01:13:00,AXISBANK.NS,Weekly Recap: Axis Bank Q1 FY27 earnings and filings to exchanges,TradingView,neutral,0.7454,AUTO_ACCEPTED
+2026-07-27 01:46:22,BAJFINANCE.NS,"Q1 Results this week: L&T, BEL, Coal India, Adani Enterprises, Bajaj Finance, Sun Pharma, Maruti Suzuki, HUL, Tata Power, Swiggy and more",Upstox,neutral,0.7452,AUTO_ACCEPTED
+2026-07-27 02:35:28,BAJFINANCE.NS,"Q1 Results Calendar: Coal India, Bharat Electronics, HUL, L&T, Varun Beverages Reporting Earnings This Week",NDTV Profit,neutral,0.7446,AUTO_ACCEPTED
+2026-07-27 01:46:22,BAJAJFINSV.NS,"Q1 Results this week: L&T, BEL, Coal India, Adani Enterprises, Bajaj Finance, Sun Pharma, Maruti Suzuki, HUL, Tata Power, Swiggy and more",Upstox,neutral,0.7452,AUTO_ACCEPTED
+2026-07-26 07:09:19,BAJAJFINSV.NS,"Top Q1 results next week (July 27-August 2): BEL, HUL, L&T, Adani Enterprises, ITC, Maruti Suzuki, Bajaj Finance among key companies to announce earnings",Business Upturn,neutral,0.7379,AUTO_ACCEPTED
+2026-07-27 03:30:25,COALINDIA.NS,"Coal India Q1 Results Today: Time, Dividend News, Earnings Call Schedule, Key Things To Watch",NDTV Profit,neutral,0.7447,AUTO_ACCEPTED
+2026-07-27 02:35:28,HINDUNILVR.NS,"Q1 Results Calendar: Coal India, Bharat Electronics, HUL, L&T, Varun Beverages Reporting Earnings This Week",NDTV Profit,neutral,0.7446,AUTO_ACCEPTED
+2026-07-27 01:46:22,HINDUNILVR.NS,"Q1 Results this week: L&T, BEL, Coal India, Adani Enterprises, Bajaj Finance, Sun Pharma, Maruti Suzuki, HUL, Tata Power, Swiggy and more",Upstox,neutral,0.7452,AUTO_ACCEPTED
+2026-07-26 07:09:19,HINDUNILVR.NS,"Top Q1 results next week (July 27-August 2): BEL, HUL, L&T, Adani Enterprises, ITC, Maruti Suzuki, Bajaj Finance among key companies to announce earnings",Business Upturn,neutral,0.7379,AUTO_ACCEPTED
+2026-07-26 19:16:49,KOTAKBANK.NS,"Kotak Bank Q1FY27 PAT rises 23% to ₹5,480 crore; earnings call transcript released",scanx.trade,positive,0.748,AUTO_ACCEPTED
+2026-07-27 02:04:40,LT.NS,"2026 Maruti Suzuki Brezza Full Price List Revealed: Starts at ₹7.40 Lakh, Turbo Variants Undercut 1.5L Petrol",Autopunditz,positive,0.3769,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-26 13:28:39,LT.NS,"With 25 nat’l records in 2026, India’s aim for CWG highs in track & field",The Indian Express,positive,0.7293,AUTO_ACCEPTED
+2026-07-27 02:36:11,LT.NS,Jana Nayagan box office Day 4: Vijay's film hits Rs 217 crore in opening weekend,India Today,positive,0.7403,AUTO_ACCEPTED
+2026-07-27 00:16:08,LT.NS,Grêmio vs Fluminense: Serie A stats & head-to-head,BBC,neutral,0.7428,AUTO_ACCEPTED
+2026-07-26 19:46:11,M&M.NS,French auto parts maker Forvia to invest €70 m more in India,The Economic Times,neutral,0.6673,AUTO_ACCEPTED
+2026-07-26 23:11:46,M&M.NS,Bank of Baroda Q1FY27 profit falls 72% due to $600M NMC settlement,scanx.trade,negative,0.7451,AUTO_ACCEPTED
+2026-07-27 01:59:26,M&M.NS,"Cathie Wood Bets $50M on Tesla Dip: Q2 Margin Crunch, SpaceX Catalyst, and $299 Floor",FXLeaders,neutral,0.4158,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 01:46:22,SUNPHARMA.NS,"Q1 Results this week: L&T, BEL, Coal India, Adani Enterprises, Bajaj Finance, Sun Pharma, Maruti Suzuki, HUL, Tata Power, Swiggy and more",Upstox,neutral,0.7452,AUTO_ACCEPTED
+2026-07-26 05:03:50,TATACONSUM.NS,Tata Consumer Products Q1 Results: Net profit up 29% YoY,scanx.trade,positive,0.7481,AUTO_ACCEPTED
