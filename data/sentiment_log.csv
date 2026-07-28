@@ -2740,3 +2740,46 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-27 13:12:41,M&M.NS,India-linked $7.3m drug ring dismantled by NDLEA; alleged kingpins exposed,Business Insider Africa,negative,0.6332,FLAGGED_FOR_HUMAN_REVIEW
 2026-07-27 04:37:20,TATACONSUM.NS,Tata Consumer Products share price soars nearly 3% on robust Q1 earnings; check details,Upstox,positive,0.7481,AUTO_ACCEPTED
 2026-07-27 11:33:27,TECHM.NS,FICO Honors Tech Mahindra for Bold Solution Tackling India’s E-Commerce Returns Crisis,Passionate In Marketing,positive,0.7145,AUTO_ACCEPTED
+2026-07-28 03:36:12,ITC.NS,"Trade Spotlight: How should you trade United Breweries, Max Healthcare, ITC, Pidilite Industries, TCS, Colgate Palmolive, and others on July 28?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED
+2026-07-28 03:36:12,LT.NS,"Trade Spotlight: How should you trade United Breweries, Max Healthcare, ITC, Pidilite Industries, TCS, Colgate Palmolive, and others on July 28?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED
+2026-07-28 03:36:12,TCS.NS,"Trade Spotlight: How should you trade United Breweries, Max Healthcare, ITC, Pidilite Industries, TCS, Colgate Palmolive, and others on July 28?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED
+2026-07-28 03:36:12,COALINDIA.NS,"Stock Market Live: GIFT Nifty hints a negative start; Coal India, Meesho, BEL in focus",moneycontrol,negative,0.9276,AUTO_ACCEPTED
+2026-07-28 03:36:12,LT.NS,"Bharat Electronics Q1 results: Net profit rises 8% to Rs 1,048 crore",moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-28 03:36:12,BAJFINANCE.NS,"Bajaj Finance shares rise 2.08 percent to Rs 1,033.90",moneycontrol,positive,0.9471,AUTO_ACCEPTED
+2026-07-28 03:36:12,LT.NS,Ratnaveer Precision Engineering shares jump 14% on strong Q1 results,moneycontrol,positive,0.9476,AUTO_ACCEPTED
+2026-07-28 03:36:12,BPCL.NS,Bharat Petroleum Corporation Shares Rise 2.05 percent to Rs 316.50,moneycontrol,positive,0.9466,AUTO_ACCEPTED
+2026-07-28 03:36:12,LT.NS,"Tata Consultancy Services shares gain 2.06 percent to Rs 2,300.80",moneycontrol,positive,0.9473,AUTO_ACCEPTED
+2026-07-28 03:36:12,TCS.NS,"Tata Consultancy Services shares gain 2.06 percent to Rs 2,300.80",moneycontrol,positive,0.9473,AUTO_ACCEPTED
+2026-07-28 03:36:12,BAJAJFINSV.NS,Bajaj Finserv shares gain 2.12 percent in today's session,moneycontrol,positive,0.9475,AUTO_ACCEPTED
+2026-07-28 03:36:12,HCLTECH.NS,"HCL Technologies shares gain 2.12 percent to Rs 1,298.00",moneycontrol,positive,0.9476,AUTO_ACCEPTED
+2026-07-28 03:36:12,TATACONSUM.NS,Buy Tata Consumer Products; target of Rs 1450: ICICI Securities,moneycontrol,positive,0.8036,AUTO_ACCEPTED
+2026-07-28 03:36:13,COALINDIA.NS,"Stock Market Live: Sensex gains, Nifty flat at pre-open; Coal India, Meesho, BEL in focus",moneycontrol,positive,0.9301,AUTO_ACCEPTED
+2026-07-27 10:20:29,ASIANPAINT.NS,Asian Paints Q1 preview: Price hikes may push revenue by 17% amid oil shock,Business Standard,negative,0.7204,AUTO_ACCEPTED
+2026-07-27 12:58:23,ASIANPAINT.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-27 13:44:17,AXISBANK.NS,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.7453,AUTO_ACCEPTED
+2026-07-28 00:50:59,COALINDIA.NS,Coal India Q1 Net Profit Rises To ₹88.52B On ₹462.55B Revenue,Sahi,positive,0.7479,AUTO_ACCEPTED
+2026-07-27 13:47:41,COALINDIA.NS,"Coal India Q1 Results: Net profit rises 0.7% to ₹8,850 crore",scanx.trade,positive,0.747,AUTO_ACCEPTED
+2026-07-27 12:55:43,COALINDIA.NS,"Coal India misses profit view on weak volumes, higher costs",Reuters,negative,0.7457,AUTO_ACCEPTED
+2026-07-27 15:25:00,COALINDIA.NS,"Coal India Q1 FY27 Results: Revenue Rises 7.8% to ₹46,255 Crore, PAT Hits ₹8,850 Crore; Declares ₹5.50 Dividend",Indianmasterminds,positive,0.7478,AUTO_ACCEPTED
+2026-07-27 18:11:10,COALINDIA.NS,"Coal India Q1 results: Net profit rises marginally to ₹8,852 crore YoY; board declares dividend of ₹5.5 per equity share for FY27",Dailyhunt,positive,0.7475,AUTO_ACCEPTED
+2026-07-28 02:49:45,HINDUNILVR.NS,Q1 results 2026: L&T to HUL among companies to declare Q1 results today; full list here,livemint.com,neutral,0.7368,AUTO_ACCEPTED
+2026-07-28 03:01:23,HINDUNILVR.NS,"Q1 Results: L&T, HUL, Varun Beverages, Tata Capital, Ambuja Cements, Suzlon Energy, Pine Labs, Phoenix Mills, others to post earnings on July 28",Upstox,neutral,0.7444,AUTO_ACCEPTED
+2026-07-27 03:56:25,HINDUNILVR.NS,HUL Q1 preview: PAT may rise by 10%; volume growth to aid topline,Business Standard,positive,0.7431,AUTO_ACCEPTED
+2026-07-28 03:01:02,HINDUNILVR.NS,"Top Q1 results today, July 28: L&T, HUL, Varun Beverages, Suzlon Energy among key companies to announce earnings",Business Upturn,neutral,0.7339,AUTO_ACCEPTED
+2026-07-27 13:44:17,ICICIBANK.NS,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.7453,AUTO_ACCEPTED
+2026-07-27 16:03:02,INDUSINDBK.NS,IndusInd Bank Q4 Results: Earnings call transcript released,scanx.trade,neutral,0.7432,AUTO_ACCEPTED
+2026-07-27 21:07:12,INFY.NS,"Infosys (NSE:INFY) Shares Gain 3.7% Despite Guidance Cut, Lifted by Sector Rebalancing",TechStock²,positive,0.747,AUTO_ACCEPTED
+2026-07-28 02:33:30,LT.NS,Duo booked for ‘sextorting’ ₹9.3L from Goregaon college student | Mumbai news,Hindustan Times,negative,0.6295,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 12:40:58,LT.NS,"Tata Group FY26 Revenue Jumps to Rs 16.24L Cr, PAT Up 51.9%",Rediff MoneyWiz,positive,0.7479,AUTO_ACCEPTED
+2026-07-27 19:11:26,LT.NS,RMZ-Colt set to invest Rs 1.77L crore in Andhra Pradesh data centre,The Economic Times,neutral,0.6636,AUTO_ACCEPTED
+2026-07-28 00:33:45,LT.NS,Kashmir issue: Pakistan urges int’l community to take notice of India’s rogue behaviour,Business Recorder,neutral,0.6696,AUTO_ACCEPTED
+2026-07-27 22:47:42,M&M.NS,Rambus Q2 2026 slides: record revenue tops $200M on AI demand,Investing.com India,negative,0.7419,AUTO_ACCEPTED
+2026-07-27 15:59:44,M&M.NS,Capillary Technologies India Ltd accepts Sunil M Jain resignation,scanx.trade,neutral,0.7424,AUTO_ACCEPTED
+2026-07-27 20:56:02,M&M.NS,"Kforce Q3 Results: EPS guided at $0.71-$0.79, Sales $349M-$357M",scanx.trade,neutral,0.74,AUTO_ACCEPTED
+2026-07-27 18:56:03,M&M.NS,"Vanderbilt Health and Siemens Healthineers launch $87M Value Partnership to deliver advanced technology, elevate patient care",Vanderbilt Health News,positive,0.7395,AUTO_ACCEPTED
+2026-07-28 01:16:03,M&M.NS,Wrkr FY26 Q4 slides: $12m raise to bridge revenue timing gap,Investing.com,negative,0.7041,AUTO_ACCEPTED
+2026-07-27 22:04:11,M&M.NS,You Can Now Use Leica M-Mount Lenses on Your Canon RF Cameras With This New Adapter,No Film School,positive,0.6908,AUTO_ACCEPTED
+2026-07-27 21:54:49,M&M.NS,"TFI International reports US$136.2M Q2 profit, up from US$98.2M",thecanadianpressnews.ca,positive,0.7425,AUTO_ACCEPTED
+2026-07-27 12:58:23,ONGC.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-27 04:37:20,TATACONSUM.NS,Tata Consumer Products share price soars nearly 3% on robust Q1 earnings; check details,Upstox,positive,0.7481,AUTO_ACCEPTED
+2026-07-27 15:59:05,UPL.NS,"UPL Q1 Results: Board Meeting & Earnings Call Set for Aug 3, 2026",scanx.trade,neutral,0.724,AUTO_ACCEPTED
