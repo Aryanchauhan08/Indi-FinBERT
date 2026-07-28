@@ -2783,3 +2783,58 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type
 2026-07-27 12:58:23,ONGC.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
 2026-07-27 04:37:20,TATACONSUM.NS,Tata Consumer Products share price soars nearly 3% on robust Q1 earnings; check details,Upstox,positive,0.7481,AUTO_ACCEPTED
 2026-07-27 15:59:05,UPL.NS,"UPL Q1 Results: Board Meeting & Earnings Call Set for Aug 3, 2026",scanx.trade,neutral,0.724,AUTO_ACCEPTED
+2026-07-28 12:14:13,HINDUNILVR.NS,"Hindustan Unilever shares drop 7% after Q1 results; should you buy, sell or hold?",moneycontrol,negative,0.9441,AUTO_ACCEPTED
+2026-07-28 12:14:13,LT.NS,"Hindustan Unilever shares drop 7% after Q1 results; should you buy, sell or hold?",moneycontrol,negative,0.9441,AUTO_ACCEPTED
+2026-07-28 12:14:13,COALINDIA.NS,Buy Coal India; target of Rs 510: Motilal Oswal,moneycontrol,positive,0.931,AUTO_ACCEPTED
+2026-07-28 12:14:13,NTPC.NS,Neutral NTPC; target of Rs 381: Motilal Oswal,moneycontrol,neutral,0.9432,AUTO_ACCEPTED
+2026-07-28 12:14:13,MARUTI.NS,"Nomura says refreshed Brezza could lift volumes; maintains ‘Neutral’ on Maruti Suzuki with Rs 13,435 target",moneycontrol,neutral,0.7165,AUTO_ACCEPTED
+2026-07-28 12:14:14,LT.NS,"Avendus Wealth turns overweight on flexi-caps, neutral on mid- and small-caps after sharp correction",moneycontrol,neutral,0.5618,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-28 12:14:14,LT.NS,"Manipal Health IPO GMP signals modest listing gains ahead of issue opening tomorrow; check lot size, timeline and other key details",moneycontrol,positive,0.9273,AUTO_ACCEPTED
+2026-07-28 04:12:20,ASIANPAINT.NS,"Upcoming Q1 Results: Suzlon, L&T, Adani Enterprises, Asian Paints, Eicher Motors And 400+ Firms To Reporting Earnings",NDTV Profit,neutral,0.7425,AUTO_ACCEPTED
+2026-07-27 12:58:23,ASIANPAINT.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-27 16:32:30,AXISBANK.NS,Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED
+2026-07-28 04:12:20,BAJFINANCE.NS,"Upcoming Q1 Results: Suzlon, L&T, Adani Enterprises, Asian Paints, Eicher Motors And 400+ Firms To Reporting Earnings",NDTV Profit,neutral,0.7425,AUTO_ACCEPTED
+2026-07-28 03:55:18,COALINDIA.NS,"Coal India Share Price Drops 3% As Brokerages Trim Target On Q1 Earnings Miss: Buy, Sell, Or Hold?",NDTV Profit,negative,0.7441,AUTO_ACCEPTED
+2026-07-28 05:55:44,COALINDIA.NS,"Coal India misses profit view on weak volumes, higher costs",ET Government,negative,0.7457,AUTO_ACCEPTED
+2026-07-27 13:47:41,COALINDIA.NS,"Coal India Q1 Results: Net profit rises 0.7% to ₹8,850 crore",scanx.trade,positive,0.747,AUTO_ACCEPTED
+2026-07-28 05:42:17,COALINDIA.NS,"Coal India Q1 profit flat, shares fall 3%: Should you buy? Brokerages weigh in",newsdrum.in,negative,0.7433,AUTO_ACCEPTED
+2026-07-28 05:12:44,COALINDIA.NS,Coal India Stock Update: Share Price Slips 2% on Q1 Earnings Miss,LatestLY,negative,0.7445,AUTO_ACCEPTED
+2026-07-27 15:25:00,COALINDIA.NS,"Coal India Q1 FY27 Results: Revenue Rises 7.8% to ₹46,255 Crore, PAT Hits ₹8,850 Crore; Declares ₹5.50 Dividend",Indianmasterminds,positive,0.7478,AUTO_ACCEPTED
+2026-07-28 03:51:10,COALINDIA.NS,Why are Coal India shares down nearly 2% today? Explained,Business Upturn,negative,0.7457,AUTO_ACCEPTED
+2026-07-28 08:39:00,COALINDIA.NS,"Coal India Q1 Results: Flat Profit and Falling Margins – Should Investors Buy, Sell or Hold?",Trade Brains,negative,0.429,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-27 17:19:15,EICHERMOT.NS,Eicher Motors Share Price - Live NSE: EICHERMOT Stock Price & Chart,Upstox,neutral,0.7448,AUTO_ACCEPTED
+2026-07-28 04:36:52,HINDUNILVR.NS,Hindustan Unilever board approves financial results for Q1 2026,Business Upturn,neutral,0.7294,AUTO_ACCEPTED
+2026-07-28 04:28:59,HINDUNILVR.NS,"HUL Q1 Results Today: Time, Earnings Call Schedule. Key Things To Watch, Share Price And More",NDTV Profit,neutral,0.7454,AUTO_ACCEPTED
+2026-07-28 04:09:44,HINDUNILVR.NS,"Q1 results: L&T, HUL, Pfizer, Varun Beverages, and 70 more on July 28",Business Standard,neutral,0.7439,AUTO_ACCEPTED
+2026-07-28 03:01:23,HINDUNILVR.NS,"Q1 Results: L&T, HUL, Varun Beverages, Tata Capital, Ambuja Cements, Suzlon Energy, Pine Labs, Phoenix Mills, others to post earnings on July 28",Upstox,neutral,0.7444,AUTO_ACCEPTED
+2026-07-28 02:49:45,HINDUNILVR.NS,Q1 results 2026: L&T to HUL among companies to declare Q1 results today; full list here,livemint.com,neutral,0.7368,AUTO_ACCEPTED
+2026-07-28 03:19:40,HINDUNILVR.NS,"L&T, HUL, Coal India Report Q1 Earnings Today: What to Track",Whalesbook,neutral,0.7449,AUTO_ACCEPTED
+2026-07-28 03:05:58,HINDUNILVR.NS,"Top Q1 results today, July 28: L&T, HUL, Varun Beverages, Suzlon Energy among key companies to announce earnings",Business Upturn,neutral,0.7339,AUTO_ACCEPTED
+2026-07-27 19:01:19,ITC.NS,ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED
+2026-07-27 16:03:02,INDUSINDBK.NS,IndusInd Bank Q4 Results: Earnings call transcript released,scanx.trade,neutral,0.7432,AUTO_ACCEPTED
+2026-07-27 21:07:12,INFY.NS,"Infosys (NSE:INFY) Shares Gain 3.7% Despite Guidance Cut, Lifted by Sector Rebalancing",TechStock²,positive,0.747,AUTO_ACCEPTED
+2026-07-28 08:36:21,LT.NS,Dilip Buildcon Declared L-1 Bidder For 25.24 Billion Rupees Project,TradingView,neutral,0.7078,AUTO_ACCEPTED
+2026-07-28 02:33:30,LT.NS,Duo booked for ‘sextorting’ ₹9.3L from Goregaon college student | Mumbai news,Hindustan Times,negative,0.6295,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-28 08:35:34,LT.NS,Amritsar becomes North India's int'l gateway as Civil Aviation minister launches hub-and-spoke flight connectivity via Delhi,Public TV English,positive,0.7373,AUTO_ACCEPTED
+2026-07-27 12:40:58,LT.NS,"Tata Group FY26 Revenue Jumps to Rs 16.24L Cr, PAT Up 51.9%",Rediff MoneyWiz,positive,0.7479,AUTO_ACCEPTED
+2026-07-28 06:15:24,LT.NS,Earnings Flash (GAW.L) Games Workshop Group Reports FY26 Revenue GBP659.7M,marketscreener.com,neutral,0.6338,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-28 09:31:21,LT.NS,L'Air Liquide S.A. 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:AIQUY) 2026-07-28,Seeking Alpha,neutral,0.7447,AUTO_ACCEPTED
+2026-07-28 06:47:31,LT.NS,Carrie Cheung joins L’Observateur Newspaper as community reporter,lobservateur.com,neutral,0.7448,AUTO_ACCEPTED
+2026-07-27 20:48:20,M&M.NS,Mahindra & Mahindra Share Price - Live NSE: M&M Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED
+2026-07-28 10:58:12,M&M.NS,Ceragon books $120M in India orders for 4G/5G n...,Pluang,positive,0.7367,AUTO_ACCEPTED
+2026-07-28 04:55:54,M&M.NS,"CWG 2026: Gulveer eyes 10,000m medal, five Indian boxers fight for podium spots",DD India,neutral,0.679,AUTO_ACCEPTED
+2026-07-28 10:33:00,M&M.NS,"Herc Holdings Q2 2026: Revenue $1.20B, Adjusted EBITDA $487M; Raises Full-Year Guidance",TradingView,positive,0.7476,AUTO_ACCEPTED
+2026-07-28 08:25:40,M&M.NS,Deep Industries Q1FY27 net profit rises 45% to ₹891.4M,scanx.trade,positive,0.7479,AUTO_ACCEPTED
+2026-07-28 10:53:00,M&M.NS,"Rithm Capital reports Q2 2026: GAAP net income $20.2M, EAD $338.9M, book value $12.33",TradingView,neutral,0.7397,AUTO_ACCEPTED
+2026-07-28 03:52:10,M&M.NS,coforge q1fy27 revenue hits 5922 m 33 yoy growth ebitda 203,ICICI Direct,positive,0.7413,AUTO_ACCEPTED
+2026-07-28 04:55:39,M&M.NS,Siemens Healthineers inks $87M value partnership with Vanderbilt,Radiology Business,positive,0.7265,AUTO_ACCEPTED
+2026-07-28 11:47:10,M&M.NS,TFI International reports US$136.2M Q2 profit,BNN Bloomberg,neutral,0.6185,FLAGGED_FOR_HUMAN_REVIEW
+2026-07-28 10:32:21,MARUTI.NS,Maruti Suzuki Q1 Results: Earnings call scheduled for July 31,scanx.trade,neutral,0.7444,AUTO_ACCEPTED
+2026-07-28 08:12:45,NESTLEIND.NS,Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand,Upstox,neutral,0.7446,AUTO_ACCEPTED
+2026-07-28 06:59:49,NTPC.NS,NTPC Q1 earnings beat estimates as profit jumps 12 pc,Punjab Kesari English,positive,0.7477,AUTO_ACCEPTED
+2026-07-27 12:58:23,ONGC.NS,"Q4 Results Calendar May 25-30: ONGC, Asian Paints, Ashok Leyland, Suzlon, IRCTC & More To Announce; Full List",Goodreturns,neutral,0.7444,AUTO_ACCEPTED
+2026-07-27 17:17:59,POWERGRID.NS,Power Grid Corp Share Price - Live NSE: POWERGRID Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED
+2026-07-28 09:36:03,POWERGRID.NS,"Powergrid Infrastructure Q1 Results: Net profit rises 10% YoY to ₹1,851 million",scanx.trade,positive,0.7479,AUTO_ACCEPTED
+2026-07-27 19:28:49,TATASTEEL.NS,Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart,Upstox,neutral,0.7452,AUTO_ACCEPTED
+2026-07-28 08:12:45,TATACONSUM.NS,Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand,Upstox,neutral,0.7446,AUTO_ACCEPTED
+2026-07-27 15:59:05,UPL.NS,"UPL Q1 Results: Board Meeting & Earnings Call Set for Aug 3, 2026",scanx.trade,neutral,0.724,AUTO_ACCEPTED
