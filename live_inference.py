@@ -489,52 +489,51 @@ def hitl_guardrail(confidence):
 
 def run_inference(news_items, nlp):
     """
-    Runs sentiment inference on fetched headlines and runs them through the HITL guardrail.
+    Runs sentiment inference on fetched headlines and runs them through the
+    HITL guardrail. Every row records which engine actually produced the
+    prediction ("indi-finbert" or "rule-based-fallback") instead of leaving
+    it to be reverse-engineered from the confidence score downstream.
     """
     logging.info("Starting sentiment inference and HITL guardrail gating...")
     results = []
-    
+
     for item in news_items:
         ticker = item["Ticker"]
         headline = item["Headline"]
         date = item["Date"]
-        
-        # Run model inference or fallback
+        source = item.get("Source", "Unknown").lower()
+        weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
+        engine = "indi-finbert"
+
         if nlp is not None:
             try:
                 pred = nlp(headline)[0]
                 predicted_class = pred["label"].lower()
-                confidence = float(pred["score"])
-                source = item.get("Source", "Unknown").lower()
-                weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
-                confidence = round(min(confidence * weight, 1.0), 4)
-                logging.info(f"[{ticker}] Predicted: '{predicted_class}' with confidence {confidence:.4f}")
+                raw_confidence = float(pred["score"])
+                logging.info(f"[{ticker}] Predicted: '{predicted_class}' with raw confidence {raw_confidence:.4f}")
             except Exception as e:
                 logging.error(f"Inference error on headline '{headline}': {e}. Using fallback.")
-                predicted_class, confidence = predict_sentiment_fallback(headline)
-                source = item.get("Source", "Unknown").lower()
-                weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
-                confidence = round(min(confidence * weight, 1.0), 4)
+                predicted_class, raw_confidence = predict_sentiment_fallback(headline)
+                engine = "rule-based-fallback"
         else:
-            predicted_class, confidence = predict_sentiment_fallback(headline)
-            source = item.get("Source", "Unknown").lower()
-            weight = CREDIBILITY_WEIGHTS.get(source, 0.75)
-            confidence = round(min(confidence * weight, 1.0), 4)
-            logging.info(f"[{ticker}] (Fallback) Predicted: '{predicted_class}' with confidence {confidence:.4f}")
-            
-        # Gating
+            predicted_class, raw_confidence = predict_sentiment_fallback(headline)
+            engine = "rule-based-fallback"
+            logging.info(f"[{ticker}] (Fallback) Predicted: '{predicted_class}' with raw confidence {raw_confidence:.4f}")
+
+        confidence = round(min(raw_confidence * weight, 1.0), 4)
         action_type = hitl_guardrail(confidence)
-        
+
         results.append({
             "Date": date,
             "Ticker": ticker,
             "Headline": headline,
             "Source": item.get("Source", "Unknown"),
             "Predicted_Class": predicted_class,
-            "Confidence": round(confidence, 4),
-            "Action_Type": action_type
+            "Confidence": confidence,
+            "Action_Type": action_type,
+            "Engine": engine,
         })
-        
+
     return results
 
 
@@ -548,7 +547,7 @@ def append_to_csv(results, file_path):
         os.makedirs(dir_name, exist_ok=True)
         
     file_exists = os.path.isfile(file_path)
-    headers = ["Date", "Ticker", "Headline", "Source", "Predicted_Class", "Confidence", "Action_Type"]
+    headers = ["Date", "Ticker", "Headline", "Source", "Predicted_Class", "Confidence", "Action_Type", "Engine"]
     
     try:
         with open(file_path, mode="a", newline="", encoding="utf-8") as f:

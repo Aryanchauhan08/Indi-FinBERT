@@ -34,7 +34,7 @@ st.set_page_config(
 
 
 # TODO: Replace with your actual GitHub raw URL. Do not break the existing fallback chain.
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/username/FinBERT_Project/main/data/sentiment_log.csv"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/Aryanchauhan08/Indi-FinBERT/main/data/sentiment_log.csv"
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 os.makedirs(DATA_DIR, exist_ok=True)
 LOCAL_CSV_PATH = os.path.join(DATA_DIR, "sentiment_log.csv")
@@ -620,41 +620,76 @@ def fetch_stock_data(ticker, start, end):
         return pd.DataFrame()
 
 
+def _finalize_df(df):
+    """
+    Coerces dates and fills optional columns without silently discarding an
+    otherwise-good dataframe. Bad-date rows are dropped and counted (not used
+    to trigger a full fallback); warnings are queued for display.
+    """
+    df = df.copy()
+    before = len(df)
+    df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+    bad_dates = int(df["Date"].isna().sum())
+    if bad_dates:
+        df = df.dropna(subset=["Date"])
+        st.session_state.setdefault("_data_warnings", []).append(
+            f"Dropped {bad_dates} of {before} rows with unparseable dates."
+        )
+    if "Source" not in df.columns:
+        df["Source"] = "Unknown"
+    if "Engine" not in df.columns:
+        df["Engine"] = "unknown"
+    return df
+
+
 @st.cache_data(ttl=300)
 def load_data(url):
     """
     Loads daily sentiment results from GitHub, local CSV, or mock generator.
+    Only falls back to the next source if the fetch itself fails — a partially
+    malformed remote file no longer discards good data.
     """
-    data_source = ""
     try:
         df = pd.read_csv(url)
-        df["Date"] = pd.to_datetime(df["Date"])
-        if "Source" not in df.columns:
-            df["Source"] = "Unknown"
-        data_source = "Loaded from GitHub Raw URL"
-        return df, data_source
     except Exception:
+        df = None
+
+    if df is not None:
         try:
-            if os.path.exists(LOCAL_CSV_PATH):
-                df = pd.read_csv(LOCAL_CSV_PATH)
-                df["Date"] = pd.to_datetime(df["Date"])
-                if "Source" not in df.columns:
-                    df["Source"] = "Unknown"
-                data_source = f"Loaded from local fallback ({LOCAL_CSV_PATH})"
-                return df, data_source
-            else:
-                df = generate_mock_historical_data()
-                data_source = "Loaded from generated mock historical data (fallback)"
-                return df, data_source
-        except Exception as local_err:
-            st.error(f"Error loading local data: {local_err}")
-            return pd.DataFrame(), "Failed to load"
+            df = _finalize_df(df)
+            return df, "Loaded from GitHub Raw URL"
+        except Exception as parse_err:
+            st.session_state.setdefault("_data_warnings", []).append(
+                f"Remote CSV fetched but could not be parsed cleanly: {parse_err}. Falling back."
+            )
+
+    try:
+        if os.path.exists(LOCAL_CSV_PATH):
+            df = pd.read_csv(LOCAL_CSV_PATH)
+            df = _finalize_df(df)
+            return df, f"Loaded from local fallback ({LOCAL_CSV_PATH})"
+        else:
+            df = generate_mock_historical_data()
+            return df, "Loaded from generated mock historical data (fallback)"
+    except Exception as local_err:
+        st.error(f"Error loading local data: {local_err}")
+        return pd.DataFrame(), "Failed to load"
 
 
 # Load data
 df, source_info = load_data(GITHUB_RAW_URL)
 if not df.empty:
     df = df.drop_duplicates(subset=['Ticker', 'Headline'], keep='first')
+
+if source_info.startswith("Loaded from generated mock"):
+    st.error(
+        "⚠️ Live data pipeline is disconnected — showing generated mock data only. "
+        "Check GITHUB_RAW_URL and the local data/sentiment_log.csv fallback."
+    )
+
+for _w in st.session_state.get("_data_warnings", []):
+    st.warning(_w)
+st.session_state["_data_warnings"] = []
 
 # Calculate pipeline metrics for header and body
 _last_run = "--"
@@ -695,7 +730,10 @@ if not _msi_df.empty and "Predicted_Class" in _msi_df.columns and "Confidence" i
     _total_score = _pos_score + _neg_score + _neu_score
 
     if _total_score > 0:
-        _msi = round((_pos_score / _total_score) * 100, 1)
+        # True net sentiment: positive confidence minus negative confidence,
+        # normalized by total confidence-weighted volume, centered at 50
+        # (0 = maximally bearish, 50 = neutral, 100 = maximally bullish).
+        _msi = round(50 + 50 * (_pos_score - _neg_score) / _total_score, 1)
     else:
         _msi = 50.0  # neutral fallback if no data
 else:
@@ -1760,43 +1798,32 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     unsafe_allow_html=True
                 )
                 
+            def log_feedback(feedback_value, headline_text, predicted_label, predicted_confidence, path):
+                if os.path.exists(path):
+                    try:
+                        existing_log = pd.read_csv(path)
+                        if len(existing_log) > 10000:
+                            existing_log.tail(9000).to_csv(path, index=False)
+                    except Exception:
+                        pass
+                entry = pd.DataFrame([{
+                    "timestamp": datetime.datetime.now().isoformat(),
+                    "headline": headline_text,
+                    "predicted_label": predicted_label,
+                    "confidence": predicted_confidence,
+                    "feedback": feedback_value
+                }])
+                entry.to_csv(path, mode="a", header=not os.path.exists(path), index=False)
+
             st.markdown("### Feedback Loop")
             fb_col1, fb_col2, _ = st.columns([1.5, 1.5, 7])
             with fb_col1:
                 if st.button("👍 Correct", key="feedback_pos"):
-                    if os.path.exists(FEEDBACK_LOG_PATH):
-                        try:
-                            existing_log = pd.read_csv(FEEDBACK_LOG_PATH)
-                            if len(existing_log) > 10000:
-                                existing_log.tail(9000).to_csv(FEEDBACK_LOG_PATH, index=False)
-                        except Exception:
-                            pass
-                    entry = pd.DataFrame([{
-                        "timestamp": datetime.datetime.now().isoformat(),
-                        "headline": headline_input,
-                        "predicted_label": label,
-                        "confidence": confidence,
-                        "feedback": "correct"
-                    }])
-                    entry.to_csv(FEEDBACK_LOG_PATH, mode="a", header=not os.path.exists(FEEDBACK_LOG_PATH), index=False)
+                    log_feedback("correct", headline_input, label, confidence, FEEDBACK_LOG_PATH)
                     st.success("✅ Feedback logged. Thank you for improving the model.")
             with fb_col2:
                 if st.button("👎 Incorrect", key="feedback_neg"):
-                    if os.path.exists(FEEDBACK_LOG_PATH):
-                        try:
-                            existing_log = pd.read_csv(FEEDBACK_LOG_PATH)
-                            if len(existing_log) > 10000:
-                                existing_log.tail(9000).to_csv(FEEDBACK_LOG_PATH, index=False)
-                        except Exception:
-                            pass
-                    entry = pd.DataFrame([{
-                        "timestamp": datetime.datetime.now().isoformat(),
-                        "headline": headline_input,
-                        "predicted_label": label,
-                        "confidence": confidence,
-                        "feedback": "incorrect"
-                    }])
-                    entry.to_csv(FEEDBACK_LOG_PATH, mode="a", header=not os.path.exists(FEEDBACK_LOG_PATH), index=False)
+                    log_feedback("incorrect", headline_input, label, confidence, FEEDBACK_LOG_PATH)
                     st.warning("⚠️ Prediction flagged and logged for model audit.")
                     
     with tab_batch:
@@ -2910,15 +2937,17 @@ if not todays_df.empty:
 else:
     filtered_headlines = pd.DataFrame()
 
-# Map Scoring Model Engine badge
-# Heuristics fallback values are exactly [0.6200, 0.8800, 0.8200]
-def detect_model_framework(conf):
-    if round(conf, 2) in [0.62, 0.88, 0.82]:
+# Map Scoring Model Engine badge — reads the 'Engine' column logged by run_inference()
+def detect_model_framework(row):
+    engine = str(row.get("Engine", "")).strip().lower()
+    if engine == "rule-based-fallback":
         return "Rule-Based Fallback"
-    return "Fine-Tuned Indi-FinBERT"
+    elif engine == "indi-finbert":
+        return "Fine-Tuned Indi-FinBERT"
+    return "Unknown (legacy row, no Engine column)"
 
 if not filtered_headlines.empty:
-    filtered_headlines["Scoring Model Engine"] = filtered_headlines["Confidence"].apply(detect_model_framework)
+    filtered_headlines["Scoring Model Engine"] = filtered_headlines.apply(detect_model_framework, axis=1)
 
 # Headline metrics summary
 total_gated = len(filtered_headlines)
@@ -2963,7 +2992,7 @@ if not filtered_headlines.empty:
     st.download_button(
         label="📥 Export Current Scored Data Matrix (CSV)",
         data=csv_bytes,
-        file_name=f"MDS202513_finbert_gated_headlines.csv",
+        file_name=f"indi_finbert_gated_headlines_{latest_run_date}.csv",
         mime="text/csv",
         key="export-matrix"
     )
@@ -2971,26 +3000,35 @@ else:
     st.info(f"No headlines found for the latest evaluation date ({latest_run_date}).")
 
 st.markdown("---")
-if st.button("⚡ Run Live Inference Pipeline", width='stretch', type="primary"):
-    with st.spinner("Executing pipeline subprocess..."):
-        try:
-            result = subprocess.run(
-                [sys.executable, "live_inference.py"],
-                capture_output=True,
-                text=True,
-                timeout=120
-            )
-            if result.returncode == 0:
-                st.cache_data.clear()
-                st.rerun()
-            else:
-                st.error(f"Pipeline execution failed:\n{result.stderr or '(no stderr output)'}")
-        except FileNotFoundError:
-            st.error("live_inference.py not found. Please ensure the file exists in the project root.")
-        except subprocess.TimeoutExpired:
-            st.error("Pipeline subprocess timed out after 120 seconds.")
-        except Exception as e:
-            st.error(f"Unexpected error running pipeline: {e}")
+ENABLE_LOCAL_PIPELINE_TRIGGER = os.environ.get("ENABLE_LOCAL_PIPELINE_TRIGGER", "false").lower() == "true"
+if ENABLE_LOCAL_PIPELINE_TRIGGER:
+    st.caption("⚠️ Local-dev only: this button is disabled in the deployed app.")
+    if st.button("⚡ Run Live Inference Pipeline (local dev)", width='stretch', type="primary"):
+        with st.spinner("Executing pipeline subprocess..."):
+            try:
+                result = subprocess.run(
+                    [sys.executable, "live_inference.py"],
+                    capture_output=True,
+                    text=True,
+                    timeout=120
+                )
+                if result.returncode == 0:
+                    st.cache_data.clear()
+                    st.rerun()
+                else:
+                    st.error(f"Pipeline execution failed:\n{result.stderr or '(no stderr output)'}")
+            except FileNotFoundError:
+                st.error("live_inference.py not found. Please ensure the file exists in the project root.")
+            except subprocess.TimeoutExpired:
+                st.error("Pipeline subprocess timed out after 120 seconds.")
+            except Exception as e:
+                st.error(f"Unexpected error running pipeline: {e}")
+else:
+    st.caption(
+        "🔄 Data refreshes automatically via the GitHub Actions pipeline. "
+        "Use the sidebar 'Refresh Feed' button or reload the page to pull "
+        "the latest committed data."
+    )
 
 if st.session_state.get("auto_refresh"):
     countdown = st.empty()
