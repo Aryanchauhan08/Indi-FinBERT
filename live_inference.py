@@ -261,7 +261,7 @@ def fetch_gnews_rss():
                         continue
                     
                     results.append({
-                        "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                        "Date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                         "Ticker": ticker,
                         "Headline": title,
                         "Source": source
@@ -330,7 +330,7 @@ def fetch_news_api():
                     continue
                 
                 results.append({
-                    "Date": pub_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                    "Date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                     "Ticker": ticker,
                     "Headline": title,
                     "Source": source
