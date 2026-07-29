@@ -5,11 +5,14 @@
 # ───────────────────────────────────────────────────
 import os
 import sys
+from transformers import pipeline
+from lime.lime_text import LimeTextExplainer
+from transformers_interpret import SequenceClassificationExplainer
+import torch
 import datetime
 import subprocess
 import numpy as np
 import pandas as pd
-import requests
 import streamlit as st
 import streamlit.components.v1 as components
 import plotly.express as px
@@ -1403,38 +1406,50 @@ try:
 except Exception:
     pass
 
-HF_INFERENCE_URL_TEMPLATE = "https://api-inference.huggingface.co/models/{model_id}"
-
-def _call_hf_inference_api(model_id, headline, timeout=20, max_retries=2):
+@st.cache_resource
+def load_finbert_model():
+    # Force Streamlit to check for the token and alert if it's completely missing
     if not hf_token:
-        raise RuntimeError("HF_TOKEN was not found. Please verify your Streamlit Cloud secrets.")
-    url = HF_INFERENCE_URL_TEMPLATE.format(model_id=model_id)
-    headers = {"Authorization": f"Bearer {hf_token}"}
-    payload = {"inputs": headline, "options": {"wait_for_model": True}}
-    last_err = None
-    for attempt in range(max_retries + 1):
-        try:
-            resp = requests.post(url, headers=headers, json=payload, timeout=timeout)
-            resp.raise_for_status()
-            data = resp.json()
-            results = data[0] if isinstance(data, list) and isinstance(data[0], list) else data
-            return {r["label"].lower(): r["score"] for r in results}
-        except Exception as e:
-            last_err = e
-            time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError(f"HF Inference API call failed for model '{model_id}': {last_err}")
+        st.error("🚨 Streamlit Secrets Error: 'HF_TOKEN' was not found! Please verify your Streamlit Cloud settings.")
+        st.stop()
+        
+    return pipeline(
+        "text-classification", 
+        model="aryanchauhan08/Indi-FinBERT",
+        token=hf_token,
+        top_k=None
+    )
 
-@st.cache_data(ttl=300, show_spinner=False)
+@st.cache_resource
+def load_vanilla_finbert():
+    return pipeline(
+        "text-classification", 
+        model="ProsusAI/finbert", 
+        token=hf_token,
+        top_k=None
+    )
+
 def real_predict_api(headline):
-    indi_probs = _call_hf_inference_api("aryanchauhan08/Indi-FinBERT", headline)
+    # 1. Run inference on Indi-FinBERT
+    indi_classifier = load_finbert_model()
+    indi_results = indi_classifier(headline)[0] 
+    indi_probs = {res['label'].lower(): res['score'] for res in indi_results}
     indi_label = max(indi_probs, key=indi_probs.get).upper()
     indi_confidence = indi_probs[indi_label.lower()]
-    vanilla_probs = _call_hf_inference_api("ProsusAI/finbert", headline)
+    
+    # 2. Run inference on original Vanilla FinBERT
+    vanilla_classifier = load_vanilla_finbert()
+    vanilla_results = vanilla_classifier(headline)[0]
+    vanilla_probs = {res['label'].lower(): res['score'] for res in vanilla_results}
     vanilla_label = max(vanilla_probs, key=vanilla_probs.get).upper()
     vanilla_confidence = vanilla_probs[vanilla_label.lower()]
+    
     return {
-        "label": indi_label, "confidence": indi_confidence, "probs": indi_probs,
-        "vanilla_label": vanilla_label, "vanilla_confidence": vanilla_confidence
+        "label": indi_label,
+        "confidence": indi_confidence,
+        "probs": indi_probs,
+        "vanilla_label": vanilla_label, 
+        "vanilla_confidence": vanilla_confidence
     }
 
 def compute_transformers_interpret_attribution(headline):
