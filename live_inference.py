@@ -64,7 +64,7 @@ FOREIGN_EXCHANGE_SIGNALS = ["asx:", "(asx", "nyse:", "nasdaq:", "tsx:", "lse:", 
 NOISE_WORDS = [
     "cricket", "bollywood", "recipe", "horoscope", "fashion",
     "travel", "weather", "lifestyle", "us-iran", "ukraine",
-    "gaza", "election", "sports", "entertainment",
+    "gaza", "sports", "entertainment",
     "runs over", "sexual harassment", "bail granted", "assault", "accident",
     "wimbledon", "premier league", "football club", "kyiv", "dynamo",
     "ontario", "zambia", "cambodia", "poland", "french guiana",
@@ -85,8 +85,6 @@ SKIP_PREFIXES = [
 JUNK_PHRASES = [
     "day’s trial", "subscribe", "sign up", "download the app",
     "advisory alert", "read also", "also read", "newsletter",
-    "falls in trade",
-    "rises in trade",
     "up in early trade",
     "down in early trade",
     "watch the stock",
@@ -227,10 +225,6 @@ def fetch_gnews_rss():
                     if not is_valid_headline(title):
                         continue
                         
-                    if not any(sig in title.lower() for sig in INDIA_SIGNALS):
-                        logging.debug(f"  [GNews] Skipped (no India signal): {title[:60]}")
-                        continue
-                        
                     if any(sig in title.lower() for sig in FOREIGN_EXCHANGE_SIGNALS):
                         logging.debug(f"  [GNews] Skipped (foreign exchange): {title[:60]}")
                         continue
@@ -252,10 +246,12 @@ def fetch_gnews_rss():
                         "Source": source
                     })
                     added_count += 1
+                    if added_count >= 5:
+                        break
                     
                 if added_count > 0:
                     logging.info(f"  [GNews] Fetched {added_count} articles for {ticker} using query '{query}'")
-                time.sleep(0.5)
+                time.sleep(0.3)
         except Exception as e:
             logging.error(f"  Error fetching GNews RSS for {ticker}: {e}")
             
@@ -273,7 +269,7 @@ def fetch_news_api():
         
     logging.info("Source C: Starting NewsAPI Fetching...")
     results = []
-    domains = "economictimes.indiatimes.com,livemint.com,business-standard.com,thehindubusinessline.com,financialexpress.com"
+    domains = "economictimes.indiatimes.com,livemint.com,business-standard.com,thehindubusinessline.com,financialexpress.com,moneycontrol.com,ndtvprofit.com"
     
     for ticker in TICKER_LIST:
         try:
@@ -330,11 +326,33 @@ def fetch_news_api():
     return results
 
 
-def deduplicate_news(news_list):
+def load_existing_hashes(file_path):
+    """
+    Loads MD5 hashes of all existing Ticker+Headline pairs from the
+    sentiment log CSV to prevent re-scoring duplicates across runs.
+    """
+    seen = set()
+    if not os.path.isfile(file_path):
+        return seen
+    try:
+        with open(file_path, newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                key = f"{row.get('Ticker', '')}_{row.get('Headline', '').lower().strip()}"
+                seen.add(hashlib.md5(key.encode()).hexdigest())
+        logging.info(f"Loaded {len(seen)} existing headline hashes from {file_path} for cross-run deduplication.")
+    except Exception as e:
+        logging.warning(f"Could not load existing hashes from {file_path}: {e}")
+    return seen
+
+
+def deduplicate_news(news_list, existing_hashes=None):
     """
     Deduplicates fetched articles by Ticker and Headline content.
+    Optionally checks against existing_hashes from prior runs to
+    prevent cross-run duplicates accumulating in the CSV.
     """
-    seen_hashes = set()
+    seen_hashes = set(existing_hashes) if existing_hashes else set()
     deduped = []
     for item in news_list:
         key = f"{item['Ticker']}_{item['Headline'].lower().strip()}"
@@ -406,9 +424,10 @@ def fetch_latest_news():
     newsapi_articles = fetch_news_api()
     collected_articles.extend(newsapi_articles)
     
-    # 4. Deduplicate
-    deduped_articles = deduplicate_news(collected_articles)
-    logging.info(f"Total unique articles crawled: {len(deduped_articles)}")
+    # 4. Deduplicate — including cross-run check against existing CSV
+    existing_hashes = load_existing_hashes(LOG_FILE_PATH)
+    deduped_articles = deduplicate_news(collected_articles, existing_hashes)
+    logging.info(f"Total unique articles after cross-run deduplication: {len(deduped_articles)}")
     
     # 5. Resiliency Fallback check
     if not deduped_articles:

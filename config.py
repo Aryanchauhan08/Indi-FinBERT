@@ -86,9 +86,9 @@ TICKER_KEYWORDS = {
     "TATACONSUM.NS": ["tata consumer", "tataconsum"],
     "TCS.NS": ["tata consultancy services", "tcs"],
     "TECHM.NS": ["tech mahindra", "techm"],
-    "TITAN.NS": ["titan company", "titan"],
+    "TITAN.NS": ["titan company", "titan watches", "titan jewellery", "tanishq"],
     "ULTRACEMCO.NS": ["ultratech cement", "ultracemco"],
-    "UPL.NS": ["upl"],
+    "UPL.NS": ["upl limited", "upl agrochemicals", "upl crop"],
     "WIPRO.NS": ["wipro"]
 }
 
