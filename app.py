@@ -645,7 +645,7 @@ def _finalize_df(df):
 @st.cache_data(ttl=300)
 def load_data(url):
     try:
-        df = pd.read_csv(url)
+        df = pd.read_csv(url, on_bad_lines='skip', engine='python')
         df = _finalize_df(df)
         return df, "Loaded from GitHub Raw URL"
     except Exception as remote_err:
@@ -654,7 +654,7 @@ def load_data(url):
         )
     try:
         if os.path.exists(LOCAL_CSV_PATH):
-            df = pd.read_csv(LOCAL_CSV_PATH)
+            df = pd.read_csv(LOCAL_CSV_PATH, on_bad_lines='skip', engine='python')
             df = _finalize_df(df)
             return df, f"Loaded from local fallback ({LOCAL_CSV_PATH})"
     except Exception as local_err:
