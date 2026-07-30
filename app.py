@@ -1454,6 +1454,14 @@ def load_vanilla_finbert():
         top_k=None
     )
 
+@st.cache_resource
+def load_sequence_explainer():
+    pipeline_obj = load_finbert_model()
+    return SequenceClassificationExplainer(
+        model=pipeline_obj.model,
+        tokenizer=pipeline_obj.tokenizer
+    )
+
 def real_predict_api(headline):
     # 1. Run inference on Indi-FinBERT
     try:
@@ -1482,51 +1490,47 @@ def real_predict_api(headline):
     }
 
 def compute_transformers_interpret_attribution(headline):
-    pipeline_obj = load_finbert_model()
-    explainer = SequenceClassificationExplainer(
-        model = pipeline_obj.model,
-        tokenizer = pipeline_obj.tokenizer
-    )
-    word_attributions = explainer(headline)
-    return word_attributions
+    explainer = load_sequence_explainer()
+    return explainer(headline)
 
 def compute_lime_attribution(headline, pred_label):
+    cache_key = f"lime_{headline}_{pred_label}"
+    if cache_key in st.session_state:
+        return st.session_state[cache_key]
+
     pipeline_obj = load_finbert_model()
-    
+
     def predict_proba_for_lime(texts):
         model = pipeline_obj.model
         tokenizer = pipeline_obj.tokenizer
-        device = model.device
-        
-        inputs = tokenizer(
-            texts,
-            return_tensors = "pt",
-            max_length     = 128,
-            truncation     = True,
-            padding        = True
-        ).to(device)
-        
+        inputs = tokenizer(texts, return_tensors="pt", max_length=128,
+                           truncation=True, padding=True).to(model.device)
         with torch.no_grad():
             logits = model(**inputs).logits
-            
-        probs = torch.softmax(logits, dim=1).cpu().numpy()
-        return probs
+        return torch.softmax(logits, dim=1).cpu().numpy()
 
     id2label = pipeline_obj.model.config.id2label
     class_names = [id2label[i].lower() for i in sorted(id2label.keys())]
     lime_explainer = LimeTextExplainer(class_names=class_names)
     explanation = lime_explainer.explain_instance(
-        text_instance = headline,
-        classifier_fn = predict_proba_for_lime,
-        num_features = 10,
-        num_samples = 500,
-        labels = [0, 1, 2]
+        text_instance=headline,
+        classifier_fn=predict_proba_for_lime,
+        num_features=10,
+        num_samples=300,
+        labels=[0, 1, 2]
     )
-    
-    label_map = {"NEGATIVE": 0, "NEUTRAL": 1, "POSITIVE": 2}
+
+    label_map = {v.upper(): k for k, v in id2label.items()}
     pred_idx_num = label_map.get(pred_label, 1)
-    
-    return explanation.as_list(label=pred_idx_num)
+    result = explanation.as_list(label=pred_idx_num)
+    st.session_state[cache_key] = result
+
+    import gc
+    gc.collect()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+
+    return result
 
 def log_feedback(feedback_value, headline_text, predicted_label, predicted_confidence, path):
     if os.path.exists(path):
