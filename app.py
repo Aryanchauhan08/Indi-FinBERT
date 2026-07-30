@@ -567,7 +567,8 @@ def generate_mock_historical_data():
                     "Source": np.random.choice(["moneycontrol", "economic_times", "livemint", "Google News"]),
                     "Predicted_Class": pred_class,
                     "Confidence": round(confidence, 4),
-                    "Action_Type": action
+                    "Action_Type": action,
+                    "Engine": "indi-finbert"
                 })
                 
     df = pd.DataFrame(data)
@@ -649,18 +650,14 @@ def load_data(url):
         df = _finalize_df(df)
         return df, "Loaded from GitHub Raw URL"
     except Exception as remote_err:
-        st.session_state.setdefault("_data_warnings", []).append(
-            f"Remote CSV unavailable ({remote_err}). Falling back to local."
-        )
+        print(f"Remote CSV unavailable ({remote_err}). Falling back to local.")
     try:
         if os.path.exists(LOCAL_CSV_PATH):
             df = pd.read_csv(LOCAL_CSV_PATH, on_bad_lines='skip', engine='python')
             df = _finalize_df(df)
             return df, f"Loaded from local fallback ({LOCAL_CSV_PATH})"
     except Exception as local_err:
-        st.session_state.setdefault("_data_warnings", []).append(
-            f"Local CSV failed ({local_err}). Falling back to mock data."
-        )
+        print(f"Local CSV failed ({local_err}). Falling back to mock data.")
     df = generate_mock_historical_data()
     return df, "Loaded from generated mock historical data (fallback)"
 
@@ -1524,6 +1521,23 @@ def compute_lime_attribution(headline, pred_label):
     
     return explanation.as_list(label=pred_idx_num)
 
+def log_feedback(feedback_value, headline_text, predicted_label, predicted_confidence, path):
+    if os.path.exists(path):
+        try:
+            existing_log = pd.read_csv(path)
+            if len(existing_log) > 10000:
+                existing_log.tail(9000).to_csv(path, index=False)
+        except Exception:
+            pass
+    entry = pd.DataFrame([{
+        "timestamp": datetime.datetime.now().isoformat(),
+        "headline": headline_text,
+        "predicted_label": predicted_label,
+        "confidence": predicted_confidence,
+        "feedback": feedback_value
+    }])
+    entry.to_csv(path, mode="a", header=not os.path.exists(path), index=False)
+
 # -----------------
 # SPA View Router
 # -----------------
@@ -1787,22 +1801,6 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                     unsafe_allow_html=True
                 )
                 
-            def log_feedback(feedback_value, headline_text, predicted_label, predicted_confidence, path):
-                if os.path.exists(path):
-                    try:
-                        existing_log = pd.read_csv(path)
-                        if len(existing_log) > 10000:
-                            existing_log.tail(9000).to_csv(path, index=False)
-                    except Exception:
-                        pass
-                entry = pd.DataFrame([{
-                    "timestamp": datetime.datetime.now().isoformat(),
-                    "headline": headline_text,
-                    "predicted_label": predicted_label,
-                    "confidence": predicted_confidence,
-                    "feedback": feedback_value
-                }])
-                entry.to_csv(path, mode="a", header=not os.path.exists(path), index=False)
 
             st.markdown("### Feedback Loop")
             fb_col1, fb_col2, _ = st.columns([1.5, 1.5, 7])
@@ -1852,12 +1850,19 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         processed_rows = []
                         for chunk_i, chunk in enumerate(chunks):
                             for _, row in chunk.iterrows():
-                                p_res = real_predict_api(str(row["Headline"]))
-                                processed_rows.append({
-                                    "Headline": row["Headline"],
-                                    "Sentiment": p_res["label"],
-                                    "Confidence": p_res["confidence"]
-                                })
+                                try:
+                                    p_res = real_predict_api(str(row["Headline"]))
+                                    processed_rows.append({
+                                        "Headline": row["Headline"],
+                                        "Sentiment": p_res["label"],
+                                        "Confidence": p_res["confidence"]
+                                    })
+                                except Exception as e:
+                                    processed_rows.append({
+                                        "Headline": row["Headline"],
+                                        "Sentiment": "ERROR",
+                                        "Confidence": 0.0
+                                    })
                             progress_bar.progress((chunk_i + 1) / len(chunks))
                         progress_bar.empty()
                         processed_df = pd.DataFrame(processed_rows)
@@ -2090,9 +2095,9 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         if not t_df.empty:
             headlines_list = []
             for _, row in t_df.iterrows():
-                now_ts = datetime.datetime.now()
+                now_ts_feed = datetime.datetime.now()
                 try:
-                    delta = now_ts - row["Date"].to_pydatetime()
+                    delta = now_ts_feed - row["Date"].to_pydatetime()
                     hours = int(delta.total_seconds() // 3600)
                     time_str = f"{hours} hour{'s' if hours != 1 else ''} ago" if hours > 0 else "Just now"
                 except Exception:
@@ -2917,6 +2922,7 @@ min_confidence = st.slider(
     min_value=0.0,
     max_value=1.0,
     step=0.05,
+    value=st.session_state.get("confidence_slider", CONFIDENCE_THRESHOLD),
     key="confidence_slider"
 )
 
