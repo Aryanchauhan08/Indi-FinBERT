@@ -3071,3 +3071,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-07-30 06:01:32,TATACONSUM.NS,"Tata Consumer profit surges 29%, growth biz scales to 36% share",scanx.trade,positive,0.7475,AUTO_ACCEPTED,indi-finbert
 2026-07-30 06:01:32,TATACONSUM.NS,"Tata Consumer Q1 FY27 Revenue Rises 11.93 Pc to Rs 5,348.88 Cr",Indian Retailer,positive,0.7478,AUTO_ACCEPTED,indi-finbert
 2026-07-30 06:01:39,UPL.NS,UPL Limited Receives No Adverse Observations from BSE and No Objection from NSE for Composite Scheme of Arrangement,scanx.trade,neutral,0.7371,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:19,EICHERMOT.NS,Buy Eicher Motors; target of Rs 9500: ICICI Securities,moneycontrol,positive,0.9103,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:19,EICHERMOT.NS,Neutral Eicher Motors; target of Rs 7598: Motilal Oswal,moneycontrol,neutral,0.9398,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:19,ASIANPAINT.NS,Neutral Asian Paints; target of Rs 3050: Motilal Oswal,moneycontrol,neutral,0.9418,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:22,ADANIENT.NS,"Stocks in news: Adani Ports, Adani Enterprises, Vedanta Oil & Gas, Asian Paints, 6 others",The Economic Times,neutral,0.8902,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:22,ADANIPORTS.NS,"Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold?",livemint.com,negative,0.5188,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-07-30 12:05:22,ADANIPORTS.NS,"NIFTY50, SENSEX trade flat in afternoon session; M&M, Adani Ports, Exide Industries, KPIT Tech among buzzing stocks",Upstox,neutral,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:23,ADANIPORTS.NS,APSEZ Q1 FY27 Results: Revenue Climbs 19% On Global Port Growth - Newz Daddy,Newz Daddy,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:32,BAJFINANCE.NS,Bajaj Finance Reports Q1 Consolidated Net Profit of ₹60B vs ₹47B YoY,Sahi,neutral,0.6913,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:32,BAJFINANCE.NS,"Bajaj Finance Q1 profit rises 27% to ₹5,986 crore; asset quality improves as credit costs ease",Fortune India,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:34,BAJAJFINSV.NS,"Q1 Results: Bajaj Finance, Tata Steel, M&M, Vedanta Aluminium, Torrent Pharma, Hyundai, IRFC, Swiggy, others to post earnings on July 30",Upstox,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:37,BHARTIARTL.NS,"Trade Spotlight: How should you trade Time Technoplast, HEG, Gland Pharma, Bharti Airtel, Uniparts India,...",Moneycontrol.com,neutral,0.9426,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:37,BHARTIARTL.NS,Bharti Airtel faces penalty from Department of Telecommunications,Business Upturn,negative,0.7052,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:48,EICHERMOT.NS,Eicher Motors posts 21 per cent rise in Q1 profit on strong sales,Indian Television Dot Com,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:48,EICHERMOT.NS,Eicher Motors Q1: Royal Enfield Volumes Hit an All-Time High; Check the Complete Revenue Breakdown,Trade Brains,positive,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:05:57,HINDALCO.NS,HINDALCO Share Price Today - Hindalco Industries on NSE/BSE,scanx.trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:03,ITC.NS,ITC Q1 Preview: Will cigarette tax shock drag profit lower despite FMCG strength?,The Economic Times,negative,0.8911,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:12,LT.NS,Green synthesis of silver nanoparticles from Buddleja asiatica L. and their multifunctional applications for industrial and bio-based products,Nature,neutral,0.4258,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-07-30 12:06:12,LT.NS,L’Oréal Maintains Its Growth Pace and Improves Profitability in the First Half of the Year,Luxus Plus,positive,0.742,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:12,LT.NS,L’Oreal plans Gucci beauty product launch in 2028 By Investing.com,Investing.com India,neutral,0.714,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:12,LT.NS,L’Oréal chief plans to more than triple sales of Gucci beauty products,Financial Times,positive,0.6039,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-07-30 12:06:12,LT.NS,Ukrainian L’ORÉAL-UNESCO Prize “For Women in Science”,fundsforNGOs,neutral,0.6829,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:15,M&M.NS,"Mahindra & Mahindra Q1 results: Net profit jumps 34% YoY to ₹5,454 crore; revenue climbs 27% on strong auto sales",Upstox,positive,0.7482,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:16,M&M.NS,'Threatening Violence': BJP Over M Kharge's Remark On Amit Shah In Parliament,NDTV,negative,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:16,M&M.NS,Neeraj Chopra qualifies for CWG 2026 javelin final with 79.61m throw,Sportstar,neutral,0.7365,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:16,M&M.NS,The Woman Behind Emma M. Lion,The New York Times,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:17,MARUTI.NS,"Maruti Suzuki India Ltd spurts 0.24%, up for five straight sessions",Business Standard,negative,0.7285,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:19,NESTLEIND.NS,"Nestle Standalone June 2026 Net Sales at Rs 6,378.18 crore, up 25.16% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-07-30 12:06:40,TECHM.NS,"Tech Mahindra Ltd spurts 2.22%, up for five straight sessions",Business Standard,positive,0.7573,AUTO_ACCEPTED,indi-finbert
