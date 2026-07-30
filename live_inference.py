@@ -1,6 +1,7 @@
 import os
 import csv
 import logging
+import re
 import datetime
 import time
 import urllib.request
@@ -444,8 +445,8 @@ def predict_sentiment_fallback(headline):
     positive_words = ["rise", "high", "growth", "profit", "deal", "expand", "gain", "strong", "launch"]
     negative_words = ["slide", "drop", "decline", "fall", "cautious", "loss", "weak"]
     
-    pos_count = sum(word in headline_lower for word in positive_words)
-    neg_count = sum(word in headline_lower for word in negative_words)
+    pos_count = sum(bool(re.search(rf'\b{word}\b', headline_lower)) for word in positive_words)
+    neg_count = sum(bool(re.search(rf'\b{word}\b', headline_lower)) for word in negative_words)
     
     if pos_count > neg_count:
         return "positive", 0.88
@@ -512,6 +513,8 @@ def run_inference(news_items, nlp):
         if nlp is not None:
             try:
                 pred = nlp(headline)[0]
+                if isinstance(pred, list):
+                    pred = max(pred, key=lambda x: x["score"])
                 predicted_class = pred["label"].lower()
                 raw_confidence = float(pred["score"])
                 logging.info(f"[{ticker}] Predicted: '{predicted_class}' with raw confidence {raw_confidence:.4f}")
@@ -563,7 +566,15 @@ def append_to_csv(results, file_path):
         logging.info("Successfully wrote inference results to CSV.")
     except Exception as e:
         logging.error(f"Failed writing results to CSV: {e}")
-        raise e
+        backup_path = file_path + ".backup.csv"
+        try:
+            with open(backup_path, mode="w", newline="", encoding="utf-8") as bf:
+                writer = csv.DictWriter(bf, fieldnames=headers)
+                writer.writeheader()
+                writer.writerows(results)
+            logging.warning(f"Primary write failed. Results saved to backup: {backup_path}")
+        except Exception as backup_err:
+            logging.error(f"Backup write also failed: {backup_err}")
 
 
 def main():
