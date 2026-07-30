@@ -17,6 +17,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import plotly.express as px
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 import time
 try:
     from config import TICKER_LIST, CONFIDENCE_THRESHOLD
@@ -633,9 +634,7 @@ def _finalize_df(df):
     bad_dates = int(df["Date"].isna().sum())
     if bad_dates:
         df = df.dropna(subset=["Date"])
-        st.session_state.setdefault("_data_warnings", []).append(
-            f"Dropped {bad_dates} of {before} rows with unparseable dates."
-        )
+        print(f"Dropped {bad_dates} of {before} rows with unparseable dates.")
     if "Source" not in df.columns:
         df["Source"] = "Unknown"
     if "Engine" not in df.columns:
@@ -1434,8 +1433,7 @@ except Exception:
 def load_finbert_model():
     # Force Streamlit to check for the token and alert if it's completely missing
     if not hf_token:
-        st.error("🚨 Streamlit Secrets Error: 'HF_TOKEN' was not found! Please verify your Streamlit Cloud settings.")
-        st.stop()
+        raise RuntimeError("HF_TOKEN is missing. Please set it in Streamlit Cloud Secrets or as an environment variable.")
         
     return pipeline(
         "text-classification", 
@@ -1446,6 +1444,9 @@ def load_finbert_model():
 
 @st.cache_resource
 def load_vanilla_finbert():
+    if not hf_token:
+        st.error("🚨 HF_TOKEN missing — cannot load Vanilla FinBERT.")
+        st.stop()
     return pipeline(
         "text-classification", 
         model="ProsusAI/finbert", 
@@ -1455,7 +1456,11 @@ def load_vanilla_finbert():
 
 def real_predict_api(headline):
     # 1. Run inference on Indi-FinBERT
-    indi_classifier = load_finbert_model()
+    try:
+        indi_classifier = load_finbert_model()
+    except RuntimeError as e:
+        st.error(f"🚨 Model load failed: {e}")
+        st.stop()
     indi_results = indi_classifier(headline)[0] 
     indi_probs = {res['label'].lower(): res['score'] for res in indi_results}
     indi_label = max(indi_probs, key=indi_probs.get).upper()
@@ -1507,7 +1512,9 @@ def compute_lime_attribution(headline, pred_label):
         probs = torch.softmax(logits, dim=1).cpu().numpy()
         return probs
 
-    lime_explainer = LimeTextExplainer(class_names=["negative", "neutral", "positive"])
+    id2label = pipeline_obj.model.config.id2label
+    class_names = [id2label[i].lower() for i in sorted(id2label.keys())]
+    lime_explainer = LimeTextExplainer(class_names=class_names)
     explanation = lime_explainer.explain_instance(
         text_instance = headline,
         classifier_fn = predict_proba_for_lime,
@@ -1669,7 +1676,10 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                 st.markdown("Words are highlighted by the model attention weights (Green = Positive signal focus, Red = Negative signal focus).")
                 with st.spinner("Generating Token Attributions (Integrated Gradients)..."):
                     try:
-                        word_attributions = compute_transformers_interpret_attribution(headline_input)
+                        cache_key = f"token_attr_{headline_input}"
+                        if cache_key not in st.session_state:
+                            st.session_state[cache_key] = compute_transformers_interpret_attribution(headline_input)
+                        word_attributions = st.session_state[cache_key]
                     except Exception as e:
                         st.error(f"Error computing attributions: {e}")
                         word_attributions = None
@@ -1712,7 +1722,10 @@ if 'SENTIMENT ENGINE' in st.session_state.current_page:
                         lime_list = []
                         
                     try:
-                        trans_attribs = compute_transformers_interpret_attribution(headline_input)
+                        cache_key = f"token_attr_{headline_input}"
+                        if cache_key not in st.session_state:
+                            st.session_state[cache_key] = compute_transformers_interpret_attribution(headline_input)
+                        trans_attribs = st.session_state[cache_key]
                         trans_list = [(t, float(s)) for t, s in trans_attribs if t not in ["[CLS]", "[SEP]", "[PAD]"]]
                     except Exception as e:
                         st.error(f"Error computing Transformer Interpret: {e}")
@@ -1976,7 +1989,12 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
         )
 
         # ADDED: Text input overrides selectbox if user has typed something
-        ticker_query = ticker_from_text.strip().upper() if ticker_from_text.strip() else ticker_from_select
+        if ticker_from_text.strip():
+            ticker_query = ticker_from_text.strip().upper()
+            if not ticker_query.endswith(".NS"):
+                ticker_query = ticker_query + ".NS"
+        else:
+            ticker_query = ticker_from_select
 
         st.markdown(
             f"<div style='font-size:0.72rem;color:#475569;margin-top:4px;font-family:"
@@ -2379,7 +2397,7 @@ elif 'GATING SIGNALS' in st.session_state.current_page:
                     key="chart_style_selector"
                 )
 
-            from plotly.subplots import make_subplots
+
 
             # Fix 3 — 2-row subplot: price (75%) + volume (25%)
             fig = make_subplots(
@@ -3026,11 +3044,7 @@ else:
     )
 
 if st.session_state.get("auto_refresh"):
-    countdown = st.empty()
-    for i in range(60, 0, -1):
-        countdown.caption(f"⏱ Auto-refreshing in {i}s — toggle off in the sidebar to cancel.")
-        time.sleep(1)
-    countdown.empty()
+    time.sleep(60)
     st.cache_data.clear()
     st.rerun()
 
