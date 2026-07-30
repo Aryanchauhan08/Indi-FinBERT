@@ -644,36 +644,25 @@ def _finalize_df(df):
 
 @st.cache_data(ttl=300)
 def load_data(url):
-    """
-    Loads daily sentiment results from GitHub, local CSV, or mock generator.
-    Only falls back to the next source if the fetch itself fails — a partially
-    malformed remote file no longer discards good data.
-    """
     try:
         df = pd.read_csv(url)
-    except Exception:
-        df = None
-
-    if df is not None:
-        try:
-            df = _finalize_df(df)
-            return df, "Loaded from GitHub Raw URL"
-        except Exception as parse_err:
-            st.session_state.setdefault("_data_warnings", []).append(
-                f"Remote CSV fetched but could not be parsed cleanly: {parse_err}. Falling back."
-            )
-
+        df = _finalize_df(df)
+        return df, "Loaded from GitHub Raw URL"
+    except Exception as remote_err:
+        st.session_state.setdefault("_data_warnings", []).append(
+            f"Remote CSV unavailable ({remote_err}). Falling back to local."
+        )
     try:
         if os.path.exists(LOCAL_CSV_PATH):
             df = pd.read_csv(LOCAL_CSV_PATH)
             df = _finalize_df(df)
             return df, f"Loaded from local fallback ({LOCAL_CSV_PATH})"
-        else:
-            df = generate_mock_historical_data()
-            return df, "Loaded from generated mock historical data (fallback)"
     except Exception as local_err:
-        st.error(f"Error loading local data: {local_err}")
-        return pd.DataFrame(), "Failed to load"
+        st.session_state.setdefault("_data_warnings", []).append(
+            f"Local CSV failed ({local_err}). Falling back to mock data."
+        )
+    df = generate_mock_historical_data()
+    return df, "Loaded from generated mock historical data (fallback)"
 
 
 # Load data
