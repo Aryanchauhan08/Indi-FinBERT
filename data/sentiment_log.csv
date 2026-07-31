@@ -3134,3 +3134,38 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-07-31 03:51:59,SUNPHARMA.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Bajaj Finserv Among 100+ Companies To Announce Earnings On July 31",NDTV Profit,neutral,0.8594,AUTO_ACCEPTED,indi-finbert
 2026-07-31 03:52:02,TATASTEEL.NS,India's Tata Steel beats profit view on improved steel prices,Reuters,positive,0.9153,AUTO_ACCEPTED,indi-finbert
 2026-07-31 03:52:13,WIPRO.NS,Wipro Ltd (WIPRO) Stock Price & News - Google Finance,Google,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,MARUTI.NS,"Maruti Suzuki Q1 results: Net profit declines 11% to Rs 3,352 crore, revenue rises 36%",moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,TATAMOTORS.NS,Tata Motors Passenger Vehicles shares gain 2.23% in today's session,moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,SUNPHARMA.NS,"Sun Pharma Q1 net profit rises 27 percent to Rs 2,894 crore, misses estimates; revenue also below poll",moneycontrol,positive,0.8809,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,BAJFINANCE.NS,"Bajaj Finance shares jump 9% to hit fresh high as Q1 profit beats estimates; should you buy, sell or hold?",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,ADANIPORTS.NS,"Adani Ports shares rise 2.06% to Rs 1,698.40",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:17,SUNPHARMA.NS,Sun Pharmaceutical Industries Shares Rise 2.03% in Today's Session,moneycontrol,positive,0.9459,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:18,INFY.NS,What's next for Salil Parekh? Outgoing Infosys CEO on life after Infosys and Nandan Nilekani,moneycontrol,neutral,0.9446,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:18,INFY.NS,"You need companies like Infosys to make AI work in enterprises, says CEO Parekh",moneycontrol,neutral,0.9197,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:18,TATASTEEL.NS,Tata Steel shares rise over 2% as firm's Q1 results beat estimates on improved steel prices,moneycontrol,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:18,ADANIENT.NS,Top 30 Stocks for New Investors in 2026,Samco,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:28,BAJFINANCE.NS,"Bajaj Finance share price surges post quarterly results, hits fresh 52-week high",India TV News,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:29,BAJFINANCE.NS,"Bajaj Finance Share Price Surges Nearly 7% as Strong Q1 FY27 Earnings Lift Sensex, Nifty Higher",India Infoline,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:29,BAJFINANCE.NS,"Sensex rises 166 points, Nifty tops 24,380 as Bajaj Finance jumps 8%",India Today,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:29,BAJFINANCE.NS,"From flat to firm: Sensex, Nifty rally on Bajaj Finance earnings, FII inflows",theweek.in,neutral,0.7293,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:29,BAJFINANCE.NS,"Swiggy, Hyundai, Bajaj Finance, M&M among buzzing stocks as SENSEX gains over 290 pts, NIFTY above 24,400",Upstox,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:29,BAJFINANCE.NS,"Bajaj Finance Shares Surge 7%, Hit 52-Week High Post Q1 Earnings",Rediff MoneyWiz,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:31,BAJAJFINSV.NS,"Bajaj Finance Share Price Surges Nearly 7% as Strong Q1 FY27 Earnings Lift Sensex, Nifty Higher",India Infoline,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:31,BAJAJFINSV.NS,"Bajaj Finserv Q1 Results: Net profit rises 12% to ₹3,132 crore; board approves entering reinsurance business",livemint.com,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:31,BAJAJFINSV.NS,"From flat to firm: Sensex, Nifty rally on Bajaj Finance earnings, FII inflows",theweek.in,neutral,0.7293,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:58,ITC.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Bajaj Finserv Among 100+ Companies To Announce Earnings On July 31",NDTV Profit,neutral,0.8594,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:17:58,ITC.NS,"ITC Q1 FY27 Results: Standalone PAT at ₹3,579 Cr, FMCG Cigarettes Revenue Surges 80%",PSU Connect,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:06,LT.NS,Expressive abhinaya and rhythmic precision defined L. Shruthi’s Kuchipudi recital,thehindu.com,neutral,0.5399,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-07-31 12:18:06,LT.NS,MG Hector Plus 2.0L Diesel MT priced at Rs 20 lakh,Team-BHP,neutral,0.6595,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:06,LT.NS,Rs 26.14L demolition cost recovery notice issued to owners of gutted Lucknow building where 15 died,ThePrint,negative,0.4951,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-07-31 12:18:06,LTIM.NS,"LTIMindtree Share Price Today, LTIMindtree Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:08,M&M.NS,"Mahindra Last Mile Mobility turns unicorn after Rs 322-crore funding at Rs 10,822 crore valuation",IndiaIPO,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:09,M&M.NS,"Vadhandhi Season 2 Trailer​ : M. Sasikumar, Anagha Maruthora, Yashwanth and Aparna Das Starrer Vadhandhi Season 2 Official Trailer​",The Times of India,neutral,0.6976,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:09,M&M.NS,Allianz to terminate PIMCO M Unit Plan and purchase M Units,Allianz.com,neutral,0.6776,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:09,M&M.NS,Stoinis the spark as Brave claim first win at fourth attempt,Cricinfo,positive,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:13,NTPC.NS,NTPC announces change in senior management with cessation of Executive Director,Business Upturn,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:17,POWERGRID.NS,Power Grid Corporation of India Ltd,Google,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:23,SUNPHARMA.NS,"Sun Pharma Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price Performance",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:23,SUNPHARMA.NS,Sun Pharmaceutical Q1 FY27 result: Net profit jumps 27% YoY; US formulation sales decline to $427 million,Upstox,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:23,SUNPHARMA.NS,"Sun Pharma Q1 profit rises 27% to ₹2,895 crore as revenue grows over 10%",Business Standard,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-07-31 12:18:23,SUNPHARMA.NS,"Sun Pharma Q1 Results: Profit rises 27% YoY to Rs 2,895 crore; revenue climbs 10.5%",economictimes.com,positive,0.748,AUTO_ACCEPTED,indi-finbert
