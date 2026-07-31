@@ -3099,3 +3099,38 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-07-30 12:06:17,MARUTI.NS,"Maruti Suzuki India Ltd spurts 0.24%, up for five straight sessions",Business Standard,negative,0.7285,AUTO_ACCEPTED,indi-finbert
 2026-07-30 12:06:19,NESTLEIND.NS,"Nestle Standalone June 2026 Net Sales at Rs 6,378.18 crore, up 25.16% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
 2026-07-30 12:06:40,TECHM.NS,"Tech Mahindra Ltd spurts 2.22%, up for five straight sessions",Business Standard,positive,0.7573,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:51,BAJFINANCE.NS,"Bajaj Finance Q1 FY27 – Performance stable, but catalysts missing for stock upside",moneycontrol,neutral,0.7681,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:51,HEROMOTOCO.NS,"Trade Spotlight: How should you trade Alkem Labs, Blue Jet Healthcare, CreditAccess Grameen, Minda Corporation, Hero MotoCorp, and others on July 31?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:51,TATASTEEL.NS,"Stock Market Live: Nifty opens above 24,300, Sensex up 100 pts; Tata Steel, Bajaj twins gain",moneycontrol,positive,0.9393,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:51,INFY.NS,I'm leaving Infosys in a better place: Outgoing CEO Salil Parekh says company is poised to win in AI services,moneycontrol,positive,0.9309,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:54,ADANIPORTS.NS,Adani Ports delivers 19% EBITDA growth in Q1 FY27 as international ports biz surges 256%,Indian Chemical News,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:50:58,ASIANPAINT.NS,Asian Paints reports 17% revenue growth in Q1 FY27,PitchOnnet,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:03,BAJFINANCE.NS,"Q1 Results: Maruti Suzuki, Sun Pharma, ITC, Bajaj Finserv, Indian Oil, ABB India, GAIL, Urban Company, Dixon Tech, others to post earnings on July 31",upstox.com,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:03,BAJFINANCE.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Bajaj Finserv Among 100+ Companies To Announce Earnings On July 31",NDTV Profit,neutral,0.8594,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:03,BAJFINANCE.NS,"Top stocks in news: Tata Steel, Bajaj Finance, Swiggy, Mazagon, RailTel, LIC Housing, Medanta",Business Today,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:04,BAJAJFINSV.NS,"Q1 Results: Maruti Suzuki, Sun Pharma, ITC, Bajaj Finserv, Indian Oil, ABB India, GAIL, Urban Company, Dixon Tech, others to post earnings on July 31",Upstox,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:04,BAJAJFINSV.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Bajaj Finserv Among 100+ Companies To Announce Earnings On July 31",NDTV Profit,neutral,0.8594,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:04,BAJAJFINSV.NS,"Q1 results 2026: ITC to Maruti Suzuki, Sun Pharma, among companies to declare Q1 earnings today; full list here",livemint.com,neutral,0.7247,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:04,BAJAJFINSV.NS,"Sun Pharma, Maruti Suzuki, ITC, Bajaj Finserv Q1 Results Today — Earnings Estimates",NDTV Profit,neutral,0.8725,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:04,BAJAJFINSV.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Indian Oil, Gail, Bajaj Finserv among 100+ quarterly earnings on July 31",ET Now,neutral,0.7247,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:12,COALINDIA.NS,Coal India Ltd (COALINDIA) Stock Price & News - Google Finance,Google,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:13,DIVISLAB.NS,Divi's Laboratories announces retirement of senior management personnel,Business Upturn,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:41,LT.NS,IUST to host int’l conference on nature-based solutions for building climate resilience,Greater Kashmir,neutral,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:41,LT.NS,L’Oréal: dermatological division drive first-half sales growth,Premium Beauty News,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:41,LT.NS,India to face Brazil in int'l friendly in Kolkata on October 3,The New Indian Express,neutral,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:41,LT.NS,Assam flood toll rises to 80; 2.12L remain affected,The Times of India,negative,0.7125,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:43,M&M.NS,"NSE Q1 Profit Rises 7% to ₹3,120 Cr; IPO Plans Advance",HDFC Sky,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:44,M&M.NS,Netflix sued for $105m over stolen Nicolas Cage war thriller,The Guardian,negative,0.7116,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:44,M&M.NS,‘Spider-Man: Brand New Day’s $309 Million Promo Partner Campaign Is A Hollywood Record,Deadline,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:44,M&M.NS,AppMagic: Pokémon Go generates $48.5m during 10th anniversary celebrations,gamesindustry.biz,positive,0.7189,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:44,M&M.NS,Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A,TechCrunch,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:45,MARUTI.NS,Earnings To Watch: Maruti Suzuki India Ltd (NSE:MARUTI) Q1 2027 -- GF Value Sees 34.00% Upside,GuruFocus,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:46,MARUTI.NS,"Maruti Suzuki India Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8742,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:51,ONGC.NS,"Q1 Results: Maruti Suzuki, Sun Pharma, ITC, Bajaj Finserv, Indian Oil, ABB India, GAIL, Urban Company, Dixon Tech, others to post earnings on July 31",upstox.com,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:59,SUNPHARMA.NS,"Q1 Results: Maruti Suzuki, Sun Pharma, ITC, Bajaj Finserv, Indian Oil, ABB India, GAIL, Urban Company, Dixon Tech, others to post earnings on July 31",upstox.com,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:59,SUNPHARMA.NS,"Sun Pharma, Maruti Suzuki, ITC, Bajaj Finserv Q1 Results Today — Earnings Estimates",NDTV Profit,neutral,0.8725,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:59,SUNPHARMA.NS,Sun Pharma Near Record High Ahead of Q1 Results: Can Earnings Keep the Rally Alive?,NiftyTrader,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:59,SUNPHARMA.NS,"Q1 results 2026: ITC to Maruti Suzuki, Sun Pharma, among companies to declare Q1 earnings today; full list here",livemint.com,neutral,0.7247,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:51:59,SUNPHARMA.NS,"Q1 Results Today: ITC, Maruti Suzuki, Sun Pharma, Bajaj Finserv Among 100+ Companies To Announce Earnings On July 31",NDTV Profit,neutral,0.8594,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:52:02,TATASTEEL.NS,India's Tata Steel beats profit view on improved steel prices,Reuters,positive,0.9153,AUTO_ACCEPTED,indi-finbert
+2026-07-31 03:52:13,WIPRO.NS,Wipro Ltd (WIPRO) Stock Price & News - Google Finance,Google,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
