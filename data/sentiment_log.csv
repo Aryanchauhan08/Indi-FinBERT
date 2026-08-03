@@ -3169,3 +3169,34 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-07-31 12:18:23,SUNPHARMA.NS,Sun Pharmaceutical Q1 FY27 result: Net profit jumps 27% YoY; US formulation sales decline to $427 million,Upstox,positive,0.7473,AUTO_ACCEPTED,indi-finbert
 2026-07-31 12:18:23,SUNPHARMA.NS,"Sun Pharma Q1 profit rises 27% to ₹2,895 crore as revenue grows over 10%",Business Standard,positive,0.8971,AUTO_ACCEPTED,indi-finbert
 2026-07-31 12:18:23,SUNPHARMA.NS,"Sun Pharma Q1 Results: Profit rises 27% YoY to Rs 2,895 crore; revenue climbs 10.5%",economictimes.com,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:51,TATASTEEL.NS,Accumulate Tata Steel; target of Rs 212: Prabhudas Lilladher,moneycontrol,neutral,0.924,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:51,MARUTI.NS,"Accumulate Maruti Suzuki; target of Rs 15,000: Prabhudas Lilladher",moneycontrol,neutral,0.9219,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:51,DIVISLAB.NS,Accumulate Divis Laboratories; target of Rs 8600: Prabhudas Lilladher,moneycontrol,neutral,0.9275,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:51,LT.NS,"Larsen & Toubro shares rise 2.04% to Rs 4,019.40",moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:52,SBIN.NS,"State Bank of India, HSBC and ICICI lead India's overseas deposit drive: Report",moneycontrol,positive,0.795,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:56,APOLLOHOSP.NS,"Top gainers and losers, Aug 3: Grasim, TCS soar 5%, IndiGo, Infosys up 4%, Apollo Hospitals falls over 1%; check list",Upstox,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:21:58,ASIANPAINT.NS,Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live,NDTV Profit,neutral,0.8735,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:04,BAJFINANCE.NS,Bajaj Finance Q2 Results: Earnings call transcript hosted online,scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:04,BAJFINANCE.NS,Stock market update: Sensex gains 800 points on ‘green’ Monday morning,theweek.in,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:09,BHARTIARTL.NS,Bharti Airtel Q1 preview: Analysts see 15% revenue growth; ARPU may rise 2%,Business Standard,positive,0.8954,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:32,ITC.NS,ITC Q1 Review: Cigarette Earnings Miss Keeps Motilal Oswal Cautious — Check Target Price,NDTV Profit,negative,0.8717,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:32,ITC.NS,ITC shares jump nearly 4% despite weak Q1; here’s why,Fortune India,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:41,LT.NS,Madras High Court refuses to quash FIR against former DMK MLA L. Idhayavarman,The Hindu,negative,0.7235,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:41,LT.NS,Chinese TV shows rely on L-Acoustics for live sound,Pro AVL Asia,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:41,LT.NS,"Central Mine P N D Inst L Share Price Target, Forecast for Long Term Equity.",HDFC Sky,neutral,0.6102,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-03 13:22:41,LT.NS,Violinist and composer L Subramaniam: A road in father’s name in Sri Lanka is a tribute to his musical legacy | Hindustan Times,Hindustan Times,neutral,0.7259,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:41,LT.NS,Assam flood situation improvesas number of affected dips to 1.78L,Nagaland Post,negative,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:44,M&M.NS,Spider-Man: Brand New Day makes debut to $927m box office to land second biggest opening weekend in history,The Guardian,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:44,M&M.NS,North American Box Office Sees Record $429M Weekend Thanks To ‘Brand New Day’; YTD B.O. Soars Past $6B,deadline.com,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:44,M&M.NS,‘Spider-Man: Brand New Day’ swings to stunning $927m debut at global box office – second biggest opening of all time,Screen Daily,positive,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:44,M&M.NS,Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m,BBC,neutral,0.6671,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:44,M&M.NS,"Ball by Ball Commentary & Live Score - TR-M vs SRL-M, 17th Match",Cricinfo,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:45,MARUTI.NS,Maruti Suzuki Stock Update: Shares Slip Intraday Amidst Profit Concerns,LatestLY,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:45,MARUTI.NS,"Stocks To Buy Or Sell Today, August 3, 2026: Maruti Suzuki, ITC, Indian Oil, Tata Steel Among Shares That",LatestLY,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:51,POWERGRID.NS,Weekly Recap: Quarterly results date and Bhadla Ramgarh asset purchase,TradingView,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:22:59,SUNPHARMA.NS,"Sun Pharma Q1 Review: Brokerages Back India Growth, Flag Specialty Slowdown",NDTV Profit,positive,0.827,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:23:02,TATASTEEL.NS,"Tata Steel Q1FY27 EBITDA rises 25% to ₹9,370 crore on India strength",scanx.trade,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:23:10,ULTRACEMCO.NS,"UltraTech Cement allots ₹5,000 crore NCDs at 7.22-7.25% coupon",scanx.trade,neutral,0.6202,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-03 13:23:12,UPL.NS,"UPL Q1 Results: Beats Street, guides for stronger FY27 revenue and EBITDA growth",CNBC TV18,positive,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:23:12,UPL.NS,"UPL Reports 10% Revenue Rise in Q1FY27, Guides 10–14% EBITDA Growth for FY27",scanx.trade,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-03 13:23:12,UPL.NS,"DLF, UPL, Torrent Power Report Q1 FY27 Results Today",Whalesbook,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
