@@ -3226,3 +3226,34 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-04 03:39:07,UPL.NS,UPL releases Q1FY27 earnings call audio recording online,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-08-04 03:39:07,UPL.NS,UPL Ltd Q1 consolidated net profit at Rs 10 crore,Moneycontrol.com,neutral,0.9062,AUTO_ACCEPTED,indi-finbert
 2026-08-04 03:39:07,UPL.NS,UPL Q1 largely in line with Street; EBITDA growth misses guidance,CNBC TV18,positive,0.4423,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 12:19:09,APOLLOHOSP.NS,Apollo Hospitals Enterprises shares rise 2.61%,moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,HINDALCO.NS,"Hindalco Industries Shares Gain 2.02% to Rs 1,015.00",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,COALINDIA.NS,LIC OFS vs BHEL vs Coal India vs IRFC vs NHPC: How much has Centre raised and where do these stocks stand today,moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,NESTLEIND.NS,"Nestle India Shares Fall 2.75% to Rs 1,487.90",moneycontrol,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,TATACONSUM.NS,TATA Consumer Products shares fall 2.07% in today's session,moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,EICHERMOT.NS,Eicher Motors Shares Decline 2.04%,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,NTPC.NS,NTPC Shares Fall 2.11% Amid Bearish Sentiment,moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:09,ASIANPAINT.NS,Asian Paints shares fall 2.14%; stock among top losers on Nifty 50,moneycontrol,negative,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:15,ASIANPAINT.NS,"SIRCA PAINTS INDIA Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:26,BHARTIARTL.NS,Q1 results 2026: Bharti Airtel to Nykaa among companies to declare Q1 results today; full list here,livemint.com,neutral,0.731,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:26,BHARTIARTL.NS,"Bharti Airtel Q1 Results Preview: Brokerages See Strong Revenue, EBITDA Growth; Africa Business to Support",Goodreturns,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:26,BHARTIARTL.NS,"Q1 Results Today: Bharti Airtel, ONGC, Nykaa, Pidilite Industries, Marico, Shriram Finance Among 100+ Companies Reporting Earnings",NDTV Profit,neutral,0.7742,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:28,CIPLA.NS,Cipla receives USFDA clearance for InvaGen facility inspection,Business Upturn,positive,0.7383,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:35,GRASIM.NS,Grasim Industries Share Price,Upstox,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:35,GRASIM.NS,India stocks lower at close of trade; Nifty 50 down 0.64%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:35,GRASIM.NS,India VIX Steady at 11.92 as Volatility Stays Contained,HDFC Sky,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:38,HDFCBANK.NS,"NSE Logs ₹1,276 Cr CAS Turnover; ICICI Bank Leads Trade",HDFC Sky,positive,0.6467,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 12:19:43,HINDALCO.NS,India stocks lower at close of trade; Nifty 50 down 0.64%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:43,HINDALCO.NS,India shares lower at close of trade; Nifty 50 down 0.64%,Investing.com India,negative,0.7744,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:43,HINDALCO.NS,India VIX Steady at 11.92 as Volatility Stays Contained,HDFC Sky,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:46,ICICIBANK.NS,"NSE Logs ₹1,276 Cr CAS Turnover; ICICI Bank Leads Trade",HDFC Sky,positive,0.6467,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 12:19:56,LT.NS,"US plans to extend H-1B, L-1 visa fees to renewals, likely impacting Indian professionals",The Federal,negative,0.6815,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:56,LT.NS,"MENA Broadcast, Media Technology & Satellite News",BroadcastPro ME,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:59,M&M.NS,UFC loses $30m on Freedom 250 event at White House,BBC,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:19:59,M&M.NS,Horizon3 triples valuation with $250m raise for AI security,FinTech Global,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:02,NESTLEIND.NS,"Nestle India FY26 Results: Revenue surges 14.9%, EBITDA up 72%",scanx.trade,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:05,ONGC.NS,"ONGC Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:05,ONGC.NS,Q1 results 2026: Bharti Airtel to Nykaa among companies to declare Q1 results today; full list here,livemint.com,neutral,0.731,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:12,SBIN.NS,India's SBI Funds Management posts profit rise in first results since IPO,Reuters,positive,0.9163,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:19,TATACONSUM.NS,"Tata Consumer's new businesses drive strong Q1, poised for sustained double-digit growth",Rediff,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-08-04 12:20:27,UPL.NS,Neutral Upl Ltd for the Target Rs 600 by Motilal Oswal Financial Services Ltd,Investment Guru,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
