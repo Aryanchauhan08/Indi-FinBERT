@@ -3200,3 +3200,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-03 13:23:12,UPL.NS,"UPL Q1 Results: Beats Street, guides for stronger FY27 revenue and EBITDA growth",CNBC TV18,positive,0.7368,AUTO_ACCEPTED,indi-finbert
 2026-08-03 13:23:12,UPL.NS,"UPL Reports 10% Revenue Rise in Q1FY27, Guides 10–14% EBITDA Growth for FY27",scanx.trade,positive,0.7459,AUTO_ACCEPTED,indi-finbert
 2026-08-03 13:23:12,UPL.NS,"DLF, UPL, Torrent Power Report Q1 FY27 Results Today",Whalesbook,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:37:50,GRASIM.NS,"Trade Spotlight: How should you trade Wockhardt, Rail Vikas Nigam, Siemens, IndiGo, Grasim, Action Construction Equipment, and others on August 4?",moneycontrol,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:37:50,TATASTEEL.NS,Buy Tata Steel; target of Rs 220: Motilal Oswal,moneycontrol,positive,0.9201,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:37:50,SUNPHARMA.NS,Buy Sun Pharma; target of Rs 2310: Motilal Oswal,moneycontrol,positive,0.9307,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:37:50,MARUTI.NS,Buy Maruti Suzuki; target of Rs 17064: Motilal Oswal,moneycontrol,positive,0.9361,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:37:51,BHARTIARTL.NS,"Tech earnings power US markets | Oil prices range bound | Bharti Airtel, Kalyan Jeweller Earnings Today",moneycontrol,neutral,0.9288,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:06,BHARTIARTL.NS,Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart,Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:06,BHARTIARTL.NS,"Q1 Results: Bharti Airtel, ONGC, Pidilite, BSE, Marico, Nykaa, MCX, Tata Investment Corp, others to declare earnings on August 4; check list",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:06,BHARTIARTL.NS,"Q1 results: Bharti Airtel, ONGC, Pidilite, Marico, and 131 more on Aug 4",Business Standard,neutral,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:27,ICICIBANK.NS,"NSE Closing Auction Hits ₹1,276 Cr Turnover; ICICI Bank Leads",Whalesbook,positive,0.5245,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 03:38:37,LT.NS,How I improved the fuel economy on my Renault Duster 1.3L Turbo,Team-BHP,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:37,LT.NS,"Churches unite to support flood victims in E/Siang, L/Siang",The Arunachal Times,neutral,0.6874,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:37,LT.NS,Mitigating flood risks in Manipur By L Ibotombi,e-pao.net,neutral,0.5466,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 03:38:37,LT.NS,"Eyes on big totals, digital first approach in 10th season of TNPL",The New Indian Express,positive,0.5154,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 03:38:38,LTIM.NS,LTIMindtree misses Q3 profit estimates,Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:40,M&M.NS,"Match Stats - WF-M vs SB-M 19th Match, Best Performances by Batters & Bowlers",Cricinfo,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:40,M&M.NS,Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate,TechCrunch,positive,0.7127,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:40,M&M.NS,Short trumps Stoinis as Fire keep pace with Rockets,Cricinfo,positive,0.4907,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-04 03:38:40,M&M.NS,A Checklist for LL.M. Students Moving to a New City This School Year,LLM Guide,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:44,NTPC.NS,NTPC Ltd (NTPC) Stock Price & News - Google Finance,Google,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:44,NTPC.NS,NTPC Green Energy Ltd,Google,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:46,ONGC.NS,India’s Earnings Calendar Is Packed For August 4th,Finimize,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:38:46,ONGC.NS,"Q1 Results: Bharti Airtel, ONGC, Pidilite, BSE, Marico, Nykaa, MCX, Tata Investment Corp, others to declare earnings on August 4; check list",Dailyhunt,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:39:07,UPL.NS,"Earnings call transcript: UPL posts q1 revenue growth, shares rise 2.6%",Investing.com India,positive,0.7756,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:39:07,UPL.NS,UPL releases Q1FY27 earnings call audio recording online,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:39:07,UPL.NS,UPL Ltd Q1 consolidated net profit at Rs 10 crore,Moneycontrol.com,neutral,0.9062,AUTO_ACCEPTED,indi-finbert
+2026-08-04 03:39:07,UPL.NS,UPL Q1 largely in line with Street; EBITDA growth misses guidance,CNBC TV18,positive,0.4423,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
