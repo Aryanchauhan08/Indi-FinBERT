@@ -3257,3 +3257,41 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-04 12:20:12,SBIN.NS,India's SBI Funds Management posts profit rise in first results since IPO,Reuters,positive,0.9163,AUTO_ACCEPTED,indi-finbert
 2026-08-04 12:20:19,TATACONSUM.NS,"Tata Consumer's new businesses drive strong Q1, poised for sustained double-digit growth",Rediff,positive,0.7477,AUTO_ACCEPTED,indi-finbert
 2026-08-04 12:20:27,UPL.NS,Neutral Upl Ltd for the Target Rs 600 by Motilal Oswal Financial Services Ltd,Investment Guru,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:39,BHARTIARTL.NS,"Infosys, ICICI Bank, Bharti Airtel lead NSE’s second day of closing auction amid expiry-day distortions",moneycontrol,positive,0.4973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:33:39,ICICIBANK.NS,"Infosys, ICICI Bank, Bharti Airtel lead NSE’s second day of closing auction amid expiry-day distortions",moneycontrol,positive,0.4973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:33:39,INFY.NS,"Infosys, ICICI Bank, Bharti Airtel lead NSE’s second day of closing auction amid expiry-day distortions",moneycontrol,positive,0.4973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:33:40,ADANIENT.NS,"Adani Infra buys 1.03% stake in Adani Green Energy for ₹2,380 crore",Business Standard,positive,0.8015,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:46,AXISBANK.NS,Axis Bank prices USD 600 million Senior Notes at 5.348% coupon,scanx.trade,neutral,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:46,AXISBANK.NS,Axis Bank hosts select investor meet in Mumbai on Aug 10,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:49,BAJAJ-AUTO.NS,"Amba Auto Sales Nine Monthly Results, Nine Monthly Earnings for Amba Auto Sales",The Economic Times,neutral,0.893,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:54,BHARTIARTL.NS,Earnings To Watch: Bharti Airtel Ltd (NSE:BHARTIARTL) Q1 2027 -- GF Value Sees 24% Upside,GuruFocus,positive,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:54,BHARTIARTL.NS,"Stocks To Buy or Sell Today, August 5, 2026: Bharti Airtel, HDFC Bank and NHPC Among Shares That May Remain",LatestLY,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:54,BHARTIARTL.NS,Bharti Airtel submits Monitoring Agency Report with nil deviation,Business Upturn,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:55,BHARTIARTL.NS,Bharti Airtel Q1 profit jumps 37.3%; postpaid users cross 30 million,Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:55,BHARTIARTL.NS,Bharti Airtel Reports Q1 Revenue of 585.39B Rupees and Net Profit of 81.67B Rupees,Sahi,positive,0.4357,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:33:55,BHARTIARTL.NS,"Bharti Airtel Q1 results: Net profit jumps 37% to ₹8,167 crore; revenue up 18% - Key highlights",livemint.com,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:55,BHARTIARTL.NS,"Bharti Airtel Q1 results: Net profit rises 37% to Rs 8,167 crore, revenue up 18%",Moneycontrol.com,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:55,BHARTIARTL.NS,"Telecom Stock Reports Strong Q1 FY27 Results; Revenue Rises 18% YoY, Net Income Jumps 35%",Dalal Street Investment Journal,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:33:56,BRITANNIA.NS,Kwality Walls India Ltd (KWIL) Share Price,Business Today,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:04,EICHERMOT.NS,Has Eicher Motors Become India’s “Too Good To Be True” Auto Stock?,tradebrains.in,negative,0.5749,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:34:05,GRASIM.NS,India VIX Rises to 12.13 as NSE Closing Auction Lifts Volatility,HDFC Sky,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:10,HDFCLIFE.NS,Volumes jump at Life Insurance Corporation of India counter,Business Standard,positive,0.893,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:13,HINDALCO.NS,India VIX Rises to 12.13 as NSE Closing Auction Lifts Volatility,HDFC Sky,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:14,HINDUNILVR.NS,Kwality Walls India Ltd (KWIL) Share Price,Business Today,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:26,LT.NS,"Cyber crime reports down from 1.2L in 2024 to 16,377 now: Government",timesofindia.indiatimes.com,negative,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:26,LT.NS,Int’l Clouded Leopard Day celebrated,The Arunachal Times,neutral,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:26,LT.NS,Tata Discounts Aug 2026 Up To Rs 3.35 L - ICE and EVs,indiaipo.in,negative,0.7241,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:26,LT.NS,"US plans new fees for H-1B, L-1 visa renewals; Indian professionals likely to be hit hard",India Today,neutral,0.4867,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:34:26,LT.NS,LTCC diplexer supports GNSS L-band signal separation,5G Technology World,positive,0.5266,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:34:29,M&M.NS,Hackers steal over $130M by exploiting bug in offline hardware wallets,techcrunch.com,negative,0.526,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:34:29,M&M.NS,HappyRobot lands $150M Series C to scale agentic AI for enterprise operations,Tech.eu,positive,0.5722,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 03:34:29,M&M.NS,"Lumen Technologies Appoints John M. Hinshaw to Board of Directors, Strengthening Technology, Security and Operational Expertise - Lumen",Lumen - Investor Relations,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:29,M&M.NS,"API: Crude +2.7M, Cushing +2.4M, Gasoline +0.2M, Distillates -1.2M",Forex Factory,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:32,NESTLEIND.NS,Kwality Walls India Ltd (KWIL) Share Price,Business Today,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:36,ONGC.NS,"ONGC's Q1 profit more than doubles to Rs 17,034 crore as oil price rally boosts earnings",PSU Watch,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:36,ONGC.NS,"ONGC Q1 profit jumps 156% QoQ to ₹17,034 crore on higher crude prices, gas realisations",Fortune India,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:36,ONGC.NS,ONGC Q1 Results: Profit Soars 2.5x As Margin Expands Sharply; Revenue Up 29%,ndtvprofit.com,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:36,ONGC.NS,"ONGC Q1 FY27 Results: Net Profit Surges 112% to ₹17,034 Crore as Higher Oil Prices Lift Earnings",Legal Parivar,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:37,POWERGRID.NS,"Q1 Results: Power Grid, Cummins India, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Bikaji Foods, others to post earnings on August 5",Dailyhunt,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:37,POWERGRID.NS,"Power Grid Q1 FY27 Preview: Profit may rise 9%, Revenue seen up 13% on strong capex",Zee Business,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-05 03:34:48,TATACONSUM.NS,Kwality Walls India Ltd (KWIL) Share Price,Business Today,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
