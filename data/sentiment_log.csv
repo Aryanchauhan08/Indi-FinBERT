@@ -3295,3 +3295,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-05 03:34:37,POWERGRID.NS,"Q1 Results: Power Grid, Cummins India, Aurobindo Pharma, PB Fintech, Biocon, Berger Paints, Bikaji Foods, others to post earnings on August 5",Dailyhunt,neutral,0.743,AUTO_ACCEPTED,indi-finbert
 2026-08-05 03:34:37,POWERGRID.NS,"Power Grid Q1 FY27 Preview: Profit may rise 9%, Revenue seen up 13% on strong capex",Zee Business,positive,0.7479,AUTO_ACCEPTED,indi-finbert
 2026-08-05 03:34:48,TATACONSUM.NS,Kwality Walls India Ltd (KWIL) Share Price,Business Today,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:08,HCLTECH.NS,HCL Technologies shares fall 2.21%,moneycontrol,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:08,TCS.NS,"Tata Consultancy Services shares decline 2% to Rs 2,410.80",moneycontrol,negative,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:19,BAJAJ-AUTO.NS,From Bajaj Auto to Polycab to Garden Reach Shipbuilders: 5 companies that posted over 25% revenue growth in Q1 FY27,livemint.com,positive,0.7261,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:25,BHARTIARTL.NS,"Bharti Airtel releases financial results for quarter ended June 30, 2026",tele.net.in,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:25,BHARTIARTL.NS,"Bharti Airtel Q1 Results: Profit Jumps 35.5%, Revenue Climbs 18.4% as India and Africa Businesses Drive Growth",Goodreturns,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:33,EICHERMOT.NS,"Eicher Motors Share Price Today, Eicher Motors Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:56,LT.NS,CEC LAHDC Kargil Calls on Hon’ble Union Minister Dr. Mansukh L. Mandaviya; Union Minister Accepts Invitation as Chief Guest for Suru Summer Festival 2026. | The Administration of Union Territory of Ladakh | India,Administration of Union Territory of Ladakh,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:56,LT.NS,Good driving: Gadkari's solution to stem 1.8L deaths,Rediff,positive,0.6936,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:56,LT.NS,“It’s Just a Phase” by Priscilla L. Dingle - Amazon’s Best-Selling Book Available for Free Download - Ending Soon (08/07/2026),WebWire,positive,0.558,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 12:17:56,LT.NS,J.S. Held LLC Names Irvinder Singh L. To Lead Global Capability,APAC Media,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:59,M&M.NS,"'I'm Kalaignar's grandson, M K Stalin's son': Udhayanidhi hits back after release, shares photo",timesofindia.indiatimes.com,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:59,M&M.NS,Israel approves $37m to seize more than 70 occupied West Bank sites,Al Jazeera,positive,0.6354,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-05 12:17:59,M&M.NS,NEET UG State Merit List 2026 Out; Puducherry's Krishanth Abhinav M Tops,NDTV,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:17:59,M&M.NS,Frank Lampard hails ‘huge’ signing as Coventry seal record £22.5m Rushworth deal,The Guardian,positive,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:05,ONGC.NS,"Q1 results today: Aurobindo Pharma, Biocon, PB Fintech, 130 more on Aug 5",Business Standard,neutral,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:07,POWERGRID.NS,"Power Grid Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:07,POWERGRID.NS,"Q1 Results Today: Power Grid, PB Fintech, Biocon, Aurobindo Pharma, Cummins India Among 135+ Companies To Announce Q1 FY27 Earnings On Aug. 5",NDTV Profit,neutral,0.862,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:08,RELIANCE.NS,Explainer: Why has India's new closing price system for stocks spooked traders?,Reuters,negative,0.8926,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:08,RELIANCE.NS,"Reliance Infra Share Price Today, Reliance Infra Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-08-05 12:18:23,TITAN.NS,Titan Q4 FY26 slides: jewellery surge drives 46% revenue growth,Investing.com,positive,0.7465,AUTO_ACCEPTED,indi-finbert
