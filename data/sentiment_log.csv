@@ -3315,3 +3315,18 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-05 12:18:08,RELIANCE.NS,Explainer: Why has India's new closing price system for stocks spooked traders?,Reuters,negative,0.8926,AUTO_ACCEPTED,indi-finbert
 2026-08-05 12:18:08,RELIANCE.NS,"Reliance Infra Share Price Today, Reliance Infra Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8942,AUTO_ACCEPTED,indi-finbert
 2026-08-05 12:18:23,TITAN.NS,Titan Q4 FY26 slides: jewellery surge drives 46% revenue growth,Investing.com,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:01,BRITANNIA.NS,"Q1 Results: LIC, Trent, Britannia, HeroMoto Corp, Lupin, Premier Energies, Prime Focus, others to post earnings on Aug 6",Upstox,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:01,BRITANNIA.NS,"Top Q1 results today, August 6: LIC, Trent, Britannia, Hero MotoCorp, Lupin, Samvardhana Motherson International and more to announce earnings",Business Upturn,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:31,LT.NS,Logitech Signature Comfort Plus M850 L Review: The Mouse That Noticed My Wrist Before I Did,BW Businessworld,positive,0.4342,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 03:38:31,LT.NS,"Jharkhand draft roll excludes 43.62L voters, electorate shrinks 16.4%",The Times of India,neutral,0.5396,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 03:38:31,LT.NS,‘Forgotten Island’ Highlights Manila Int’l Film Fest L.A. Lineup,Animation Magazine,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:34,M&M.NS,Moove raises $250M to become the backbone of the robotaxi industry,TechCrunch,positive,0.5987,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 03:38:34,M&M.NS,"Indian EV startup River raises $120M Series C to scale production, launch more models",TechCrunch,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:34,M&M.NS,US announces more than $100m in rewards for eight Jalisco cartel leaders,Al Jazeera,positive,0.6984,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:34,M&M.NS,Trent Rockets soar clear at top with fifth consecutive victory,Cricinfo,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:40,ONGC.NS,Top India Oil Producer Beats Profit Estimate on Price Surge,energyconnects.com,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:42,POWERGRID.NS,Power Grid Q1 Standalone Net Profit Declines To ₹34.1B; Approves ₹856.94 Crore Investment,Sahi,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:42,POWERGRID.NS,Power Grid posts steady Q1 results as transmission business lifts revenue,CNBC TV18,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:42,POWERGRID.NS,"Power Grid Q1 Results: Net profit drops 7% YoY to ₹3,598 crore",scanx.trade,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:42,POWERGRID.NS,Power Grid Corporation of India adopts amended UPSI disclosure code,scanx.trade,neutral,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-08-06 03:38:49,TATAMOTORS.NS,"Rate sensitives shine: Realty up 3%, NSE Auto hits new peak on rate pause",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
