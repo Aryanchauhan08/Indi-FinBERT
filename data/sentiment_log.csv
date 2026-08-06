@@ -3330,3 +3330,19 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-06 03:38:42,POWERGRID.NS,"Power Grid Q1 Results: Net profit drops 7% YoY to ₹3,598 crore",scanx.trade,negative,0.745,AUTO_ACCEPTED,indi-finbert
 2026-08-06 03:38:42,POWERGRID.NS,Power Grid Corporation of India adopts amended UPSI disclosure code,scanx.trade,neutral,0.7326,AUTO_ACCEPTED,indi-finbert
 2026-08-06 03:38:49,TATAMOTORS.NS,"Rate sensitives shine: Realty up 3%, NSE Auto hits new peak on rate pause",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:19:40,HEROMOTOCO.NS,Hero Motocorp Shares Fall 2.00% on Thursday Amid Strong Financial Performance,moneycontrol,negative,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:19:41,RELIANCE.NS,"Reliance Industries shares rise 3.5% on crossing key technical indicator, multiple block deals",moneycontrol,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:19:41,POWERGRID.NS,"Power Grid shares fall 3.5%, emerge as top Nifty loser as Q1 net profit slightly dips",moneycontrol,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:19:58,BRITANNIA.NS,"Britannia Industries Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:14,HEROMOTOCO.NS,"Q1 Results Today: LIC, Hero MotoCorp, Trent, Britannia Industries Among 160+ Companies To Announce Q1 FY27 Earnings",NDTV Profit,neutral,0.8668,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:27,KOTAKBANK.NS,"Kotak MF Projects India BoP Surplus for FY27, Sees 50 bps Rate Hike",Whalesbook,positive,0.5467,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 12:20:28,LT.NS,"IHE 2026: L’Orientalis Showcases Sustainable Coffee Solutions, CEO Deepak Panwar Champions Ethical Sourcing",tennews.in,positive,0.5534,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 12:20:28,LT.NS,Dilip Buildcon Named L-1 Bidder For Rs 25.24 bn Chhattisgarh Water Project,Construction World,neutral,0.6949,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:28,LT.NS,Garware Hi-Tech Films appoints Prashant L. Pai as interim CFO,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:28,LT.NS,"Gone in 10 mins: Domestic helper cleans out ₹27.5L worth of cash, jewellery from house",The Times of India,negative,0.4601,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 12:20:31,M&M.NS,"Students Secure State 1st and 13th Rank in TG CPGET-2026, M.Com. Entrance Examination",Hindudayashankar,positive,0.6338,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-06 12:20:31,M&M.NS,US WealthTech investment halved YoY as deals over $100m dropped in Q2 2026,FinTech Global,negative,0.7175,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:39,POWERGRID.NS,India stocks higher at close of trade; Nifty 50 up 0.05%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:40,POWERGRID.NS,"Power Grid Q1 result: Profit down marginally to ₹3,598 crore; company approves ₹857 crore transmission upgrade project",Fortune India,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:40,POWERGRID.NS,"Power Grid Q1 Result: Net Profit Marginally Declines, Revenue Up 3% To Rs 11,497 Crore",NDTV Profit,negative,0.8731,AUTO_ACCEPTED,indi-finbert
+2026-08-06 12:20:40,POWERGRID.NS,Power Grid Shares Fall Over 3% After Q1 Results As Net Profit Declines,NDTV Profit,negative,0.8747,AUTO_ACCEPTED,indi-finbert
