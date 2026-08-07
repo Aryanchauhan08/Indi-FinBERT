@@ -3375,3 +3375,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-07 03:17:46,SUNPHARMA.NS,Top 14 Pharma Stocks To Buy In India August 2026,Samco,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
 2026-08-07 03:17:46,SUNPHARMA.NS,Sun Pharma Gets Regulator Nod for Promoter Reclassification,investywise.com,positive,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-08-07 03:17:49,TATAMOTORS.NS,Why India’s EV opportunity could be much bigger than most investors realise: 3 Reasons,financialexpress.com,positive,0.3841,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 11:08:05,HEROMOTOCO.NS,Hold Hero MotoCorp; target of Rs 6000: Prabhudas Lilladher,moneycontrol,neutral,0.8736,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:05,HINDALCO.NS,"Hindalco Q1 results: Net profit jumps 75% to record Rs 7,013 crore, revenue rises 32%; stock gains nearly 2%",moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:05,BRITANNIA.NS,Buy Britannia Industries; target of Rs 6579: Prabhudas Lilladher,moneycontrol,positive,0.9326,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:05,SBIN.NS,"SBI Q1 results: Net profit rises 10% to Rs 21,121 crore, beats estimates; stock jumps over 3%",moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:05,HEROMOTOCO.NS,"Hero MotoCorp up 3% after Q1 profit jumps 29%; brokerages split on stock with 'Buy', 'Sell' calls",moneycontrol,positive,0.9468,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:15,BAJAJ-AUTO.NS,Bajaj Auto vs TVS Motor Q1 FY27: Which Auto Giant Performed Better?,Sahi,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:31,GRASIM.NS,GRASIM Share Price Today - Grasim Industries on NSE/BSE,scanx.trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:34,HDFCBANK.NS,"HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:34,HDFCBANK.NS,HDFC Bank Stock Update: Share Price Holds Steady Amidst AGM News,LatestLY,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:38,HEROMOTOCO.NS,"Hero MotoCorp Q1 PAT Down 16.86% to Rs 1,417.93 Crore",Rediff MoneyWiz,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:40,HINDALCO.NS,"Hindalco Q1 results: Profit jumps 75% to record ₹7,013 crore, revenue rises 32%; stock gains 3%",fortuneindia.com,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:40,HINDALCO.NS,"Q1 Results: SBI, Titan, Hindalco, PFC, Godrej Consumer, Cupid, Ola Electric, Oil India, Hitachi Energy, NLC India, others to post earnings on August 7",Upstox,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:40,HINDALCO.NS,"Hindalco Q1 profit jumps 75% to Rs 7,013 crore as Novelis performance boosts earnings",financialexpress.com,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:49,JSWSTEEL.NS,"JSW Steel, Union Bank of India, Bajaj Holdings: Stocks to trade— target prices & stop loss",Business Today,neutral,0.486,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 11:08:53,LT.NS,TN Agri budget 2026: TNCSC has procured 62.72 L-MT paddy,DT Next,positive,0.7169,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:53,LT.NS,Verdes FC vs CSD Municipal l Highlights,Concacaf | Official Website,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:53,LT.NS,"Trump's 'Birth Tourism' Orders: Will Babies Of Indian H-1B, L-1 Visa Holders Get US Citizenship?",News18,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:53,LT.NS,JSW Dulux faces ₹1.76L GST penalty over excess ITC claim,scanx.trade,negative,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:56,M&M.NS,New Mexico court orders Meta to pay $567m over harms to children’s mental health,The Guardian,negative,0.6838,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:56,M&M.NS,‘Spider-Man: Brand New Day’ crosses $500m at US box office in record time,Screen Daily,positive,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:08:56,M&M.NS,Tamil Nadu pays tribute to M Karunanidhi on eighth death anniversary,Telangana Today,neutral,0.7293,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:08,SBIN.NS,"State Bank of India shares soar nearly 4% following Q1 results; check net profit, NII and key highlights",Upstox,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:09,SBIN.NS,"State Bank of India (SBI) Q1 results: Net profit jumps 10% to ₹21,121 crore, NII rises 12%; asset quality improves",Upstox,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:09,SBIN.NS,"SBI Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8748,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:09,SBIN.NS,"SBI Q1 Results: Earnings beat expectations, asset quality stable; Stock jumps",CNBC TV18,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:09,SUNPHARMA.NS,"Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders",scanx.trade,positive,0.7346,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:13,TATASTEEL.NS,"Tata Steel Limited (TATASTEEL.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-08-07 11:09:20,TITAN.NS,"Titan Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
