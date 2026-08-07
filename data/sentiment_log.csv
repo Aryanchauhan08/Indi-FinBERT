@@ -3346,3 +3346,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-06 12:20:40,POWERGRID.NS,"Power Grid Q1 result: Profit down marginally to ₹3,598 crore; company approves ₹857 crore transmission upgrade project",Fortune India,negative,0.7446,AUTO_ACCEPTED,indi-finbert
 2026-08-06 12:20:40,POWERGRID.NS,"Power Grid Q1 Result: Net Profit Marginally Declines, Revenue Up 3% To Rs 11,497 Crore",NDTV Profit,negative,0.8731,AUTO_ACCEPTED,indi-finbert
 2026-08-06 12:20:40,POWERGRID.NS,Power Grid Shares Fall Over 3% After Q1 Results As Net Profit Declines,NDTV Profit,negative,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:16:49,ASIANPAINT.NS,Why Berger Paints’ Q2 may be brighter than Asian Paints',livemint.com,positive,0.6455,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:16:59,BHARTIARTL.NS,Bharti Airtel Q1 FY2027 Results Show 18.4% Revenue Growth as Africa Expands Its Role,TechTrendsKE,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:00,BRITANNIA.NS,"Stocks To Buy or Sell Today, August 7, 2026: Apollo Tyres, LIC and Britannia Industries Among Shares That May Remain in Focus on Friday",LatestLY,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:01,CIPLA.NS,Top 14 Pharma Stocks To Buy In India August 2026,Samco,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:04,DIVISLAB.NS,Top 14 Pharma Stocks To Buy In India August 2026,Samco,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:06,DRREDDY.NS,Top 14 Pharma Stocks To Buy In India August 2026,Samco,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:17,HINDALCO.NS,"Top Q1 results today, August 7: SBI, Titan, Hindalco, PFC, Oil India, Godrej Consumer Products and more to announce earnings",Business Upturn,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:19,ICICIBANK.NS,ICICI Bank to host investor meet at Emkay Confluence 2026,scanx.trade,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:30,LT.NS,Maid under suspicion for Rs 15.55 L theft in Bopal,Ahmedabad Mirror,negative,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:30,LT.NS,"H-1B, L-1 visa extensions may get costlier under Trump plan: What it means for Indians",indianexpress.com,neutral,0.4548,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:17:30,LT.NS,Club Sando FC vs SV Broki l Highlights,Concacaf | Official Website,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:30,LT.NS,"SC flags Shiv Sena's 'one-person' party structure, says it drifted from democratic principles",The New Indian Express,neutral,0.5167,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:17:30,LT.NS,TN’s add’l chief secy gives pep talk to Bokaro officials,The Times of India,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:33,M&M.NS,Meta told to pay another $567m in New Mexico child safety lawsuit,BBC,negative,0.6968,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:33,M&M.NS,Mohamed Salah to earn upwards of £14.5m per season in two-year Trabzonspor deal,The Guardian,positive,0.5734,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:17:33,M&M.NS,Naïve raises $28.5M to automate the grunt work of setting up and running a company,TechCrunch,positive,0.6379,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:17:33,M&M.NS,CPI(M) Slams Proposed UPI Charges As Breach Of Public Trust,Rediff,negative,0.6487,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-07 03:17:33,M&M.NS,New Mexico court orders Meta to pay $567m over harm to youths,Al Jazeera,negative,0.6726,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:34,MARUTI.NS,MARUTI Share Price Today - Maruti Suzuki on NSE/BSE,scanx.trade,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:39,ONGC.NS,Oil & Natural Gas Corp Ltd (BOM:500312) (Q1 2027) Earnings Call Highlights: Record PBT and ...,Yahoo Finance,positive,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:40,POWERGRID.NS,India shares higher at close of trade; Nifty 50 up 0.05%,Investing.com India,positive,0.7766,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:41,POWERGRID.NS,"Power Grid posts Rs 3,598 crore Q1 profit; revenue rises 2.7%",Power Peak Digest,positive,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:41,POWERGRID.NS,"Power Grid Q1 Net Profit Dips to Rs 3,598 Cr, Income Rises",Rediff MoneyWiz,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:41,POWERGRID.NS,"POWERGRID Posts ₹3,598 Crore Q1 FY27 Profit, Secures ₹80 Billion JBIC Loan for Khavda-Nagpur Project",Indianmasterminds,positive,0.7416,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:41,RELIANCE.NS,India stocks higher at close of trade; Nifty 50 up 0.05%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:45,SBIN.NS,Q1 results 2026: SBI to Ola Electric among companies to declare Q1 results today; full list here,livemint.com,neutral,0.7375,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:46,SUNPHARMA.NS,Top 14 Pharma Stocks To Buy In India August 2026,Samco,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:46,SUNPHARMA.NS,Sun Pharma Gets Regulator Nod for Promoter Reclassification,investywise.com,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-07 03:17:49,TATAMOTORS.NS,Why India’s EV opportunity could be much bigger than most investors realise: 3 Reasons,financialexpress.com,positive,0.3841,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
