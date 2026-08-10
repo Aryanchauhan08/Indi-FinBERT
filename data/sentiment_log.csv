@@ -3405,3 +3405,34 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-07 11:09:20,TITAN.NS,"Titan Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
 2026-08-10 02:35:46,GRASIM.NS,"Trade Spotlight: How should you trade Uno Minda, Glenmark Pharma, APL Apollo Tubes, Grasim Industries, TCS, and others on August 10?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
 2026-08-10 02:35:46,TCS.NS,"Trade Spotlight: How should you trade Uno Minda, Glenmark Pharma, APL Apollo Tubes, Grasim Industries, TCS, and others on August 10?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:41,HINDALCO.NS,Hindalco Q1FY27: Aluminium boom and Novelis recovery power record quarter,moneycontrol,positive,0.9377,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:41,HEROMOTOCO.NS,"Hero MotoCorp shares gain 3% post Q1; Motilal bullish, Nomura cautious on growth",moneycontrol,positive,0.9463,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:41,TITAN.NS,"Titan Company shares rise 2.40% to Rs 5,059.60",moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:41,BRITANNIA.NS,Britannia Industries Shares Rise 2.18% in Early Trade,moneycontrol,positive,0.9461,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:42,SBIN.NS,SBI Q1 FY27 – steady start to the year,moneycontrol,neutral,0.8534,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:42,HINDALCO.NS,"Hindalco: Q1 earnings beat estimates; Motilal Oswal sees brighter outlook, retains 'Buy' at Rs 1,220 TP",moneycontrol,positive,0.9423,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:42,SBIN.NS,"State Bank of India: Motilal Oswal retains 'Buy', target at Rs 1,370; loan growth guidance at 14-15%",moneycontrol,neutral,0.5773,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 04:53:44,ADANIPORTS.NS,Weekly Recap: Nomura Buy FY26-29 EBITDA and no Vizhinjam FDI proposal,TradingView,positive,0.6923,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:53:51,BAJAJ-AUTO.NS,"Auto sector stocks down today, Feb 24: Hyundai Motor falls 3%, Landmark Cars down 3.41%, Bajaj Auto drops 1.24%",Business Upturn,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:00,BRITANNIA.NS,"Deven Choksey bets on Bajaj Housing Finance, SBI Life, Britannia this earnings season",CNBC TV18,positive,0.6238,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 04:54:07,EICHERMOT.NS,"Auto sector stocks down today, Feb 24: Hyundai Motor falls 3%, Landmark Cars down 3.41%, Bajaj Auto drops 1.24%",Business Upturn,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:16,HEROMOTOCO.NS,Hero MotoCorp Q1 Revenue Climbs 36% As Volume Sales Surge,Whalesbook,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:16,HEROMOTOCO.NS,"Hero MotoCorp Q1 Revenue Up 36% to ₹12,999 Crore, Consolidated Profit Falls",Whalesbook,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:23,INDUSINDBK.NS,"Nifty, Sensex Set for Flat Open as New NSE Auction Rules Spur Volatility",Whalesbook,neutral,0.5081,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 04:54:31,LT.NS,"Rupal Singh Chauhan appointed Head of Marketing, Biolage at L’Oréal India",Adgully.com,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:31,LT.NS,Rupal Singh Chauhan elevated to Head of Marketing - Biolage at L’Oréal India,Exchange4Media,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:31,LT.NS,Rupal Singh Chauhan takes charge as Head of Marketing – Biolage at L’Oréal India,IMPACT Magazine,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:31,LT.NS,NIFT-Gn hosts discussion on Nat’l Handloom Day,Ahmedabad Mirror,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:31,LT.NS,Excess rain damages crops across 2.7L hectares in state: Agri dept report,The Times of India,negative,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:34,M&M.NS,‘Spider-Man: Brand New Day’ Catches Third-Best U.S. 2nd Weekend With $145M – Sunday Box Office Update,Deadline,positive,0.7303,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:34,M&M.NS,BMW M 1000 RS in the works for 2027,Autocar India,neutral,0.7244,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:34,M&M.NS,Best £5.5m midfielders for FPL 2026/27,fantasyfootballscout.co.uk,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:34,M&M.NS,Sevilla close to signing Scottish striker Ure in £7.9m deal,bbc.com,neutral,0.6963,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:34,M&M.NS,Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence,Fox News,positive,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:35,MARUTI.NS,"Weekly Recap: Capacity boost to 2.9M and Q1 profit beat, margin recovery",TradingView,positive,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:37,NESTLEIND.NS,Weekly Recap: Volume-led growth strategy and denial of insect claim,TradingView,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:38,NTPC.NS,"Stocks To Buy or Sell Today, August 10, 2026: Bank of Baroda, Lodha Developers and NTPC Among Shares That",LatestLY,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:42,POWERGRID.NS,"Weekly Recap: Rs1.25 final dividend Aug13,2026 and Q1FY27 APAT +4%",TradingView,neutral,0.6511,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:46,SBILIFE.NS,"Deven Choksey bets on Bajaj Housing Finance, SBI Life, Britannia this earnings season",CNBC TV18,positive,0.6238,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 04:54:52,TATASTEEL.NS,Weekly Recap: Nomura keeps Buy on TATASTEEL and TDA hosts ~200 AI agents,TradingView,positive,0.7152,AUTO_ACCEPTED,indi-finbert
+2026-08-10 04:54:54,TATACONSUM.NS,"Stocks To Buy or Sell Today, August 10, 2026: Bank of Baroda, Lodha Developers and NTPC Among Shares That",LatestLY,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
