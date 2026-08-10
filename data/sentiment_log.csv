@@ -3436,3 +3436,18 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-10 04:54:46,SBILIFE.NS,"Deven Choksey bets on Bajaj Housing Finance, SBI Life, Britannia this earnings season",CNBC TV18,positive,0.6238,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-10 04:54:52,TATASTEEL.NS,Weekly Recap: Nomura keeps Buy on TATASTEEL and TDA hosts ~200 AI agents,TradingView,positive,0.7152,AUTO_ACCEPTED,indi-finbert
 2026-08-10 04:54:54,TATACONSUM.NS,"Stocks To Buy or Sell Today, August 10, 2026: Bank of Baroda, Lodha Developers and NTPC Among Shares That",LatestLY,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:19,BHARTIARTL.NS,Bharti Airtel collaborates with ITI to propel India's digital transformation,Business Upturn,positive,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:25,DIVISLAB.NS,DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE,scanx.trade,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:26,DRREDDY.NS,DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE,scanx.trade,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:28,EICHERMOT.NS,"Festive Season Fear, EV Capacity Crunch To Export Reliance — Seven Learnings From Hero, RE, Bajaj & TVS' Analyst Calls",NDTV Profit,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:38,HINDALCO.NS,"Hindalco share price: Why brokerages are reiterating their Buy calls, raising target prices after Q1 earni",The Economic Times,neutral,0.882,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:50,LT.NS,JPSC ex-chairman L Khiangte arrested amid protests over paper leak,India Today,negative,0.4661,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 11:22:50,LT.NS,Jharkhand CID arrests ex-JPSC chairperson L Khiangte,The Times of India,neutral,0.4599,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 11:22:50,LT.NS,"Amid protests, Jharkhand CID arrests ex-JPSC chief Khiangte over alleged recruitment exam irregularities",The New Indian Express,negative,0.6321,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 11:22:50,LT.NS,L’Oréal India names Rupal Singh Chauhan Head of Marketing for Biolage,bestmediainfo.com,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:53,M&M.NS,"AI will not cut jobs but will create more, says IIT-M Director",The Hindu,neutral,0.711,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:22:53,M&M.NS,Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry,TechCrunch,positive,0.5046,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-10 11:22:57,NTPC.NS,NTPC Green Energy Wins 200 MW/800 MWh BESS Project In West Bengal,SolarQuarter,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:23:09,TATASTEEL.NS,"Top Gainers & Losers , August 10, 2026, 11:30 AM IST",HDFC Sky,neutral,0.7416,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:23:15,TITAN.NS,"Hitachi Energy India, Titan Company, Ola Electric among buzzing stocks as SENSEX, NIFTY50 trade flat in noon deals",Upstox,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-10 11:23:16,TITAN.NS,"Titan shares jump 3% to hit 52-week high: Why is the stock rising, and should you buy, sell or hold?",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
