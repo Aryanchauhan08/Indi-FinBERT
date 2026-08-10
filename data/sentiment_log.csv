@@ -3403,3 +3403,5 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-07 11:09:09,SUNPHARMA.NS,"Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders",scanx.trade,positive,0.7346,AUTO_ACCEPTED,indi-finbert
 2026-08-07 11:09:13,TATASTEEL.NS,"Tata Steel Limited (TATASTEEL.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.746,AUTO_ACCEPTED,indi-finbert
 2026-08-07 11:09:20,TITAN.NS,"Titan Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-08-10 02:35:46,GRASIM.NS,"Trade Spotlight: How should you trade Uno Minda, Glenmark Pharma, APL Apollo Tubes, Grasim Industries, TCS, and others on August 10?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-08-10 02:35:46,TCS.NS,"Trade Spotlight: How should you trade Uno Minda, Glenmark Pharma, APL Apollo Tubes, Grasim Industries, TCS, and others on August 10?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
