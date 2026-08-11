@@ -3477,3 +3477,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-11 02:29:58,WIPRO.NS,"NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l",economictimes.com,neutral,0.6494,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-11 02:29:58,WIPRO.NS,"BSE to enter Nifty 50, Wipro to exit in NSEs September index rejig",The Tribune,neutral,0.6842,AUTO_ACCEPTED,indi-finbert
 2026-08-11 02:29:58,WIPRO.NS,"Nifty Rejig: BSE, BHEL Tipped For Entry While Wipro, Indian Hotels Set To Exit — Check Full List",NDTV Profit,neutral,0.5262,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:05:42,GRASIM.NS,Grasim Industries shares fall 2.14%; stock among top losers on Nifty 50,moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:05:42,POWERGRID.NS,Buy Power Grid Corporation of India; target of Rs 360: ICICI Securities,moneycontrol,positive,0.8412,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:05:42,HINDALCO.NS,Buy Hindalco Industries; target of Rs 1200: ICICI Securities,moneycontrol,positive,0.9362,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:05:43,ADANIENT.NS,"Adani Group stocks rally: Adani Enterprises, Adani Green in focus after latest US court relief",Upstox,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:05:43,ADANIENT.NS,"Adani Green, Adani Power, Adani Enterprises shares in focus as US court drops charges against Gautam Adani",businesstoday.in,negative,0.3936,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:05:43,ADANIENT.NS,ADANI ENTERPRISES Share Price,Upstox,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:05:46,APOLLOHOSP.NS,"Apollo Hospitals, Max Healthcare stocks fall about 1% as Parliamentary panel recommends 3-star cap on room...",Moneycontrol.com,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:09,HCLTECH.NS,"Stocks To Buy or Sell Today, August 11, 2026: Cochin Shipyard and Poonawalla Fincorp Among Shares That May",LatestLY,neutral,0.7379,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:14,HEROMOTOCO.NS,"Hero MotoCorp Q1 FY27 profit up 33%, revenue ₹13,000 cr",NewsBytes,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:22,INFY.NS,Infosys Share Price - Live NSE: INFY Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:28,LT.NS,"Indian professionals to face higher H-1B, L-1 costs under new US immigration rule",India Today,negative,0.5483,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:28,LT.NS,"US Expands H-1B, L-1 Visa Fee to Cover Extensions: What Indian Workers Need to Know",heraldgoa.in,neutral,0.442,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:28,LT.NS,"US announces final rule expanding H-1B, L-1 biometric fee to same-employer extensions",financialexpress.com,positive,0.5256,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:30,M&M.NS,Trump’s media company reports $238m loss,Al Jazeera,negative,0.6474,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:30,M&M.NS,"European Athletics Championships 2026: Jakob Ingebrigtsen claims stunning 5,000m gold on injury return",BBC,neutral,0.6237,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:30,M&M.NS,"Trump’s media company, which also owns Truth Social, reports $238m loss",The Guardian,negative,0.6312,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:30,M&M.NS,Stubbs special leaves Rockets with anxious wait ahead of knockouts,Cricinfo,negative,0.6005,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 11:06:42,SBIN.NS,NSE IPO update: SBI Capital Markets to offload up to 88 lakh shares as SBI splits stake sale,Upstox,neutral,0.6745,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:48,TATACONSUM.NS,Tata Consumer Products ESG rating drops to 61 in FY26,scanx.trade,negative,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:48,TATACONSUM.NS,"NSE indices: Nifty 50 composition changing; BSE to enter, Wipro to exit",News9live,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:54,TITAN.NS,Indian Jeweller (IJ) – Titan jewellery growth supports FY27 earnings outlook,Indian Jeweller,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-08-11 11:06:57,WIPRO.NS,Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion,inkl,negative,0.7324,AUTO_ACCEPTED,indi-finbert
