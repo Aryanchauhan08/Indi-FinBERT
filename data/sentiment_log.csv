@@ -3451,3 +3451,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-10 11:23:09,TATASTEEL.NS,"Top Gainers & Losers , August 10, 2026, 11:30 AM IST",HDFC Sky,neutral,0.7416,AUTO_ACCEPTED,indi-finbert
 2026-08-10 11:23:15,TITAN.NS,"Hitachi Energy India, Titan Company, Ola Electric among buzzing stocks as SENSEX, NIFTY50 trade flat in noon deals",Upstox,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
 2026-08-10 11:23:16,TITAN.NS,"Titan shares jump 3% to hit 52-week high: Why is the stock rising, and should you buy, sell or hold?",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:40,POWERGRID.NS,Neutral Power Grid Corporation of India; target of Rs 302: Motilal Oswal,moneycontrol,neutral,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:40,SBIN.NS,Buy State Bank of India; target of Rs 1300: ICICI Securities,moneycontrol,positive,0.9105,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:40,TITAN.NS,Buy Titan Company; target of Rs 6000: Motilal Oswal,moneycontrol,positive,0.9122,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:40,SBIN.NS,Buy State Bank of India; target of Rs 1370: Motilal Oswal,moneycontrol,positive,0.922,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:51,BAJFINANCE.NS,Bajaj Finance Share Price - Live NSE: BAJFINANCE Stock Price & Chart,Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:28:53,BAJAJFINSV.NS,Bajaj Finance Share Price - Live NSE: BAJFINANCE Stock Price & Chart,Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:02,DIVISLAB.NS,"BSE to enter Nifty 50, Wipro to exit in September rejig",millenniumpost.in,neutral,0.7356,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:02,DIVISLAB.NS,"BSE to enter Nifty 50, Wipro to exit in NSEs September index rejig",The Tribune,neutral,0.6842,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:02,DIVISLAB.NS,"Business News | BSE to Enter Nifty 50, Wipro to Exit in NSE's September Index Rejig",LatestLY,neutral,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:14,HEROMOTOCO.NS,"Festive Season Fear, EV Capacity Crunch To Export Reliance — Seven Learnings From Hero, RE, Bajaj & TVS' Analyst Calls",NDTV Profit,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:28,LT.NS,"Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61",The New York Times,neutral,0.7356,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:28,LT.NS,JPSC Exam Row: Former Chairman L Khiyangte Taken Into Custody After Over 7 Rounds Of CID Questioning,News18,negative,0.6972,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:28,LT.NS,"H-1B, L-1 visa extensions get costlier from Sept 9: What changes and who pays",The Times of India,neutral,0.6378,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 02:29:31,M&M.NS,Trump Media reports $238m loss as crypto falls,BBC,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:31,M&M.NS,"Ball by Ball Commentary & Live Score - TR-M vs SB-M, 29th Match",Cricinfo,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:31,M&M.NS,"European Athletics Championships: Hunt wins women’s 100m gold, Ingebrigtsen kicks to 5,000m title – as it happened",The Guardian,neutral,0.452,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 02:29:31,M&M.NS,Rare £3.7m Ferrari seized in police crackdown,BBC,negative,0.7078,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:31,M&M.NS,Ayman M. Al-Sayari appointed FSB’s Regional Engagement Chair,Financial Stability Board,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:49,TATACONSUM.NS,India shares higher at close of trade; Nifty 50 up 0.05%,Investing.com India,positive,0.7766,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:54,TITAN.NS,India shares higher at close of trade; Nifty 50 up 0.05%,Investing.com India,positive,0.7766,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:54,TITAN.NS,India stocks higher at close of trade; Nifty 50 up 0.05%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:58,WIPRO.NS,BSE to replace Wipro in India's benchmark Nifty 50 index,Reuters,neutral,0.9143,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:58,WIPRO.NS,"BSE enters Nifty50, Wipro exits: What changes from September 30",The Times of India,neutral,0.5232,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 02:29:58,WIPRO.NS,"NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l",economictimes.com,neutral,0.6494,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-11 02:29:58,WIPRO.NS,"BSE to enter Nifty 50, Wipro to exit in NSEs September index rejig",The Tribune,neutral,0.6842,AUTO_ACCEPTED,indi-finbert
+2026-08-11 02:29:58,WIPRO.NS,"Nifty Rejig: BSE, BHEL Tipped For Entry While Wipro, Indian Hotels Set To Exit — Check Full List",NDTV Profit,neutral,0.5262,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
