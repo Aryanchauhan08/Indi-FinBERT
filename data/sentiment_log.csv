@@ -3516,3 +3516,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-12 02:46:20,M&M.NS,Seifert fireworks lift MSG into second to leave Sunrisers sweating,Cricinfo,positive,0.7449,AUTO_ACCEPTED,indi-finbert
 2026-08-12 02:46:31,SBIN.NS,SBI Capital Markets to sell up to 8.78 million NSE shares in IPO,Moneycontrol.com,neutral,0.8676,AUTO_ACCEPTED,indi-finbert
 2026-08-12 02:46:47,WIPRO.NS,"BSE Stock Enters Nifty 50, Wipro Dropped: Heres What NSEs Latest Rejig Means",ABP Live English,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TCS.NS,"Tata leadership change unlikely to hurt listed stocks, but TCS faces its own growth headache",moneycontrol,neutral,0.7311,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TATAMOTORS.NS,"Want to trade Tata group stocks post-Chandrasekaran's resignation? Check stop-loss for TCS, Tata Motors among others",moneycontrol,neutral,0.8855,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TCS.NS,"Want to trade Tata group stocks post-Chandrasekaran's resignation? Check stop-loss for TCS, Tata Motors among others",moneycontrol,neutral,0.8855,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TATAMOTORS.NS,"Tata Motors CV Q1 results: Net profit rises 83% to Rs 2,560 crore",moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TCS.NS,Live: Markets close red but sharply off lows; TCS top Nifty loser | Closing Bell,moneycontrol,neutral,0.6715,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,GRASIM.NS,"Grasim Industries Q1 results: Net profit jumps 51% to Rs 2,146 crore, revenue rises 21%",moneycontrol,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:20,TCS.NS,"N Chandrasekaran Net Worth: Rs 685 crore pay in 5 years, Rs 98 crore duplex in Mumbai — his journey from TCS intern to Tata Sons chairman",moneycontrol,neutral,0.8213,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:25,APOLLOHOSP.NS,"Apollo Hospitals Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:25,APOLLOHOSP.NS,"Q1 Results Today: Tata Motors, HAL, Grasim, Apollo Hospitals Among 500+ Companies To Announce Earnings On Aug. 12",NDTV Profit,neutral,0.8652,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:25,APOLLOHOSP.NS,"Top Q1 results today, August 12: HAL, Tata Motors, Grasim, Apollo Hospitals, Lenskart among key companies to report earnings",businessupturn.com,neutral,0.729,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:33,BPCL.NS,"Energy stocks fall today, August 12: Confidence Petroleum drops 6%, KP Energy down nearly 4%; MRPL, Linde India fall over 2%",businessupturn.com,negative,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:43,EICHERMOT.NS,"Auto sector stocks today, August 12 : Force Motors jumps nearly 3%, Hyundai Motor India gains 1%; Landmark Cars falls over 6%",businessupturn.com,positive,0.7197,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:46,GRASIM.NS,"Q1 Results Today: Tata Motors, HAL, Grasim, Apollo Hospitals Among 500+ Companies To Announce Earnings On Aug. 12",NDTV Profit,neutral,0.8652,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:46,GRASIM.NS,"Top Q1 results today, August 12: HAL, Tata Motors, Grasim, Apollo Hospitals, Lenskart among key companies to report earnings",businessupturn.com,neutral,0.729,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:11:46,HCLTECH.NS,"Stocks To Buy or Sell Today, August 12, 2026: Cochin Shipyard and Poonawalla Fincorp Among Shares That May",LatestLY,neutral,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:01,JSWSTEEL.NS,JSW Steel uploads August 2026 investor presentation to exchanges,scanx.trade,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:03,KOTAKBANK.NS,"Banking sector stocks today, August 12: PNB jumps 4.60%, Bank of Maharashtra gains 3%; CSB Bank falls 2%",businessupturn.com,positive,0.5237,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 11:12:05,LT.NS,The L Suite: Inhouse Community + Legal AI,Artificial Lawyer,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:05,LT.NS,‘Ironmen’ buddies head to Estonia for ultimate endurance test,The New Indian Express,neutral,0.6793,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:05,LT.NS,First Int'l Film Festival: J&K artists hail initiative as stepping stone for local talent,United News of India (UNI),positive,0.4386,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 11:12:05,LT.NS,"China's homegrown C919 aircraft completes 1st int'l commercial flight, lands in Mongolian capital",Global Times,positive,0.7322,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:07,M&M.NS,"Auto sector stocks today, August 12 : Force Motors jumps nearly 3%, Hyundai Motor India gains 1%; Landmark Cars falls over 6%",businessupturn.com,positive,0.7197,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:08,M&M.NS,"""Thoda Badal Gaye Ho"": M Kharge, PM Modi's Banter At Wedding Reception",NDTV,neutral,0.5808,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 11:12:08,M&M.NS,India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand,techcrunch.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:08,M&M.NS,"South Delhi’s GK M Block has 400-car facility, but few takers: ‘Whole thing is hard work’",The Indian Express,neutral,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:08,M&M.NS,"Yulu Raises $93M Series C, Plans 2 Lakh EV Fleet Expansion",Rediff MoneyWiz,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:20,SBIN.NS,NSE IPO: SBI splits stake sale of 2.47 crore shares; SBICAPS to offload up to 88 lakh shares,Fortune India,neutral,0.7218,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:24,TATAMOTORS.NS,"Tata Motors Q1 Results Today: Time, Earnings Call, What To Watch, Share Price Performance",NDTV Profit,neutral,0.8731,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:26,TATACONSUM.NS,"TCS, Titan, Tata Consumer fall up to 5% after Chandrasekaran resigns as Tata Sons chairman",Moneycontrol.com,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-08-12 11:12:31,TITAN.NS,"Kalyan Jewellers, Titan shares: 2 jewellery stocks to buy; target prices",Business Today,neutral,0.6399,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
