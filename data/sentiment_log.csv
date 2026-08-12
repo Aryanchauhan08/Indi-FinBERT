@@ -3499,3 +3499,20 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-11 11:06:48,TATACONSUM.NS,"NSE indices: Nifty 50 composition changing; BSE to enter, Wipro to exit",News9live,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-08-11 11:06:54,TITAN.NS,Indian Jeweller (IJ) – Titan jewellery growth supports FY27 earnings outlook,Indian Jeweller,positive,0.7471,AUTO_ACCEPTED,indi-finbert
 2026-08-11 11:06:57,WIPRO.NS,Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion,inkl,negative,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:45:30,TCS.NS,"Trade Spotlight: How should you trade Anand Rathi Wealth, LTM, Pine Labs, TCS, Bharat Dynamics, and others on August 12?",moneycontrol,neutral,0.9443,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:45:37,AXISBANK.NS,"Banking stocks fall: Nifty Bank declines 1% to 57,158 points as Axis Bank, Bank of Baroda, others drag overall index",Upstox,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:45:56,GRASIM.NS,"Technocraft Ventures IPO allotment status: How to check online on NSE, BSE, KFin Technologies",Upstox,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:45:56,GRASIM.NS,"Q1 Results: Tata Motors, HAL, Grasim Industries, Lenskart, IRCTC, VA Tech Wabag, GMR Airports to post earnings on Aug 12",Dailyhunt,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:07,ICICIBANK.NS,ICICI Bank schedules investor meets on August 17 and 18,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:16,LT.NS,LT Share Price Today - Larsen & Toubro on NSE/BSE,scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:17,LT.NS,1-year with my Maruti Suzuki Brezza 1.5L NA AT: Ownership review,team-bhp.com,neutral,0.6737,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:17,LT.NS,"Used Ford EcoSport 1.0L Petrol Ecoboost Titanium in Gurgaon 2026 model, India at Best Price.",Car and Bike,positive,0.7037,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:17,LT.NS,Retired divisional engineer duped of Rs 25.5L in MBBS seat scam,timesofindia.indiatimes.com,negative,0.6475,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 02:46:17,LT.NS,Capital One Financial Chief Credit & Fin'l Risk Off. Sold Shares Worth Over $1.1M,TradingView,negative,0.5564,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 02:46:17,LT.NS,"L’Oréal Groupe, NUS Medicine Team Up to Advance Longevity Science",The Dermatology Digest,positive,0.4267,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 02:46:20,M&M.NS,Djed Spence nears Tottenham exit with Inter in talks over £25.6m move,The Guardian,negative,0.4076,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-12 02:46:20,M&M.NS,ICE to spend up to $20m on gloves that can deliver painful electric shocks,The Guardian,neutral,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:20,M&M.NS,CPI(M) seeks clarification on links of drug case accused to Kerala Chief Minister’s office,The Hindu,neutral,0.7277,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:20,M&M.NS,Seifert fireworks lift MSG into second to leave Sunrisers sweating,Cricinfo,positive,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:31,SBIN.NS,SBI Capital Markets to sell up to 8.78 million NSE shares in IPO,Moneycontrol.com,neutral,0.8676,AUTO_ACCEPTED,indi-finbert
+2026-08-12 02:46:47,WIPRO.NS,"BSE Stock Enters Nifty 50, Wipro Dropped: Heres What NSEs Latest Rejig Means",ABP Live English,negative,0.7394,AUTO_ACCEPTED,indi-finbert
