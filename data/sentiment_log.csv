@@ -3546,3 +3546,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-12 11:12:24,TATAMOTORS.NS,"Tata Motors Q1 Results Today: Time, Earnings Call, What To Watch, Share Price Performance",NDTV Profit,neutral,0.8731,AUTO_ACCEPTED,indi-finbert
 2026-08-12 11:12:26,TATACONSUM.NS,"TCS, Titan, Tata Consumer fall up to 5% after Chandrasekaran resigns as Tata Sons chairman",Moneycontrol.com,negative,0.9433,AUTO_ACCEPTED,indi-finbert
 2026-08-12 11:12:31,TITAN.NS,"Kalyan Jewellers, Titan shares: 2 jewellery stocks to buy; target prices",Business Today,neutral,0.6399,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:48:06,HINDALCO.NS,"Trade Spotlight: How should you trade Indian Bank, Aarti Industries, Bank of Maharashtra, Hindalco, Zydus Lifesciences, and others on August 13?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:11,APOLLOHOSP.NS,"Apollo Hospitals Q1 profit rises 34% to ₹581 crore, revenue up 21% YoY",Fortune India,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:11,APOLLOHOSP.NS,"Apollo Hospitals Q1 Results: PAT, top line, EBITDA beat Street estimates—Key takeaways for investors",Zee Business,positive,0.7251,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:14,AXISBANK.NS,Axis Bank to host investor meet in Singapore on August 18,scanx.trade,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:31,GRASIM.NS,"Stocks To Buy or Sell Today, August 13, 2026: Tata Motors, Astral and Lenskart Among Shares in Focus on",LatestLY,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:31,GRASIM.NS,Man Industries confirms no deviation in fund utilisation for recent preferential issues,Business Upturn,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:32,GRASIM.NS,"Grasim Q1 results: Profit jumps 39% to ₹3,846 cr, operating revenue up 21%",Business Standard,positive,0.8978,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:32,GRASIM.NS,"Earnings Central: Tata Motors, HAL, Grasim and Lenskart lead a mixed Wednesday",IndiaIPO,neutral,0.7169,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:32,GRASIM.NS,What powered India's Grasim Industries' record EBIT in Q1 FY27?,Fibre2Fashion,neutral,0.7212,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:32,GRASIM.NS,Q1 results 2026: HAL to Lenskart among companies to declare Q1 results today; full list here,livemint.com,neutral,0.7294,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:39,HINDALCO.NS,India stocks lower at close of trade; Nifty 50 down 0.15%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:52,LT.NS,"State Street sells $500M depositary shares of Series L preferred, expects $495.7M net proceeds",TradingView,negative,0.4369,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:48:52,LT.NS,"‘Uncollectable’ SIR forms: BLOs, netas to trace 9.6L voters",The Times of India,neutral,0.6688,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:52,LT.NS,Bengal STF nabs suspected Pak Nat’l,MillenniumPost,neutral,0.4674,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:48:52,LT.NS,"Jharkhand recruitment scam accused Abhay Tiwari names JPSC members, ex-chairman Khiangte",ThePrint,neutral,0.6637,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:52,LT.NS,Eva Green plots Samuel L. Jackson's death in 'Just Play Dead',upi.com,neutral,0.6963,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:55,M&M.NS,Chandra delivers 3x gains in group m-cap,The Times of India,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:55,M&M.NS,"Ball by Ball Commentary & Live Score - BP-M vs MIL-M, 32nd Match",Cricinfo,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:48:55,M&M.NS,Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero,The Guardian,positive,0.5919,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:48:55,M&M.NS,"Lovable confirms new $13.3B valuation, raises another $400M",techcrunch.com,positive,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:49:02,POWERGRID.NS,Bajel Projects bags ultra-mega Power Grid EPC order,Business Upturn,positive,0.7279,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:49:09,TATAMOTORS.NS,"Stocks To Buy or Sell Today, August 13, 2026: Tata Motors, Astral and Lenskart Among Shares in Focus on",LatestLY,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:49:10,TATAMOTORS.NS,"Tata Motors CV Q1 consolidated PAT up 83% YoY to Rs 2,560 cr; revenue up 19%",indiagazette.com,positive,0.7482,AUTO_ACCEPTED,indi-finbert
+2026-08-13 02:49:10,TATAMOTORS.NS,Tata Motors Flags 10% Import Duty ‘Anomaly’ For Electric Truck Tractors,Autocar Professional,negative,0.6222,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:49:13,TATACONSUM.NS,"Tata Group firms erase Rs 68,000 crore in market value following Chandrasekaran's resignation",Moneycontrol.com,negative,0.5593,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 02:49:14,TCS.NS,India stocks lower at close of trade; Nifty 50 down 0.15%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
