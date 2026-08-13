@@ -3572,3 +3572,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-13 02:49:10,TATAMOTORS.NS,Tata Motors Flags 10% Import Duty ‘Anomaly’ For Electric Truck Tractors,Autocar Professional,negative,0.6222,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-13 02:49:13,TATACONSUM.NS,"Tata Group firms erase Rs 68,000 crore in market value following Chandrasekaran's resignation",Moneycontrol.com,negative,0.5593,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-13 02:49:14,TCS.NS,India stocks lower at close of trade; Nifty 50 down 0.15%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:03,APOLLOHOSP.NS,"Apollo Hospitals bets on complex care, higher utilisation to drive hospital growth",moneycontrol,positive,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:03,TATAMOTORS.NS,Neutral TATA Motors; target of Rs 434: Motilal Oswal,moneycontrol,neutral,0.9416,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:03,GRASIM.NS,Buy Grasim; target of Rs 3800: Motilal Oswal,moneycontrol,positive,0.9344,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:04,TATAMOTORS.NS,Tata Motors PV Q1 net profit plunges 80% to Rs 775 crore; revenue rises 9% despite JLR weakness,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:04,TCS.NS,"TCS loses its grip on Tata as Trent, Titan emerge as new growth engines",moneycontrol,negative,0.9151,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:07,APOLLOHOSP.NS,Indian Markets Dip as July CPI Hits 4.45%; Apollo Hospitals Rises,Whalesbook,negative,0.7357,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:08,APOLLOHOSP.NS,"Brokerages Divided Over Apollo Hospitals Q1 Earnings; Citi, MS Impressed, Macquarie Sees Downside—Here's Why",NDTV Profit,neutral,0.868,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:38,HINDALCO.NS,"Trade Spotlight: How should you trade Indian Bank, Aarti Industries, Bank of Maharashtra, Hindalco, Zydus...",Moneycontrol.com,neutral,0.9424,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:39,HINDALCO.NS,Hindalco publishes Q1FY27 earnings call transcript with financial highlights,scanx.trade,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:42,ICICIBANK.NS,"Banking stocks today, August 13: Bank of Maharashtra rises over 1%, ICICI Bank, Axis Bank and RBL Bank fall",Business Upturn,negative,0.4349,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 11:12:50,KOTAKBANK.NS,"Banking stocks today, August 13: Bank of Maharashtra rises over 1%, ICICI Bank, Axis Bank and RBL Bank fall",Business Upturn,negative,0.4349,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 11:12:51,LT.NS,Larsen & Toubro secures mega order to build India's largest NVIDIA B300 AI Factory,Business Upturn,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:52,LT.NS,WACKER gains EU approval for L-cysteine and L-cystine pet food additives,Nutraceutical Business Review,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:52,LT.NS,Tax reassessment notices issued on 3.5L properties in Chennai,The New Indian Express,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:52,LT.NS,Stuti Ramachandra gets add'l charge of APAC & ANZ at Prime Video & Amazon MGM Studios,Exchange4Media,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:52,LT.NS,Air India to restore most int'l flights by late 3Q26,ch-aviation,neutral,0.6572,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:55,M&M.NS,"""It Humiliated Me"": M Kharge On 'Purification' Ceremony At His Rally Venue",NDTV,neutral,0.6977,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:55,M&M.NS,ICE plans to spend $20m equipping officers with electric shock gloves,Sky News,neutral,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-08-13 11:12:55,M&M.NS,San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion,The Guardian,neutral,0.3557,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-13 11:13:11,TATAMOTORS.NS,"Auto sector stocks today, August 13: Ashok Leyland jumps 2.44%, Tata Motors up 1.58%, Hyundai Motor up 0.86%",Business Upturn,positive,0.7362,AUTO_ACCEPTED,indi-finbert
