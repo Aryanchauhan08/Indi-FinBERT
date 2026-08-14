@@ -3592,3 +3592,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-13 11:12:55,M&M.NS,ICE plans to spend $20m equipping officers with electric shock gloves,Sky News,neutral,0.7274,AUTO_ACCEPTED,indi-finbert
 2026-08-13 11:12:55,M&M.NS,San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion,The Guardian,neutral,0.3557,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-13 11:13:11,TATAMOTORS.NS,"Auto sector stocks today, August 13: Ashok Leyland jumps 2.44%, Tata Motors up 1.58%, Hyundai Motor up 0.86%",Business Upturn,positive,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:13,EICHERMOT.NS,"Trade Spotlight: How should you trade IOL Chemicals, Poonawalla Fincorp, ICICI Prudential AMC, Eicher Motors, Clean Science, and others on August 14?",moneycontrol,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:13,ULTRACEMCO.NS,"Pilani Investment offloads Rs 2,896 crore worth UltraTech Cement shares; HDFC AMC, JP Morgan, ICICI Pru MF among 17 buyers",moneycontrol,negative,0.6729,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:19,APOLLOHOSP.NS,Apollo Hospitals posts 21% revenue growth in Q1 FY27,Indian Pharma Post,positive,0.738,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:49,HDFCLIFE.NS,Top 6 Insurance Stocks To Buy In India In August 2026,Samco,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:50,HDFCLIFE.NS,"SBI Life Insurance vs HDFC Life Insurance: Share Price, PE and ROE Compared",Univest,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:52,HEROMOTOCO.NS,Hero MotoCorp Q3 profit up 14.5% on corporate tax reduction,ET Auto,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:47:53,HINDALCO.NS,"Aditya Birla Group levies royalty on Grasim, Hindalco, Novelis for brand use from June 2026",The Economic Times,neutral,0.8381,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:08,LT.NS,15 years & 1.41L kms with my Chevrolet Beat: A smart used buy today?,Team-BHP,positive,0.7119,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:08,LT.NS,Shuttler Suhas L Yathiraj wins silver medal in men’s badminton at Paralympic Games,newsonair.gov.in,neutral,0.3778,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-14 02:48:08,LT.NS,32nd Kolkata Int’l Film Festival from Dec 16 to 23,MillenniumPost,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:08,LT.NS,"Videos of Nissan Tekton 700 km Review: Chandigarh To Leh | 1.3L & 1.0L Turbo Driven, news & updates",Car and Bike,neutral,0.3973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-14 02:48:11,M&M.NS,"Stocks To Buy or Sell Today, August 14, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:12,M&M.NS,Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025,The Guardian,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:12,M&M.NS,‘The End Of Oak Street’ Stomping To $38M-$48M WW Opening; U.S. Previews At $2M+ – Thursday PM Box Office,Deadline,positive,0.6805,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:12,M&M.NS,Michael Ryan: Family of Irish plane crash victim awarded $29m in damages,BBC,negative,0.6009,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-14 02:48:12,M&M.NS,‘Spider-Man: Brand New Day’ Becomes Fastest Movie to Hit $700M at Domestic Box Office,The Hollywood Reporter,positive,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:24,SBILIFE.NS,Top 6 Insurance Stocks To Buy In India In August 2026,Samco,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:25,SBILIFE.NS,"SBI Life Insurance vs HDFC Life Insurance: Share Price, PE and ROE Compared",Univest,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:26,SBIN.NS,SBI Share Price - Live NSE: SBIN Stock Price & Chart,Upstox,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:26,SBIN.NS,State Bank of India raises $500 million via bonds in overseas market; issue attracts $2.46 billion orders,livemint.com,positive,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:30,TATAMOTORS.NS,India's Tata Motors says change of group chairman won't affect investment plans,Reuters,neutral,0.9138,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:30,TATAMOTORS.NS,Earnings call transcript: Tata Motors Q1 2026 profit slips as India EVs surge,Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:30,TATAMOTORS.NS,Tata Motors revenue rises in Q1 as India PV growth offsets JLR slowdown,CNBC TV18,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:30,TATAMOTORS.NS,"Tata Motors Passenger Vehicles Q1 FY27 Concall: EV Bookings Jump 3.5x, 70,000 Monthly Production Target, Avinya Delayed to 2027; JLR Plans 4 EV Launches",Business Upturn,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:33,TATACONSUM.NS,India stocks mixed at close of trade; Nifty 50 down 0.16%,Investing.com,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:35,TCS.NS,"Stocks To Buy or Sell Today, August 14, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-08-14 02:48:37,TECHM.NS,"Stocks To Buy or Sell Today, August 14, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
