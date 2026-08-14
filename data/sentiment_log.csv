@@ -3619,3 +3619,18 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-14 02:48:33,TATACONSUM.NS,India stocks mixed at close of trade; Nifty 50 down 0.16%,Investing.com,negative,0.7417,AUTO_ACCEPTED,indi-finbert
 2026-08-14 02:48:35,TCS.NS,"Stocks To Buy or Sell Today, August 14, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
 2026-08-14 02:48:37,TECHM.NS,"Stocks To Buy or Sell Today, August 14, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:09:37,TATAMOTORS.NS,Sell Tata Motors Passenger Vehicles; target of Rs 310: Motilal Oswal,moneycontrol,negative,0.9408,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:09:37,APOLLOHOSP.NS,Buy Apollo Hospitals; target of Rs 10160: Motilal Oswal,moneycontrol,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:09:37,ASIANPAINT.NS,"Asian Paints Shares Fall 2.04%, Trades at Rs 2,699.20 Amid Market Movement",moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:09:37,ADANIENT.NS,Adani Enterprises shares rise 2.02%; stock among top gainers on Nifty 50,moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:06,GRASIM.NS,Grasim Industries posts 21% revenue growth and record EBITDA in Q1FY27,Indian Chemical News,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:28,LT.NS,Skoda Kylaq 15000 km service update: 1.0L TSI is silky smooth as always,team-bhp.com,positive,0.668,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:28,LT.NS,Biological Activities and Chemical Composition of Heliotropium Indicum L.: An Overview,SCIRP Open Access,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:28,LT.NS,INVENTURUS KNOWLEDGE SO L Share Price News and Valuation,Univest,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:28,LT.NS,Six Bengaluru hotels fined Rs 1.6L for food safety breach,The New Indian Express,negative,0.7379,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:31,M&M.NS,‘The End Of Oak Street’ Stomping To $38M-$48M Global Opening; U.S. Previews At $2M+ – Thursday PM Box Office,Deadline,positive,0.7243,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:31,M&M.NS,A question in Keralam: What’s in an ‘m’?,The Indian Express,neutral,0.4895,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-14 11:10:31,M&M.NS,"4.5m to 4.8m SUV Sales July 2026 - Scorpio, XUV7XO, XEV 9S, Harrier, Fortuner, Safari, Hector",RushLane,neutral,0.693,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:40,RELIANCE.NS,Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart,upstox.com,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-14 11:10:47,TATAMOTORS.NS,"Auto sector stocks today, August 14: Sharda Motor, Ashok Leyland gain; Tata Motors PV, Olectra Greentech fall nearly 5%",Business Upturn,neutral,0.4021,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-14 11:10:47,TATAMOTORS.NS,Tata Motors PV drops 5% as profit drops 80%; EV growth fails to offset JLR,newsdrum.in,negative,0.7454,AUTO_ACCEPTED,indi-finbert
