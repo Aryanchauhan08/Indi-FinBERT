@@ -3648,3 +3648,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-17 01:57:08,M&M.NS,Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment,foxbusiness.com,negative,0.4507,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-17 01:57:08,M&M.NS,Rachel Cusk’s Protest Against Personhood,The New Yorker,negative,0.5439,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-17 01:57:11,NESTLEIND.NS,Nestle India Q4FY26 Preview: Maggie Maker Eyes 13.7% Q4 Growth After 45% Profit Jump in Q3; Margins May Shrink,Goodreturns,positive,0.736,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:24,SUNPHARMA.NS,Sun Pharmaceutical Industries shares fall 2.02%; stock among top losers on Nifty 50,moneycontrol,negative,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:24,ITC.NS,ITC Hotels shares rise 2.01% to Rs 168.24,moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:24,HINDALCO.NS,"Hindalco Industries Shares Rise 2.11% on Monday, Trades at Rs 1,051.20",moneycontrol,positive,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:25,INFY.NS,"IT stocks fall up to 2.5% amid profit booking; TCS, Infosys top losers",moneycontrol,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:25,TCS.NS,"IT stocks fall up to 2.5% amid profit booking; TCS, Infosys top losers",moneycontrol,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:34,BAJAJ-AUTO.NS,"Auto sector stocks today, August 17: SML Mahindra jumps nearly 6%, Ashok Leyland gains over 2%; Ather Energy, Hyundai fall",businessupturn.com,positive,0.7181,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:43,CIPLA.NS,"Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87%",businessupturn.com,negative,0.579,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 10:49:50,EICHERMOT.NS,"Auto sector stocks today, August 17: SML Mahindra jumps nearly 6%, Ashok Leyland gains over 2%; Ather Energy, Hyundai fall",businessupturn.com,positive,0.7181,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:49:58,HEROMOTOCO.NS,Hero MotoCorp appoints Srihari Mulgund as Chief Strategy Officer,businessupturn.com,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:00,HINDALCO.NS,"Nifty 50 Net Profit Growth Hits 10-Quarter High In Q1FY27; Hindalco, ONGC, Bharti Airtel, Two Others Lead",NDTV Profit,positive,0.8754,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:10,JSWSTEEL.NS,"Metal sector stocks today, August 17: NALCO jumps over 3%, Hindustan Zinc gains 2% while NMDC slides",businessupturn.com,positive,0.6528,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:14,LT.NS,L’imad’s Ports Deal Signals Abu Dhabi Wealth Fund’s Growing Role,Bloomberg.com,positive,0.717,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:14,LT.NS,L'imad announces intention to acquire 100% shares of AD Ports Group,thenationalnews.com,positive,0.6331,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 10:50:14,LT.NS,SENORES PHARMACEUTICALS L Share Price: 52-Week High Analysis,Univest,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:16,M&M.NS,"Auto sector stocks today, August 17: SML Mahindra jumps nearly 6%, Ashok Leyland gains over 2%; Ather Energy, Hyundai fall",businessupturn.com,positive,0.7181,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:17,M&M.NS,Ferrari's first ever electric car sold for record $40m at auction,BBC,positive,0.7316,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:17,M&M.NS,Rodri set to complete Barcelona move after Manchester City accept £65.4m bid,The Guardian,positive,0.5501,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 10:50:17,M&M.NS,Barcelona reach €76.5m Rodri transfer agreement in principle with Manchester City,The New York Times,positive,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:17,M&M.NS,Sources: Barcelona and Man City reach €76.5M deal for Rodri transfer,espn.com,positive,0.6417,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 10:50:20,NESTLEIND.NS,nestle india share price,LatestLY,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-17 10:50:32,SUNPHARMA.NS,"Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87%",businessupturn.com,negative,0.579,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 10:50:40,TECHM.NS,"Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77",India.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
