@@ -3634,3 +3634,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-14 11:10:40,RELIANCE.NS,Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart,upstox.com,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
 2026-08-14 11:10:47,TATAMOTORS.NS,"Auto sector stocks today, August 14: Sharda Motor, Ashok Leyland gain; Tata Motors PV, Olectra Greentech fall nearly 5%",Business Upturn,neutral,0.4021,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-14 11:10:47,TATAMOTORS.NS,Tata Motors PV drops 5% as profit drops 80%; EV growth fails to offset JLR,newsdrum.in,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:56:18,EICHERMOT.NS,"Trade Spotlight: How should you trade Sumitomo Chemical, Eicher Motors, KFin Technologies, Havells India, Asahi India Glass, and others on August 17?",moneycontrol,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:56:26,AXISBANK.NS,Weekly Recap: US$600M GMTN senior notes and 38% corporate loan growth,TradingView,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:56:43,EICHERMOT.NS,"Trade Spotlight: How should you trade Sumitomo Chemical, Eicher Motors, KFin Technologies, Havells India,...",Moneycontrol.com,neutral,0.9412,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:05,LT.NS,₹29 tea-samosa payment helps crack ₹4-L robbery,The Times of India,positive,0.4559,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 01:57:05,LT.NS,Pavillon Monk / L. McComber,ArchDaily,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:05,LT.NS,Kerala woman held with Rs 28.87 L jewellery at airport,Ahmedabad Mirror,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:05,LT.NS,"Weekly Recap: Rs 2,500cr loan for I-2SEA cable and RBI ₹59.20L fine",TradingView,neutral,0.3686,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 01:57:05,LT.NS,Odisha: Over 2.37L evacuated as heavy rainfall continues,MillenniumPost,negative,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:08,M&M.NS,Barcelona reach €76.5m Rodri transfer agreement in principle with Manchester City - The Athletic,The New York Times,positive,0.7096,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:08,M&M.NS,Leeds United transfer news: Nico Elvedi to have medical as £8.5m fee agreed,BBC,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-08-17 01:57:08,M&M.NS,"Box Office: 'Spider: Brand New Day' No. 1 $70M, $20M 'Paw Patrol' & 'End Of Oak Street'",deadline.com,neutral,0.5251,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 01:57:08,M&M.NS,Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment,foxbusiness.com,negative,0.4507,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 01:57:08,M&M.NS,Rachel Cusk’s Protest Against Personhood,The New Yorker,negative,0.5439,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-17 01:57:11,NESTLEIND.NS,Nestle India Q4FY26 Preview: Maggie Maker Eyes 13.7% Q4 Growth After 45% Profit Jump in Q3; Margins May Shrink,Goodreturns,positive,0.736,AUTO_ACCEPTED,indi-finbert
