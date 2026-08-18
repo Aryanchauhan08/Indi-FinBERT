@@ -3684,3 +3684,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-18 01:52:51,M&M.NS,Court dismisses 2020 protest case against CPI(M) leaders,The Hindu,positive,0.4659,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-18 01:52:54,NESTLEIND.NS,Nestle stock trades steady as India subsidiary posts strong fiscal 2026 growth,ad-hoc-news.de,positive,0.5811,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-18 01:53:07,TATAMOTORS.NS,Tata Motors PV Shares Decline as Heavy JLR Dependence Raises Fresh Investor Concerns,chshyd.in,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:46:56,TATAMOTORS.NS,Tata Motors Passenger Vehicles Shares Fall 2.01% to Rs 323.55,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:46:58,ADANIENT.NS,Adani flagship eyes India’s Nifty crown after years of turmoil,BusinessLine,positive,0.6667,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:21,DIVISLAB.NS,"Pharma sector stocks today, August 18: Biocon, Ajanta Pharma, Divi’s Labs gain; JB Chemicals falls 3.87%",businessupturn.com,negative,0.3518,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 10:47:28,HCLTECH.NS,HCLTech CEO Pay Hits ₹176 Cr; NSE & BSE Launch 3-Day SLB Contracts,Whalesbook,neutral,0.6567,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:48,KOTAKBANK.NS,"Q1 Earnings: Nuvama Upgrades Amara Raja, Sharda Cropchem; Cuts Titan, Dixon Tech — Full List, Target Price",NDTV Profit,neutral,0.4938,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 10:47:50,LT.NS,FUJIYAMA POWER SYSTEMS L Share Price: Fresh One-Year High,univest.in,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:50,LT.NS,Maha FDA to pay Rs 5 L to sweet shop over licence suspension,Rediff,negative,0.6854,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:50,LT.NS,L’Imad Offers US$2.1 Billion to Reverse AD Ports Listing,Global SWF,neutral,0.3828,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 10:47:50,LT.NS,Nepal Airlines to set up operating base at Bhairahawa Int'l,ch-aviation,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:50,LT.NS,L'imad-AD Ports deal a 'fundamental paradigm shift' resulting from the Iran war: Analyst,CNBC,positive,0.5323,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 10:47:52,M&M.NS,"Auto sector stocks today, August 18: Force Motors falls 2.01%, Tata Motors PV drops 1.91%, Ola Electric down 1.45%",businessupturn.com,negative,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:53,M&M.NS,"""I Apologise On His Behalf"": Vijay As Minister Mentions Karunanidhi Without Title",NDTV,neutral,0.7075,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:53,M&M.NS,"Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",TechCrunch,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:53,M&M.NS,18th M. Noke Wangnao Memorial Trophy opens in Mon,Hub News,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:53,M&M.NS,CPI(M) slams BJP for lodging police complaints against ex-CM Manik Sarkar,The Hindu,negative,0.7207,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:53,M&M.NS,ICICI Bank Raises $750M from Overseas Bonds for Growth,Rediff MoneyWiz,positive,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:47:59,ONGC.NS,"Energy sector stocks today, August 18: MRPL jumps nearly 5%, Chennai Petroleum gains 3.63%, Oil India up 2.11%",businessupturn.com,positive,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:48:01,ONGC.NS,"ONGC gets US licence to expand Venezuela operations, boost oil output and investments",The Times of India,positive,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-08-18 10:48:05,SBILIFE.NS,India's NSE Seeks $55 Billion Valuation in Record IPO,streamlinefeed.co.ke,neutral,0.5222,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 10:48:11,TATAMOTORS.NS,"Auto sector stocks today, August 18: Force Motors falls 2.01%, Tata Motors PV drops 1.91%, Ola Electric down 1.45%",businessupturn.com,negative,0.7407,AUTO_ACCEPTED,indi-finbert
