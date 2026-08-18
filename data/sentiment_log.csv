@@ -3670,3 +3670,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-17 10:50:20,NESTLEIND.NS,nestle india share price,LatestLY,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
 2026-08-17 10:50:32,SUNPHARMA.NS,"Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87%",businessupturn.com,negative,0.579,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-17 10:50:40,TECHM.NS,"Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77",India.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:01,BAJAJ-AUTO.NS,"Bain-backed Dhoot Transmission jumps in India debut, valued at $2.5 billion",Reuters,positive,0.9163,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:17,DIVISLAB.NS,"Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87%",Business Upturn,negative,0.579,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 01:52:34,HINDALCO.NS,India stocks lower at close of trade; Nifty 50 down 0.32%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:48,LT.NS,Abu Dhabi Wealth Fund L’imad’s Ports Deal Signals Growing Role,Bloomberg.com,positive,0.7152,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:48,LT.NS,Netcompany INEOS Racing Academy names exciting Tour de l'Avenir team,Netcompany INEOS,neutral,0.7053,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:48,LT.NS,"Exhibition: “De l’Air, de l’Art”",dassault-aviation.com,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:48,LT.NS,SIR enumeration: 34.96L Vid voters in uncollectable pool,The Times of India,neutral,0.7291,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:48,LT.NS,SMC seizes booze & gambling haul worth Rs 75 L in 4 raids,Ahmedabad Mirror,negative,0.5758,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 01:52:51,M&M.NS,Groq raises $350M to fuel its pivot from AI chips to neocloud,TechCrunch,positive,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:51,M&M.NS,"From 5,921m summit, historic glide to Ladakh roadhead",The Times of India,positive,0.7221,AUTO_ACCEPTED,indi-finbert
+2026-08-18 01:52:51,M&M.NS,Russian tank observed for first time likely using Arena-M APS against UAV,Janes,neutral,0.6032,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 01:52:51,M&M.NS,Court dismisses 2020 protest case against CPI(M) leaders,The Hindu,positive,0.4659,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 01:52:54,NESTLEIND.NS,Nestle stock trades steady as India subsidiary posts strong fiscal 2026 growth,ad-hoc-news.de,positive,0.5811,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-18 01:53:07,TATAMOTORS.NS,Tata Motors PV Shares Decline as Heavy JLR Dependence Raises Fresh Investor Concerns,chshyd.in,negative,0.7448,AUTO_ACCEPTED,indi-finbert
