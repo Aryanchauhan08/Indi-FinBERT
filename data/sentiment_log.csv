@@ -3704,3 +3704,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-18 10:48:01,ONGC.NS,"ONGC gets US licence to expand Venezuela operations, boost oil output and investments",The Times of India,positive,0.7434,AUTO_ACCEPTED,indi-finbert
 2026-08-18 10:48:05,SBILIFE.NS,India's NSE Seeks $55 Billion Valuation in Record IPO,streamlinefeed.co.ke,neutral,0.5222,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-18 10:48:11,TATAMOTORS.NS,"Auto sector stocks today, August 18: Force Motors falls 2.01%, Tata Motors PV drops 1.91%, Ola Electric down 1.45%",businessupturn.com,negative,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:54:26,INFY.NS,"Infosys shares fall 6% in 5 days tracking weakness in IT shares - Should you buy, sell or hold?",moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:54:29,ADANIPORTS.NS,"Adani Group stocks today, August 18: Adani Energy Solutions, Adani Power rise over 2%; Adani Ports slips",Business Upturn,negative,0.7316,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,Green Energy Stocks Face Selling Pressure As Indian Markets End Lower(18 August 2026),SolarQuarter,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,Cocrystal Pharma appoints Carol L. Brosgart to board of directors By Investing.com,Investing.com India,neutral,0.7757,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,Abu Dhabi wealth fund L'IMAD plans to acquire full ownership of AD Ports,ET Infra,neutral,0.6768,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,SRINIBAS PRADHAN CONST L Share Price Today Gains 11.11%,Univest,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,Royal Enfield Classic 350 Gorkha Edition Launch Price Rs 2.10 L,RushLane,neutral,0.712,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:13,LT.NS,WeverseBTS Media - DRIVING IN GERMANY l RM's VLOG,Weverse,neutral,0.4055,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-19 01:55:16,M&M.NS,‘Spider-Man: Brand New Day’ Fastest To Cross $800M At Domestic Box Office,Deadline,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:16,M&M.NS,"Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",The Guardian,neutral,0.64,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-19 01:55:16,M&M.NS,How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding,The New York Times,positive,0.6336,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-19 01:55:16,M&M.NS,Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK,BBC,negative,0.6471,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-19 01:55:19,NESTLEIND.NS,"Nestle India gains momentum, anticipates second interim dividend and stock split",Business Upturn,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-08-19 01:55:21,NTPC.NS,5 Best Power Sector Stocks in India to Watch in 2026,Univest,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
