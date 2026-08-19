@@ -3718,3 +3718,28 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-19 01:55:16,M&M.NS,Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK,BBC,negative,0.6471,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-19 01:55:19,NESTLEIND.NS,"Nestle India gains momentum, anticipates second interim dividend and stock split",Business Upturn,positive,0.7455,AUTO_ACCEPTED,indi-finbert
 2026-08-19 01:55:21,NTPC.NS,5 Best Power Sector Stocks in India to Watch in 2026,Univest,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:46:27,COALINDIA.NS,Coal India Shares Fall 2.24%; Stock Among Top Losers on Nifty 50,moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:46:37,BAJAJ-AUTO.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:46:51,DIVISLAB.NS,"Pharma sector stocks today, August 19: Sudeep Pharma, Orchid Pharma gain while JB Chemicals falls nearly 4%",Business Upturn,negative,0.7081,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:46:55,EICHERMOT.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:46:58,HCLTECH.NS,"IT sector stocks today, August 19: Happiest Minds falls 2.91%, Cigniti Tech down 2.13%, Coforge jumps 2.28%",Business Upturn,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:00,HDFCBANK.NS,"NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE",Upstox,negative,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:04,HEROMOTOCO.NS,Hero MotoCorp Advances Growth Strategy with Rising Volumes and Capacity Expansion,Kalkine,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:05,HINDALCO.NS,"Metal sector stocks fall today, August 19: Coal India declines 1.89%, NALCO down 1.66%, NALCO falls 1.66%",Business Upturn,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:07,HINDUNILVR.NS,"NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE",Upstox,negative,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:16,JSWSTEEL.NS,"Metal sector stocks fall today, August 19: Coal India declines 1.89%, NALCO down 1.66%, NALCO falls 1.66%",Business Upturn,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:18,KOTAKBANK.NS,"Banking sector stocks today, August 19: Karnataka Bank jumps 3%, Tamilnad Mercantile Bank falls over 2%",Business Upturn,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:20,LT.NS,"Stocks To Buy or Sell Today, August 19, 2026: LIC, Tata Capital and Birlasoft Among Shares That May Remain",LatestLY,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:21,LT.NS,"BWF World C'ships: SatChi get walkover, through to Rd of 16; Dhruv & Tanisha also advance",The New Indian Express,neutral,0.7111,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:21,LT.NS,"WB seeks Facilities Manager, Int’l Real Estate for Afghanistan",Whispers in the Corridors,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:21,LT.NS,Hikarie Hall upgrades with L-Acoustics,Pro AVL Asia,positive,0.733,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:21,LT.NS,"Gurugram: Man booked for raping visually impaired woman, stealing ₹1.5L | Hindustan Times",Hindustan Times,negative,0.6892,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:23,M&M.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:24,M&M.NS,"Tahsildar in Dindigul removed for ordering collection of CPI, CPI(M) members’ details",The Hindu,neutral,0.7056,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:24,M&M.NS,Sanya Malhotra swears by these 3 M’s for a healthier body and mind,The Indian Express,positive,0.6201,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-19 10:47:24,M&M.NS,Best Premium FPL Midfielders 2026/27: £7.0m–£12.0m Picks,Fantasy Football Fix,neutral,0.6885,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:27,NESTLEIND.NS,Nestle India Ltd down for fifth straight session,Business Standard,negative,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:29,NTPC.NS,"NTPC shares surge 4% as NTPC Green Energy files for ₹10,000-crore IPO",Business Upturn,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:42,TATAMOTORS.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:49,TECHM.NS,"CLSA turns cautious on Indian IT, downgrades TCS, Infosys, Tech Mahindra; prefers mid-tier stocks amid AI...",Moneycontrol.com,negative,0.9316,AUTO_ACCEPTED,indi-finbert
+2026-08-19 10:47:49,TECHM.NS,"IT sector stocks today, August 19: Happiest Minds falls 2.91%, Cigniti Tech down 2.13%, Coforge jumps 2.28%",Business Upturn,negative,0.7384,AUTO_ACCEPTED,indi-finbert
