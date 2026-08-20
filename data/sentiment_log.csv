@@ -3762,3 +3762,27 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-20 01:54:07,ONGC.NS,Seamec announces extension of SEAMEC II vessel contract with ONGC until 31st August 2026,Business Upturn,neutral,0.4714,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-20 01:54:08,ONGC.NS,4 Oil and Gas Stocks with Strong Growth Plans in India (2026),Univest,positive,0.7297,AUTO_ACCEPTED,indi-finbert
 2026-08-20 01:54:12,SBILIFE.NS,SBI Life Insurance announces completion of Mr. Narayan K. Seshadri's tenure as independent director,Business Upturn,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:47:46,MARUTI.NS,Maruti Suzuki needs more price hikes to protect margins after 0.5% increase: Nomura,moneycontrol,negative,0.7485,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:47:46,HDFCBANK.NS,HDFC Bank stock rises 1% after RBI allows LIC to raise stake to 9.99%,moneycontrol,positive,0.9465,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:47:47,TCS.NS,"TCS laptop monitoring tool raises questions over security, employee surveillance",moneycontrol,neutral,0.7261,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:47:57,BAJAJ-AUTO.NS,"Auto sector stocks today, August 20: Ola Electric gains 1.74%, Hyundai Motor India up 1.16%, Olectra Greentech rises 1.01%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:08,CIPLA.NS,3 Fundamentally Strong Pharmaceutical Stocks in India (2026),Univest,positive,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:10,COALINDIA.NS,3 Fundamentally Strong PSU Stocks in India (August 2026),Univest,positive,0.6893,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:12,DIVISLAB.NS,"Pharma sector stocks today, August 20: Strides Pharma jumps 9%, Panacea Biotec gains nearly 3%; JB Chemicals falls 4%",Business Upturn,positive,0.4041,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 10:48:13,DRREDDY.NS,3 Fundamentally Strong Pharmaceutical Stocks in India (2026),Univest,positive,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:15,EICHERMOT.NS,"Stocks To Buy or Sell Today, August 20, 2026: Dabur India, Eicher Motors and Waaree Energies Among Shares",LatestLY,neutral,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:15,EICHERMOT.NS,"Auto sector stocks today, August 20: Ola Electric gains 1.74%, Hyundai Motor India up 1.16%, Olectra Greentech rises 1.01%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:25,HINDALCO.NS,3 Fundamentally Strong Non Ferrous Metal Stocks in India (2026),Univest,positive,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:40,JSWSTEEL.NS,"Metal sector stocks gain today, August 20: Vedanta jumps 3.09%, Hindustan Zinc surges 2.77%, NMDC up 1.76%",Business Upturn,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:44,LT.NS,EMS Emerges L-1 For ₹190.86 Crore Project; Secures ₹105 Crore and ₹222 Crore Contracts,Sahi,positive,0.7216,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:44,LT.NS,Brahmaputra Infrastructure L-1 for ₹78.09 Crore; Shares Fall 0.50%,HDFC Sky,negative,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:44,LT.NS,FUJIYAMA POWER SYSTEMS L (UTLSOLAR) Share Price Hits Fresh 52-Week High,Univest,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:44,LT.NS,5 reasons why the Tour de l’Avenir is such an important U23 race,Red Bull – BORA – hansgrohe,positive,0.4103,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 10:48:47,M&M.NS,"Auto sector stocks today, August 20: Ola Electric gains 1.74%, Hyundai Motor India up 1.16%, Olectra Greentech rises 1.01%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:48,M&M.NS,"GTU results 2026 released: Check M.Pharm, BE and Diploma in Vocation results at gturesults.in",The Times of India,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:48,M&M.NS,How Natalie Portman Got Caught in Novelist Rachel Cusk’s Autofiction Trap,The Hollywood Reporter,negative,0.5849,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 10:48:51,NESTLEIND.NS,Stocks to buy: 4 FMCG stocks to buy with up to 27% upside potential. Do you own any?,The Economic Times,neutral,0.5697,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 10:48:52,NTPC.NS,3 Fundamentally Strong Power Generation Stocks in India (2026),Univest,positive,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:48:56,POWERGRID.NS,3 Fundamentally Strong Power Generation Stocks in India (2026),Univest,positive,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:49:04,SUNPHARMA.NS,3 Fundamentally Strong Pharmaceutical Stocks in India (2026),Univest,positive,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-08-20 10:49:06,TATAMOTORS.NS,Tata Motors EV Market Share Climbs to 43% as It Bets on Product Value Over Price Cuts,finance.biggo.com,positive,0.7477,AUTO_ACCEPTED,indi-finbert
