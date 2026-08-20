@@ -3743,3 +3743,22 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-19 10:47:42,TATAMOTORS.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
 2026-08-19 10:47:49,TECHM.NS,"CLSA turns cautious on Indian IT, downgrades TCS, Infosys, Tech Mahindra; prefers mid-tier stocks amid AI...",Moneycontrol.com,negative,0.9316,AUTO_ACCEPTED,indi-finbert
 2026-08-19 10:47:49,TECHM.NS,"IT sector stocks today, August 19: Happiest Minds falls 2.91%, Cigniti Tech down 2.13%, Coforge jumps 2.28%",Business Upturn,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:28,BRITANNIA.NS,"Nestle India, Asian Paints, Britannia among top FMCG picks; Axis Securities identifies its top conviction ideas with targets",ET Now,positive,0.6887,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:41,HDFCLIFE.NS,"IRDAI approves re-appointment of Vibha Padalkar, Niraj Shah at HDFC Life",scanx.trade,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:43,HEROMOTOCO.NS,"Auto sector stocks today, August 19: Force Motors falls 1.89%, Landmark Cars down 1.50%, Ashok Leyland drops 1.45%",Business Upturn,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:44,HINDALCO.NS,"Metal sector stocks rally sharply today, March 30: NALCO jumps 5%, Hindalco Industries shares surge 4.12%, Vedanta up 4%",Business Upturn,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:52,INFY.NS,"Indian Stock Market Weekly Round-Up: Bears Take Charge as Nifty Slides 2% In Week, Financials Lead Decline",Goodreturns,negative,0.7321,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:54,JSWSTEEL.NS,JSW Steel to Lenskart: 5 Nifty 500 stocks near 52-week highs with increasing FII interest,Dailyhunt,positive,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:57,KOTAKBANK.NS,Kotak Mahindra shares surge over 5% on Q4 earnings,Business Upturn,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:58,LT.NS,"My Hyundai Verna 1.5L Turbo | 17 months/18,000 km update",Team-BHP,neutral,0.6948,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:58,LT.NS,EMS Emerges L-1 Bidder For ₹190.86 Crore Rajasthan Water Treatment Project,Sahi,positive,0.5478,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 01:53:58,LT.NS,"L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market",BBC,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:58,LT.NS,‘Nayyi Navelli’: Yami Gautam Dhar to star in Aanand L Rai backed fantasy family-drama,The Hindu,neutral,0.692,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:53:58,LT.NS,Logitech Signature Comfort Plus M850 L mouse review: Comfortable and seamless,India Today,positive,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:54:01,M&M.NS,Tom Holland set to earn $100m from Spider-Man: Brand New Day,The Guardian,neutral,0.4195,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 01:54:01,M&M.NS,How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding - The Athletic,The New York Times,positive,0.5,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 01:54:01,M&M.NS,Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment,TechCrunch,positive,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:54:01,M&M.NS,Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’,Al Jazeera,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:54:07,ONGC.NS,Seamec announces extension of SEAMEC II vessel contract with ONGC until 31st August 2026,Business Upturn,neutral,0.4714,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-20 01:54:08,ONGC.NS,4 Oil and Gas Stocks with Strong Growth Plans in India (2026),Univest,positive,0.7297,AUTO_ACCEPTED,indi-finbert
+2026-08-20 01:54:12,SBILIFE.NS,SBI Life Insurance announces completion of Mr. Narayan K. Seshadri's tenure as independent director,Business Upturn,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
