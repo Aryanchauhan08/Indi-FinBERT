@@ -3786,3 +3786,20 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-20 10:48:56,POWERGRID.NS,3 Fundamentally Strong Power Generation Stocks in India (2026),Univest,positive,0.7406,AUTO_ACCEPTED,indi-finbert
 2026-08-20 10:49:04,SUNPHARMA.NS,3 Fundamentally Strong Pharmaceutical Stocks in India (2026),Univest,positive,0.7369,AUTO_ACCEPTED,indi-finbert
 2026-08-20 10:49:06,TATAMOTORS.NS,Tata Motors EV Market Share Climbs to 43% as It Bets on Product Value Over Price Cuts,finance.biggo.com,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:19,HDFCBANK.NS,HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:34,JSWSTEEL.NS,3 Fundamentally Strong Steel Stocks in India,Univest,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:38,LT.NS,Mosquito-Borne Diseases Infected Over 1 L In State From ’14 To ’24: Docs,The Times of India,negative,0.6718,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:38,LT.NS,L''T Finance Launches Gold Loan Campaign in Chandigarh,Rediff MoneyWiz,positive,0.4863,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-21 01:59:38,LT.NS,Pakistan summoning US diplomat over Gor's remarks is matter between two countries: J&K CM Omar Abdullah,The New Indian Express,neutral,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:40,M&M.NS,3 Fundamentally Strong Automobile Stocks in India,Univest,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:41,M&M.NS,"Rachel Cusk on Her Novel ‘Life of M,’ Gossip and Natalie Portman",The New York Times,neutral,0.738,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:41,M&M.NS,Chelsea get big transfer windfall as £60.9m record deal confirmed,London Evening Standard,positive,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:41,M&M.NS,Brightin Star’s Luxurious New 35mm f/1.7 M-Mount Lens Is Coming Soon,PetaPixel,positive,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:41,M&M.NS,AI data startup Micro1 reaches $500M gross run rate amid AI training boom,TechCrunch,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:41,M&M.NS,Advanced energy industries EVP & COO sells $7.8m in stock,Investing.com India,negative,0.7166,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:50,RELIANCE.NS,3 Fundamentally Strong Petrochemical Stocks in India (2026),Univest,positive,0.7288,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:57,TATAMOTORS.NS,"Auto sector stocks today, August 20: Ola Electric gains 1.74%, Hyundai Motor India up 1.16%, Olectra Greentech rises 1.01%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:59,TATASTEEL.NS,"Tata Steel buys 23% TMILL stake for ₹335 crore, makes it subsidiary",scanx.trade,positive,0.6768,AUTO_ACCEPTED,indi-finbert
+2026-08-21 01:59:59,TATASTEEL.NS,3 Fundamentally Strong Steel Stocks in India,Univest,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-08-21 02:00:00,TATACONSUM.NS,3 Fundamentally Strong Plantation Stocks in India (August 2026),Univest,positive,0.7303,AUTO_ACCEPTED,indi-finbert
+2026-08-21 02:00:07,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India August 2026,Samco,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
