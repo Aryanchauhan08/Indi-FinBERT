@@ -3803,3 +3803,22 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-21 01:59:59,TATASTEEL.NS,3 Fundamentally Strong Steel Stocks in India,Univest,positive,0.739,AUTO_ACCEPTED,indi-finbert
 2026-08-21 02:00:00,TATACONSUM.NS,3 Fundamentally Strong Plantation Stocks in India (August 2026),Univest,positive,0.7303,AUTO_ACCEPTED,indi-finbert
 2026-08-21 02:00:07,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India August 2026,Samco,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:47:50,ICICIBANK.NS,ICICI Bank board approves up to $5 billion overseas borrowing; stock gains,moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:47:50,INFY.NS,"Kotak turns cautious on Indian IT, downgrades Infosys, TCS and LTM; prefers challengers amid AI shift",moneycontrol,negative,0.9236,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:47:50,TCS.NS,"Kotak turns cautious on Indian IT, downgrades Infosys, TCS and LTM; prefers challengers amid AI shift",moneycontrol,negative,0.9236,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:20,HDFCBANK.NS,HDFCBANK Share Price Today - HDFC Bank on NSE/BSE,scanx.trade,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:21,HDFCLIFE.NS,3 Fundamentally Strong Life Insurance Stocks in India,Univest,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:23,HEROMOTOCO.NS,"Auto sector stocks fall today, August 21: Hero MotoCorp down 1.17%, Escorts Kubota drops 1.12%, TVS Motor falls 0.89%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:35,KOTAKBANK.NS,"Banking sector stocks today, August 21: DCB Bank jumps 2.25%, Kotak Mahindra Bank up 1.74%, PNB falls 1.53%",Business Upturn,positive,0.713,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:38,LT.NS,CBC invites technical bids to expand multimedia agency panels at existing L-1 rates,Adgully.com,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:38,LT.NS,SIR hearing: 54.21L voters retained in electoral roll in Odisha,The New Indian Express,neutral,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:38,LT.NS,Bajel Project surges after JV arm emerges as L-1 bidder for inter-state transmission project in Gujarat,Business Standard,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:38,LT.NS,2026 Maruti Suzuki Baleno Facelift To Get 3-cylinder Petrol Engine,V3Cars,positive,0.6974,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:38,LT.NS,"Emerging sprinter chasing Asian Games medal, nat'l record in 100m dash",The Korea Times,positive,0.7104,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:40,M&M.NS,"Auto sector stocks fall today, August 21: Hero MotoCorp down 1.17%, Escorts Kubota drops 1.12%, TVS Motor falls 0.89%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:41,M&M.NS,Gandhi's handwritten notes on life sold for $1.69m at Indian auction,BBC,neutral,0.6629,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:41,M&M.NS,Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?,The Guardian,neutral,0.6161,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-21 10:48:41,M&M.NS,"CPI(M) Attacks ED Over Probe Involving Pinarayi Vijayan’s Daughter Veena, Calls It ‘Political Vendetta’",Outlook India,negative,0.7053,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:41,M&M.NS,SPM Shipping enters gas shipping with $91m VLGC buy,Splash247,positive,0.4603,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-21 10:48:48,POWERGRID.NS,Power Grid Corporation Of India Ltd. Share Price Today Up,Univest,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-08-21 10:48:51,SBILIFE.NS,3 Fundamentally Strong Life Insurance Stocks in India,Univest,positive,0.7458,AUTO_ACCEPTED,indi-finbert
