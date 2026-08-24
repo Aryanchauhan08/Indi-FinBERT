@@ -3822,3 +3822,21 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-21 10:48:41,M&M.NS,SPM Shipping enters gas shipping with $91m VLGC buy,Splash247,positive,0.4603,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-21 10:48:48,POWERGRID.NS,Power Grid Corporation Of India Ltd. Share Price Today Up,Univest,positive,0.7458,AUTO_ACCEPTED,indi-finbert
 2026-08-21 10:48:51,SBILIFE.NS,3 Fundamentally Strong Life Insurance Stocks in India,Univest,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:12,ADANIENT.NS,Adani Enterprises to hold Q1FY27 earnings call on July 29,scanx.trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:22,BAJFINANCE.NS,Bajaj Finserv makes Q2 earnings call recording available to investors,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:23,BAJAJFINSV.NS,Bajaj Finserv makes Q2 earnings call recording available to investors,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:32,DIVISLAB.NS,ZYDUSLIFE Share Price Today - Zydus Life Science on NSE/BSE,scanx.trade,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:37,GRASIM.NS,Grasim eyes Rs 2 lakh crore revenue in FY27 as growth platforms scale up: KM Birla,The Economic Times,positive,0.8554,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:37,GRASIM.NS,Grasim Industries Set To Reach Revenue Of Rs 2 Trillion In FY27: Kumar Mangalam Birla,Times Now,positive,0.6794,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:49,ITC.NS,"ITC shareholders approve final dividend, reappoint Hemant Bhargava",scanx.trade,positive,0.6765,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:57,LT.NS,Logitech Signature Comfort Plus M850 L review: Designed for comfortable workdays,The Times of India,positive,0.7322,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:57,LT.NS,Ramdev takes fresh swipe at Kangana Ranaut as war of words over 'generation gutter' remark escalates,The New Indian Express,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:57,LT.NS,L Catterton Invests In Financial Standard,Wealth Briefing Asia,neutral,0.6726,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:57,LT.NS,Tour de l'Avenir 2026,Red Bull – BORA – hansgrohe,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-24 01:59:57,LT.NS,Skoda Kushaq 1.0L AT real world fuel economy tested,Autocar India,positive,0.6924,AUTO_ACCEPTED,indi-finbert
+2026-08-24 02:00:00,M&M.NS,"Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening",Deadline,positive,0.449,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 02:00:00,M&M.NS,CPI likely to toughen stand against CPI(M) in Kerala over Assembly post,Deccan Herald,neutral,0.6328,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 02:00:00,M&M.NS,Iconic bank stock pays Buffett’s Berkshire $619M in annual dividends,thestreet.com,neutral,0.6642,AUTO_ACCEPTED,indi-finbert
+2026-08-24 02:00:00,M&M.NS,CPI(M) Alleges Political Motive Behind ED Probe Into Vijayan’s Family,Outlook India,negative,0.4658,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 02:00:00,M&M.NS,"ED taking up cases with political motive and bias, claims CPI(M) Keralam secretary M.V. Govindan",The Hindu,neutral,0.5362,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 02:00:13,SBIN.NS,SEBI Nod For NSE IPO Awaits SBI-SBICAPS Split,NDTV Profit,neutral,0.8606,AUTO_ACCEPTED,indi-finbert
