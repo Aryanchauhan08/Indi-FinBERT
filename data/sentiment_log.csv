@@ -3840,3 +3840,19 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-24 02:00:00,M&M.NS,CPI(M) Alleges Political Motive Behind ED Probe Into Vijayan’s Family,Outlook India,negative,0.4658,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-24 02:00:00,M&M.NS,"ED taking up cases with political motive and bias, claims CPI(M) Keralam secretary M.V. Govindan",The Hindu,neutral,0.5362,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-24 02:00:13,SBIN.NS,SEBI Nod For NSE IPO Awaits SBI-SBICAPS Split,NDTV Profit,neutral,0.8606,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:54:50,GRASIM.NS,"Gaja Alternative Asset Management IPO allotment: How to check status online on MUFG Intime India, NSE, BSE; listing date, time revealed",Upstox,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:54:53,HDFCBANK.NS,HDFC Bank Stock Update: Shares Gain 0.76% on Sector Optimism,LatestLY,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:54:55,HDFCLIFE.NS,HDFC Bank’s $1.75 Bn Overseas Bond Issue: Largest Since Crisis,The Live Nagpur,positive,0.4147,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:01,ICICIBANK.NS,ICICI Bank to participate in Morgan Stanley and Goldman Sachs investor events,Business Upturn,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:55:09,KOTAKBANK.NS,ICICI Bank to Kotak Mahindra: Goldman Sachs’ top banking picks with 18% to 37% upside potential,financialexpress.com,positive,0.6182,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:11,LT.NS,Nominations Open: AACR June L. Biedler Prize for Cancer Journalism,fundsforNGOs,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:55:11,LT.NS,"New Audi Q3 India Debut Tomorrow – 2.0L Petrol, Quattro AWD",CarLelo,neutral,0.5939,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:11,LT.NS,"Gandhar Oil Refine Ind L Share Price Target, Forecast for Long Term Equity.",HDFC Sky,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:55:11,LT.NS,Gauff beats Pegula for 2nd Cincinnati Open title; France's Fils beats American Tiafoe in men's final,The New Indian Express,neutral,0.6341,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:11,LT.NS,Nester Home Cook 6.2L Glass Air Fryer with SteamLock Technology launched,FoneArena.com,positive,0.6548,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:55:14,M&M.NS,Diego Maradona's 'Hand of God' football from 1986 World Cup win over England sells for £2.5m,BBC,positive,0.5201,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:14,M&M.NS,"‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office",Deadline,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-08-24 10:55:14,M&M.NS,Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m,Al Jazeera,positive,0.3844,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:14,M&M.NS,Indian Grandmaster Pranesh M wins Kanizsa Open chess title,The New Indian Express,neutral,0.4605,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:19,NTPC.NS,3 Strong Undervalued Power Stocks in India to Watch in August 2026,Univest,neutral,0.576,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-24 10:55:31,TATASTEEL.NS,Share of THIS company witnesses massive surge! MD-CEO reappointment and Morgan Stanley rating boost investor,India.com,positive,0.7466,AUTO_ACCEPTED,indi-finbert
