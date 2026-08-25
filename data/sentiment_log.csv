@@ -3877,3 +3877,26 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-25 01:54:36,M&M.NS,Indian payments platform Navi raises $100m from Prosus,FinTech Futures,positive,0.7312,AUTO_ACCEPTED,indi-finbert
 2026-08-25 01:54:40,NTPC.NS,"Waaree Energies, Saatvik Green, Premier Energies, NTPC Green: How renewable energy stocks are performing on Aug 24",Upstox,neutral,0.7374,AUTO_ACCEPTED,indi-finbert
 2026-08-25 01:54:56,TCS.NS,"TCS Share Price Today, August 24, 2026: Tata Consultancy Closes at ₹2,284",The Eastern Herald,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,INFY.NS,"Kotak downgrades Infosys, TCS to 'Add'; prefers TechM, Coforge, Hexaware, Indegene",moneycontrol,negative,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,TCS.NS,"Kotak downgrades Infosys, TCS to 'Add'; prefers TechM, Coforge, Hexaware, Indegene",moneycontrol,negative,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,TECHM.NS,"Kotak downgrades Infosys, TCS to 'Add'; prefers TechM, Coforge, Hexaware, Indegene",moneycontrol,negative,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,JSWSTEEL.NS,"Nomura picks Jindal Steel as preferred tactical bet in India steel; maintains 'Buy' on Tata Steel, JSW Steel",moneycontrol,positive,0.8879,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,TATASTEEL.NS,"Nomura picks Jindal Steel as preferred tactical bet in India steel; maintains 'Buy' on Tata Steel, JSW Steel",moneycontrol,positive,0.8879,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,POWERGRID.NS,Buy Power Grid Corporation of India; target of Rs 303: Geojit Financial Services,moneycontrol,positive,0.7207,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:42,TATASTEEL.NS,"Tata Steel shares fall 1% despite relief in Rs 1,755 crore mining demand case",moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:53,BAJFINANCE.NS,Bajaj Finserv Share Price - Live NSE: BAJAJFINSV Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:50:55,BAJAJFINSV.NS,Bajaj Finserv Share Price - Live NSE: BAJAJFINSV Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:21,ICICIBANK.NS,ICICI Bank Stock Update: Share Price Rises on Goldman Sachs Buy Call,LatestLY,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:21,ICICIBANK.NS,"Stocks To Buy or Sell Today, August 25, 2026: TCS, Coal India, and Hindustan Copper Among Shares That May",LatestLY,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:30,KOTAKBANK.NS,Kotak Mahindra Bank Raises $650 Million via Senior Notes,PSU Connect,positive,0.7077,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:32,LT.NS,Tamil film Selvi to premiere at Busan Int'l Film Fest,The Times of India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:32,LT.NS,"CM Majhi sanctions Rs 14.5L aid for 16 patients, says 95% cases resolve",The New Indian Express,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:32,LT.NS,"A350s will be vital for int'l growth at IndiGo, says Walsh",ch-aviation,positive,0.653,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:35,M&M.NS,Apple is about to launch five new products that I’m very excited for,9to5Mac,positive,0.6491,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 10:51:35,M&M.NS,CPI-CPI(M) battle over Keralam Dy LoP post intensifies as Sathyan Mokeri lambasts Opposition Leader Pinarayi Vijayan,The Hindu,negative,0.7339,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:35,M&M.NS,Natco Pharma Boosts eGenesis Investment to $22M for Transplants,Rediff MoneyWiz,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:35,M&M.NS,India’s Third Wave Coffee raises $43m to fuel expansion,Global Coffee Report,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:35,M&M.NS,India's Nexedge raises $20M at $250M valuation for wealth management,Dealroom,positive,0.7321,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:57,TCS.NS,Tata Consultancy Services Stock Update: Shares Gain on Porsche AI Deal,LatestLY,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:57,TCS.NS,"Stocks To Buy or Sell Today, August 25, 2026: TCS, Coal India, and Hindustan Copper Among Shares That May",LatestLY,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-08-25 10:51:58,TECHM.NS,"UBS selective on Indian IT amid AI uncertainty; upgrades Coforge, Mphasis, Tech Mahindra, prefers Tier-2...",Moneycontrol.com,neutral,0.8771,AUTO_ACCEPTED,indi-finbert
