@@ -3856,3 +3856,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-24 10:55:14,M&M.NS,Indian Grandmaster Pranesh M wins Kanizsa Open chess title,The New Indian Express,neutral,0.4605,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-24 10:55:19,NTPC.NS,3 Strong Undervalued Power Stocks in India to Watch in August 2026,Univest,neutral,0.576,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-24 10:55:31,TATASTEEL.NS,Share of THIS company witnesses massive surge! MD-CEO reappointment and Morgan Stanley rating boost investor,India.com,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:53:46,HDFCLIFE.NS,"Meesho Block Deals: Y Combinator offloads over 1% stake; 20 investors, including Nippon India, HDFC Life, Morgan Stanley, buy shares",moneycontrol,neutral,0.5597,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 01:53:46,TATACONSUM.NS,Buy Tata Consumer Products; target of Rs 1500: Motilal Oswal,moneycontrol,positive,0.9179,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:02,BHARTIARTL.NS,"Airtel Payments Bank annualised revenue crosses Rs 3,300 crore in Q1 FY27",indiagazette.com,positive,0.7332,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:12,GRASIM.NS,"Gaja Alternative Asset Management IPO allotment finalised: How to check status online on MUFG Intime India, NSE, BSE; listing date, time revealed",Upstox,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:19,HINDALCO.NS,India stocks lower at close of trade; Nifty 50 down 0.14%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:19,HINDALCO.NS,"Hindalco Share Price Today, August 24, 2026: Closes at ₹1,058.50",The Eastern Herald,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:23,ICICIBANK.NS,"ICICI Bank Share Price Today, August 24, 2026: Closes at ₹1,415 on NSE",The Eastern Herald,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:30,KOTAKBANK.NS,Kotak Mahindra Bank allots US$ 650 million senior notes due 2031,scanx.trade,neutral,0.7277,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:30,KOTAKBANK.NS,Kotak Mahindra Bank: Allots US$650 Million Senior Notes Due 2031,InvestyWise,neutral,0.6661,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:30,KOTAKBANK.NS,Kotak Mahindra Bank Senior Notes Terms Uploaded,InvestyWise,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:32,LT.NS,"L&T Share Price Today, August 24, 2026: Closes at ₹4,090 on NSE",The Eastern Herald,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:33,LT.NS,Evaluating the therapeutic potential of L-arginine and licorice extract in letrozole-induced polycystic ovary syndrome in rats: targeting interconnected molecular pathways,Nature,neutral,0.616,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 01:54:33,LT.NS,"“Fragrance lies at the heart of conversation,” Karine Lebret, L’Oréal",Premium Beauty News,neutral,0.6859,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:33,LT.NS,"64th Int'l Fair of Agriculture and Food held in Gornja Radgona, Slovenia",Xinhua,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:33,LT.NS,CM orders probe into JU ‘anti-nat’l’ graffiti,The Times of India,negative,0.5691,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 01:54:36,M&M.NS,Alarm over $20m plan to supply ICE officers with electric-shock gloves,The Guardian,neutral,0.6913,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:36,M&M.NS,Iranian state TV airs video targeting Barron Trump with $10m bounty,Euronews.com,neutral,0.5966,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 01:54:36,M&M.NS,'Where to kill Barron?' Iran airs video offering $10m. reward to kill US president's son - report,The Jerusalem Post,neutral,0.4214,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-25 01:54:36,M&M.NS,Indian payments platform Navi raises $100m from Prosus,FinTech Futures,positive,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:40,NTPC.NS,"Waaree Energies, Saatvik Green, Premier Energies, NTPC Green: How renewable energy stocks are performing on Aug 24",Upstox,neutral,0.7374,AUTO_ACCEPTED,indi-finbert
+2026-08-25 01:54:56,TCS.NS,"TCS Share Price Today, August 24, 2026: Tata Consultancy Closes at ₹2,284",The Eastern Herald,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
