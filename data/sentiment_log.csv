@@ -3900,3 +3900,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-25 10:51:57,TCS.NS,Tata Consultancy Services Stock Update: Shares Gain on Porsche AI Deal,LatestLY,positive,0.7479,AUTO_ACCEPTED,indi-finbert
 2026-08-25 10:51:57,TCS.NS,"Stocks To Buy or Sell Today, August 25, 2026: TCS, Coal India, and Hindustan Copper Among Shares That May",LatestLY,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
 2026-08-25 10:51:58,TECHM.NS,"UBS selective on Indian IT amid AI uncertainty; upgrades Coforge, Mphasis, Tech Mahindra, prefers Tier-2...",Moneycontrol.com,neutral,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:30,ADANIPORTS.NS,5 Port Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.6952,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:31,APOLLOHOSP.NS,5 Healthcare Stocks India 2026: Future Roadmaps,Univest,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:44,BRITANNIA.NS,5 FMCG Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.6926,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:46,CIPLA.NS,5 Pharma Stocks India 2026: Future Roadmaps,Univest,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:49,DIVISLAB.NS,5 Pharma Stocks India 2026: Future Roadmaps,Univest,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:50,DRREDDY.NS,5 Pharma Stocks India 2026: Future Roadmaps,Univest,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:53,GRASIM.NS,"Meenakshi (India) Ltd Share Price Today,, Meenakshi (India) Ltd Stock Price NSE, BSE",Business Today,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:56,HDFCBANK.NS,"ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-08-26 01:59:59,HEROMOTOCO.NS,Hero MotoCorp invests ₹959 crore in Ather Energy through preferential allotment,Business Upturn,positive,0.7292,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:02,HINDUNILVR.NS,HUL Hits 52-Week Low as 7 Nifty Giants Lose Money in 5 Years,NiftyTrader,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:04,ICICIBANK.NS,"ICICI Bank Share Price Today, August 25, 2026: ₹1,413 in Morning Trade",The Eastern Herald,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:10,JSWSTEEL.NS,"Nomura picks Jindal Steel as preferred tactical bet in India steel; maintains 'Buy' on Tata Steel, JSW...",Moneycontrol.com,positive,0.9078,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:14,LT.NS,SOA Degree For Int’l Students,tathya.in,neutral,0.5024,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:14,LT.NS,Gandhinagar trader alleges ₹97.5L visa fraud over Canada PR promise,The Times of India,negative,0.7271,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:14,LT.NS,Mary L. Shofkom’s “Legends of the Spook Hollow” to be Featured at Book Festival at Printers Row in Chicago,WebWire,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:14,LT.NS,"Marten Transport Extends Credit Facility to 2031, Raises L/C Capacity to $50 Million",TradingView,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:17,M&M.NS,Trump threatens to demolish Kennedy Center if $250m renovation not done,The Guardian,negative,0.6346,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:17,M&M.NS,Brazil fines TikTok $30m for child data privacy violations,Al Jazeera,negative,0.7077,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:17,M&M.NS,OnlyFans owner was paid over $700m before his death,BBC,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:17,M&M.NS,NSF Invests $290M in Eight Quantum Research Institutes,The Quantum Insider,neutral,0.3818,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:17,M&M.NS,"Misleading Method For Caste Census: Rahul Gandhi, M Kharge Write To PM Modi",NDTV,neutral,0.6829,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:20,NESTLEIND.NS,Crazy Snacks Ltd Share Price,Business Today,neutral,0.7185,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:20,NESTLEIND.NS,5 FMCG Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.6926,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:31,SUNPHARMA.NS,5 Pharma Stocks India 2026: Future Roadmaps,Univest,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:35,TATASTEEL.NS,Indian Metals & Ferro Alloys Starts First Tapping At New Kalinganagar Expansion,Sahi,positive,0.3786,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:35,TATASTEEL.NS,Tata Steel mining demand challenge admitted by authority,scanx.trade,negative,0.7251,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:35,TATASTEEL.NS,"Tata Steel Shares in Focus After Relief in ₹1,755 Cr Mining Case; Here’s What Happened",Trade Brains,negative,0.4486,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:35,TATASTEEL.NS,"India's finished steel output rises 4.7% in Apr-Jul, consumption grows 7.9%",India's News.Net,positive,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-08-26 02:00:35,TATASTEEL.NS,"Nomura Backs Jindal Steel as Tactical Play; Retains Buy on Tata, JSW",Whalesbook,positive,0.3913,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 02:00:41,TITAN.NS,5 Jewellery Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.7123,AUTO_ACCEPTED,indi-finbert
