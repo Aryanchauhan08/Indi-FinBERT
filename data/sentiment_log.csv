@@ -3930,3 +3930,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-26 02:00:35,TATASTEEL.NS,"India's finished steel output rises 4.7% in Apr-Jul, consumption grows 7.9%",India's News.Net,positive,0.7443,AUTO_ACCEPTED,indi-finbert
 2026-08-26 02:00:35,TATASTEEL.NS,"Nomura Backs Jindal Steel as Tactical Play; Retains Buy on Tata, JSW",Whalesbook,positive,0.3913,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-26 02:00:41,TITAN.NS,5 Jewellery Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.7123,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:32,BPCL.NS,"Nomura picks IOCL, BPCL as refining margins stay strong despite oil oversupply outlook",moneycontrol,positive,0.9372,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:33,AXISBANK.NS,"Bank Nifty near 58,000 as oil prices slide; Kotak, Axis Bank lead gains: What lies ahead?",moneycontrol,positive,0.6849,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:47,BPCL.NS,BPCL Fined by BSE & NSE for Compliance Lapses,InvestyWise,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:49,BHARTIARTL.NS,BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE,scanx.trade,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:49,BHARTIARTL.NS,"Stocks To Buy or Sell Today, August 26, 2026: Bharti Airtel, HDFC Bank and NHPC Among Shares That May",LatestLY,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:54,COALINDIA.NS,"Coal India fined ₹12.66 lakh each by BSE, NSE for LODR breaches",scanx.trade,negative,0.7314,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:52:54,COALINDIA.NS,"CMPDI fined ₹23.6 lakh by BSE, NSE for SEBI LODR non-compliance",scanx.trade,negative,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:01,GRASIM.NS,"Ircon International fined ₹9,66,420 by NSE and BSE for non-compliance",Business Upturn,negative,0.7294,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:01,GRASIM.NS,"REC fined ₹10,77,340 each by NSE and BSE for non-compliance",Business Upturn,negative,0.7218,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:01,GRASIM.NS,"Shipping Corporation of India fined ₹13,10,980 by BSE and NSE for non-compliance",Business Upturn,negative,0.7269,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:01,GRASIM.NS,Amber Enterprises India sets record date for e-voting ahead of 36th AGM,Business Upturn,positive,0.3966,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 10:53:09,HEROMOTOCO.NS,"Ather Energy allots shares, warrants in ₹1,200 crore fundraise; Hero MotoCorp stake to near 30%",India IPO,positive,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:12,HINDUNILVR.NS,Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:25,LT.NS,Aptar Beauty Creates a Custom Dispensing Pump for L’Occitane-En-Provence's Refillable Hand Care Collection,Aptar,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:25,LT.NS,"EMS Limited emerges as L-1 bidder for ₹1,298 crore Jodhpur sewerage project",smallcapspotlight.in,positive,0.7201,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:25,LT.NS,MANIPAL HEALTH ENTERPRI L (MANIPALHOS) Share Price hits fresh 52-week high at Rs 782.65,Univest,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:25,LT.NS,"Gaya, India to see first scheduled int'l ops in early 4Q26",ch-aviation,neutral,0.7374,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:25,LT.NS,"Honda ADV160 Launches for Rs 1.7L, Takes on Hero Zoom 160",TelecomTalk,positive,0.7245,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:29,M&M.NS,Karnataka government seeks report on allegations against IPS officer M Chandra Sekhar,Deccan Herald,neutral,0.4022,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 10:53:29,M&M.NS,£1.5m-rated Abdulmalik asks to leave Boreham Wood,BBC,neutral,0.3896,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 10:53:29,M&M.NS,Gavin Newsom puts Spanish-style California mansion up for sale for $7.5m,The Guardian,neutral,0.3977,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 10:53:31,NESTLEIND.NS,Nestle India faces customs duty demand of ₹2.47 crore,Business Upturn,negative,0.7163,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:32,NESTLEIND.NS,Nestle India receives ₹2.47 Cr customs penalty order,scanx.trade,negative,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:33,NTPC.NS,NTPC GREEN ENERGY LIMITED Share Price - Live NSE: NTPCGREEN Stock Price & Chart,Upstox,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:33,NTPC.NS,"NTPC fined ₹5.36 lakh by BSE, NSE for director appointment delay",scanx.trade,negative,0.7143,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:33,NTPC.NS,"NTPC faces Rs. 5,36,900 fine from BSE and NSE for non-compliance",Business Upturn,negative,0.7045,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:33,NTPC.NS,NTPC Fined ₹5.37 Lakh Each by BSE & NSE Over Board Composition,PSU Connect,negative,0.7332,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:33,NTPC.NS,NTPC Fined ₹10.7 Lakh by Stock Exchanges,InvestyWise,negative,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-08-26 10:53:36,POWERGRID.NS,5 Power Infrastructure Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.429,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-26 10:53:54,TITAN.NS,Titan Company Share Price,Upstox,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
