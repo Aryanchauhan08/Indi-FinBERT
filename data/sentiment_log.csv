@@ -3987,3 +3987,36 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-27 09:49:59,TATASTEEL.NS,TATASTEEL 29 Sep 26 Future Research Recommendation,HDFC Sky,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
 2026-08-27 09:50:04,TECHM.NS,Tech Mahindra hosts virtual investor call on September 1,scanx.trade,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
 2026-08-27 09:50:06,TITAN.NS,"Titan, Kalyan Post 40%+ Growth Even as Gold Jewellery Volumes Fall 17%",NiftyTrader,positive,0.69,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:30:56,APOLLOHOSP.NS,5 Pharmacy Retail Chain Stocks India 2026: Roadmaps,Univest,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:30:57,APOLLOHOSP.NS,Apollo Hospitals Extends Its Lead as India's Hospital Chains Post Record Revenue in Q1 FY27,The Eastern Herald,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:05,BAJAJFINSV.NS,Bajaj Finance's Profit Growth Halved as India's NBFC Sector Splits on Secured vs Unsecured Lines,The Eastern Herald,negative,0.7297,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:07,BPCL.NS,ONGC Posts Highest-Ever Quarterly Profit as $100 Crude Splits India’s Oil Sector in Two,The Eastern Herald,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:10,BRITANNIA.NS,IRB Infrastructure Developers to engage with investors at Elara India's Ashwamedh 2026,Business Upturn,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:17,DRREDDY.NS,India's Pharma Stocks Climb as CDMO Contracts Replace the Generic Trade as the Growth Driver,The Eastern Herald,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:19,GRASIM.NS,"Sensex falls 539 points, Nifty slips 0.48% as expiry volatility, Middle East uncertainty weigh",ANI News,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:19,GRASIM.NS,Precision Wires confirms NSE compliance for preferential issue proceeds,scanx.trade,neutral,0.6127,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 20:31:19,GRASIM.NS,"RailTel fined ₹9,00,340 each by NSE and BSE for Q2FY27 board non-compliance",scanx.trade,negative,0.7221,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:19,GRASIM.NS,MSTC fined ₹5.37 lakh each by BSE and NSE for board compliance lapse,scanx.trade,negative,0.7375,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:19,GRASIM.NS,"MOIL Ltd fined ₹18.6 lakh by NSE, BSE for board composition breach",scanx.trade,negative,0.7185,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:25,HDFCLIFE.NS,LIC’s VNB Surges 61% as India’s Insurance Sector Posts Its Best Q1 in a Decade,The Eastern Herald,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:26,HEROMOTOCO.NS,"Hero MotoCorp to raise Ather Energy stake to 32.8% in Rs 1,758 crore deal",Business Upturn,neutral,0.6944,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:37,INFY.NS,Nifty IT Rallies 9% Off 2026 Lows as TCS Wins $9.5B in Deals While Infosys Cuts Guidance,The Eastern Herald,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:42,LT.NS,"Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",Al Jazeera,positive,0.4247,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 20:31:42,LT.NS,Ahmedabad: 75-yr-old retd prof loses ₹54.6L to ‘digital arrest’,The Times of India,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:42,LT.NS,Why Guerlain Is Launching a New L’Heure Bleue,Vogue,neutral,0.7188,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:42,LT.NS,Mercedes-Benz GLE L long-wheelbase Debuts in China – What about India?,Motoroids,neutral,0.7246,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:43,LTIM.NS,Persistent Breaks Away as India’s IT Midcap Cohort Splits on Growth in Q1 FY27,The Eastern Herald,neutral,0.6888,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:45,M&M.NS,Chelsea agree £7.5m fee for Villa's Martinez,BBC,positive,0.5917,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 20:31:45,M&M.NS,'Keep Strength Of Lok Sabha Seats At 543 For 25 Years': M Kharge To PM Modi,NDTV,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:45,M&M.NS,Three UK airports hit by cyber-attack with data of 8.7m customers accessed,The Guardian,negative,0.7212,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:45,M&M.NS,"Nepal floods: Families unable to contact more than 50 M'sians, says embassy",The Star,negative,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:45,M&M.NS,"Chelsea, Aston Villa agree £7.5m Emiliano Martínez transfer — report",We Ain't Got No History,neutral,0.6821,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:50,NTPC.NS,India’s Power Stocks Rally as Rate Cut Bets Slash Financing Costs for NTPC’s 10 GW Expansion,The Eastern Herald,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:52,ONGC.NS,2 Undervalued Crude Oil and Natural Gas Stocks Trading Below Fair Value,Univest,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:52,ONGC.NS,Oil and Gas Sector Stocks: 4 Picks for 2026,Univest,neutral,0.7379,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:31:52,ONGC.NS,ONGC Posts Highest-Ever Quarterly Profit as $100 Crude Splits India’s Oil Sector in Two,The Eastern Herald,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:32:03,TATASTEEL.NS,"Tata Steel hosts analyst meeting on September 1, 2026",scanx.trade,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:32:05,TATACONSUM.NS,5 Coffee and Tea Plantation Stocks India 2026,Univest,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:32:11,TITAN.NS,Titan Pulls Away as India’s Jewellery Sector Posts Mixed Q1 FY27 on Gold Price Surge,The Eastern Herald,neutral,0.6362,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 20:32:13,ULTRACEMCO.NS,UltraTech Hits 200 MTPA as India’s Cement Price Rout Erases Its Scale Advantage,The Eastern Herald,positive,0.7178,AUTO_ACCEPTED,indi-finbert
+2026-08-27 20:32:13,UPL.NS,UPL Returns to Profit as India’s Specialty Chemicals Sector Stages Q1 FY27 Recovery,The Eastern Herald,positive,0.7476,AUTO_ACCEPTED,indi-finbert
