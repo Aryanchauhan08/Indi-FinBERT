@@ -3960,3 +3960,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-26 10:53:33,NTPC.NS,NTPC Fined ₹10.7 Lakh by Stock Exchanges,InvestyWise,negative,0.7402,AUTO_ACCEPTED,indi-finbert
 2026-08-26 10:53:36,POWERGRID.NS,5 Power Infrastructure Stocks India 2026: Strong Future Roadmaps,Univest,neutral,0.429,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-26 10:53:54,TITAN.NS,Titan Company Share Price,Upstox,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:48:53,HDFCBANK.NS,Live: US lawsuit against HDFC Bank triggers stock down; Market breadth weak | Closing Bell,moneycontrol,negative,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:48:53,ADANIENT.NS,Buy Adani Enterprises; target of Rs 3880: Motilal Oswal,moneycontrol,positive,0.9343,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:48:54,ADANIENT.NS,Adani Enterprises shares rise over 1.5% as Motilal Oswal initiates coverage with 'buy' rating,moneycontrol,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:48:54,HDFCBANK.NS,HDFC Bank shares fall over 2% to hit 52-week low: Here's why,moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:48:55,ADANIENT.NS,"Adani Enterprises Share Price Could Rally 25%, Says Morgan Stanley — Here's Why",NDTV Profit,positive,0.8758,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:08,BHARTIARTL.NS,Bharti Airtel Records Rs. 135.42 Crore Block Trade on NSE at Rs. 1925.60 Per Share,scanx.trade,neutral,0.69,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:26,HINDALCO.NS,MOIL faces fines of ₹18 lakh from NSE and BSE for non-compliance,Business Upturn,negative,0.7096,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:37,KOTAKBANK.NS,"Banking sector stocks today, August 27: Kotak Mahindra Bank, DCB Bank and ICICI Bank gain; HDFC Bank, SBI decline",Business Upturn,positive,0.7257,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:39,LT.NS,"L Catterton Asia Acquisition Corp Warrant (LCAAW) Financials – Balance Sheet, Profit & Loss, Cash Flow",Value Research,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:39,LT.NS,Mercedes-Benz reveals long-wheelbase GLE L in China,Autocar India,positive,0.4969,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 09:49:39,LT.NS,Mercedes-Benz GLE L Revealed in China with 120mm Longer Wheel Base,autoX,positive,0.7244,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:39,LT.NS,IIAC’s limited visibility reflects deeper trust deficit in institutional arbitration: Justice L Nageswara Rao,India Legal,neutral,0.6327,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 09:49:39,LT.NS,"Faridabad tax officer, driver held in ₹4 L truck clearance bribe case | Hindustan Times",Hindustan Times,negative,0.6986,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:41,M&M.NS,"Auto stocks today down today, August 27: Ola Electric falls 1.53%, TVS Motor drops 1.42%, Mahindra & Mahindra down 0.85%",Business Upturn,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:42,M&M.NS,Muchová and Menšík win $1m US Open mixed doubles title in late-night thriller,The Guardian,positive,0.5654,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 09:49:42,M&M.NS,Viral AI startup Instinct has raised $350M at a $2.5B valuation,TechCrunch,positive,0.7204,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:42,M&M.NS,Plant makes 5.5m extra litres of drinking water for Jersey,BBC,positive,0.733,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:42,M&M.NS,Scoop: Sword Health to acquire Headspace for up to $300M,Axios,positive,0.4877,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 09:49:42,M&M.NS,"VR intersects 317 m at 0.77% CuEq starting at surface,",GlobeNewswire,neutral,0.5918,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-27 09:49:46,NTPC.NS,"BSE, NSE impose over ₹59 cr penalty on NTPC, SJVN, REC for non-compliance",Business Standard,negative,0.8735,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:47,ONGC.NS,"ONGC fined ₹14.31 lakh each by BSE, NSE for board compliance gaps",scanx.trade,negative,0.7211,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:49,POWERGRID.NS,"POWERGRID Faces ₹22.73 Lakh Fines From NSE, BSE Over Board Composition Norms",PSU Connect,negative,0.7285,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:49,POWERGRID.NS,BSE and NSE Impose ₹22.73 Lakh Fine on POWERGRID Over Board Composition Lapses,psuindia.com,negative,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:57,TATAMOTORS.NS,"Auto stocks today down today, August 27: Ola Electric falls 1.53%, TVS Motor drops 1.42%, Mahindra & Mahindra down 0.85%",Business Upturn,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:49:59,TATASTEEL.NS,TATASTEEL 29 Sep 26 Future Research Recommendation,HDFC Sky,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:50:04,TECHM.NS,Tech Mahindra hosts virtual investor call on September 1,scanx.trade,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-08-27 09:50:06,TITAN.NS,"Titan, Kalyan Post 40%+ Growth Even as Gold Jewellery Volumes Fall 17%",NiftyTrader,positive,0.69,AUTO_ACCEPTED,indi-finbert
