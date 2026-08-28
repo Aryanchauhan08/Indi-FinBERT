@@ -4020,3 +4020,26 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-27 20:32:11,TITAN.NS,Titan Pulls Away as India’s Jewellery Sector Posts Mixed Q1 FY27 on Gold Price Surge,The Eastern Herald,neutral,0.6362,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-08-27 20:32:13,ULTRACEMCO.NS,UltraTech Hits 200 MTPA as India’s Cement Price Rout Erases Its Scale Advantage,The Eastern Herald,positive,0.7178,AUTO_ACCEPTED,indi-finbert
 2026-08-27 20:32:13,UPL.NS,UPL Returns to Profit as India’s Specialty Chemicals Sector Stages Q1 FY27 Recovery,The Eastern Herald,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:19,ADANIENT.NS,"Stocks To Buy or Sell Today, August 28, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:28,BAJFINANCE.NS,"Stocks To Buy or Sell Today, August 28, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:31,BPCL.NS,"Stocks To Buy or Sell Today, August 28, 2026: LIC, RVNL, and Adani Power Tech Among Shares That May Remain",LatestLY,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:34,BRITANNIA.NS,Britannia Industries receives 'strong' ESG rating of 66 from Crisil,Business Upturn,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:36,CIPLA.NS,Sun Pharma and Lupin Post Record Results as Dr Reddy's Takes ₹240 Crore Semaglutide Hit in Q1 FY27,The Eastern Herald,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:41,DRREDDY.NS,Sun Pharma and Lupin Post Record Results as Dr Reddy's Takes ₹240 Crore Semaglutide Hit in Q1 FY27,The Eastern Herald,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:49,HEROMOTOCO.NS,Tempsens Instruments India shares list at 111% premium on NSE; here's how much investors made per lot,Upstox,positive,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:49,HEROMOTOCO.NS,"Stocks To Buy or Sell Today, August 28, 2026: LIC, RVNL, and Adani Power Tech Among Shares That May Remain",LatestLY,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:49,HEROMOTOCO.NS,"Ather Energy: Hero MotoCorp to invest Rs 1,758 crore additionally, stake to rise to 32.8%",financialexpress.com,positive,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:49,HEROMOTOCO.NS,"Ather Energy shares jump over 5% after ₹1,758 crore block deal as Hero MotoCorp raises stake in the EV maker",Dailyhunt,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:24:55,ITC.NS,ITC completes AGM notice despatch; e-voting begins July 19,scanx.trade,neutral,0.7266,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:03,LT.NS,Visit L Street in Koramangala and be awed,The Hindu,positive,0.6914,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:03,LT.NS,"Skipper wins new orders of ₹1,305 cr for domestic, int’l T&D projects",Construction Week India,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:03,LT.NS,GANESH CONSUMER PRODUCT L Share Price rise and valuation,Univest,positive,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:03,LT.NS,Who is Manni L Perez? GTA VI's Lucia actor confirms role after Netflix gameplay release; ‘Some of you recognized…’ | Hindustan Times,Hindustan Times,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:06,M&M.NS,Zurich Diamond League 2026: Rumesh Tharanga wins javelin with 92.07m throw,olympics.com,neutral,0.5848,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 11:25:06,M&M.NS,Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa,The Guardian,positive,0.5547,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 11:25:06,M&M.NS,Emi Martinez transfer news: Chelsea agree £7.5m fee for Villa goalkeeper,BBC,neutral,0.6777,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:06,M&M.NS,Emiliano Martinez transfer news: Chelsea agree £7.5m deal to sign Aston Villa's World Cup winning goalkeeper,Sky Sports,positive,0.6186,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 11:25:06,M&M.NS,"Blake Lively awarded $400,000 of $8m she claimed for legal fees in Baldoni battle",BBC,negative,0.5936,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 11:25:25,TCS.NS,TCS Share Price Today - Tata Consultancy Services on NSE/BSE,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:27,TECHM.NS,"Stocks To Buy or Sell Today, August 28, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
+2026-08-28 11:25:33,WIPRO.NS,"Stocks To Buy or Sell Today, August 28, 2026: LIC, RVNL, and Adani Power Tech Among Shares That May Remain",LatestLY,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
