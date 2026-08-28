@@ -4043,3 +4043,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-28 11:25:25,TCS.NS,TCS Share Price Today - Tata Consultancy Services on NSE/BSE,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-08-28 11:25:27,TECHM.NS,"Stocks To Buy or Sell Today, August 28, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
 2026-08-28 11:25:33,WIPRO.NS,"Stocks To Buy or Sell Today, August 28, 2026: LIC, RVNL, and Adani Power Tech Among Shares That May Remain",LatestLY,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:13:47,HCLTECH.NS,HCLTECH Share Price Today - HCL Technologies on NSE/BSE,scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:13:55,HEROMOTOCO.NS,"Hero MotoCorp to spend up to ₹1,758 crore to raise Ather Energy stake to 32.8%",IndiaIPO,positive,0.4141,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 21:13:55,HEROMOTOCO.NS,"Ather Energy shares jump 8% after ₹1,758 crore block deal as Hero MotoCorp raises stake in the EV maker",Dailyhunt,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:07,INDUSINDBK.NS,"Banking sector stocks today, August 28: IDBI Bank gains 1%, J&K Bank and IndusInd Bank fall",Business Upturn,positive,0.6905,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:18,LT.NS,Belzutifan Plus Lenvatinib Yields Comparable HRQoL to Cabozantinib in Post–PD-(L)1 RCC,OncLive,positive,0.7078,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:18,LT.NS,Who is Manni L Perez? GTA VI's Lucia actor confirms role amid Netflix gameplay release; ‘Some of you recognized…’ | Hindustan Times,Hindustan Times,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:18,LT.NS,"ONGC starts commercial crude production at Ashoknagar field, sends 1,200L to refinery",The Times of India,positive,0.6596,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:18,LT.NS,Anti-nat’l elements must be dealt with firmly: CM,MillenniumPost,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:22,M&M.NS,"Stocks To Buy or Sell Today, August 28, 2026: TCS, Mahindra & Mahindra and Dixon Tech Among Shares That May",LatestLY,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:23,M&M.NS,Friend-focused photo-sharing app Retro snags $21M,TechCrunch,positive,0.7138,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:23,M&M.NS,"‘Coyote Vs. Acme’ $1.7M Previews, ‘Dog Stars’ $850K As Canines Rule Thursday – Box Office",Deadline,positive,0.4996,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-28 21:14:23,M&M.NS,US ICE agency to spend $16.7m on electric shock gloves,Al Jazeera,neutral,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:23,M&M.NS,Rumesh wins Zurich Diamond League javelin with 92.07m throw,The News Mill,positive,0.6572,AUTO_ACCEPTED,indi-finbert
+2026-08-28 21:14:57,TCS.NS,TCS Hits $2.6 Billion AI Revenue Run Rate as Wipro Posts Flat Profit in a Divided Q1 FY27 for Indian IT,The Eastern Herald,positive,0.7108,AUTO_ACCEPTED,indi-finbert
