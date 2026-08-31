@@ -4057,3 +4057,37 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-28 21:14:23,M&M.NS,US ICE agency to spend $16.7m on electric shock gloves,Al Jazeera,neutral,0.7319,AUTO_ACCEPTED,indi-finbert
 2026-08-28 21:14:23,M&M.NS,Rumesh wins Zurich Diamond League javelin with 92.07m throw,The News Mill,positive,0.6572,AUTO_ACCEPTED,indi-finbert
 2026-08-28 21:14:57,TCS.NS,TCS Hits $2.6 Billion AI Revenue Run Rate as Wipro Posts Flat Profit in a Divided Q1 FY27 for Indian IT,The Eastern Herald,positive,0.7108,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HDFCBANK.NS,"HDFC Bank shares jump 3%; brokerages bullish on CEO transition, but cut target prices on near-term risks",moneycontrol,positive,0.9463,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HDFCBANK.NS,Brent Oil close to $90|HDFC Bank in Focus after Jagdishan decides to not see re-appointment,moneycontrol,negative,0.7534,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HDFCBANK.NS,Merger to margins: How brokerages assess Sashidhar Jagdishan's tenure at HDFC Bank,moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HDFCBANK.NS,"HDFC Bank CEO exit: Brokerages retain bullish calls, but slash target prices as succession risks rise",moneycontrol,negative,0.7187,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HEROMOTOCO.NS,"Ashish Dhawan buys 1.11% stake in Religare; Hero MotoCorp picks up Rs 1,758 crore Ather shares",moneycontrol,positive,0.851,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,ADANIPORTS.NS,"Bernstein reshuffles India portfolio: Eternal, Paytm, Adani Ports enter; DMart exits",moneycontrol,neutral,0.9359,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:07,HDFCBANK.NS,Street shrugs off HDFC Bank CEO exit: Only 3 of 13 brokerages trim target price,moneycontrol,neutral,0.8298,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:08,ADANIENT.NS,Weekly Recap: $11.5bn aluminium boost and Google-AdaniConneX clearances,TradingView,positive,0.7208,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:08,ADANIENT.NS,Adani Enterprises Opening Bell Updates: Geopolitical Jitters Dampen Early Trade,LatestLY,negative,0.7046,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:09,ADANIENT.NS,Adani Enterprises: Rich valuations and holding-company discount risk may cap gains,Livemint,positive,0.8186,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:11,APOLLOHOSP.NS,Apollo sets June 24 meetings for demerger scheme,scanx.trade,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:14,AXISBANK.NS,Weekly Recap: Regulatory closure with no action and AXISBANK double bottom,TradingView,neutral,0.5684,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:35:21,BPCL.NS,Weekly Recap: Nomura favors BPCL and BPCL open to Gulf FOB lifts,TradingView,neutral,0.6288,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:35:24,BRITANNIA.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI's red-label proposal; what you need to know",Dailyhunt,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:27,COALINDIA.NS,NSE fines Coal India Rs 5.45 lakh for Q4FY26 non-compliance,scanx.trade,negative,0.7233,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:27,COALINDIA.NS,"Govt sells 2% Coal India stake for ₹5,549 crore",scanx.trade,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:49,INDUSINDBK.NS,A roadmap beyond 1% RoA is key to IndusInd Bank’s turnaround,IndiaIPO,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:55,LT.NS,Two held with 11 kg ganja worth Rs 11.38L in Hyderabad,The Siasat Daily,neutral,0.7215,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:55,LT.NS,3 held for ₹6.25-L cyber fraud using fake Mahanagar Gas APK | Mumbai news,Hindustan Times,negative,0.6425,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:35:55,LT.NS,HS Semester III Exams: 7.2L Students to appear from Sep 21,MillenniumPost,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:55,LT.NS,₹49.91L properties of cattle smuggler to be attached under Gangsters Act,The Times of India,negative,0.7046,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:55,LT.NS,Column: SCO at 25: a model for new type of int'l relations,Xinhua,neutral,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:59,M&M.NS,Arsenal agree £55.7m club-record Gabriel Martinelli sale to Al Hilal with deal also agreed in principle with Barcelona for Gabriel Jesus,Sky Sports,positive,0.7104,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:59,M&M.NS,"Discount gas stations praised by Trump sold $4m of stolen fuel, lawsuit claims",The Guardian,negative,0.7239,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:59,M&M.NS,Healthcare data breach exposes 3.75M patient records,Fox News,negative,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:35:59,M&M.NS,Jackson breaks North American shot put record with 21.02m in Berlin | REPORTS,worldathletics.org,positive,0.5888,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:35:59,M&M.NS,‘Dumbfounded’: Aussie’s big super stand,News.com.au,positive,0.648,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:36:11,SBIN.NS,SBI and SBI Capital Markets to dilute up to 1% stake in NSE offer,The Times of India,neutral,0.7155,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:36:11,SBIN.NS,"SBI, SBI Capital Markets to Sell 1% NSE Stake in ₹30,000-Crore IPO",Daily Pioneer,negative,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:36:11,SBIN.NS,"SBI, arm to dilute up to 1 pc stake in NSE via public offer",Press Trust of India,neutral,0.6343,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 05:36:11,SBIN.NS,"NSE's ₹30,000 crore IPO: SBI, its investment banking arm to offload 1% stake",Business Today,neutral,0.7164,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:36:11,SBIN.NS,"SBI, SBI Capital Markets plan 1% NSE stake sale via IPO: Bank Chairman C S Setty",The Economic Times,neutral,0.8515,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:36:18,TATACONSUM.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI's red-label proposal; what you need to know",Dailyhunt,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-08-31 05:36:26,UPL.NS,"UPL completes swap transactions, secures CCI nod for restructuring scheme",scanx.trade,positive,0.7341,AUTO_ACCEPTED,indi-finbert
