@@ -4091,3 +4091,39 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-31 05:36:11,SBIN.NS,"SBI, SBI Capital Markets plan 1% NSE stake sale via IPO: Bank Chairman C S Setty",The Economic Times,neutral,0.8515,AUTO_ACCEPTED,indi-finbert
 2026-08-31 05:36:18,TATACONSUM.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI's red-label proposal; what you need to know",Dailyhunt,negative,0.7448,AUTO_ACCEPTED,indi-finbert
 2026-08-31 05:36:26,UPL.NS,"UPL completes swap transactions, secures CCI nod for restructuring scheme",scanx.trade,positive,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:20,ADANIENT.NS,"Nifty Metal down 2.5%; Adani Enterprises, Nalco, Hind Zinc decline up to 10%: Here's why",moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:20,BRITANNIA.NS,"Britannia, Nestlé India, Godrej Consumer, paints face raw material pressure; Nomura sees 2QFY27 margin hit",moneycontrol,negative,0.9365,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:20,HDFCBANK.NS,"HDFC Bank shares reverse 3% morning gain, close nearly 2% lower as CEO succession uncertainty weighs",moneycontrol,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:22,HDFCBANK.NS,4 in 5 mutual funds cut HDFC Bank exposure since merger; banking funds lead sell-down,moneycontrol,negative,0.786,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:22,HDFCBANK.NS,"Live: Sensex, Nifty log monthly decline in August; HDFC Bank reverses gain | Closing Bell",moneycontrol,negative,0.6019,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:38:22,ADANIENT.NS,"Adani Group stocks decline: Adani Enterprises down nearly 10%, Adani Ports slips over 6%; key developments",Upstox,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:22,ADANIENT.NS,"Stock market fall explained: Adani stocks tumble, HDFC Bank drags Nifty; Reliance gains",CNBC TV18,negative,0.7395,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:22,ADANIENT.NS,"MSCI rejig sends CAS volumes surging, sparks sharp moves in stocks",Business Standard,positive,0.891,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:22,ADANIENT.NS,"NSE Closing Session Sees Record Rs 39,718 Cr Turnover on MSCI Rebalance",Whalesbook,neutral,0.5614,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:38:24,ADANIPORTS.NS,"Adani Group stocks decline: Adani Enterprises down nearly 10%, Adani Ports slips over 6%; key developments",Upstox,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:29,AXISBANK.NS,Here's what transpired in today's CAS that triggered a 600-point jump on the Nifty Bank,CNBC TV18,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:40,BRITANNIA.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI’s red-label proposal; what you need to know",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:50,GRASIM.NS,"Nifty Infrastructure Index Gains 0.31% on August 31, 2026 as Power and Logistics Stocks Lead",The Eastern Herald,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:38:54,HDFCBANK.NS,"HDFC Bank Share Price August 31, 2026: Stock Gains 0.52% to Rs 1,742.30 as Loan Growth Holds",The Eastern Herald,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:04,ITC.NS,"ITC Infotech to buy out Soota's 22.1% stake in Happiest Minds for ₹1,330 crore; to be listed soon",Fortune India,positive,0.5261,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:39:04,ITC.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI’s red-label proposal; what you need to know",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:14,LT.NS,"Invest 97-L tracker: Check out spaghetti models, warnings and expected impacts from Florida to Texas | Hindustan Times",Hindustan Times,neutral,0.7348,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:14,LT.NS,Int'l panel rules India to comply with water-sharing with Pakistan,Daily Sabah,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:14,LT.NS,L’Oréal India Technology Hub appoints Kaustav Ghosh,Exchange4Media,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:14,LT.NS,Kaustav Ghosh joins L’Oréal India Technology Hub,impactonnet.com,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:14,LT.NS,Dr Rajiv Arora represents SBSSU at Czech Int’l Congress CHISA-2026 among 600+ participants,Babushahi.com,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:17,M&M.NS,"Auto stocks today, August 31: Ather Energy gains 3% Ola Electric up 1.46%; Olectra Greentech falls nearly 3%",Business Upturn,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:18,M&M.NS,"Melinda French Gates donated $10M to Olivia Rodrigo's Daisy Chain Fields Festival, bringing the total to",timesofindia.indiatimes.com,positive,0.6793,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:18,M&M.NS,CPI(M) defeat in Thaliparamba due to 11% vote share decline: Vijayan,Telangana Today,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:18,M&M.NS,Self-claimed wealth gurus who drove Lamborghinis now made bankrupt; investors worry about their $5m,The Straits Times,negative,0.5729,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:39:18,M&M.NS,Pranesh M wins Kanizsa Open,Chess News | ChessBase,positive,0.3979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:39:19,MARUTI.NS,Maruti Suzuki's FII trims stake to 12.8% in last two years; shares slip 19% YTD. Check what the CEO said on Monday,Upstox,negative,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:21,NESTLEIND.NS,"Nifty FMCG Falls 0.31% on August 31, 2026 as Consumer Staples Retreat on Muted Volume",The Eastern Herald,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:22,NTPC.NS,NTPC announces superannuation of Executive Director Renu Narang,Business Upturn,neutral,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:24,ONGC.NS,ONGC hosts post-AGM media interaction on August 31,scanx.trade,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:28,RELIANCE.NS,Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO,CNBC,positive,0.5457,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:39:29,RELIANCE.NS,"Reliance Industries Share Price August 31, 2026: RIL Gains 0.38% to Close at Rs 2,948.60",The Eastern Herald,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:32,SBIN.NS,"SBI, Arm to Dilute Up to 1% Stake in NSE via Public Offer",Entrepreneur India,neutral,0.6315,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-08-31 17:39:37,TATASTEEL.NS,Tata Steel completes divestment of entire stake in JFSPL,scanx.trade,neutral,0.6572,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:39,TATACONSUM.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI’s red-label proposal; what you need to know",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-08-31 17:39:41,TCS.NS,"TCS Share Price August 31, 2026: Tata Consultancy Services Drops 1.79% to Rs 3,812.40",The Eastern Herald,negative,0.7439,AUTO_ACCEPTED,indi-finbert
