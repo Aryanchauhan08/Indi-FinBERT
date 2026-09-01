@@ -4154,3 +4154,38 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-01 05:09:46,SUNPHARMA.NS,"Nifty Pharma Falls 0.82% on August 31, 2026 as Drug Stocks Slip",The Eastern Herald,negative,0.7445,AUTO_ACCEPTED,indi-finbert
 2026-09-01 05:09:52,TCS.NS,"TCS Share Price August 31, 2026: Down 1.79% to Rs 3,812.40",The Eastern Herald,negative,0.7446,AUTO_ACCEPTED,indi-finbert
 2026-09-01 05:09:52,TCS.NS,"Tata Consultancy Services Opening Bell Updates: AI Deal, Bribery & Analyst Meet in Focus",LatestLY,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:07,HDFCBANK.NS,Buy HDFC Bank; target of Rs 925: Motilal Oswal,moneycontrol,positive,0.9185,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:07,HDFCBANK.NS,Buy HDFC Bank; target of Rs 950: Prabhudas Lilladher,moneycontrol,positive,0.9376,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:08,ULTRACEMCO.NS,"Polycab, KEI shares fall up to 7% as UltraTech Cement forays into wires and cables segment with production launch in Gujarat",moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:08,MARUTI.NS,Maruti Suzuki shares fall 4% as August sales decline 10% MoM,moneycontrol,negative,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:08,AXISBANK.NS,"Bank Nifty falls nearly 800 points as CAS-driven surge fizzles out; Yes Bank, Axis Bank lead losses",moneycontrol,negative,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:09,ADANIENT.NS,MSCI India Rejig Drives $4.2 Billion NSE Closing Auction Turnover,Sahi,neutral,0.4074,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:54:11,ADANIPORTS.NS,Adani Enterprises Share Price,Upstox,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:12,APOLLOHOSP.NS,"Trade Spotlight: How should you trade Sagility, Graphite India, Axis Bank, Apollo Hospitals, Oberoi...",Moneycontrol.com,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:15,ASIANPAINT.NS,Asian Paints stock holds firm as crude spike tests margin outlook,AD HOC NEWS,positive,0.5939,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:54:16,AXISBANK.NS,Axis Bank updates contact details for authorized disclosure officers,scanx.trade,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:17,BAJAJ-AUTO.NS,"Bajaj Auto rallies 3%, trades near record high; tops share buyback price",business-standard.com,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:17,BAJAJ-AUTO.NS,"Bajaj Housing Finance: Registered Office Relocated to Viman Nagar, Pune",InvestyWise,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:17,BAJAJ-AUTO.NS,"Auto sector stocks today, September 1: Hero MotoCorp gains 3.58%, SML Mahindra jumps 3.33%, Hyundai Motor up 1.57%",Business Upturn,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:25,BRITANNIA.NS,Britannia Industries announces management change with appointment of new Chief Digital and Information Officer,Business Upturn,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:29,COALINDIA.NS,"Coal India production falls 5.7% in August, coal supplies rise 5.5%",Devdiscourse,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:41,HEROMOTOCO.NS,"Auto sector stocks today, September 1: Hero MotoCorp gains 3.58%, SML Mahindra jumps 3.33%, Hyundai Motor up 1.57%",Business Upturn,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:47,ITC.NS,Why ITC share price is down today? What's behind the stock plunge? Trigger and data details here,Livemint,negative,0.6936,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:47,ITC.NS,India stocks lower at close of trade; Nifty 50 down 0.10%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:58,LT.NS,"Bought a used Fiat Punto 1.2L petrol: Single owner, 51000 km, Rs 2 lakh",Team-BHP,positive,0.6518,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:58,LT.NS,"Used Mahindra XUV 3XO MX3 Pro 1.2 L TCMPFi AT in Gurgaon 2026 model, India at Best Price.",carandbike.com,positive,0.738,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:58,LT.NS,MP Govt To Transfer Rs 25k To 1.22 L Students For Laptops,BW Education,neutral,0.7089,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:58,LT.NS,Air quality in L-Iklin,IQAir,neutral,0.6834,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:54:58,LT.NS,L’Oréal elevates Adèle Courgenay to Marketing Director,Social Samosa,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:00,M&M.NS,"Auto sector stocks today, September 1: Hero MotoCorp gains 3.58%, SML Mahindra jumps 3.33%, Hyundai Motor up 1.57%",Business Upturn,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:01,M&M.NS,'Golden age of America': Trump celebrates as Supreme Court clears $400M White House ballroom,The Times of India,positive,0.6315,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:55:01,M&M.NS,Magna increases bet on battery swapping in India with $35M for Yuma,TechCrunch,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:01,M&M.NS,Uttarakhand B.Ed/M.Ed Answer Key 2026 Issued; Result Release Date Here,Telegraph India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:01,M&M.NS,Pinarayi Vijayan Faces Heat As CPI(M) Battles Cracks In Kannur Stronghold,NDTV,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:01,M&M.NS,upGrad wraps up Unacademy acquisition at $200M,YourStory.com,positive,0.5996,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:55:02,MARUTI.NS,Maruti Suzuki is top Nifty 50 loser today - what's driving the fall?,Livemint,negative,0.8171,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:07,ONGC.NS,"Stocks To Buy or Sell Today, September 1, 2026: ITC, HDFC Bank and ONGC Among Shares That May Remain in",latestly.com,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:13,SBILIFE.NS,"Jefferies names 28 top stock picks: SBI Life, Siemens Energy lead with 11% to 49% upside",financialexpress.com,neutral,0.533,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:55:21,TATACONSUM.NS,Tata Consumer Products acquires 5% additional stake in Capital Foods,Business Upturn,positive,0.5453,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 14:55:25,TECHM.NS,Tech Mahindra rises on forging global alliance with Rezolve AI,investmentguruindia.com,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-09-01 14:55:26,TITAN.NS,Jewellery stocks end lower after PM Modi appeals against gold buying; Kalyan Jewellers falls 4.7%,Moneycontrol.com,negative,0.9435,AUTO_ACCEPTED,indi-finbert
