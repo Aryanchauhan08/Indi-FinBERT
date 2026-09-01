@@ -4127,3 +4127,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-08-31 17:39:37,TATASTEEL.NS,Tata Steel completes divestment of entire stake in JFSPL,scanx.trade,neutral,0.6572,AUTO_ACCEPTED,indi-finbert
 2026-08-31 17:39:39,TATACONSUM.NS,"ITC, Britannia, Tata Consumer shares fall after FSSAI’s red-label proposal; what you need to know",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
 2026-08-31 17:39:41,TCS.NS,"TCS Share Price August 31, 2026: Tata Consultancy Services Drops 1.79% to Rs 3,812.40",The Eastern Herald,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,ONGC.NS,Buy ONGC; target of Rs 297: Geojit Financial Services,moneycontrol,positive,0.9053,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,BAJAJ-AUTO.NS,"Bajaj Auto, M&M shares rise as August sales jump; exports power growth",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,HDFCBANK.NS,Buy HDFC Bank; target of Rs 920: ICICI Securities,moneycontrol,positive,0.9067,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,SUNPHARMA.NS,"Sun Pharma shares fall over 2% after US drug-pricing deal, pare 3-session gains; tariff relief cushions impact",moneycontrol,negative,0.9412,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,SUNPHARMA.NS,"Sun Pharma signs US drug pricing deal, secures tariff relief for 2 years",moneycontrol,positive,0.9396,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,APOLLOHOSP.NS,"Trade Spotlight: How should you trade Sagility, Graphite India, Axis Bank, Apollo Hospitals, Oberoi Realty, TD Power Systems, and others on September 1?",moneycontrol,neutral,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:42,AXISBANK.NS,"Trade Spotlight: How should you trade Sagility, Graphite India, Axis Bank, Apollo Hospitals, Oberoi Realty, TD Power Systems, and others on September 1?",moneycontrol,neutral,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:08:44,ADANIENT.NS,Adani Group stocks plunge 10% intra-day: How MSCI Index rejig tests new closing auction,financialexpress.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:01,CIPLA.NS,"Nifty Pharma Falls 0.82% on August 31, 2026 as Drug Stocks Slip",The Eastern Herald,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:02,COALINDIA.NS,Coal India accepts resignation of ED Raja Sekhar Kinnera,scanx.trade,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:17,HINDUNILVR.NS,"Nifty FMCG Falls 0.31% on August 31, 2026 as Consumer Staples Retreat",The Eastern Herald,negative,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:21,ITC.NS,ITC Infotech & Happiest Minds Merge: $1B AI-First IT Giant,Rediff MoneyWiz,positive,0.4266,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 05:09:29,LT.NS,Gulmarg gears up to host Int’l film festival,Rising Kashmir,neutral,0.722,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:29,LT.NS,"Punjab: Military Lit Fest begins, focus on armed forces, nat’l security | Hindustan Times",Hindustan Times,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:29,LT.NS,"13.3L cases flagged for hearings in Pune dist, 62L electors on draft roll, 28.6L out",The Times of India,negative,0.453,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 05:09:29,LT.NS,AVI Global Trust PLC (AGT.L) Stock Analysis: Navigating the Investment Waters with Strong Market Cap,DirectorsTalk Interviews,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:31,M&M.NS,Mahindra & Mahindra auto sales rise 42% to 1.08 lakh units in August,Business Upturn,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:32,M&M.NS,"White House construction on $400m ballroom can go on, says US Supreme Court",Al Jazeera,positive,0.536,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-01 05:09:32,M&M.NS,Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’,TechCrunch,positive,0.6857,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:32,M&M.NS,"California condo owners erupt as HOA hits them with sudden $5M charges, threats",New York Post,negative,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:34,NESTLEIND.NS,"Nifty FMCG Falls 0.31% on August 31, 2026 as Consumer Staples Retreat",The Eastern Herald,negative,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:39,POWERGRID.NS,"Nifty Energy Slips 0.38% on August 31, 2026 as ONGC and Power Stocks Decline",The Eastern Herald,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:40,POWERGRID.NS,"Nifty Infrastructure Gains 0.31% on August 31, 2026 as Power and L&T Stocks Lead",The Eastern Herald,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:42,RELIANCE.NS,"Reliance Industries Falls 1.18% to ₹1,284.60 on August 31, 2026",The Eastern Herald,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:46,SUNPHARMA.NS,"Nifty Pharma Falls 0.82% on August 31, 2026 as Drug Stocks Slip",The Eastern Herald,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:52,TCS.NS,"TCS Share Price August 31, 2026: Down 1.79% to Rs 3,812.40",The Eastern Herald,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-01 05:09:52,TCS.NS,"Tata Consultancy Services Opening Bell Updates: AI Deal, Bribery & Analyst Meet in Focus",LatestLY,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
