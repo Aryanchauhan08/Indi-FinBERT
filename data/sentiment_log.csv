@@ -4189,3 +4189,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-01 14:55:21,TATACONSUM.NS,Tata Consumer Products acquires 5% additional stake in Capital Foods,Business Upturn,positive,0.5453,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-01 14:55:25,TECHM.NS,Tech Mahindra rises on forging global alliance with Rezolve AI,investmentguruindia.com,positive,0.7477,AUTO_ACCEPTED,indi-finbert
 2026-09-01 14:55:26,TITAN.NS,Jewellery stocks end lower after PM Modi appeals against gold buying; Kalyan Jewellers falls 4.7%,Moneycontrol.com,negative,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,HEROMOTOCO.NS,"Nifty Auto falls 2% despite strong August sales; Eicher, M&M, Hero MotoCorp lead losses",moneycontrol,negative,0.9427,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,SUNPHARMA.NS,"Sun Pharma shares inch up after yesterday’s 3% fall; Bernstein, HSBC see limited impact from US pricing deal",moneycontrol,positive,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,HCLTECH.NS,"Trade Spotlight: How should you trade ONGC, Infosys, Alembic Pharma, HCL Technologies, Caplin Point Labs, and others on September 2?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,INFY.NS,"Trade Spotlight: How should you trade ONGC, Infosys, Alembic Pharma, HCL Technologies, Caplin Point Labs, and others on September 2?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,ONGC.NS,"Trade Spotlight: How should you trade ONGC, Infosys, Alembic Pharma, HCL Technologies, Caplin Point Labs, and others on September 2?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:40,HDFCLIFE.NS,"Blackstone-backed Epsilon Bidco exits EPL for Rs 2,032 crore; HDFC Life buys Rs 74 crore worth shares in SBFC Finance",moneycontrol,neutral,0.8064,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:41,COALINDIA.NS,Coal India subsidiary Mahanadi Coalfields files draft papers for IPO,moneycontrol,neutral,0.9426,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:34:49,BAJAJ-AUTO.NS,"Auto sector stocks fall sharply today, September 2: Eicher Motors declines 4.27%, Hero MotoCorp drops 4.10%, Bajaj Auto down 2.52%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:05,EICHERMOT.NS,"Auto sector stocks fall sharply today, September 2: Eicher Motors declines 4.27%, Hero MotoCorp drops 4.10%, Bajaj Auto down 2.52%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:08,HCLTECH.NS,"IT stocks fall today, September 2: Infosys, TCS, Wipro and HCL Tech decline over 1%",Business Upturn,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:12,HEROMOTOCO.NS,"Auto sector stocks fall sharply today, September 2: Eicher Motors declines 4.27%, Hero MotoCorp drops 4.10%, Bajaj Auto down 2.52%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:12,HEROMOTOCO.NS,"Hero MotoCorp share falls: August sales miss, exports drop",Business Upturn,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:13,HEROMOTOCO.NS,EVs could Improve Dealer Customer Retention: Hero MotoCorp CBO,Autocar Professional,positive,0.6796,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:28,LT.NS,L’Oréal elevates Marc Dicko to Chief Digital and Marketing Officer for SAPMENA region,IMPACT Magazine,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:28,LT.NS,"‘18.46L tonnes missing, 22,000 pits open, Rs 428 cr idle’",The Shillong Times,negative,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:28,LT.NS,Bengaluru: FIR over obscene AI videos targeting Sonia and Rahu​l Gandhi,deccanherald.com,negative,0.7379,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:30,M&M.NS,"Auto sector stocks fall sharply today, September 2: Eicher Motors declines 4.27%, Hero MotoCorp drops 4.10%, Bajaj Auto down 2.52%",Business Upturn,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:31,M&M.NS,Camara's £47.1m move from Monaco to Chelsea collapses,BBC,neutral,0.5464,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-02 04:35:31,M&M.NS,"India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",TechCrunch,negative,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-09-02 04:35:31,M&M.NS,Can Shilo Sanders escape the $11.89M judgment in his security guard case? Analyst reveals why Deion Sande,timesofindia.indiatimes.com,negative,0.4993,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-02 04:35:31,M&M.NS,Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m,Al Jazeera,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-02 04:35:31,M&M.NS,Kids’ Content Pros Launch Brainchild Ent. with $100M in Committed Capital,Animation Magazine,positive,0.6818,AUTO_ACCEPTED,indi-finbert
