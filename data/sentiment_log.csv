@@ -4211,3 +4211,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-02 04:35:31,M&M.NS,Can Shilo Sanders escape the $11.89M judgment in his security guard case? Analyst reveals why Deion Sande,timesofindia.indiatimes.com,negative,0.4993,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-02 04:35:31,M&M.NS,Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m,Al Jazeera,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-02 04:35:31,M&M.NS,Kids’ Content Pros Launch Brainchild Ent. with $100M in Committed Capital,Animation Magazine,positive,0.6818,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,EICHERMOT.NS,"Eicher Motors, Hero Motocorp shares fall up to 5% after August Sales data; should you buy, sell or hold?",moneycontrol,negative,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,HEROMOTOCO.NS,"Eicher Motors, Hero Motocorp shares fall up to 5% after August Sales data; should you buy, sell or hold?",moneycontrol,negative,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,ADANIPORTS.NS,"Adani Ports and SEZ shares rise over 1% as August cargo volumes hit record 50 MMT, jump 19% YoY",moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,HEROMOTOCO.NS,"Hero MotoCorp share price falls 7%, biggest drop in a year after August sales data",moneycontrol,negative,0.9432,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,EICHERMOT.NS,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",moneycontrol,negative,0.9425,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,HEROMOTOCO.NS,"Momentum Stocks: Hero MotoCorp, Eicher Motors down 4%; RVNL, HUL, Swan Corp hit 52-week low",moneycontrol,negative,0.9425,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,COALINDIA.NS,Price Action: Coal India shares up 3% as UBS maintains 'buy'; Adani Green Energy jumps 2%,moneycontrol,positive,0.9447,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:29:59,COALINDIA.NS,"Coal India stock jumps 4%, top Nifty gainer as Mahanadi Coalfields IPO lifts sentiment; strong coal demand helps",moneycontrol,positive,0.9475,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:03,ADANIPORTS.NS,Adani Ports hits record 50 MMT cargo volume in August 2026,Business Upturn,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:20,CIPLA.NS,"Pharma sector stocks down today, September 2: Aarti Drugs falls 1.90%, Cipla down 1.18%, Panacea Biotec drops 0.73%",Business Upturn,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:21,COALINDIA.NS,"GPT Infra, Coal India, Vi among buzzing stocks as SENSEX falls over 500 pts; NIFTY trades below 24,900",Upstox,negative,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:21,COALINDIA.NS,"Coal India Surges 4% as August Supplies Hit 60.60 MT, Bucking India’s Market Rout",The Eastern Herald,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:22,COALINDIA.NS,Coal India’s August Offtake Rises 5.6% Despite Production Dip; Emkay Retains ‘Add’,BW Businessworld,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:22,COALINDIA.NS,"Coal India approves ₹5.25 final dividend, appoints new board members",scanx.trade,neutral,0.7217,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:34,HEROMOTOCO.NS,"Nifty Auto falls over 2%, Hero Moto down 5% as surging crude oil prices weigh, offset strong August sales...",Moneycontrol.com,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:34,HEROMOTOCO.NS,"Stocks To Buy or Sell Today, September 2, 2026: Reliance Industries and Wipro Among Shares That May Remain",LatestLY,neutral,0.7374,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:38,HINDUNILVR.NS,"Stock market crash: RVNL, IRCTC, HUL among 106 stocks that hit 52-week low as NIFTY50 slips below 24,000",Upstox,negative,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:50,LT.NS,"Press statement by President Costa following the meeting with Prime Minister of Croatia, Andrej Plenković",consilium.europa.eu,neutral,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:50,LT.NS,L'Oréal Italy appoints Andrea Ziella as brand general manager for American brands,FashionNetwork India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:50,LT.NS,"China Masters: Lakshya's difficult run continues, SatChi advance to last 16",The New Indian Express,neutral,0.6264,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-02 14:30:50,LT.NS,L’Oréal names Marc Dicko as SAPMENA Chief Digital and Marketing Officer,Exchange4Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:53,M&M.NS,Tim Cook handed $47m package for new role as executive chair of Apple,The Guardian,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:53,M&M.NS,Apple’s new CEO gets a $3M salary and a $55M equity target,The Next Web,neutral,0.7302,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:30:53,M&M.NS,"GoPro to be acquired for $285M, will remain a public company",TechCrunch,neutral,0.6839,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:31:03,RELIANCE.NS,"ESDS Software Solution IPO allotment: How to check status online on NSE, BSE, MUFG Intime India; listing date, time here",Upstox,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:31:06,SBIN.NS,"NSE IPO soon? NIACL, IFCI shares jump up to 11% on buzz over issue launch",Moneycontrol.com,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:31:11,TATASTEEL.NS,Tata Steel Ltd slips for fifth straight session,Business Standard,negative,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:31:20,ULTRACEMCO.NS,UltraTech Cement to electrify supply chain with 600+ heavy-duty electric trucks,Business Upturn,positive,0.7092,AUTO_ACCEPTED,indi-finbert
+2026-09-02 14:31:20,ULTRACEMCO.NS,Chambal Fertilizers & Chemicals secures shareholder approval for director continuation,Business Upturn,positive,0.4879,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
