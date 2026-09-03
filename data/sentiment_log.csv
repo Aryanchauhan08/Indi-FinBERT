@@ -4240,3 +4240,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-02 14:31:11,TATASTEEL.NS,Tata Steel Ltd slips for fifth straight session,Business Standard,negative,0.8947,AUTO_ACCEPTED,indi-finbert
 2026-09-02 14:31:20,ULTRACEMCO.NS,UltraTech Cement to electrify supply chain with 600+ heavy-duty electric trucks,Business Upturn,positive,0.7092,AUTO_ACCEPTED,indi-finbert
 2026-09-02 14:31:20,ULTRACEMCO.NS,Chambal Fertilizers & Chemicals secures shareholder approval for director continuation,Business Upturn,positive,0.4879,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:34:29,AXISBANK.NS,"Nifty Bank jumps nearly 1% as large banks rally; ICICI Bank, Axis Bank, HDFC Bank lead gains",moneycontrol,positive,0.9418,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:34:29,HDFCBANK.NS,"Nifty Bank jumps nearly 1% as large banks rally; ICICI Bank, Axis Bank, HDFC Bank lead gains",moneycontrol,positive,0.9418,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:34:29,ICICIBANK.NS,"Nifty Bank jumps nearly 1% as large banks rally; ICICI Bank, Axis Bank, HDFC Bank lead gains",moneycontrol,positive,0.9418,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:34:29,ADANIPORTS.NS,"Adani Ports shares jump 2%, top Nifty gainer; HSBC bullish after record August cargo volume, sees big upside",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:34:29,HDFCBANK.NS,HDFC Bank is at risk of losing its top Nifty spot to rival ICICI,moneycontrol,negative,0.924,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:34:48,CIPLA.NS,"Pharma sector stocks today, September 3: Sudeep Pharma gains 3.15%; Torrent Pharma falls 1.05%, Mankind Pharma down 0.95%",Business Upturn,negative,0.6986,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:02,HEROMOTOCO.NS,"Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline",The Economic Times,negative,0.8948,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:02,HEROMOTOCO.NS,Indian 2-Wheeler Sales: ఆగస్టులో తగ్గిన అమ్మకాలు.. పండుగ సీజన్ కోసం వెయిటింగ్!,Whalesbook,negative,0.3096,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:35:03,HINDALCO.NS,"Metal sector stocks today, September 2: Coal India gains 4%, Maithan Alloys up 3.62%, Vedanta down 1.15%",Business Upturn,positive,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:16,LT.NS,CREDENT CONNECT N CARE L Share Price,upstox.com,neutral,0.7304,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:16,LT.NS,"Meter checked, Rs 1.4L power bill slashed to Rs 12K in Mulugu woman's defective meter case",The New Indian Express,negative,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:16,LT.NS,The road to the podium: Matteo Vanhuffel’s Tour de l’Avenir,teampicnicpostnl.com,neutral,0.4691,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:35:16,LT.NS,Ex-councillor booked in Rs 20 L jewellery fraud case,Pioneer Edge,negative,0.4914,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:35:16,LT.NS,Bank official gets 7 yr RI for Rs 83.7L fraud in Dausa,The Times of India,negative,0.6359,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:35:19,M&M.NS,'A literary assassination': How Life of M sparked a Hollywood scandal,BBC,negative,0.7032,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:19,M&M.NS,“I’m just trying to understand why”: LeBron James’ $25.5M foundation faced academic criticism while creat,The Times of India,negative,0.703,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:19,M&M.NS,Kawhi Leonard: Los Angeles Clippers fined $30m and stripped of five first-round picks after Leonard salary cap scandal,Sky Sports,negative,0.686,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:19,M&M.NS,HiddenLayer nabs $100M as enterprises rush to secure their AI deployments,TechCrunch,negative,0.4645,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 04:35:26,POWERGRID.NS,India stocks lower at close of trade; Nifty 50 down 0.59%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:26,POWERGRID.NS,"Stocks To Buy or Sell Today, September 3, 2026: ICICI Bank, Meesho and Pine Labs Among Shares That May",LatestLY,neutral,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-09-03 04:35:39,TCS.NS,Tata Consultancy Services Stock Update: Shares Slip Intraday,LatestLY,negative,0.7446,AUTO_ACCEPTED,indi-finbert
