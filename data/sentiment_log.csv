@@ -4261,3 +4261,12 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-03 04:35:26,POWERGRID.NS,India stocks lower at close of trade; Nifty 50 down 0.59%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
 2026-09-03 04:35:26,POWERGRID.NS,"Stocks To Buy or Sell Today, September 3, 2026: ICICI Bank, Meesho and Pine Labs Among Shares That May",LatestLY,neutral,0.7423,AUTO_ACCEPTED,indi-finbert
 2026-09-03 04:35:39,TCS.NS,Tata Consultancy Services Stock Update: Shares Slip Intraday,LatestLY,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:35:06,HDFCBANK.NS,"Nifty Bank ends higher, HDFC Bank, Axis gain as RBI's FCNR(B) inflows boost lenders despite late market selloff",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:35:06,AXISBANK.NS,"Nifty Bank jumps nearly 1% after RBI's $136-billion forex inflow boost; ICICI Bank, Axis Bank lead gains",moneycontrol,positive,0.9452,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:35:06,ICICIBANK.NS,"Nifty Bank jumps nearly 1% after RBI's $136-billion forex inflow boost; ICICI Bank, Axis Bank lead gains",moneycontrol,positive,0.9452,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:35:11,ASIANPAINT.NS,Asian Paints retains ESG rating of '71' from NSE Sustainability,Business Upturn,neutral,0.623,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 14:35:14,BAJAJ-AUTO.NS,"Auto stocks today, September 3: SML Mahindra gains 6%, Sharda Motor up 1.20%; Ather Energy down 2.26%",Business Upturn,positive,0.6173,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 14:35:39,ICICIBANK.NS,"Stocks To Buy or Sell Today, September 3, 2026: ICICI Bank, Meesho and Pine Labs Among Shares That May",LatestLY,neutral,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:35:51,M&M.NS,"Auto stocks today, September 3: SML Mahindra gains 6%, Sharda Motor up 1.20%; Ather Energy down 2.26%",Business Upturn,positive,0.6173,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-03 14:36:00,POWERGRID.NS,"Power Grid Wins Transmission Project for 7,500MW Gujarat Renewable Energy Integration",whalesbook.com,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-03 14:36:13,TECHM.NS,Tech Mahindra assigned 'ESG rating 76' by NSE Sustainability,Business Upturn,positive,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
