@@ -4270,3 +4270,43 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-03 14:35:51,M&M.NS,"Auto stocks today, September 3: SML Mahindra gains 6%, Sharda Motor up 1.20%; Ather Energy down 2.26%",Business Upturn,positive,0.6173,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-03 14:36:00,POWERGRID.NS,"Power Grid Wins Transmission Project for 7,500MW Gujarat Renewable Energy Integration",whalesbook.com,positive,0.7439,AUTO_ACCEPTED,indi-finbert
 2026-09-03 14:36:13,TECHM.NS,Tech Mahindra assigned 'ESG rating 76' by NSE Sustainability,Business Upturn,positive,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:33:44,SUNPHARMA.NS,"Gland Pharma block deal: 4.5% stake worth Rs 2,121 crore changes hands; Fosun Pharma likely seller",moneycontrol,neutral,0.934,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:33:47,ADANIPORTS.NS,Motherson Sumi Wiring India receives ESG rating of 72 by NSE Sustainability,Business Upturn,positive,0.5391,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:33:47,ADANIPORTS.NS,MphasiS receives ESG rating of '75' from NSE Sustainability,Business Upturn,positive,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:00,BRITANNIA.NS,"Q&T Foods Ltd Share Price Today,, Q&T Foods Ltd Stock Price NSE, BSE",businesstoday.in,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:02,CIPLA.NS,Top 14 Pharma Stocks To Buy In India September 2026,Samco,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:02,CIPLA.NS,"Pharma sector stocks today, September 4: Wockhardt gains 3%, Sudeep Pharma rises 2%; Zydus Lifesciences falls 1.29%",Business Upturn,positive,0.5921,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:02,CIPLA.NS,Cipla secures exclusive partnership with Qilu Pharmaceutical for biosimilar to Keytruda in US,Business Upturn,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:04,COALINDIA.NS,"Metal sector stocks today, September 3: Welspun Corp gains 3.77%, Coal India up 1.15%; APL Apollo Tubes falls 2.43%",Business Upturn,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:05,DIVISLAB.NS,Top 14 Pharma Stocks To Buy In India September 2026,Samco,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:06,DRREDDY.NS,Top 14 Pharma Stocks To Buy In India September 2026,Samco,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:10,GRASIM.NS,"MS-India Index Earning Revision (Aug): Hindalco Industries, Adani Enterprises, Grasim Industries",Smartkarma,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:10,GRASIM.NS,"ITC, Tata Steel, AEL see highest EPS cuts in August; Grasim leads upgrades; targets - BusinessToday",IndiaIPO,positive,0.6368,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:10,GRASIM.NS,"ITC, Tata Steel, AEL see highest EPS cuts in August; Grasim leads upgrades; targets",businesstoday.in,positive,0.6561,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:11,HCLTECH.NS,HCLTech Partners With Transport For NSW For AI-Driven Indian Traffic Insights,Sahi,positive,0.6927,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:11,HCLTECH.NS,HCL Technologies partners with Transport for NSW to explore AI-powered traffic insights for India,Business Upturn,positive,0.644,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:12,HDFCBANK.NS,"Stocks To Buy or Sell Today, September 4, 2026: Power Grid, HDFC Bank and UltraTech Cement Among Shares",LatestLY,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:17,HINDALCO.NS,"MS-India Index Earning Revision (Aug): Hindalco Industries, Adani Enterprises, Grasim Industries",Smartkarma,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:20,ICICIBANK.NS,ICICI Bank Stock Update: Share Price Dips Marginally as Strategic Moves Gain Traction,LatestLY,negative,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:25,JSWSTEEL.NS,"Metal sector stocks today, September 3: Welspun Corp gains 3.77%, Coal India up 1.15%; APL Apollo Tubes falls 2.43%",Business Upturn,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:29,LT.NS,Blog de l'OMC | Financement du commerce: la volatilité des conditions financières influe sur la disponibilité et impacte le volume des échanges,World Trade Organization,neutral,0.7356,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:29,LT.NS,Sponsored Content - Assurance Over Bandwidth: Why L-Band Prevails in Challenged Environments,National Defense Magazine,neutral,0.7247,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:29,LT.NS,‘No progress’: TGRERA asks EVK Projects to refund ₹9.36L for unregistered Kollur project,NewsMeter,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:29,LT.NS,"MP’s Krishna strikes gold, breaks 8-yr nat’l javelin mark",The Times of India,positive,0.6962,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:29,LT.NS,Senior citizen duped of Rs 1.99L; 3 nabbed,MillenniumPost,negative,0.6264,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:31,M&M.NS,Tech Mahindra assigned 'ESG rating 76' by NSE Sustainability,Business Upturn,positive,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:32,M&M.NS,"NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe",Al Jazeera,negative,0.7277,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:32,M&M.NS,Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers,TechCrunch,positive,0.721,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:32,M&M.NS,"National Youth Athletics: Sahil betters meet record in boys' 1,000m",The Hindu,positive,0.7165,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:32,M&M.NS,"‘My work has always been serious’: Maurizio Cattelan on his $6m banana, his gold toilet – and bringing Hitler to Berlin",The Guardian,neutral,0.7092,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:32,M&M.NS,"Richard Hammond bought £1.99m Welsh mansion with plans for a pavilion, padel court and car displays, but",The Times of India,neutral,0.7101,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:33,MARUTI.NS,Maruti Suzuki India Ltd.,Moneycontrol.com,neutral,0.9419,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:44,SBIN.NS,"SBI,New India Assurance, IFCI, Bank of Baroda & GIC RE are in focus ahead of NSE IPO; here is why",Upstox,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:45,SUNPHARMA.NS,Top 14 Pharma Stocks To Buy In India September 2026,Samco,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:53,TECHM.NS,India shares lower at close of trade; Nifty 50 down 0.17%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:53,TECHM.NS,"Sensex, Nifty Rebound In Early Trade After 3-Day Slide; Bank Stocks Lead Recovery",etvbharat.com,positive,0.7337,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:53,TECHM.NS,Tech Mahindra Launches AWS Agentic Process Transformation CoE to Redefine AI-Led Business Operations,PR Newswire,neutral,0.2581,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 04:34:53,TECHM.NS,"Stock market holiday: Is NSE, BSE open or closed tomorrow for Janmashtami?",Livemint,neutral,0.8445,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:53,TECHM.NS,"Sensex falls 417 points, Nifty closes below 23,900 as market erases all morning gains. What lies ahead?",The Economic Times,negative,0.893,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:54,TITAN.NS,Titan stock edges higher as price nears 52-week high on NSE,AD HOC NEWS,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-04 04:34:56,ULTRACEMCO.NS,"Stocks To Buy or Sell Today, September 4, 2026: Power Grid, HDFC Bank and UltraTech Cement Among Shares",LatestLY,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
