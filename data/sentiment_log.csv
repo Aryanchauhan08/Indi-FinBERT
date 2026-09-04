@@ -4310,3 +4310,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-04 04:34:53,TECHM.NS,"Sensex falls 417 points, Nifty closes below 23,900 as market erases all morning gains. What lies ahead?",The Economic Times,negative,0.893,AUTO_ACCEPTED,indi-finbert
 2026-09-04 04:34:54,TITAN.NS,Titan stock edges higher as price nears 52-week high on NSE,AD HOC NEWS,positive,0.7469,AUTO_ACCEPTED,indi-finbert
 2026-09-04 04:34:56,ULTRACEMCO.NS,"Stocks To Buy or Sell Today, September 4, 2026: Power Grid, HDFC Bank and UltraTech Cement Among Shares",LatestLY,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:46,ADANIENT.NS,"Adani Enterprises Share Price News: Market Cap, Valuation",Univest,neutral,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:47,ADANIPORTS.NS,Adani Ports ADANIPORTS: Dedicated Empty Container Yard at Mundra,Kalkine India,neutral,0.7294,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:51,AXISBANK.NS,"Axis Bank (NSE: AXISBANK) Q1 FY27 Results, Investor Meetings and Banking Sector Outlook",Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:54,BAJAJ-AUTO.NS,Auto sector's decade-long sales-profit equation gets a fresh test as GST-led demand meets cost pressures,Fortune India,positive,0.7203,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:56,BAJFINANCE.NS,"Titan, SBI to Bajaj Finserv: JM Financial revises earnings estimates for 5 stocks in August",financialexpress.com,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:22:57,BAJAJFINSV.NS,"Titan, SBI to Bajaj Finserv: JM Financial revises earnings estimates for 5 stocks in August",financialexpress.com,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:04,COALINDIA.NS,"NSE Gets Regulatory Nod For Rs 30,000 Cr IPO, The Biggest So Far",ETV Bharat,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:09,EICHERMOT.NS,Eicher Motors (NSE:EICHERMOT): What Is Behind the Analyst Meeting Scheduled for September 2026?,Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:09,EICHERMOT.NS,"Auto sector stocks today, September 4: SML Mahindra urges nearly 5%, Force Motors up 1.57%; Ather Energy falls 3%",Business Upturn,positive,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:11,GRASIM.NS,"Titan, SBI to Bajaj Finserv: JM Financial revises earnings estimates for 5 stocks in August",IndiaIPO,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:12,HCLTECH.NS,HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart,Upstox,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:13,HDFCBANK.NS,HDFC Bank Gains 1.13% to Rs 708.75 on September 3 as Market Looks Past CEO Exit Uncertainty,The Eastern Herald,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:19,HINDUNILVR.NS,"Hindustan Unilever (NSE: HINDUNILVR) EBITDA Margin Target, FMCG Strategy and Business Outlook",Kalkine India,neutral,0.6129,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 14:23:27,JSWSTEEL.NS,"Metal stocks today, September 4: Maithan Alloys and Hindustan Zinc gain; Coal India declines",Business Upturn,positive,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:28,KOTAKBANK.NS,"Banking sector stocks today, September 4: Bandhan Bank, City Union gain; IDBI Bank falls over 1%",Business Upturn,positive,0.731,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:31,LT.NS,Manipur CM inspects damaged water pipeline at L. Champhai village,India Today NE,negative,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:31,LT.NS,SKYTECH INFINITE PLATFM L Share Price,Upstox,neutral,0.6723,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:31,LT.NS,L-Acoustics extends certified ecosystem to voice alarm applications,Pro AVL Asia,positive,0.4472,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 14:23:31,LT.NS,"Iran Urges UN to Act Against US Aggression, Uphold Int’l Law",تسنیم,neutral,0.5038,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-04 14:23:31,LT.NS,"El Molí de l'Estany, Llagostera, Costa Brava pavilion",e-architect,neutral,0.6768,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:33,M&M.NS,Mahindra & Mahindra (NSE:M&M): What Is the UBS India Summit 2026 Analyst Meeting About?,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:33,M&M.NS,"Auto sector stocks today, September 4: SML Mahindra urges nearly 5%, Force Motors up 1.57%; Ather Energy falls 3%",Business Upturn,positive,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:34,M&M.NS,I'm Game Review: Squanders Killer Premise,Rediff,negative,0.7078,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:34,M&M.NS,"M Lokanadham arrest: ACB says CBI shared DA info on ‘some’ TTD employees, triggering anxiety",The Times of India,negative,0.7334,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:35,MARUTI.NS,"Auto sector stocks today, September 4: SML Mahindra urges nearly 5%, Force Motors up 1.57%; Ather Energy falls 3%",Business Upturn,positive,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:41,POWERGRID.NS,"Power Grid Corporation of India Limited (NSE: POWERGRID) Wins ₹4,396.82 Crore Transmission Projects as Stock Trades Below 50-Day SMA",Kalkine India,positive,0.6615,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:44,SBILIFE.NS,India stocks higher at close of trade; Nifty 50 up 0.10%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:51,TATASTEEL.NS,"Sensex snaps 4-day losing streak, ends 363 pts up; Tata Steel leads gains",newsdrum.in,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:58,TITAN.NS,Titan Estimates 24% Rise In Q3 Revenue On Booming Jewellery Demand,ascendants.in,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-09-04 14:23:59,ULTRACEMCO.NS,"Cable stocks crash up to 8% as UltraTech launches Ultravolt; Polycab, KEI, RR Kabel among top losers",Moneycontrol.com,negative,0.944,AUTO_ACCEPTED,indi-finbert
