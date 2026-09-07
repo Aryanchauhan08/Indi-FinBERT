@@ -4368,3 +4368,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-07 04:43:19,TATASTEEL.NS,"Tata Sons Succession Race Narrows To Three, Narendran Leads",BW Businessworld,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
 2026-09-07 04:43:22,TCS.NS,'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post,Livemint,neutral,0.6939,AUTO_ACCEPTED,indi-finbert
 2026-09-07 04:43:22,TCS.NS,"IT sector stocks today, September 7: LTM falls 2.97%, Infosys down 2.53%, Tech Mahindra declines 1.97%",Business Upturn,negative,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:03,HINDUNILVR.NS,Buy Hindustan Unilever; target of Rs 2700: ICICI Securities,moneycontrol,positive,0.9079,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:03,HINDUNILVR.NS,Buy Hindustan Unilever; target of Rs 2400: Motilal Oswal,moneycontrol,positive,0.9193,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:03,NTPC.NS,Neutral NTPC; target of Rs 378: Motilal Oswal,moneycontrol,neutral,0.9427,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:05,ADANIENT.NS,Adani Power Recognized for Outstanding ESG Performance by NSE Sustainability,Adani,positive,0.74,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:08,APOLLOHOSP.NS,India stocks lower at close of trade; Nifty 50 down 0.57%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:10,ASIANPAINT.NS,"Asian Paints, Berger, Kansai Nerolac: What to expect from paint stocks as festive season nears, oil stays elevated",Upstox,positive,0.5097,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 15:52:10,ASIANPAINT.NS,Purple Style Labs shares list at 7% discount on NSE; here's how much investors lost per lot,Upstox,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:26,DIVISLAB.NS,"Purple Style Labs share price makes a weak debut, stock opens with a 7% discount at ₹535 apiece on NSE",Livemint,negative,0.8385,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:26,DIVISLAB.NS,"NSE IPO effect? This PSU stock hits 52-week high before paring gains | Check its NSE Stake, other key details",Livemint,positive,0.8228,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:42,ICICIBANK.NS,ICICI Bank to participate in UBS India Summit 2026 on 10th September,Business Upturn,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:47,INFY.NS,Indian shares open lower as IT stocks slide; new NSE pre-open rules take effect,Free Press Kashmir,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:53,LT.NS,L Catterton Is Said to Near Acquisition of Fitness Brand Hyrox,Bloomberg.com,neutral,0.6272,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 15:52:53,LT.NS,"Mizoram SIR roll at 8.35L after 78,442 deletions, includes first third-gender voter",The Assam Tribune,positive,0.3939,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 15:52:53,LT.NS,L Catterton Nears Acquisition of Fitness Brand Hyrox,The Business of Fashion,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:53,LT.NS,L'Équipe's picks: Messi leads the all-time Champions League XI with Cristiano left out,Goal.com,neutral,0.7331,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:55,M&M.NS,"Auto sector stocks today, September 7: Force Motors, Sharda Motor and Ather Energy gain; SML Mahindra falls nearly 2%",Business Upturn,positive,0.6896,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:56,M&M.NS,Samsung hits CMA CGM with $186m FMC claim,Splash247,positive,0.6972,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:56,M&M.NS,Supreme Court grants bail to NSCN-M militant after 17 years in jail,Rediff,positive,0.6951,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:56,M&M.NS,Sir M Visvesvaraya Hostel inaugurated at IIT-Patna,The Times of India,neutral,0.7356,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:56,M&M.NS,Google-backed Pixxel raises $100M in India’s largest space tech round,The Next Web,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:52:56,M&M.NS,Fluencify raises $4.3M pre-seed after passing $2M ARR six months from launch,The Next Web,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:53:09,SBIN.NS,"NSE IPO: How SBI, IFCI, GIC Re, Bank of Baroda shares reacted after Sebi approval",Fortune India,neutral,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:53:09,SBIN.NS,"NSE IPO could raise up to ₹30,000 crore through 6% dilution, sources say: All you need to know",CNBC TV18,positive,0.6561,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:53:14,TATASTEEL.NS,"Ashish Chauhan denies reports on Tata Sons Chairman role, says 'fully committed' to NSE",Mid-Day,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:53:19,TECHM.NS,Indian shares open lower as IT stocks slide; new NSE pre-open rules take effect,Free Press Kashmir,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-07 15:53:19,TECHM.NS,"Infosys, Tech Mahindra, HCL Tech shares fall over 2%: IT index plunges 2.3%; here is why",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
