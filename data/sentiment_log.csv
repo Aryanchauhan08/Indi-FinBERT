@@ -4340,3 +4340,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-04 14:23:51,TATASTEEL.NS,"Sensex snaps 4-day losing streak, ends 363 pts up; Tata Steel leads gains",newsdrum.in,positive,0.7466,AUTO_ACCEPTED,indi-finbert
 2026-09-04 14:23:58,TITAN.NS,Titan Estimates 24% Rise In Q3 Revenue On Booming Jewellery Demand,ascendants.in,positive,0.7478,AUTO_ACCEPTED,indi-finbert
 2026-09-04 14:23:59,ULTRACEMCO.NS,"Cable stocks crash up to 8% as UltraTech launches Ultravolt; Polycab, KEI, RR Kabel among top losers",Moneycontrol.com,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:05,INFY.NS,"Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise",moneycontrol,negative,0.9408,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:05,TECHM.NS,"Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise",moneycontrol,negative,0.9408,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:05,SUNPHARMA.NS,"Block Deals: Fosun Pharma sells 4.5% stake in Gland Pharma for Rs 2,121 crore",moneycontrol,negative,0.9182,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:12,ASIANPAINT.NS,"Asian Paints, Berger, Indigo Paints: What’s in store for paintmakers in FY27 as crude prices flare up again?",Upstox,neutral,0.6948,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:29,DIVISLAB.NS,"Pharma sector stocks today, September 7: Alembic Pharma, Sudeep Pharma and Strides Pharma gain up to 2%",Business Upturn,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:43,HINDALCO.NS,Hindalco to hold investor meet at UBS India Summit on Sep 10,scanx.trade,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:49,INDUSINDBK.NS,ICICI Bank shares in focus as LIC gets RBI nod to acquire 9.99% stake in private lender,The Economic Times,positive,0.4986,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:42:49,INDUSINDBK.NS,"Banking sector stocks today, September 7: CSB Bank falls 1.49%, Bank of India down 1.14%, Karnataka Bank drops 1.12%",Business Upturn,negative,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:49,INDUSINDBK.NS,IndusInd Bank: మైక్రోఫైనాన్స్ రంగంలో దూకుడు.. FY27 లక్ష్యంగా భారీ ప్లాన్,Whalesbook,neutral,0.724,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:57,LT.NS,1.68L km with my Nissan Evalia: Review & tribute before saying goodbye,Team-BHP,neutral,0.6649,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:57,LT.NS,Gallery of Local Sphere Installation / L-ARA Architecture - 10,ArchDaily,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:57,LT.NS,Meet Jack L. Norton: The palaeontology student who found a 150-year-old museum fossil and revealed a miss,The Times of India,neutral,0.6636,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:42:57,LT.NS,Japan's StarFlyer resumes int'l ops after 6.5 years,ch-aviation,positive,0.4844,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:42:57,LT.NS,"Four cops plant narcotics on jeweller in UP, extort Rs 2 L; suspended",Rediff,negative,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:01,M&M.NS,"CPI(M) identifies ‘parliamentary aberrations’, failure to follow mass line, collective functioning as key concerns",The Hindu,neutral,0.69,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:01,M&M.NS,'I'm Game' box office collections day 4: Dulquer Salmaan film stays steady at Rs 4.35 cr; India net touch,The Times of India,neutral,0.7252,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:01,M&M.NS,"Aubrey Plaza sells Los Angeles home for $4.375M, weeks after welcoming first child with Christopher Abbot",The Times of India,negative,0.5747,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:43:01,M&M.NS,Why did Travis Kelce buy a $5.35M mansion in Ohio? The mystery deepens,The Times of India,neutral,0.6527,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:01,M&M.NS,"‘The Odyssey’ leads global box office, hits $1.63bn; ‘Spider-Man: Brand New Day’ reaches $2.04bn; ‘Mirzapur’ debuts with $13.7m",Screen Daily,positive,0.7139,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:01,MARUTI.NS,Weekly Recap: MARUTI sales decline and EV line additions,TradingView,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:14,SBIN.NS,"NSE IPO countdown begins: SBI, IFCI, GIC Re, Bank of Baroda shares in focus after SEBI nod",Upstox,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:14,SBIN.NS,"SBI to hire 12,000 personnel, add 250 branches during FY27: Chairman Setty",ETHRWorld.com,neutral,0.718,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:19,TATASTEEL.NS,NSE MD Ashish Chauhan denies Tata Sons top job buzz; says 'fully committed' to exchange's ongoing IPO and,economictimes.indiatimes.com,negative,0.4717,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:43:19,TATASTEEL.NS,NSE CEO denies report linking him to Tata Sons chairman race,BusinessLine,negative,0.5274,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:43:19,TATASTEEL.NS,"Ashish Chauhan says fully committed to NSE, denies Tata Sons top job buzz",MillenniumPost,neutral,0.4105,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-07 04:43:19,TATASTEEL.NS,"Tata Sons Succession Race Narrows To Three, Narendran Leads",BW Businessworld,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:22,TCS.NS,'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post,Livemint,neutral,0.6939,AUTO_ACCEPTED,indi-finbert
+2026-09-07 04:43:22,TCS.NS,"IT sector stocks today, September 7: LTM falls 2.97%, Infosys down 2.53%, Tech Mahindra declines 1.97%",Business Upturn,negative,0.7358,AUTO_ACCEPTED,indi-finbert
