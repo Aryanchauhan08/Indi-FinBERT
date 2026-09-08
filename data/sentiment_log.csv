@@ -4394,3 +4394,22 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-07 15:53:14,TATASTEEL.NS,"Ashish Chauhan denies reports on Tata Sons Chairman role, says 'fully committed' to NSE",Mid-Day,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
 2026-09-07 15:53:19,TECHM.NS,Indian shares open lower as IT stocks slide; new NSE pre-open rules take effect,Free Press Kashmir,negative,0.7454,AUTO_ACCEPTED,indi-finbert
 2026-09-07 15:53:19,TECHM.NS,"Infosys, Tech Mahindra, HCL Tech shares fall over 2%: IT index plunges 2.3%; here is why",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:36:11,APOLLOHOSP.NS,"Trade Spotlight: How should you trade Titagarh Rail Systems, AIA Engineering, Apollo Hospitals, Divis Labs, Blue Star, and others on September 8?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:36:17,APOLLOHOSP.NS,"Top Gainers and Losers on September 7, 2026 at 4:00 PM",HDFC Sky,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:36:21,AXISBANK.NS,Axis Bank to host investor meet at UBS India Summit on Sep 10,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:36:28,BPCL.NS,"Energy sector stocks today, Feb 20: Gujarat Gas falls 2.28%, BPCL down 1%, Petronet LNG up 1.39%",Business Upturn,negative,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:36:30,BHARTIARTL.NS,Bharti Airtel Drops 0.59% as NFP Beat Lifts Fed Rate Hike Odds,The Eastern Herald,negative,0.743,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:08,LT.NS,2026 Maruti Baleno Mileage Revealed – Now Delivers Up To 24.77 km/l Petrol & 33.61 km/kg CNG,Autopunditz,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:08,LT.NS,"From missiles to radars, DAC clears ₹1.1L-cr defence boost, pushes self-reliance and manufacturing | India News",Hindustan Times,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:08,LT.NS,NRC in Manipur : Time for 'walk the talk' - NRC before the State Assembly elections a must -,e-pao.net,neutral,0.7063,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:12,M&M.NS,CPI(M) leader condemns Vijay for ‘body shaming’ Stalin,The Hindu,negative,0.6783,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:12,M&M.NS,EU pledges more than $200m to Greenland amid Trump threats,Al Jazeera,neutral,0.4166,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 04:37:12,M&M.NS,'I'm Game' box office collections day 5: Dulquer Salmaan film sees 65.5% drop; India net reaches Rs 20.50,The Times of India,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:12,M&M.NS,Song Review: Soyeon (i-dle) – I’m Gonna TOESA,thebiaslist.com,negative,0.3873,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 04:37:13,MARUTI.NS,"HEG Advanced Materials, ESDS, Maruti Suzuki, Zydus Wellness among buzzing stocks as NIFTY, SENSEX down 0.6%",upstox.com,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:18,ONGC.NS,"Energy sector stocks, Feb 23: ONGC falls 2.21%, Gujarat Gas down 2.28%, Mahanagar Gas up 1.84%, Oil India drops 1.54%",Business Upturn,negative,0.736,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:21,POWERGRID.NS,GE Vernova T&D India in Focus as Power Grid Secures 6000 MW Barmer HVDC Project,Sahi,positive,0.4068,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 04:37:30,TATAMOTORS.NS,Tata Motors Passenger Vehicles receives ESG rating of 72 from NSE Sustainability,Business Upturn,positive,0.7056,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:32,TATASTEEL.NS,"Sensex falls 383 points, Nifty settles at 23,779; IT, metals among top drags",Business Today,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:37,TECHM.NS,"Tech Mahindra Partners with PeaceHealth to Build an AI-Driven, Future-Ready Healthcare Ecosystem",Passionate In Marketing,positive,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-09-08 04:37:37,TECHM.NS,"Tech Mahindra ਨੂੰ ਮਿਲਿਆ ਵੱਡਾ PeaceHealth ਦਾ ਡੀਲ, ਪਰ ਸ਼ੇਅਰ **3%** ਡਿੱਗਿਆ",Whalesbook,neutral,0.3787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
