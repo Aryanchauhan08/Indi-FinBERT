@@ -4413,3 +4413,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-08 04:37:32,TATASTEEL.NS,"Sensex falls 383 points, Nifty settles at 23,779; IT, metals among top drags",Business Today,negative,0.7446,AUTO_ACCEPTED,indi-finbert
 2026-09-08 04:37:37,TECHM.NS,"Tech Mahindra Partners with PeaceHealth to Build an AI-Driven, Future-Ready Healthcare Ecosystem",Passionate In Marketing,positive,0.7319,AUTO_ACCEPTED,indi-finbert
 2026-09-08 04:37:37,TECHM.NS,"Tech Mahindra ਨੂੰ ਮਿਲਿਆ ਵੱਡਾ PeaceHealth ਦਾ ਡੀਲ, ਪਰ ਸ਼ੇਅਰ **3%** ਡਿੱਗਿਆ",Whalesbook,neutral,0.3787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:11,AXISBANK.NS,Axis Bank to ICICI Bank - Why banking stocks are falling today?,Livemint,negative,0.8384,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:24,COALINDIA.NS,Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart,Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:31,HCLTECH.NS,"IT sector stocks today, September 8: Brightcom Group jumps over 12%; TCS, Wipro and HCL Tech decline",Business Upturn,positive,0.5461,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:36,HEROMOTOCO.NS,Hero MotoCorp faces Rs. 4.80 crore order from ESIC,Business Upturn,negative,0.6927,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:36,HEROMOTOCO.NS,"Auto sector stocks today, September 8: M&M, Maruti Suzuki and Force Motors fall; Escorts Kubota gains",Business Upturn,negative,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:38,HINDALCO.NS,Hindalco Industries to host investors at Jefferies 5th India Forum,scanx.trade,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:40,ICICIBANK.NS,"Banking sector stocks today, September 8: DCB Bank jumps over 5%; HDFC Bank, ICICI Bank and Axis Bank fall",Business Upturn,neutral,0.3787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:51,LT.NS,"Ganga flowing 1.22m above danger mark in Sahibganj, 2.16L affected",The Times of India,negative,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:51,LT.NS,Novatech enhances L-Acoustics inventory with L Series,Pro AVL Asia,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:51,LT.NS,"In Pope.L’s Drawings, Desire Speaks Beyond Language",Newcity Art,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:51,LT.NS,"TN Assembly witnesses uproar over CM’s allegations, DMK MLAs evicted",newindianexpress.com,negative,0.3635,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:53,M&M.NS,"Auto sector stocks today, September 8: M&M, Maruti Suzuki and Force Motors fall; Escorts Kubota gains",Business Upturn,negative,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:54,M&M.NS,"CPI(M) Office Set On Fire In Bengal's Jalpaiguri, Party Accuses ABVP Workers",NDTV,negative,0.4481,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:54,M&M.NS,EU pledges more than $200m to Greenland amid Trump annexation threats,aljazeera.com,neutral,0.5476,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:54,M&M.NS,From Mumtaz Ali Khan to Sri M: The Kerala boy who walked into the Himalayas and found a guru waiting for,The Times of India,neutral,0.6571,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:34:54,M&M.NS,"A hacker stole $340M in a crypto heist, then returned most of it",TechCrunch,neutral,0.5159,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:34:57,NTPC.NS,NTPC Appoints 5 New Statutory Auditors for FY 2026-27 as per C&AG Order,PSU Connect,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:35:00,ONGC.NS,Deep Industries secures contract worth INR 88.15 crores from ONGC,Business Upturn,positive,0.6465,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-08 14:35:01,POWERGRID.NS,GE Vernova T&D India share price jumps 8% | Rises 49% YTD. What's behind the rally?,Livemint,positive,0.8469,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:35:01,POWERGRID.NS,Power Grid Corporation of India appoints statutory auditors for FY 2026-27,Business Upturn,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:35:09,SUNPHARMA.NS,"Sun Pharma gets ratings boost from Moody's, S&P over USD 11.75-bn Organon & Co acquisition bid",The Economic Times,positive,0.8964,AUTO_ACCEPTED,indi-finbert
+2026-09-08 14:35:16,TECHM.NS,Tech Mahindra Ltd slips for fifth straight session,Business Standard,negative,0.8951,AUTO_ACCEPTED,indi-finbert
