@@ -4456,3 +4456,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-09 04:43:36,SBIN.NS,"NSE IPO: SBI, Bank of Baroda, GIC Re, New India Assurance shares in focus post price band cut",Business Today,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
 2026-09-09 04:43:36,SBIN.NS,"SBI Closes at Rs 1,028.90 on September 3 as Gross NPA Hits 20-Year Low of 1.47%",The Eastern Herald,negative,0.727,AUTO_ACCEPTED,indi-finbert
 2026-09-09 04:43:44,TCS.NS,"Stocks To Buy or Sell Today, September 9, 2026: Bank of Baroda, TCS and Biocon Among Shares That May Remain",LatestLY,neutral,0.7314,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:27,TCS.NS,TCS launches India’s first AI-powered ‘lights-out’ factory in Pune,moneycontrol,positive,0.8843,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:28,ADANIENT.NS,Adani Enterprises to Coal India: Top five NIFTY50 stocks outperforming index over last five trading sessions; check list,Upstox,positive,0.6918,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:28,ADANIENT.NS,"Adani Enterprises Share Price Jumps 6% As Airport Arm To Raise $1 Billion From BlackRock, Temasek",NDTV Profit,positive,0.877,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:28,ADANIENT.NS,"Adani Ent, Redington, L&T among buzzing stocks as SENSEX tumbles over 400 pts; NIFTY trades below 23,600",Upstox,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:28,ADANIENT.NS,Steel Exchange India shares soar 12% on signing MoU with NMDC for long-term iron ore procurement; check details,Upstox,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:29,ADANIENT.NS,Adani Enterprises submits Q1FY27 earnings call transcript to exchanges,scanx.trade,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:36,BAJAJ-AUTO.NS,"Auto sector stocks fall today: Hero MotoCorp, Hyundai Motor India, Ola Electric among top losers",Business Upturn,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:48,COALINDIA.NS,Coal India Ltd gains for third straight session,Business Standard,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:49,DIVISLAB.NS,NSE IPO will not be of ₹30000 cr? Why reduced OFS could bring down the overall issue size,Livemint,negative,0.8337,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:37:52,EICHERMOT.NS,"Auto sector stocks fall today: Hero MotoCorp, Hyundai Motor India, Ola Electric among top losers",Business Upturn,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:00,HEROMOTOCO.NS,"Auto sector stocks fall today: Hero MotoCorp, Hyundai Motor India, Ola Electric among top losers",Business Upturn,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:00,HEROMOTOCO.NS,Bank of Baroda shares in focus on September 9 as bank plans to sell up to 76.9 lakh NSE shares,Business Upturn,neutral,0.6965,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:05,ICICIBANK.NS,"Banking sector stocks today, September 9: HDFC Bank falls 1.61%, ICICI Bank down 0.55%; IDBI Bank up 1.47%",Business Upturn,negative,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:06,ITC.NS,ITC (NSE:ITC): Why Is It Attending Jefferies and J.P. Morgan Investor Conferences in September 2026?,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:15,LT.NS,"Larsen & Toubro issues ₹500 crore tokenised bond, first in India by sector",Business Upturn,positive,0.3998,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 14:38:15,LT.NS,Larsen & Toubro issues ₹500 crore in tokenised non-convertible debentures,Business Upturn,neutral,0.7239,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:15,LT.NS,New India Assurance: To Divest NSE Shares in Upcoming IPO,InvestyWise,neutral,0.7306,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:15,LT.NS,Larsen & Toubro wins large offshore order from ONGC,Business Upturn,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:16,LT.NS,L Catterton-Led Consortium to Buy Majority Stake in Hyrox,WSJ,neutral,0.6614,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:16,LT.NS,"Nissan Tekton 1.0L Turbo vs 1.3L Turbo: Mileage, Performance, and Maintenance Cost Compared",CarLelo,neutral,0.6162,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 14:38:16,LT.NS,STF begins probe into int’l trafficking angle,The Times of India,neutral,0.6505,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:16,LT.NS,"Oil Cos Lose Rs 5/L On Petrol, Rs 23 On Diesel As Crude Tops $100",Kashmir Observer,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:18,M&M.NS,Mahindra & Mahindra (NSE:M&M) August 2026 Sales Data,Kalkine India,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:19,M&M.NS,LIV Golf: Players have option to leave after competition files for bankruptcy protection,BBC,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:19,M&M.NS,CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks,techcrunch.com,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-09-09 14:38:19,M&M.NS,"Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",Ars Technica,positive,0.648,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 14:38:33,SUNPHARMA.NS,Sun Pharmaceutical establishes subsidiary with ₹9.50 crore investment in GIFT City,Business Upturn,neutral,0.5186,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 14:38:39,TCS.NS,Tata Consultancy Services launches India’s first lights-out factory lab,Business Upturn,positive,0.4504,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
