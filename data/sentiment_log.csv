@@ -4435,3 +4435,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-08 14:35:01,POWERGRID.NS,Power Grid Corporation of India appoints statutory auditors for FY 2026-27,Business Upturn,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
 2026-09-08 14:35:09,SUNPHARMA.NS,"Sun Pharma gets ratings boost from Moody's, S&P over USD 11.75-bn Organon & Co acquisition bid",The Economic Times,positive,0.8964,AUTO_ACCEPTED,indi-finbert
 2026-09-08 14:35:16,TECHM.NS,Tech Mahindra Ltd slips for fifth straight session,Business Standard,negative,0.8951,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:33,BPCL.NS,"Crude-sensitive stocks fall as Brent crude jumps past $100; BPCL, HPCL, Apollo Tyres drop, oil producers gain",moneycontrol,negative,0.9413,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:34,HDFCBANK.NS,"Helios Flexicap Fund cuts HDFC Bank stake, adds Coforge, PB Fintech in August",moneycontrol,neutral,0.7889,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:35,ADANIENT.NS,"NSE IPO: SBI, Bank of Baroda, GIC Re, New India Assurance shares in focus post price band cut",Business Today,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:35,ADANIENT.NS,Adani Enterprises Q2 Results FY27: Date and Expectations,Univest,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:43,BAJAJ-AUTO.NS,"Bajaj Auto Share Price Today, Bajaj Auto Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:42:55,DIVISLAB.NS,"Lenskart, Sai Life Sciences, Redington among six NIFTY 500 stocks touching all-time high on Sept 8; check full list",Upstox,positive,0.728,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:03,HDFCBANK.NS,HDFC Bank Falls 0.47% as U.S. Jobs Beat Tightens Fed Rate Odds,The Eastern Herald,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:21,LT.NS,"The L Word: 22 years on, the sexy lesbian series remains a cornerstone for modern sapphic culture",The Guardian,positive,0.5132,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 04:43:21,LT.NS,Investors led by L Catterton to buy controlling stake in Hyrox,Financial Times,positive,0.6271,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 04:43:21,LT.NS,"Cosmax, L’Oréal deepen 20-year alliance with global beauty R&D push",Korea Biomedical Review,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:21,LT.NS,TABLE-Pharma Foods Int'l -2025/26 group forecast,TradingView,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:21,LT.NS,"US bans Canadian dairy products, motorcycles and alcohol imports as trade war escalates",The New Indian Express,negative,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:24,M&M.NS,Singapore boosts PM’s salary by $1m amid major pay rise for ministers,The Guardian,positive,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:24,M&M.NS,CPI(M) won’t participate in TVK’s second meeting with post-poll allies on September 9: Shanmugam,The Hindu,neutral,0.6784,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:24,M&M.NS,OpenAI has solved the Navier-Stokes Millennium problem using $15m of AI effort,New Scientist,positive,0.7237,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:24,M&M.NS,"'I'm Game' box office collection day 6: Dulquer Salmaan, Antony Varghese, Kayadu Lohar film collects Rs 1",The Times of India,neutral,0.7187,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:24,M&M.NS,‘Remain’ Trailer: Jake Gyllenhaal and Phoebe Dynevor Are a Creepy Couple in M. Night Shyamalan’s Latest Twisty Thriller,Variety,neutral,0.4666,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-09 04:43:32,RELIANCE.NS,"Reliance Industries Slips 0.30% to Rs 1,309 on September 3 as Profit-Taking Offsets Record Q1 Earnings",The Eastern Herald,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:36,SBIN.NS,"NSE IPO: SBI, Bank of Baroda, GIC Re, New India Assurance shares in focus post price band cut",Business Today,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:36,SBIN.NS,"SBI Closes at Rs 1,028.90 on September 3 as Gross NPA Hits 20-Year Low of 1.47%",The Eastern Herald,negative,0.727,AUTO_ACCEPTED,indi-finbert
+2026-09-09 04:43:44,TCS.NS,"Stocks To Buy or Sell Today, September 9, 2026: Bank of Baroda, TCS and Biocon Among Shares That May Remain",LatestLY,neutral,0.7314,AUTO_ACCEPTED,indi-finbert
