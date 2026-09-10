@@ -4514,3 +4514,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-10 04:44:41,TECHM.NS,Tech Mahindra declares ₹36 final dividend for FY2025-26,scanx.trade,neutral,0.7074,AUTO_ACCEPTED,indi-finbert
 2026-09-10 04:44:41,TECHM.NS,"IT sector stocks fall sharply today, September 9: Coforge declines 5.24%, Infosys down 3.62%, Tech Mahindra falls 3.29%",Business Upturn,negative,0.7426,AUTO_ACCEPTED,indi-finbert
 2026-09-10 04:44:46,WIPRO.NS,"Stocks To Buy or Sell Today, September 10, 2026: Wipro, Coal India and IRB Infrastructure Among Shares",LatestLY,neutral,0.7331,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:27:45,BPCL.NS,"BPCL Share Price Today, BPCL Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:27:52,DIVISLAB.NS,NSE IPO: Exchange to freeze ISIN from September 11; no offline share transfers allowed until listing,Livemint,neutral,0.7901,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:11,INDUSINDBK.NS,IndusInd Bank receives ESG rating of 68 from ESG Risk Assessments and Insights,Business Upturn,positive,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:11,INDUSINDBK.NS,Navi UPI and IndusInd Bank unite to enhance digital payments infrastructure,Business Upturn,neutral,0.4561,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:15,KOTAKBANK.NS,Kotak Mahindra Bank announces resignation of senior executive Manish Kothari,Business Upturn,neutral,0.7301,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:18,LT.NS,Hyrox founders reclaim majority stake in fitness-racing group with L Catterton-led investors,Reuters,positive,0.508,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:18,LT.NS,"Nayyi Navelli: Official Teaser | Yami Gautam Dhar, Addinath | Balaji Mohan | Aanand L Rai, Himanshu Sharma | 16th Oct",Bollywood Hungama,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:18,LT.NS,H-1B visa fee burden widens as same-employer extensions lose exemption,financialexpress.com,negative,0.7167,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:18,LT.NS,India’s rental housing market holds ₹7.53L cr demand potential: Report,Construction Week India,positive,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:20,M&M.NS,"Auto sector stocks today, September 10: Ola Electric jumps over 6%, Ather Energy and Force Motors gain over 3%",Business Upturn,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:21,M&M.NS,‘I’m sick of her talking about it’: 11 readers share how GLP-1s have affected their relationships,The Guardian,negative,0.5794,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:21,M&M.NS,"US announces $45m in security funding, additional naval vessels for Ecuador",Al Jazeera,positive,0.7141,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:21,M&M.NS,Celero raises $275m to wire AI chips together with light,The Next Web,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:21,M&M.NS,"ICAR-CIAE, Bhopal and M/s. Natures Bioplastics Pvt. Ltd. Developes Biodegradable films for Milk and water Packaging",Indian Council Of Agricultural Research,positive,0.4138,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:27,ONGC.NS,Oil & Natural Gas Corporation receives ESG rating report from ESGRisk.ai,Business Upturn,neutral,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:32,SBILIFE.NS,"NSE IPO: From SBI to Bank of Baroda, 5 listed stocks positioned for stake monetisation",financialexpress.com,neutral,0.7163,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:32,SBILIFE.NS,SBI Life Insurance appoints joint statutory auditors for FY 2026-27,Business Upturn,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:33,SBIN.NS,"NSE IPO shrinks as SBI, Bank of Baroda, MS Strategic trim their OFS size",Business Standard,negative,0.6418,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:33,SBIN.NS,"NSE IPO likely to see SBI, Morgan Stanley and six others cut planned share sale",cnbctv18.com,neutral,0.6293,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 14:28:38,TATASTEEL.NS,"Top Gainers & Losers, September 10, 2026 at 4:00 PM",HDFC Sky,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-09-10 14:28:42,TCS.NS,"LIC remains invested in NSE IPO sale, keeps 10.72% stake despite SBI, Bank of Baroda, others move to exit",ET Now,neutral,0.7087,AUTO_ACCEPTED,indi-finbert
