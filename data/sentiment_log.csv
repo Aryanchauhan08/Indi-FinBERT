@@ -4484,3 +4484,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-09 14:38:19,M&M.NS,"Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",Ars Technica,positive,0.648,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-09 14:38:33,SUNPHARMA.NS,Sun Pharmaceutical establishes subsidiary with ₹9.50 crore investment in GIFT City,Business Upturn,neutral,0.5186,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-09 14:38:39,TCS.NS,Tata Consultancy Services launches India’s first lights-out factory lab,Business Upturn,positive,0.4504,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:32,ADANIPORTS.NS,"Trade Spotlight: How should you trade Urban Company, Inox Wind, CG Power, Apollo Hospitals Enterprise, Adani Ports, and others on September 10?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:32,APOLLOHOSP.NS,"Trade Spotlight: How should you trade Urban Company, Inox Wind, CG Power, Apollo Hospitals Enterprise, Adani Ports, and others on September 10?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:32,KOTAKBANK.NS,"Biocon block deals: True North affiliate offloads Rs 638 crore worth shares; Citi, WhiteOak, SBI MF, Kotak Mahindra AMC among buyers",moneycontrol,neutral,0.5027,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:33,ADANIENT.NS,"Top gainers and losers, September 9: Infosys, HDFC LIC drop 4%, Adani Enterprises jumps 5%; check list",Upstox,neutral,0.6101,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:33,ADANIENT.NS,NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here,Livemint,neutral,0.52,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:34,ADANIENT.NS,"Adani's Next Growth Phase: Jefferies Flags Strong Earnings Visibility At Enterprises, Energy Solutions",NDTV Profit,positive,0.8757,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:42,BAJFINANCE.NS,Bajaj Housing Finance (NSE: BAJAJHFL) Quarterly Results Explained,Kalkine India,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:51,COALINDIA.NS,Coal India COALINDIA Statutory Auditor Appointment FY27,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:53,DIVISLAB.NS,NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here,Livemint,neutral,0.52,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:53,DIVISLAB.NS,"NSE IPO: Latest GMP, expected date and price band — current status, other news",Livemint,neutral,0.841,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:43:58,GRASIM.NS,NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here,Livemint,neutral,0.52,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:43:58,GRASIM.NS,Grasim Industries to meet investors at Jefferies India Forum 2026,scanx.trade,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:02,HDFCLIFE.NS,"HDFC Bank, HDFC Life at 52-wk lows, down 30% in 2026; analyst flags worries",Business Standard,negative,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:03,HEROMOTOCO.NS,NSE slashes IPO valuation target 15% as world's biggest options boom fades,Business Standard,negative,0.8884,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:06,HINDUNILVR.NS,Hindustan Unilever (HINDUNILVR): FMCG Giant Under Review,Kalkine India,negative,0.7203,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:11,INDUSINDBK.NS,IndusInd Bank receives ESG rating of 69 from Crisil ESG Ratings,Business Upturn,positive,0.7053,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:12,INFY.NS,Infosys Ltd (NSE: INFY) Business Overview and AI-Led Growth Story,Kalkine India,positive,0.5881,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:44:17,LT.NS,"OMCs may be losing Rs  5/L on petrol,  Rs 23 on diesel: ICRA",The Times of India,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:17,LT.NS,"L: Disciplined growth, digital innovation, and value focus drive long-term earnings and market leadership",TradingView,positive,0.7185,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:17,LT.NS,"Gurugram PG owner shot dead over ₹1.5 L dispute, suspect held from Delhi | Hindustan Times",Hindustan Times,negative,0.6682,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:17,LT.NS,"Press statement by President Costa following the meeting with Chancellor of Germany, Friedrich Merz",consilium.europa.eu,neutral,0.7365,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:20,M&M.NS,Harvey Raises $550M at a $15.5B Valuation to Help Legal Teams Own Their Intelligence,harvey.ai,positive,0.7259,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:20,M&M.NS,‘Avengers: Doomsday’ Ticket Pre-Sales Cross $50M Domestically Three Months Out,Deadline,positive,0.6204,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:44:20,M&M.NS,"Avinash Sable eyes Asian Games double, 5,000m qualification in Indian Athletics Series final",The Times of India,positive,0.5302,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-10 04:44:20,M&M.NS,Uber invests $10M in Indian fleet operator Carrum at $168M valuation,TechCrunch,positive,0.728,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:25,ONGC.NS,"Energy sector stocks today: Oil India rally 2.30%, ONGC up 1.82%, Reliance Industries falls 1.14%",Business Upturn,positive,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:35,TATAMOTORS.NS,"Auto sector stocks fall today: Hero MotoCorp, Hyundai Motor India, Ola Electric among top losers",Business Upturn,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:41,TECHM.NS,Tech Mahindra declares ₹36 final dividend for FY2025-26,scanx.trade,neutral,0.7074,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:41,TECHM.NS,"IT sector stocks fall sharply today, September 9: Coforge declines 5.24%, Infosys down 3.62%, Tech Mahindra falls 3.29%",Business Upturn,negative,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-09-10 04:44:46,WIPRO.NS,"Stocks To Buy or Sell Today, September 10, 2026: Wipro, Coal India and IRB Infrastructure Among Shares",LatestLY,neutral,0.7331,AUTO_ACCEPTED,indi-finbert
