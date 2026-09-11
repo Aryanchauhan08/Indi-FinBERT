@@ -4535,3 +4535,21 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-10 14:28:33,SBIN.NS,"NSE IPO likely to see SBI, Morgan Stanley and six others cut planned share sale",cnbctv18.com,neutral,0.6293,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-10 14:28:38,TATASTEEL.NS,"Top Gainers & Losers, September 10, 2026 at 4:00 PM",HDFC Sky,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
 2026-09-10 14:28:42,TCS.NS,"LIC remains invested in NSE IPO sale, keeps 10.72% stake despite SBI, Bank of Baroda, others move to exit",ET Now,neutral,0.7087,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:02,ADANIPORTS.NS,Adani Port Share Price - Live NSE: ADANIPORTS Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:03,APOLLOHOSP.NS,"NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on September 11",Upstox,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:37,ICICIBANK.NS,"Banking sector stocks fall today, September 11: Jana SFB falls 3.92%, AU Small Finance Bank down 2.72%, Bank of India declines 2.29%",Business Upturn,negative,0.74,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:42,INDUSINDBK.NS,"Banking sector stocks fall today, September 11: Jana SFB falls 3.92%, AU Small Finance Bank down 2.72%, Bank of India declines 2.29%",Business Upturn,negative,0.74,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:46,KOTAKBANK.NS,"Banking sector stocks fall today, September 11: Jana SFB falls 3.92%, AU Small Finance Bank down 2.72%, Bank of India declines 2.29%",Business Upturn,negative,0.74,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:49,LT.NS,Speed up energy projects worth of Rs 4.1L crore: Special CS,The New Indian Express,positive,0.5934,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:41:49,LT.NS,"City to host 1st int’l marathon on Feb 7, 12k expected to participate",The Times of India,neutral,0.7222,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:49,LT.NS,[𝐖𝐀𝐓𝐂𝐇$𝐋-𝐈-𝐕-𝐄]𝐓𝐕!] Fenerbahce v Roma 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 10 September 2026,uv.es,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:49,LT.NS,TOTO India launches L Series accessories: Japanese Design Meets Everyday Convenience,HospiBuz,positive,0.411,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:41:52,M&M.NS,Houthis Capture US-Built M-ATV After Seizing Mokha; Bab El-Mandab Now In Crosshairs,The Times of India,positive,0.4815,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:41:52,M&M.NS,Brave new world: Ultimate Championship brings glowing javelins and $10m prize fund to track and field,The Guardian,positive,0.6404,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:41:52,M&M.NS,Biohaven epilepsy drug suffers FDA hold days after $350M deal,fiercebiotech.com,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:41:52,M&M.NS,BMW M and BMW Motorrad celebrate 100 years of Nürburgring with nine exclusive high-performance models.,BMW Group,neutral,0.4227,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:41:52,M&M.NS,Ensure research provides solutions: Former Vice-President M Venkaiah Naidu,The New Indian Express,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:42:04,SBIN.NS,"NSE IPO price band fixed at Rs 1,700-1,785, bidding opens September 16, SBI largest seller: RHP",ANI News,neutral,0.7365,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:42:04,SBIN.NS,"NSE likely to slash IPO size to Rs 23,000 crore",The New Indian Express,neutral,0.5521,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 04:42:04,SBIN.NS,"NSE IPO: Price band set at ₹1,700-1,785 per share; check key dates, issue details",Livemint,neutral,0.843,AUTO_ACCEPTED,indi-finbert
+2026-09-11 04:42:09,TATASTEEL.NS,Vedanta Iron & Steel Ltd (VISL) Share Price,Business Today,neutral,0.7403,AUTO_ACCEPTED,indi-finbert
