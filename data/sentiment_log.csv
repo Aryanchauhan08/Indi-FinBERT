@@ -4553,3 +4553,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-11 04:42:04,SBIN.NS,"NSE likely to slash IPO size to Rs 23,000 crore",The New Indian Express,neutral,0.5521,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-11 04:42:04,SBIN.NS,"NSE IPO: Price band set at ₹1,700-1,785 per share; check key dates, issue details",Livemint,neutral,0.843,AUTO_ACCEPTED,indi-finbert
 2026-09-11 04:42:09,TATASTEEL.NS,Vedanta Iron & Steel Ltd (VISL) Share Price,Business Today,neutral,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:26:52,HDFCBANK.NS,"Bank Nifty rebounds over 900 points from day’s low, ends in green as HDFC Bank jumps 2%; PSU banks lag",moneycontrol,positive,0.9029,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:26:54,ADANIENT.NS,Adani Enterprises Submits Q4 FY26 Earnings Call Transcript to Stock Exchanges,scanx.trade,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:00,ASIANPAINT.NS,Asian Paints NSE:ASIANPAINT Trading Window Closure Q2 FY27,Kalkine India,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:04,BAJAJ-AUTO.NS,"Auto sector stocks fall today, September 11: Escorts Kubota down 2.41%, Ashok Leyland down 2.19% , Force Motors falls 1.83%",Business Upturn,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:23,EICHERMOT.NS,"Auto sector stocks fall today, September 11: Escorts Kubota down 2.41%, Ashok Leyland down 2.19% , Force Motors falls 1.83%",Business Upturn,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:31,HDFCLIFE.NS,"HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:31,HDFCLIFE.NS,"Hidden goldmine! How NSE IPO will unlock Rs 95,000 crore value for over 20 listed companies",The Economic Times,neutral,0.6255,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 14:27:33,HEROMOTOCO.NS,NSE IPO countdown: India's biggest exchange heads to D-St; key details here,Business Standard,neutral,0.8776,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:33,HEROMOTOCO.NS,"As NSE, Jio eye listings, what are India's biggest share offerings?",Business Standard,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:33,HEROMOTOCO.NS,"Auto sector stocks fall today, September 11: Escorts Kubota down 2.41%, Ashok Leyland down 2.19% , Force Motors falls 1.83%",Business Upturn,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:43,INDUSINDBK.NS,IndusInd Bank launches overdraft and cash credit linked corporate credit card for businesses,Business Upturn,positive,0.6828,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:52,LT.NS,Mysuru to host first L’Étape cycling series by Tour de France,The Hindu,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:52,LT.NS,Karnataka SIR : 18.84L Notices Undelivered While Hearing Ends Tomorrow,Deccan Chronicle,negative,0.3934,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 14:27:52,LT.NS,INVENTURUS KNOWLEDGE SO L Share Price Today: Key Levels,Univest,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:52,LT.NS,"Union Minister L Murugan Invites Filmmakers To Return To J&K, Says Region Has Ready Infrastructure",Daily Excelsior,positive,0.5612,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 14:27:55,M&M.NS,"Auto sector stocks fall today, September 11: Escorts Kubota down 2.41%, Ashok Leyland down 2.19% , Force Motors falls 1.83%",Business Upturn,negative,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:55,M&M.NS,$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide,The Guardian,positive,0.5491,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-11 14:27:55,M&M.NS,Onex linked to record $200m VLCC deal,Splash247,positive,0.6814,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:55,M&M.NS,India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content,TechCrunch,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:27:55,M&M.NS,CPI(M) leader Shanmugam urges Tamil Nadu government to convene all-party meeting on new Secretariat site selection,The Hindu,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:06,RELIANCE.NS,"As NSE, Reliance Jio eye listings, what are India's biggest share offerings?",Reuters,neutral,0.9132,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:11,SBIN.NS,"NSE IPO: SBI, BoB among 10 shareholders set to pocket ₹16,500 crore profit",Business Standard,positive,0.7763,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:11,SBIN.NS,"NSE IPO: Here's how much SBI, BoB and other shareholders will make by trimming their stake",CNBC TV18,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:11,SBIN.NS,"NSE IPO size cut: SBI, Bank of Baroda, GIC Re and Indian Bank shares react",Business Today,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:11,SBIN.NS,"NSE IPO: How SBI's 80 Paise-A-Share Cost Could Turn Into Rs 2,851 Crore Sale Proceeds",NDTV Profit,neutral,0.7802,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:17,TATASTEEL.NS,Tata Steel to meet investors on June 3 in Mumbai,scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:26,TITAN.NS,"Motilal Oswal bullish on Granules India, Titan as pharma, jewellery demand stays strong",CNBC TV18,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:27,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Chief Manufacturing Officer Change,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-11 14:28:27,ULTRACEMCO.NS,UltraTech Cement appoints Ashish Chandra as Chief Manufacturing Officer for 2027,Business Upturn,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
