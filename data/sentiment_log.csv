@@ -4597,3 +4597,15 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-14 04:57:56,M&M.NS,Senior Keralam CPI(M) leader Baby John dies at 74,The Hindu,neutral,0.737,AUTO_ACCEPTED,indi-finbert
 2026-09-14 04:58:09,SBILIFE.NS,"NSE IPO: SBI, BoB, LIC to New India Assurance Company | Top 10 selling shareholders earn up to 5,57,700% return",Livemint,positive,0.489,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-14 04:58:11,SBIN.NS,"NSE IPO: SBI, BoB, LIC to New India Assurance Company | Top 10 selling shareholders earn up to 5,57,700% return",Livemint,positive,0.489,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-14 16:24:21,HCLTECH.NS,HCL Technologies Limited (NSE:HCLTECH) Overview: How the Business Works and What May Matter Long Term,Kalkine India,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:46,LT.NS,Collection of cadres related information in Annexure-L (Cadres) through the Data Collection Portal | StaffNews,Staff News,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:46,LT.NS,"Pegasus Airlines August Passenger Numbers Up 5%, L/F Down 1.4 Pct Points YoY",TradingView,positive,0.6545,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:46,LT.NS,2026 Maruti WagonR Facelift Spied; New 1.2L 3-Cyl Engine Likely,V3Cars,positive,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:46,LT.NS,Dharampur player felicitated after int’l Futsal win,pioneeredge.in,neutral,0.6627,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:50,M&M.NS,BMW M Nurburgring Editions Limited to 100 Units,BikeWale,neutral,0.5456,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-14 16:24:50,M&M.NS,Great Eastern’s spending on secondhand tonnage this year races past $200m,Splash247,positive,0.6984,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:50,M&M.NS,'Hard roads ahead' as Whyalla steelworks cuts hundreds of jobs,ABC News & Headlines – Australian Broadcasting Corporation,negative,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:50,M&M.NS,Engineers' Day 2026: How Sir M Visvesvaraya Shaped India's Engineering Legacy,NDTV,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:50,M&M.NS,"No Boney M, no Queen—what Modi-Shah’s BJP doesn’t get about Gen Z",ThePrint,neutral,0.7272,AUTO_ACCEPTED,indi-finbert
+2026-09-14 16:24:55,NTPC.NS,BHEL NSE:BHEL Invests Rs 65 Crore in NTPC JV NBPPL,Kalkine India,neutral,0.392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-14 16:25:16,TATASTEEL.NS,"Tata Sons listing: Tata Steel, TMPV, Tata Chemicals among stocks that could benefit; here's why",Business Today,positive,0.7289,AUTO_ACCEPTED,indi-finbert
