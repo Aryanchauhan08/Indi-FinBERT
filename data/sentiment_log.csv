@@ -4609,3 +4609,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-14 16:24:50,M&M.NS,"No Boney M, no Queen—what Modi-Shah’s BJP doesn’t get about Gen Z",ThePrint,neutral,0.7272,AUTO_ACCEPTED,indi-finbert
 2026-09-14 16:24:55,NTPC.NS,BHEL NSE:BHEL Invests Rs 65 Crore in NTPC JV NBPPL,Kalkine India,neutral,0.392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-14 16:25:16,TATASTEEL.NS,"Tata Sons listing: Tata Steel, TMPV, Tata Chemicals among stocks that could benefit; here's why",Business Today,positive,0.7289,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:22,HDFCBANK.NS,Price Action: HDFC Bank up 3% as board submits two CEO candidates to RBI; Solar Industries sheds 8%,moneycontrol,positive,0.9393,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:22,INFY.NS,"HCL Tech, TCS, Infosys jump 5-7% as AI slowdown calls lift IT stocks; Nifty IT surges nearly 5%",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:22,TCS.NS,"HCL Tech, TCS, Infosys jump 5-7% as AI slowdown calls lift IT stocks; Nifty IT surges nearly 5%",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:22,HDFCBANK.NS,"HDFC Bank shares jump 3%, among top Nifty gainers as CEO succession moves to RBI; Nomura sees 34% upside",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:22,ADANIPORTS.NS,"Trade Spotlight: How should you trade Adani Ports, Aditya Birla Sun Life AMC, Solara Active Pharma, Yes Bank, Indus Towers, and others on September 15?",moneycontrol,neutral,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:24,HDFCBANK.NS,"Sensex up 300 pts, Nifty above 23,450: Buying in IT, HDFC Bank shares among key factors behind market rise",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:24,ADANIENT.NS,NSE to enter India's top 15 companies by market value after listing,Moneycontrol.com,neutral,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:24,ADANIENT.NS,NSE IPO Set for September 17 Launch; Valued at ₹4.42 Lakh Crore,Whalesbook,neutral,0.4645,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-15 04:55:44,COALINDIA.NS,"GMP signals strong debut for NSE, ending big IPO slump",newindianexpress.com,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:55:54,HDFCBANK.NS,"Indian shares open higher led by IT stocks, HDFC Bank",Reuters,positive,0.9163,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:13,LT.NS,Carol L. Hizer – PENDING,InkFreeNews.com,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:13,LT.NS,"Navi Mumbai, India gets one-year fee waiver for int’l ops",ch-aviation,positive,0.4702,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-15 04:56:13,LT.NS,"""No longer political discussion..."": BJP l eader Karunasagar says UCC Bill is moving towards implementation in several states",ANI News,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:13,LT.NS,Aptar Beauty creates bespoke premium pump for L’Occitane en Provence,Premium Beauty News,positive,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:13,LT.NS,LJIP @LJKU hosts int’l pharma conference,Ahmedabad Mirror,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:16,M&M.NS,Ideological clarity may soon be just a tap away for CPI(M) cadre in Keralam,The Hindu,negative,0.6889,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:16,M&M.NS,Column | I’m a doctor. Here’s why I wouldn’t get a full-body MRI scan.,The Washington Post,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:16,M&M.NS,"$5.5M daycare built with provincial funds now derelict, scavenged by thieves and damaged by flooding",CBC,negative,0.7171,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:16,M&M.NS,Russians Painted Houses on Project 1331-M Ships to Protect Against Drones,Мілітарний,neutral,0.698,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:24,POWERGRID.NS,Power Grid Corporation of India Limited (NSE:POWERGRID): Understanding Its,Kalkine India,neutral,0.4214,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-15 04:56:31,SUNPHARMA.NS,"Stocks To Buy or Sell Today, September 15, 2026: HDFC Bank, Sun Pharma and Coforge Among Shares Likely To",LatestLY,neutral,0.7257,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:34,TATASTEEL.NS,"Tata Sons listing: Tata Steel, TMPV, Tata Chemicals among stocks that could benefit; here's why - BusinessToday",IndiaIPO,positive,0.7101,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:38,TCS.NS,AI restraint debate lifts outlook for India tech services stocks,The Economic Times,positive,0.8808,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:39,TECHM.NS,"SENSEX jumps over 500 points, NIFTY50 opens at 23,576 as Tech Mahindra, HCL Tech, among other IT stocks lead gains",Upstox,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:39,TECHM.NS,Tech Mahindra ESOP Allotment Sept 2026: TECHM Shares Issued,Kalkine India,neutral,0.7204,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:39,TECHM.NS,"HCLTech, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",India Today,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:41,TITAN.NS,NSE to enter India's top 15 companies by market value after listing,Moneycontrol.com,neutral,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-09-15 04:56:44,UPL.NS,UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch,Kalkine India,positive,0.6401,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
