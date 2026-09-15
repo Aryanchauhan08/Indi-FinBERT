@@ -4637,3 +4637,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-15 04:56:39,TECHM.NS,"HCLTech, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",India Today,positive,0.7467,AUTO_ACCEPTED,indi-finbert
 2026-09-15 04:56:41,TITAN.NS,NSE to enter India's top 15 companies by market value after listing,Moneycontrol.com,neutral,0.9434,AUTO_ACCEPTED,indi-finbert
 2026-09-15 04:56:44,UPL.NS,UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch,Kalkine India,positive,0.6401,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-15 15:08:25,GRASIM.NS,Buy Grasim Industries; target of Rs 3800: Motilal Oswal,moneycontrol,positive,0.9371,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:08:25,HDFCBANK.NS,"HDFC Bank shares see biggest intraday jump in 4 months; should you buy, sell or hold?",moneycontrol,positive,0.9387,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:08:27,ADANIENT.NS,"Nifty slides below 23,300 as intense selling resumes; European shares edge lower",business-standard.com,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:00,HDFCBANK.NS,"India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields",Reuters,negative,0.9145,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:00,HDFCBANK.NS,HDFC Bank (NSE:HDFCBANK) CEO Transition and Executive Leadership Update,kalkine.co.in,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:09,ICICIBANK.NS,ICICI Bank to participate in key investor meets in September 2026,Business Upturn,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:15,INFY.NS,"HCLTech, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",indiatoday.in,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:22,LT.NS,L-Acoustics | earns B Corp certification,blooloop,neutral,0.7138,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:22,LT.NS,SESHAASAI TECHNOLOGIES L Share Price: 5.5% Fall Analysis,Univest,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:22,LT.NS,L’Oréal Professionnel Keratin Alpha Sleek launch,Brut,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:22,LT.NS,"The Design Village, L’École de Design Nantes Atlantique Launch TNDV Dual Degree Programme Between India and France",ahmedabadmirror.com,positive,0.4246,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-15 15:09:26,M&M.NS,National Engineers’ Day marks birth anniversary of Bharat Ratna M Visvesvaraya,News On AIR,neutral,0.7034,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:26,M&M.NS,Australia’s Indigenous population estimated at 2.2m before ‘demographic catastrophe’ of colonisation,The Guardian,neutral,0.7255,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:26,M&M.NS,"BMW M 1000 RR, M 1000 R And M 1000 XR Nürburgring Editions Revealed",ZigWheels.com,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:26,M&M.NS,AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance,TechCrunch,positive,0.67,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:26,MARUTI.NS,Maruti Suzuki India Ltd continues to decline,business-standard.com,negative,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:28,NESTLEIND.NS,Nestle India to participate in JP Morgan India Conference on 21st September 2026,Business Upturn,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:36,RELIANCE.NS,Reliance Industries (NSE:RELIANCE) Investor Meeting and Q1 FY27 Business Update,kalkine.co.in,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:40,SBIN.NS,"NSE IPO jackpot: 10 PSUs could pocket Rs 12,802 crore from stake sale",The Economic Times,neutral,0.7822,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:51,TECHM.NS,Tech Mahindra Ltd sees continued gains,business-standard.com,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-09-15 15:09:55,ULTRACEMCO.NS,UltraTech Cement addresses unexplained share price movement on 15th September 2026,Business Upturn,neutral,0.7362,AUTO_ACCEPTED,indi-finbert
