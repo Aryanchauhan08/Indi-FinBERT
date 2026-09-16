@@ -4658,3 +4658,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-15 15:09:40,SBIN.NS,"NSE IPO jackpot: 10 PSUs could pocket Rs 12,802 crore from stake sale",The Economic Times,neutral,0.7822,AUTO_ACCEPTED,indi-finbert
 2026-09-15 15:09:51,TECHM.NS,Tech Mahindra Ltd sees continued gains,business-standard.com,positive,0.7475,AUTO_ACCEPTED,indi-finbert
 2026-09-15 15:09:55,ULTRACEMCO.NS,UltraTech Cement addresses unexplained share price movement on 15th September 2026,Business Upturn,neutral,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:50:50,HDFCBANK.NS,Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank,The Economic Times,neutral,0.8929,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:07,LT.NS,"Priyanka Bhargav moves on from Flipkart, joins L'Oréal",Exchange4Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:07,LT.NS,Jamil forced into early change as 10 players miss nat’l camp,timesofindia.indiatimes.com,negative,0.6922,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:07,LT.NS,L'édition 2026 du Forum public de l'OMC met en lumière le rôle des services pour favoriser le commerce mondial,World Trade Organization,neutral,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:07,LT.NS,L'Oreal steals French stock market crown from LVMH,reuters.com,neutral,0.6788,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:07,LT.NS,Greater Chennai Corporation collects Rs 6.60 L fine from non-compliant bulk waste generators,DT Next,negative,0.4342,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 04:51:09,M&M.NS,Mahindra and Mahindra (NSE:M&M): Why Is It Meeting Analysts at Three Global Conferences in September 2026?,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:09,M&M.NS,Top 31 EV Stocks To Buy In India September 2026,Samco,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:10,M&M.NS,"AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",TechCrunch,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:10,M&M.NS,Novo walks away from $285M pact to develop monthly GLP-1 obesity drug with Ascendis,Fierce Biotech,negative,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:13,NESTLEIND.NS,"NESTLEIND Stock Price Today, Nestlé India News, Quote, NSE",TechGraph,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:22,SBIN.NS,NSE IPO: What it means for India’s stock market,Livemint,neutral,0.8418,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:27,TATASTEEL.NS,"Tata Steel fixes July 2 for 119th AGM, recommends ₹4 dividend",scanx.trade,neutral,0.6766,AUTO_ACCEPTED,indi-finbert
+2026-09-16 04:51:28,TATACONSUM.NS,"TATACONSUM Stock Price Today, Tata Consumer Products News, Quote, NSE",TechGraph,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
