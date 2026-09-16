@@ -4672,3 +4672,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-16 04:51:22,SBIN.NS,NSE IPO: What it means for India’s stock market,Livemint,neutral,0.8418,AUTO_ACCEPTED,indi-finbert
 2026-09-16 04:51:27,TATASTEEL.NS,"Tata Steel fixes July 2 for 119th AGM, recommends ₹4 dividend",scanx.trade,neutral,0.6766,AUTO_ACCEPTED,indi-finbert
 2026-09-16 04:51:28,TATACONSUM.NS,"TATACONSUM Stock Price Today, Tata Consumer Products News, Quote, NSE",TechGraph,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:11,CIPLA.NS,What Happens To Indian IT If AI Development Actually Slows,upstox.com,negative,0.5485,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:12,CIPLA.NS,Cipla to discuss Q1FY27 results on July 23 earnings call,scanx.trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:28,HINDUNILVR.NS,"RIL, HUL, Nestle, Tata Consumer, Muthoot, Hyundai shares on the rise today | Key things to know",IndiaIPO,positive,0.5955,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:41,LT.NS,L Catterton invests in restaurant operator Nandhana Foods,Livemint,neutral,0.4752,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:41,LT.NS,L Catterton Invests $30 Mn In Nandhana Foods For Minority Stake,BW Disrupt,neutral,0.6619,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:41,LT.NS,L Catterton to invest in restaurant chain Nandhana Foods,YourStory.com,neutral,0.74,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:41,LT.NS,L Catterton backs Bengaluru's Nandhana Foods to fund global push,app.dealroom.co,positive,0.4241,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:44,M&M.NS,Former Infosys chief’s AI startup nabs another $53M,TechCrunch,neutral,0.6662,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:44,M&M.NS,Seoul court orders North Korea to pay $32.5m for blowing up office,Al Jazeera,negative,0.5906,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:44,M&M.NS,Keralam CM Satheesan says CPI(M) ‘scapegoated’ M.V. Govindan for LDF’s Assembly poll debacle,The Hindu,negative,0.589,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:44,M&M.NS,Taylor Swift-Travis Kelce's $5.35M Ohio mansion: A peek inside star couple’s private retreat with voice-w,The Times of India,neutral,0.7114,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:44,M&M.NS,Patek Philippe Watch Could Fetch $4.9M at Phillips,Rapaport,positive,0.5537,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:00:44,MARUTI.NS,Top 10 Best Robotics Stocks In India 2026,nubiapage.com,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:46,NESTLEIND.NS,Nestlé India (NESTLEIND) Share/Stock Price Live NSE/BSE,techgraph.co,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:48,NTPC.NS,NTPC Green Energy announces change in senior management,Business Upturn,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:49,ONGC.NS,Seamec announces resumption of ONGC vessel 'SAMUDRA SEVAK' contract,Business Upturn,neutral,0.6929,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:00:54,SBILIFE.NS,SBI Life Insurance (SBILIFE) Share/Stock Price Live NSE/BSE,techgraph.co,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:01:00,TATAMOTORS.NS,Top 10 Best Robotics Stocks In India 2026,nubiapage.com,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:01:03,TATACONSUM.NS,Tata Consumer Products (TATACONSUM) Share/Stock Price Live NSE/BSE,techgraph.co,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-16 15:01:03,TATACONSUM.NS,"RIL, HUL, Nestle, Tata Consumer, Hyundai shares on the rise today | Key things to know",Livemint,neutral,0.4431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-16 15:01:06,TECHM.NS,"Nifty 50 top losers today, September 16: TCS, Wipro, Infosys, Tech Mahindra and more",Business Upturn,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
