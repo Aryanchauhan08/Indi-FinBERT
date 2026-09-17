@@ -4721,3 +4721,26 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-17 04:54:46,SBIN.NS,SBI shares rise 1% as NSE IPO opens; Jefferies sees 15%+ ROE,Upstox,positive,0.7475,AUTO_ACCEPTED,indi-finbert
 2026-09-17 04:54:46,SBIN.NS,"NSE IPO Set to Hand Selling Shareholders a Rs 16,500 Crore Windfall",NiftyTrader,neutral,0.3867,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-17 04:55:01,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Lost Share Certificate Notice 2026,Kalkine India,negative,0.7291,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:00:58,HDFCLIFE.NS,"HDFC Life, other life insurance companies' stocks rise up to 7% on hope of lower commission payment",moneycontrol,positive,0.9468,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:00:58,TATAMOTORS.NS,Buy Tata Motors; target of Rs 482: Geojit Financial Services,moneycontrol,positive,0.6784,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:00:59,ADANIENT.NS,"Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",The Economic Times,neutral,0.8933,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:05,ASIANPAINT.NS,Asian Paints (ASIANPAINT) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:06,AXISBANK.NS,Axis Bank AXISBANK Trading Window Closure October 2026,Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:50,LT.NS,NSE enables India’s first tokenised corporate bond issuances,thehindubusinessline.com,positive,0.6404,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 15:01:50,LT.NS,NSE paves the way for Digital Bond Infrastructure with India’s first-ever Tokenised Bond Issuances...,MillenniumPost,positive,0.7176,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:50,LT.NS,"NSE enables India's first tokenised corporate bond issuances by REC, L&T",Asianet Newsable,positive,0.6332,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 15:01:50,LT.NS,"NSE Takes Bonds Digital with ₹1,000-Crore Tokenised Issuances",kashmirdespatch.com,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:51,LT.NS,"Assam’s CMAAA crosses Rs 1,000 cr spend as govt targets 5 L beneficiaries",The Assam Tribune,positive,0.7133,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:51,LT.NS,KARAMTARA ENGINEERING L Share Price,Upstox,neutral,0.7238,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:51,LT.NS,How Nandhana Palace Became L Catterton’s Rs 288 Crore Bet,Outlook Luxe,neutral,0.5983,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 15:01:51,LT.NS,Woman loses Rs 13.7L in investment fraud,The Times of India,negative,0.7269,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:51,LT.NS,Abu Dhabi wealth fund L’Imad eyes stake in Apollo’s Atlas Air cargo unit - Bloomberg News,TradingView,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:54,M&M.NS,Macklemore pledges his $1m Ed Sheeran tour salary to Palestine aid,The Guardian,neutral,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:54,M&M.NS,Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash,BBC,neutral,0.7236,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:54,M&M.NS,Macklemore pledges $1m in tour earnings to Palestinian groups,Al Jazeera,neutral,0.529,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 15:01:54,M&M.NS,Robert Kraft Says Ed Sheeran Asked Him to Match $2M Donation,people.com,neutral,0.7339,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:01:54,M&M.NS,"Rapper Macklemore fires back after Ed Sheeran tour ouster, pledges $1m for Palestine",India Today,neutral,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:02:01,ONGC.NS,ONGC Cost Auditors FY27: Board Approves Three Firms,Kalkine India,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:02:01,ONGC.NS,"Top gainers and losers, September 17: HDFC LIC jumps 5%, TMPV rises 4%, ONGC falls 2%; check list",Upstox,positive,0.5547,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 15:02:04,RELIANCE.NS,Reliance Industries Ltd (RELIANCE) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-17 15:02:06,SBILIFE.NS,NSE Allots Shares Worth Rs 6746 Crore to Record 189 Anchor Investors,Deccan Chronicle,positive,0.6352,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
