@@ -4693,3 +4693,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-16 15:01:03,TATACONSUM.NS,Tata Consumer Products (TATACONSUM) Share/Stock Price Live NSE/BSE,techgraph.co,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
 2026-09-16 15:01:03,TATACONSUM.NS,"RIL, HUL, Nestle, Tata Consumer, Hyundai shares on the rise today | Key things to know",Livemint,neutral,0.4431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-16 15:01:06,TECHM.NS,"Nifty 50 top losers today, September 16: TCS, Wipro, Infosys, Tech Mahindra and more",Business Upturn,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:53:36,COALINDIA.NS,"Demand scenario improves for Coal India, will earnings follow?",moneycontrol,positive,0.8589,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:53:39,ADANIENT.NS,Adani Enterprises Stock Signals to Watch This Week,Univest,neutral,0.7101,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:53:52,BPCL.NS,BPCL Analyst Meet Schedule Sept 2026 | NSE:BPCL,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:04,EICHERMOT.NS,Eicher Motors (NSE:EICHERMOT): Has Royal Enfield's Flying Flea C6 Launched in Europe?,Kalkine India,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:11,HDFCLIFE.NS,"NSE raises ₹6,746 crore from anchor investors ahead of IPO",TradingView,positive,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:11,HDFCLIFE.NS,"NSE raises Rs 6,746 crore via anchor book ahead of IPO; LIC, Fidelity, ADIA among top investors",Moneycontrol.com,positive,0.9344,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:11,HDFCLIFE.NS,"NSE mobilises Rs 6,746 crore from anchor investors ahead of IPO; LIC gets largest allocation",ANI News,positive,0.7112,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:11,HDFCLIFE.NS,"LIC, Norway sovereign fund among key investors in NSE's ₹6.7Kcr anchor book",business-standard.com,positive,0.7238,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:11,HDFCLIFE.NS,"NSE anchor book likely to be Rs 6,745 crore with around 105 investors participating: Sources",Moneycontrol.com,neutral,0.8957,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:21,INDUSINDBK.NS,IndusInd Bank HYROX India Multi-City Partnership Expanded,Kalkine India,positive,0.6919,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:23,INFY.NS,"Stocks To Buy or Sell Today, September 17, 2026: Fortis Healthcare, Infosys and HDFC Bank Among Shares",LatestLY,neutral,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:29,LT.NS,L Catterton may reset dining-chain valuations with Nandhana deal,VCCircle,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:29,LT.NS,L Catterton picks up minority stake in South India restaurant chain Nandhana Foods for $30 million,The Times of India,positive,0.4167,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 04:54:29,LT.NS,L Catterton invests $30 million in Nandhana Foods,BusinessLine,neutral,0.5197,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 04:54:32,M&M.NS,Mahindra & Mahindra (NSE:M&M): Why Did It Publish a Newspaper Notice on Share Certificate Loss?,Kalkine India,neutral,0.4912,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 04:54:33,M&M.NS,Robert Kraft says Ed Sheeran asked him to donate $2m to aid after Macklemore backlash,BBC,neutral,0.7264,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:33,M&M.NS,Chiefs star Travis Kelce is named among victims of $35m Ponzi scheme,The Guardian,neutral,0.4395,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 04:54:33,M&M.NS,‘Resident Evil’ To Scorch The Earth With $80M Global Debut – Box Office Preview,Deadline,positive,0.7056,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:33,M&M.NS,Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier,Fierce Biotech,positive,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:37,NTPC.NS,NTPCGREEN Share Price Today - NTPC Green Energy on NSE/BSE,scanx.trade,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:37,NTPC.NS,NTPC Green Energy (NSE:NTPCGREEN): What Changed in Its Senior Management?,Kalkine India,neutral,0.7331,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:45,SBILIFE.NS,"NSE raises ₹6,746 crore from anchor investors ahead of IPO",TradingView,positive,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:45,SBILIFE.NS,"NSE mobilises Rs 6,746 crore from anchor investors ahead of IPO; LIC gets largest allocation",ANI News,positive,0.7112,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:45,SBILIFE.NS,"NSE raises Rs 6,746 crore via anchor book ahead of IPO; LIC, Fidelity, ADIA among top investors",Moneycontrol.com,positive,0.9344,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:45,SBILIFE.NS,"LIC, Norway sovereign fund among key investors in NSE's ₹6.7Kcr anchor book",business-standard.com,positive,0.7238,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:46,SBIN.NS,SBI shares rise 1% as NSE IPO opens; Jefferies sees 15%+ ROE,Upstox,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-09-17 04:54:46,SBIN.NS,"NSE IPO Set to Hand Selling Shareholders a Rs 16,500 Crore Windfall",NiftyTrader,neutral,0.3867,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-17 04:55:01,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Lost Share Certificate Notice 2026,Kalkine India,negative,0.7291,AUTO_ACCEPTED,indi-finbert
