@@ -4744,3 +4744,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-17 15:02:01,ONGC.NS,"Top gainers and losers, September 17: HDFC LIC jumps 5%, TMPV rises 4%, ONGC falls 2%; check list",Upstox,positive,0.5547,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-17 15:02:04,RELIANCE.NS,Reliance Industries Ltd (RELIANCE) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
 2026-09-17 15:02:06,SBILIFE.NS,NSE Allots Shares Worth Rs 6746 Crore to Record 189 Anchor Investors,Deccan Chronicle,positive,0.6352,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 04:44:25,TCS.NS,"Tata Chemicals shares crash 7.5% amid Tata Sons listing row; TMPV, TCS down 2%: Here's why",moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:25,ADANIENT.NS,"US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market",The Economic Times,negative,0.8928,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:33,AXISBANK.NS,"Axis Bank Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:39,BHARTIARTL.NS,Stock Markets Close Flat After US Fed Rate Hike; NSE IPO In Focus,outlookbusiness.com,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:47,DRREDDY.NS,Dr. Reddy's Laboratories collaborates with Gilead for HIV prevention drug licensing,Business Upturn,positive,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:47,DRREDDY.NS,Dr. Reddy's Laboratories enters exclusive agreement with Takeda for dengue vaccine Qdenga® in India,Business Upturn,positive,0.7361,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:44:56,HEROMOTOCO.NS,Hero MotoCorp Opening Bell Updates: Flat Open Amidst EV Push & DII Support,LatestLY,neutral,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:08,KOTAKBANK.NS,Kotak Mahindra Bank (KOTAKBANK) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:10,LT.NS,"NSE enables India's first tokenised corporate bond issuances worth Rs 1,000 crore",cfo.economictimes.indiatimes.com,positive,0.6678,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:10,LT.NS,"NSE Facilitates First Tokenised Corporate Bond Issuances Worth Rs 1,000 Cr",TradingView,positive,0.4064,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 04:45:10,LT.NS,"Business News | NSE Enables India’s First Tokenised Corporate Bond Issuances Worth Rs 1,000 Crore",LatestLY,neutral,0.6503,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:11,LT.NS,"PM Modi's birthday: L Murugan, V Muraleedharan highlight his 25 years of 'Jan Seva'",ANI News,neutral,0.6736,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:11,LT.NS,Father-in-law's diary showing cash movements in a homemaker's name led to ₹33.50L tax addition; ITAT grants relief,Livemint,positive,0.8341,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:11,LT.NS,Three held with opium worth ₹8.49L,The Times of India,neutral,0.5382,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 04:45:11,LT.NS,Centre spent ₹1.6L crore on free treatment under AB-PMJAY,Medical Buyer,positive,0.657,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:12,LTIM.NS,LTIMindtree Q2 FY27 Preview: Revenue & Margin Trends,univest.in,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:13,M&M.NS,Mahindra & Mahindra (NSE: M&M) Investor Meeting and Q1 FY27 Business Update,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:14,M&M.NS,YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation,The Guardian,positive,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 04:45:14,M&M.NS,"‘Tell everybody’: Judge’s warning after couple smuggled 2.5m cigarettes, evaded $3.8m in tax",NZ Herald,negative,0.7171,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:14,M&M.NS,British people understand the climate crisis threat. Today I’m empowering them to tackle it | Andy Burnham,The Guardian,neutral,0.6404,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 04:45:14,M&M.NS,"Pelicans, Saddiq Bey agree on 3-year, $55.5M contract extension",ESPN India,positive,0.7219,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:22,POWERGRID.NS,Power Grid Corporation of India Stock Signals to Watch This Week,univest.in,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:24,SBILIFE.NS,"SBI Life Insurance ESOP Allotment: 55,501 Shares Issued in Sept 2026",Kalkine India,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:24,SBILIFE.NS,NSE IPO opens: $2.3 billion issue sets stage for one of India’s biggest listings,Firstpost,positive,0.7091,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:24,SBILIFE.NS,"NSE Raises ₹6,746 Crore From Anchor Investors, Global Funds Back India’s Largest Stock Exchange",Free Press Journal,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:26,SBIN.NS,"NSE IPO Day 2: Check subscription status, price band, lot size and key details of India's second largest issue",Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-18 04:45:38,ULTRACEMCO.NS,UltraTech Cement (ULTRACEMCO) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
