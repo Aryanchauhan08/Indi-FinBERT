@@ -4771,3 +4771,35 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-18 04:45:24,SBILIFE.NS,"NSE Raises ₹6,746 Crore From Anchor Investors, Global Funds Back India’s Largest Stock Exchange",Free Press Journal,positive,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-09-18 04:45:26,SBIN.NS,"NSE IPO Day 2: Check subscription status, price band, lot size and key details of India's second largest issue",Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
 2026-09-18 04:45:38,ULTRACEMCO.NS,UltraTech Cement (ULTRACEMCO) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:32:47,HDFCBANK.NS,"Bank Nifty outperforms benchmarks, rises above 56,400; HDFC Bank jumps over 2.5%: What lies ahead?",moneycontrol,positive,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:32:47,NESTLEIND.NS,"FSSAI initiates legal action against Nestle India on baby formula, shares fall marginally",moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:32:47,ADANIENT.NS,Global Market: European shares edge lower as telecom stocks weigh,The Economic Times,negative,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:03,BPCL.NS,BPCL stock gains as investors eye earnings outlook and recent price strength,AD HOC NEWS,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:05,BHARTIARTL.NS,Bharti Airtel stock edges higher as technicals stay below 52-week peak,AD HOC NEWS,positive,0.736,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:14,DRREDDY.NS,Dr. Reddy's Lab shares climb 3% on signing exclusive agreement to distribute dengue vaccine in India,upstox.com,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:14,DRREDDY.NS,Takeda and Dr. Reddy's Laboratories enter into exclusive collaboration to promote and distribute QDENGA in India's pediatric and adult private market,indiagazette.com,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:18,GRASIM.NS,Grasim Industries announces Rs 187.41 crore investment in Canadian joint venture,Business Upturn,neutral,0.4717,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 14:33:22,HDFCBANK.NS,HDFC Bank Ltd (HDFCBANK) Share/Stock Price Live NSE/BSE,TechGraph,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:35,INDUSINDBK.NS,IndusInd Bank receives ESG rating of 73 from Niche Ninety Nine,Business Upturn,positive,0.733,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:43,LT.NS,"India’s Creative Economy Growing Rapidly, Says MoS L. Murugan",News On AIR,positive,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:43,LT.NS,Tata Sierra Legend Series Launched in India at Rs. 11.99 Lakh,CarWale,neutral,0.6776,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:43,LT.NS,L’Oréal onboards two Indian startups in second L’AcceleratOR cohort,Entrackr,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:43,LT.NS,"India’s creative economy needs stronger policy, legal frameworks: L Murugan",Storyboard18,neutral,0.7322,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:43,LT.NS,L Catterton invests in Nandhana Foods,Food & Beverage News,neutral,0.5569,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 14:33:47,M&M.NS,‘Resident Evil’ Scaring Up Franchise Best Previews With $8M-$9M & Rotten Tomatoes 91% Audience Score,Deadline,positive,0.6974,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:47,M&M.NS,Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal,TechCrunch,positive,0.6897,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:47,M&M.NS,"US approves $414M uranium investment in Niger, two years after troops left",Al Jazeera,positive,0.7062,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:47,M&M.NS,Liverpool considering £51.5m January swoop for star who just dazzled at Sunderland,Football365,positive,0.4384,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 14:33:50,NESTLEIND.NS,Nestle India shares slip nearly 3% after FSSAI initiates legal action over infant nutrition products,The Economic Times,negative,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:50,NESTLEIND.NS,FSSAI initiates legal action against Nestlé India over baby nutrition products - CNBC TV18,LinkedIn,neutral,0.591,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 14:33:50,NESTLEIND.NS,Nestle India share price falls 3%: FSSAI takes legal action over 3 baby products,Livemint,negative,0.8418,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:50,NESTLEIND.NS,Nestlé India Faces FSSAI Action Over Infant Nutrition Products,Equitypandit,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:50,NESTLEIND.NS,Nestle India shares tank 3% as FSSAI initiates legal action over infant products,Business Today,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:56,POWERGRID.NS,"Maharatna PSU stock Power Grid to raise ₹5,000 crore through bonds: Check issue size, tenure and details",Livemint,neutral,0.8407,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:56,POWERGRID.NS,GE Vernova T&D India (NSE: GVT&D) Investor Meeting and Power Transmission Growth Update,Kalkine India,neutral,0.6403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-18 14:33:56,POWERGRID.NS,"POWERGRID Approves Up to ₹5,000 Crore Bond Issue Through Private Placement to Raise Funds",Indianmasterminds,positive,0.7129,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:56,POWERGRID.NS,"Power Grid Corporation of India to raise Rs. 5,000 crore through new bond issue",Business Upturn,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:33:59,SBILIFE.NS,"NSE Raises Rs 6,746 Cr From Anchor Investors Ahead Of IPO",TradingView,positive,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:34:08,TATASTEEL.NS,"Nifty ends higher, Sensex dips amid mixed market signals",Rediff,negative,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:34:08,TATASTEEL.NS,"Tata Chemicals, Tata Investment shares drop up to 8%: Why Tata stocks are falling today",Business Today,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-18 14:34:20,WIPRO.NS,"Stocks To Buy or Sell Today, September 18, 2026: Wipro and Bharat Forge Among Shares Likely To Remain in",LatestLY,positive,0.624,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
