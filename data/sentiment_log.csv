@@ -4803,3 +4803,20 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-18 14:34:08,TATASTEEL.NS,"Nifty ends higher, Sensex dips amid mixed market signals",Rediff,negative,0.7312,AUTO_ACCEPTED,indi-finbert
 2026-09-18 14:34:08,TATASTEEL.NS,"Tata Chemicals, Tata Investment shares drop up to 8%: Why Tata stocks are falling today",Business Today,negative,0.7451,AUTO_ACCEPTED,indi-finbert
 2026-09-18 14:34:20,WIPRO.NS,"Stocks To Buy or Sell Today, September 18, 2026: Wipro and Bharat Forge Among Shares Likely To Remain in",LatestLY,positive,0.624,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 04:56:44,BHARTIARTL.NS,Bharti Airtel stock gains as cloud business and cash flows strengthen,ad-hoc-news.de,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:56:51,DIVISLAB.NS,"Mutual funds take ₹2,495 crore exposure in NSE IPO anchor book: Nippon India Large Cap tops the list of 10 schemes",Livemint,positive,0.7598,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:56:56,GRASIM.NS,"Mutual funds take ₹2,495 crore exposure in NSE IPO anchor book: Nippon India Large Cap tops the list of 10 schemes",Livemint,positive,0.7598,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:06,HINDUNILVR.NS,"Weekly Recap: 7% price hike, EBITDA guidance and CEO change to Priya Nair",TradingView,neutral,0.7288,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:14,JSWSTEEL.NS,"Stocks To Buy or Sell Today, September 21, 2026: Mazagon Dock, RVNL, and Tata Motors Among Shares That May",LatestLY,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:18,LT.NS,"Andhra Pradesh: Union Ministers Kishan Reddy, L. Murugan Offer Prayers at Tirumala Temple",News On AIR,neutral,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:18,LT.NS,"Hyundai Bayon India Launch Confirmed: Expected Price, 1.5L Engine, CNG and Features",carlelo.com,positive,0.5279,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 04:57:18,LT.NS,L Murugan urges TN govt to scrap proposed Secretariat at Pattinapakkam,ThePrint,negative,0.5986,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 04:57:18,LT.NS,Standard Chartered PLC (STAN.L) Stock Analysis: Evaluating The 3.11% Upside Potential,directorstalkinterviews.com,neutral,0.5963,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 04:57:18,LT.NS,"Tojiro Knife Gallery Tokyo ""Hanare"" / L/O (KATATA YOSHISHITO DESIGN)",ArchDaily,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:22,M&M.NS,CPI(M) warns TVK govt. not to take unilateral decisions,The Hindu,neutral,0.7212,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:22,M&M.NS,"Travis Kelce’s $90M fortune gets attention, but his nearly $2M commitment to Kansas City kids reveals the",The Times of India,neutral,0.7262,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:22,M&M.NS,"Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up",CNX Software,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:22,M&M.NS,Weekend Box Office: RESIDENT EVIL Earns Franchise Record $60M Debut,Boxoffice Pro,positive,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:22,M&M.NS,"Box Office Global: 'Resident Evil' $108M WW Best in Franchise, Zach Cregger",Deadline,positive,0.7075,AUTO_ACCEPTED,indi-finbert
+2026-09-21 04:57:31,RELIANCE.NS,"Weekly Recap: ₹12,000cr NCD private placement and five-year bond at 7.47%",TradingView,neutral,0.4171,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 04:57:38,TATAMOTORS.NS,"Stocks To Buy or Sell Today, September 21, 2026: Mazagon Dock, RVNL, and Tata Motors Among Shares That May",LatestLY,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
