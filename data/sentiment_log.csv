@@ -4820,3 +4820,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-21 04:57:22,M&M.NS,"Box Office Global: 'Resident Evil' $108M WW Best in Franchise, Zach Cregger",Deadline,positive,0.7075,AUTO_ACCEPTED,indi-finbert
 2026-09-21 04:57:31,RELIANCE.NS,"Weekly Recap: ₹12,000cr NCD private placement and five-year bond at 7.47%",TradingView,neutral,0.4171,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-21 04:57:38,TATAMOTORS.NS,"Stocks To Buy or Sell Today, September 21, 2026: Mazagon Dock, RVNL, and Tata Motors Among Shares That May",LatestLY,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:32,BHARTIARTL.NS,"Airtel shares snap 3-day gains to drop over 3%; should you buy, sell or hold?",moneycontrol,negative,0.9428,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:32,SUNPHARMA.NS,Buy Sun Pharmaceutical Industries; target of Rs 2070: Geojit Financial Services,moneycontrol,positive,0.8696,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:32,JSWSTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel remain 'Buy': Nomura as steel prices hit new highs",moneycontrol,positive,0.9266,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:32,TATASTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel remain 'Buy': Nomura as steel prices hit new highs",moneycontrol,positive,0.9266,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:32,TATACONSUM.NS,"Marico, Tata Consumer, ITC among Nomura top picks as monsoon deficit puts rural demand at risk",moneycontrol,negative,0.6733,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:33,ADANIENT.NS,Why Adani Group Stocks are falling today?,India Infoline,negative,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:34,ADANIENT.NS,"Why Adani Total Gas lost 5%, Adani Ports fell 2% despite gains on Sensex, Nifty | Check how other Adani stocks performed",Livemint,negative,0.8408,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:49,BPCL.NS,"IOCL, BPCL, HPCL likely to see Q2 earnings recovery but crude supply shock, tariff risk may play spoilsport",ET EnergyWorld,neutral,0.6039,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 16:30:49,BPCL.NS,"Russia Sanctions Bill: ICICI Securities explains how HPCL, BPCL, IOC earnings could be impacted",CNBC TV18,negative,0.6642,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:49,BPCL.NS,"Will Russian crude curbs change the earnings outlook for IOC, BPCL and HPCL?",Business Upturn,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:57,DIVISLAB.NS,"NSE IPO: Will there be a negative listing? But, should you still apply — if yes, then why | What experts suggest",Livemint,neutral,0.8419,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:30:59,DRREDDY.NS,Dr. Reddy's Laboratories (NSE:DRREDDY): What Is the Nomura Investor Meet About?,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:02,GRASIM.NS,"Stock Picks Today: HAL, HDFC Bank, UltraTech, Polycab, Nestle India And More On Brokerages' Radar",NDTV Profit,neutral,0.8568,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:04,HCLTECH.NS,HCL Technologies PLM Leader Everest Group 2026 Assessment,Kalkine India,neutral,0.7153,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:10,HEROMOTOCO.NS,Hero MotoCorp HEROMOTOCO Bharat Connect Investor Conference 2026,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:13,HINDUNILVR.NS,"HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:17,ITC.NS,ITC (NSE:ITC): Why Did It Publish a Lost Share Certificate Notice in September 2026?,Kalkine India,neutral,0.4702,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 16:31:27,LT.NS,Gotistobart vs Docetaxel in Metastatic Squamous NSCLC After PD-(L)1 Progression: Updated Overall Survival From Stage 1 of PRESERVE-003,OncLive,neutral,0.6478,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 16:31:27,LT.NS,L’Oréal Selected 13 Companies For Its Sustainability-focussed L’AcceleratOR Second Cohort,BW Disrupt,neutral,0.7375,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:27,LT.NS,"Dilip Buildcon emerges L 1 bidder for Rs 1,265 crore transmission project; stock reacts - BusinessToday",IndiaIPO,positive,0.7085,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:27,LT.NS,Honda CB500 India Launch Price Rs 2.75 L - Cross Spoke Tubeless At Rs 3 L,RushLane,neutral,0.727,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:27,LT.NS,Odisha deletes 17.66L names from final electoral roll after SIR,timesofindia.indiatimes.com,negative,0.4987,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 16:31:31,M&M.NS,"Uttarakhand CM Dhami says strong cooperatives, M-PACS can strengthen rural economy",timesofindia.indiatimes.com,positive,0.5612,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-21 16:31:31,M&M.NS,UK startup snares $20m to recreate gigs with ‘hyper-realistic’ digital avatars,The Guardian,neutral,0.6888,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:31,M&M.NS,US$5 m Treasury Bill: Stratus wins as NBS is slapped with fine,Herald.co.zw,positive,0.7095,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:32,MARUTI.NS,"Maruti Suzuki schedules investor meet on September 24, 2026",scanx.trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:34,NESTLEIND.NS,Nestle India - Ather Energy among 5 F&O stocks with a sharp rise in futures open interest,economictimes.com,positive,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:31:50,TATAMOTORS.NS,"Tata Motors Stock Crashes 57% From July 2024 Peak: JLR Drag, EV Growth and 5 Factors That Could Shape Its Recovery",Trade Brains,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-21 16:32:00,ULTRACEMCO.NS,"Explained - Why UltraTech Cement's premium valuations should sustain, as per HSBC",IndiaIPO,positive,0.7427,AUTO_ACCEPTED,indi-finbert
