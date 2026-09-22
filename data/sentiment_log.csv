@@ -4868,3 +4868,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-22 04:57:46,TITAN.NS,Titan TITAN Eyes Smaller Watch Brand Acquisitions,Kalkine India,neutral,0.6929,AUTO_ACCEPTED,indi-finbert
 2026-09-22 04:57:46,TITAN.NS,Titan Company Explores Watch Brand Acquisitions to Expand Premium Segment,Kalkine India,neutral,0.6457,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-22 04:57:50,UPL.NS,"UPL Ltd Share Price Today,, UPL Share Price NSE, BSE",Business Today,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:36,INFY.NS,"Infosys shares fall 5% in 5 sessions; should you buy, sell or hold?",moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:36,COALINDIA.NS,"Coal India shares gain 3% on Morgan Stanley upgrade, global brokerage sees 16% upside",moneycontrol,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:52,BHARTIARTL.NS,Bharti Airtel stock falls as Apple plans meet new telecom rules,AD HOC NEWS,negative,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:52,BHARTIARTL.NS,Bharti Airtel BHARTIARTL Adds Apple iCloud+ TV Arcade to Postpaid,Kalkine India,positive,0.5938,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:53:57,COALINDIA.NS,NSE IPO listing on September 24: How 5 largest IPOs fared on market debuts,Business Today,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:57,COALINDIA.NS,Coal India shares get an upgrade from Morgan Stanley on factors that will drive an earnings upgrade - CNBC TV18,LinkedIn,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:57,COALINDIA.NS,"NSE IPO beats Hyundai, LIC, Paytm in subscription; how 5 largest issues fared - BusinessToday",IndiaIPO,positive,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:53:58,COALINDIA.NS,Coal India gets a lift as brokerage turns overweight,Business Standard,positive,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:00,DRREDDY.NS,Press Release Distribution India,Business Wire India,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:02,EICHERMOT.NS,Eicher Motors EICHERMOT Classic 350 Signature White 2026,Kalkine India,neutral,0.7315,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:05,HCLTECH.NS,HCL Technologies (NSE:HCLTECH): Why Did It Win an AI-Led IT Deal With M Group?,Kalkine India,neutral,0.7054,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:14,ICICIBANK.NS,ICICI Bank (ICICIBANK) Share/Stock Price Live NSE/BSE,techgraph.co,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:25,LT.NS,CCI approves L’Oréal India’s acquisition of 100% stake in Innovist parent Onesto Labs,Fortune India,positive,0.6387,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:25,LT.NS,72nd National Film Awards: Aanand L Rai wins Best Director for ‘Statue Of Unity: Ekta Ka Prateek’ starrin,timesofindia.indiatimes.com,positive,0.4733,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:25,LT.NS,CCI okays L'Oreal India's acquisition of personal care firm Onesto Labs,Moneycontrol.com,positive,0.9319,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:25,LT.NS,"Arunachal Pradesh final electoral roll has 6.96 lakh voters, 1.91L fewer after SIR",The Assam Tribune,neutral,0.7242,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:25,LT.NS,ACB nabs govt officer in Mancherial for demanding Rs 1.3L bribe,The Siasat Daily,neutral,0.3928,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:28,M&M.NS,"Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M",Deadline,positive,0.7246,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:28,M&M.NS,"Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",The Hacker News,neutral,0.6576,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:28,M&M.NS,CPI(M) protests milk price hike at Vijaya Dairy in Vijayawada,The Hindu,negative,0.3566,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:29,MARUTI.NS,Maruti Suzuki India (NSE: MARUTI) FY27 Growth Target and Capacity Expansion Update,Kalkine India,positive,0.7169,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:29,MARUTI.NS,Maruti Suzuki (NSE: MARUTI) Capacity Expansion and Business Strategy Explained,Kalkine India,neutral,0.6273,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:31,NESTLEIND.NS,"Nifty 50 top losers today, September 22: Tata Consumer Products and Nestle India lead declines",Business Upturn,negative,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:37,RELIANCE.NS,"Reliance Naval & Engg Share Price Today, Reliance Naval & Engg Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:44,TATAMOTORS.NS,Tata Motors Passenger Vehicles TMPV Trading Window Closure Q2 FY27,Kalkine India,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:47,TATACONSUM.NS,Tata Consumer Products TATACONSUM Trading Window Closure Q2 FY27,Kalkine India,neutral,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:49,TCS.NS,Tata Consultancy Services Stock Update: Shares Dip Amid Group Volatility,LatestLY,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-22 14:54:51,TECHM.NS,"Tech Mahindra stock trades at INR 1,544 after early decline",AD HOC NEWS,positive,0.357,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 14:54:52,TITAN.NS,Titan Company TITAN Trading Window Closure September 2026,Kalkine India,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
