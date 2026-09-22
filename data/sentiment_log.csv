@@ -4849,3 +4849,22 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-21 16:31:34,NESTLEIND.NS,Nestle India - Ather Energy among 5 F&O stocks with a sharp rise in futures open interest,economictimes.com,positive,0.7403,AUTO_ACCEPTED,indi-finbert
 2026-09-21 16:31:50,TATAMOTORS.NS,"Tata Motors Stock Crashes 57% From July 2024 Peak: JLR Drag, EV Growth and 5 Factors That Could Shape Its Recovery",Trade Brains,negative,0.7451,AUTO_ACCEPTED,indi-finbert
 2026-09-21 16:32:00,ULTRACEMCO.NS,"Explained - Why UltraTech Cement's premium valuations should sustain, as per HSBC",IndiaIPO,positive,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:56:17,HDFCBANK.NS,HDFC Bank shares rise for second day as CEO search progresses; Anup Bagchi seen as frontrunner,moneycontrol,positive,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:56:19,ADANIENT.NS,"Adani Enterprises stock set for 28% upside, says Jefferies; cites these factors",Business Today,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:56:22,APOLLOHOSP.NS,"Five Stocks To Buy Today: Apollo Hospitals, Marico Ltd., Engineers India | Sept 22",NDTV Profit,neutral,0.8486,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:56:42,COALINDIA.NS,"Coal India share price climbs 3% after Morgan Stanley upgrades, raises target price",Livemint,positive,0.8469,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:14,LT.NS,Number of victims touches 15-L mark,Ahmedabad Mirror,negative,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:14,LT.NS,"9.31L notices for verification ready, just 3,157 delivered",The Times of India,neutral,0.6258,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:14,LT.NS,"Declaration of the Partners for Multilateralism (P4M) summit, 21 September 2026",consilium.europa.eu,neutral,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:14,LT.NS,"Delhi govt launches solar portal, offers subsidy up to ₹1.56L | Latest News Delhi",Hindustan Times,neutral,0.639,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:17,M&M.NS,Calvin Harris recognised for 1.6m world record DJ set crowd,BBC,neutral,0.5284,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:17,M&M.NS,HAL Readies Utility Helicopter-Marine (UH-M) Prototype for November Maiden Flight to Meet Indian Naval Requirements,Defence.in,positive,0.4566,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:17,M&M.NS,Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google,TechCrunch,positive,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:17,M&M.NS,Zach Cregger supercharges ‘Resident Evil’ franchise with $108m global box office debut,Screen Daily,positive,0.7173,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:20,NESTLEIND.NS,Nestlé India (NSE:NESTLEIND) Responds to Regulatory Notice Over Infant Nutrition Product Labels,Kalkine India,neutral,0.5871,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:22,NTPC.NS,"Bench Mark Infotech Services Limited to Launch IPO on NSE Emerge; Offer Opens September 25, 2026",theblunttimes.in,neutral,0.7118,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:36,TATAMOTORS.NS,Tata Motors TMCV Trading Window Closed Sep 2026,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:36,TATAMOTORS.NS,Tata Motors Passenger Vehicles TMPV ESOP Share Allotment 2026,Kalkine India,neutral,0.6928,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:46,TITAN.NS,Titan TITAN Eyes Smaller Watch Brand Acquisitions,Kalkine India,neutral,0.6929,AUTO_ACCEPTED,indi-finbert
+2026-09-22 04:57:46,TITAN.NS,Titan Company Explores Watch Brand Acquisitions to Expand Premium Segment,Kalkine India,neutral,0.6457,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-22 04:57:50,UPL.NS,"UPL Ltd Share Price Today,, UPL Share Price NSE, BSE",Business Today,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
