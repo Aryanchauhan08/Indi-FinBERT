@@ -4897,3 +4897,27 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-22 14:54:49,TCS.NS,Tata Consultancy Services Stock Update: Shares Dip Amid Group Volatility,LatestLY,negative,0.745,AUTO_ACCEPTED,indi-finbert
 2026-09-22 14:54:51,TECHM.NS,"Tech Mahindra stock trades at INR 1,544 after early decline",AD HOC NEWS,positive,0.357,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-22 14:54:52,TITAN.NS,Titan Company TITAN Trading Window Closure September 2026,Kalkine India,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:28,BHARTIARTL.NS,Bharti Airtel stock closes lower after the close,AD HOC NEWS,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:34,DIVISLAB.NS,"Why NSE IPO became India's 2nd-largest, not biggest: MD-CEO Ashishkumar Chauhan explains | Exclusive",Livemint,neutral,0.7042,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:37,EICHERMOT.NS,Eicher Motors (NSE: EICHERMOT) Launches New Royal Enfield Classic 350 Variant,Kalkine India,neutral,0.642,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 04:46:40,HCLTECH.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:42,HDFCBANK.NS,HDFC Bank (NSE: HDFCBANK) CEO Succession Process and Leadership Transition Update,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:42,HDFCBANK.NS,HDFC Bank Faces Whistleblower Concerns and RBI Issues Amid Senior Management Exits,scanx.trade,negative,0.6152,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 04:46:43,HDFCLIFE.NS,Top 6 Insurance Stocks To Buy In India In September 2026,Samco,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:52,INDUSINDBK.NS,IndusInd Bank stock slips as market weighs banking risks,AD HOC NEWS,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:54,INFY.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:46:57,KOTAKBANK.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:00,LT.NS,"Mahindra Thar 2.0L LXT RWD Petrol AT On Road Price, Features & Specs, Images",CarDekho,neutral,0.731,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:00,LT.NS,Key facts: Adani Enterprises (ADANIENT) disclosure settled; Rs 76.05L,tradingview.com,positive,0.4259,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 04:47:00,LT.NS,"Courts can’t dictate what nat’l song should be, shouldn’t punish for refusing to sing ‘Vande Mataram’: Su",The Times of India,neutral,0.7105,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:00,LT.NS,National Film Awards 2026: Aanand L Rai calls first documentary award ‘special’; says Dhanush’s win makes him ‘a little scared’,ANI News,neutral,0.6392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 04:47:00,LT.NS,Panchkula club firing probe unearths int’l narco-terror network | Hindustan Times,Hindustan Times,negative,0.6462,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 04:47:03,M&M.NS,"Trump made over 1,000 July stock trades worth up to $270m, filings reveal",The Guardian,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:03,M&M.NS,I’m confused why the Lenovo Googlebook Duet m wasn’t at Google’s big launch event,Chrome Unboxed,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:03,M&M.NS,Celtic report £4.8m loss as revenue drops by 22.7%,bbc.com,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:03,M&M.NS,Analysis: Nepal’s $20m ‘loss-and-damage’ claim only covers 0.7% of flood costs,Carbon Brief,neutral,0.6942,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:03,M&M.NS,Aurum lands $37M placement to fast-track Boundiali gold project,Dealroom,positive,0.7347,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:11,RELIANCE.NS,"RIL Share Price Today, RIL Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:13,SBILIFE.NS,Top 6 Insurance Stocks To Buy In India In September 2026,Samco,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:24,TECHM.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-23 04:47:25,TITAN.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
