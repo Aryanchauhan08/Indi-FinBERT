@@ -4921,3 +4921,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-23 04:47:13,SBILIFE.NS,Top 6 Insurance Stocks To Buy In India In September 2026,Samco,neutral,0.744,AUTO_ACCEPTED,indi-finbert
 2026-09-23 04:47:24,TECHM.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
 2026-09-23 04:47:25,TITAN.NS,"NSE may pip Infosys, Titan, Kotak Bank on D St debut; 5% premium could secure top 10 spot",Business Today,positive,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:09,BAJFINANCE.NS,"Bajaj Finance shares rise 3% as UBS upgrades to 'neutral', raises target price",moneycontrol,positive,0.9463,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:12,APOLLOHOSP.NS,Apollo Hospitals Share Price Today (APOLLOHOSP) | NSE/BSE Live,TechGraph,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:16,AXISBANK.NS,Axis Bank (NSE: AXISBANK) Board Appointment and Q1 FY27 Financial Update,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:16,AXISBANK.NS,Axis Bank Independent Director Appointment September 2026,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:27,CIPLA.NS,Cipla appoints Venkata Sai Mungara as Chief of Manufacturing and Supply Chain Operations in Cipla USA,Business Upturn,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:29,COALINDIA.NS,NSE IPO listing tomorrow: Here’s how India’s 10 largest issues have fared on debut,Fortune India,neutral,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:33,DRREDDY.NS,"Dr Reddy's Q1FY27 revenue falls to ₹8,071 Cr on semaglutide hit",scanx.trade,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:35,GRASIM.NS,"Grasim Industries' subsidiary Aditya Birla Renewables allots shares worth ₹234,99,99,994",Business Upturn,neutral,0.6124,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 15:02:37,HCLTECH.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:39,HDFCBANK.NS,HDFC Bank Ltd Share Price Today (HDFCBANK) | NSE/BSE Live,TechGraph,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:44,HINDALCO.NS,Hindalco Share Price: How Novelis Is Driving High Revenue Growth but Also Creating Huge Risks for the Company,Trade Brains,negative,0.5988,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 15:02:52,INFY.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:55,KOTAKBANK.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:57,LT.NS,4.5L girls used to elope with non-Hindu men during garba: BJP MLA,Rediff,neutral,0.4637,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 15:02:57,LT.NS,CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know,Livemint,positive,0.8285,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:02:57,LT.NS,L’Oréal welcomes the second cohort of 13 change makers to its L’Accelerator programme for breakthrough sustainable solutions,WebWire,positive,0.633,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 15:02:57,LT.NS,L’Oréal India Gets CCI Nod To Acquire Innovist Parent Onesto Labs,BW Marketing World,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:01,M&M.NS,Ema raises $77M as AI starts eating into enterprise software and services,TechCrunch,positive,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:01,M&M.NS,University of Pennsylvania receives $22.5M gift from the son of Colombia's richest man,The Business Journals,positive,0.5366,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-23 15:03:01,M&M.NS,Novartis secures new radioligand in $900M deal as competition strengthens,Fierce Biotech,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:05,NTPC.NS,NTPC Green Energy Trading Window Closure October 2026,Kalkine India,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:07,ONGC.NS,Explained - Why Oil india's 'large' valuation premium over ONGC appears 'indefensible' to Kotak,CNBC TV18,neutral,0.7112,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:22,TCS.NS,"Stocks To Buy or Sell Today, September 23, 2026: Bank of Baroda, TCS and Biocon Among Shares That May",LatestLY,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:24,TECHM.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:26,TITAN.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-23 15:03:27,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Lost Share Certificate Notice,Kalkine India,negative,0.743,AUTO_ACCEPTED,indi-finbert
