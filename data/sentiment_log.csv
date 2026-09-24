@@ -4947,3 +4947,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-23 15:03:24,TECHM.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
 2026-09-23 15:03:26,TITAN.NS,"NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut",Business Today,positive,0.7469,AUTO_ACCEPTED,indi-finbert
 2026-09-23 15:03:27,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Lost Share Certificate Notice,Kalkine India,negative,0.743,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:17,HDFCLIFE.NS,"HDFC Life, ICICI Prudential Life shares plunge 7% as IRDAI commission proposals rattle insurers",moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:29,BAJFINANCE.NS,"Stock Picks Today: NSE, Dalmia Bharat, Bajaj Finance, Varun Beverages, And More On Brokerages' Radar",ndtvprofit.com,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:30,BAJAJFINSV.NS,"Stock Picks Today: NSE, Dalmia Bharat, Bajaj Finance, Varun Beverages, And More On Brokerages' Radar",ndtvprofit.com,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:40,DIVISLAB.NS,"Stocks to BUY, SELL or HOLD Today, September 24: NSE, Groww, MCX, South Indian Bank and others",ET Now,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:48,HDFCBANK.NS,HDFC Bank Records ₹60.11 Crore Block Trade on NSE,scanx.trade,neutral,0.6988,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:50,HDFCLIFE.NS,"IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Check details",Livemint,negative,0.8187,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:51:50,HDFCLIFE.NS,"PB Fintech crashes 15%, Turtlemint 20% as IRDAI proposes new rules for insurance distributors",Upstox,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:01,INFY.NS,"NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap",Business Today,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:05,KOTAKBANK.NS,"News by CNBC TV18 on TradingView, 2026-09-24 — cnbctv:c2279f3af094b:0",TradingView,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:07,LT.NS,EAM Jaishankar co-chairs L.69 ministerial interaction on UNSC reform,newsonair.gov.in,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:07,LT.NS,"1.8L tabs in govt schools lie defunct, nearly 50% in city",The Times of India,neutral,0.5805,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:07,LT.NS,Blog de l'OMC | Un moment décisif pour le système commercial mondial: ce que nous disent les données,World Trade Organization,neutral,0.7355,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:07,LT.NS,Odisha clears Rs 2.47L crore projects as data centres & AI investors make a rush,The New Indian Express,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:10,M&M.NS,Mahindra & Mahindra (NSE: M&M) Thar Sales Growth Plan and Automotive Business Update,Kalkine India,neutral,0.7191,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:11,M&M.NS,Man Utd still £1bn in debt with £63.5m spent on new stadium,BBC,negative,0.6209,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:11,M&M.NS,Why I’m Sending My Black Son to Private School,The Atlantic,neutral,0.5999,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:11,M&M.NS,Enveda reaps $311M series E to feed ambition to become a ‘household name’,Fierce Biotech,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:11,M&M.NS,Manchester United losses jump nearly a third to $57m despite record revenue,Al Jazeera,negative,0.6025,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:13,NESTLEIND.NS,Nestlé India Share Price Today (NESTLEIND) | NSE/BSE Live,TechGraph,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:14,NESTLEIND.NS,: Nestle India Q2 FY27 Results: Profit Surge Watch,univest.in,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:16,ONGC.NS,Explained - Why Oil india's 'large' valuation premium over ONGC appears 'indefensible' to Kotak - CNBC TV18,LinkedIn,neutral,0.7309,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:22,SBILIFE.NS,"PB Fintech crashes 15%, Turtlemint 20% as IRDAI proposes new rules for insurance distributors",Upstox,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:25,SUNPHARMA.NS,"NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap",Business Today,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:33,TECHM.NS,"Tech Mahindra Limited (TECHM.NS) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:35,TITAN.NS,"NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap",Business Today,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 04:52:36,ULTRACEMCO.NS,UltraTech Cement commissions 4.6 mtpa cement capacity,Business Upturn,positive,0.7034,AUTO_ACCEPTED,indi-finbert
+2026-09-24 04:52:40,WIPRO.NS,"Stocks To Buy or Sell Today, September 24, 2026: Wipro, Coal India and IRB Infrastructure Among Shares",LatestLY,neutral,0.7315,AUTO_ACCEPTED,indi-finbert
