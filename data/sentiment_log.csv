@@ -4974,3 +4974,59 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-24 04:52:35,TITAN.NS,"NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap",Business Today,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-24 04:52:36,ULTRACEMCO.NS,UltraTech Cement commissions 4.6 mtpa cement capacity,Business Upturn,positive,0.7034,AUTO_ACCEPTED,indi-finbert
 2026-09-24 04:52:40,WIPRO.NS,"Stocks To Buy or Sell Today, September 24, 2026: Wipro, Coal India and IRB Infrastructure Among Shares",LatestLY,neutral,0.7315,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:41,ADANIENT.NS,"NSE pips Sun Pharma, Titan Company, Adani Enterprises, Infosys in terms of market cap",Business Today,neutral,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 15:09:41,ADANIENT.NS,Adani Enterprises stock falls 1.65 percent as voting opens,AD HOC NEWS,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:41,ADANIENT.NS,"NSE becomes India's 10th most-valued firm, shares debut at Rs 1,800",Business Today,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:41,ADANIENT.NS,"NSE IPO: India's biggest exchange lists at ₹1,800 per share; gains 5% after flat debut",economictimes.com,positive,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:47,ASIANPAINT.NS,Akzo Nobel India Share Price - Live NSE: JSWDULUX Stock Price & Chart,Upstox,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:52,BAJFINANCE.NS,"PB Fintech shares fall 23%; Bajaj Finance, L&T Finance also take hit; here's why",Business Today,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:52,BAJFINANCE.NS,"NSE Joins India’s Top 10 Most Valuable Companies, Shares Jump Over 5% In A Milestone Session",Free Press Journal,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:54,BAJAJFINSV.NS,"PB Fintech shares fall 23%; Bajaj Finance, L&T Finance also take hit; here's why",Business Today,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:09:58,BHARTIARTL.NS,NSE sees tepid debut; exchange becomes ninth most valued listed company in India at Rs 4.63 lakh crore,The Times of India,negative,0.6972,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:03,COALINDIA.NS,"NSE rises 5% after listing: Paytm crashed 27%, Coal India soared 40%; how India’s mega IPOs debuted",Moneycontrol.com,positive,0.9432,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:03,COALINDIA.NS,"As NSE lists, a look at debut performance of India's largest IPOs",Reuters,neutral,0.9127,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:03,COALINDIA.NS,"As NSE lists, a look at debut performances of India’s largest IPOs",BusinessLine,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:05,DIVISLAB.NS,"Top 3 stocks to buy or sell tomorrow: Divis Lab, MCX, Maruti Suzuki by Chandan Taparia - Check stop-loss, targets",Livemint,neutral,0.82,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:05,DIVISLAB.NS,NSE share price rises after modest debut | Rally ahead or time for price discovery?,Livemint,positive,0.8441,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:05,DIVISLAB.NS,Listing lesson: NSE debut shows why mega-IPOs can disappoint despite high demand,Livemint,neutral,0.6905,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:05,DIVISLAB.NS,New Sebi chairperson was turning point for NSE IPO: Ashishkumar Chauhan,Livemint,neutral,0.7551,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:15,HDFCLIFE.NS,"Insurance Stocks Crash: PB Fintech, HDFC Life, Max Financial Shares Fall as IRDAI Proposes Dark Pattern Ban",indiainfoline.com,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:15,HDFCLIFE.NS,"IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Should you buy?",Livemint,negative,0.832,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:15,HDFCLIFE.NS,"Insurance-related stocks crack: PB Fintech, Max, HDFC Life slide up to 20%",Business Standard,negative,0.8934,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:15,HDFCLIFE.NS,"PB Fintech crashes 36%, Turtlemint 20% as IRDAI proposes new insurance distribution rules",Upstox,negative,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:21,HINDUNILVR.NS,NSE shares trump HUL! Enters top 10 list of Indian stocks in terms of market capitalization,Livemint,positive,0.8211,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:21,HINDUNILVR.NS,NSE Becomes 10th Most Valued Listed Company In India As Market Cap Crosses Rs 4.5 Lakh Crore,NDTV Profit,positive,0.8764,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:21,HINDUNILVR.NS,NSE Share Price Debut: Enters India's Top 10 Firms,Univest,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:21,HINDUNILVR.NS,"NSE breaks into top 10 BSE market-cap league on debut; beats HUL, Titan",Business Standard,positive,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:23,ICICIBANK.NS,"NSE Joins India’s Top 10 Most Valuable Companies, Shares Jump Over 5% In A Milestone Session",Free Press Journal,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:32,KOTAKBANK.NS,Kotak Mahindra Bank stock falls 1.94 percent on NSE,AD HOC NEWS,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:34,LT.NS,"NSE Shares Debut, Enter India's Top 10 Most Valuable Companies",Analytics Insight,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:34,LT.NS,"NSE Joins India’s Top 10 Most Valuable Companies, Shares Jump Over 5% In A Milestone Session",Free Press Journal,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:35,LT.NS,'TPLF abidda ofii qabsiiseen gubate' -Ajajaa Iizii Kaaba-bahaa L/Jenraal Asaffaa Chekkol,BBC,neutral,0.7329,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:35,LT.NS,L’Oréal Joins Forces With Nykaa to Invest in Indian Beauty Brands,The Business of Fashion,positive,0.5427,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 15:10:35,LT.NS,Nykaa and L’Oréal’s venture fund BOLD join hands to invest in Indian beauty startups,entrackr.com,positive,0.6112,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 15:10:35,LT.NS,EAM Dr S Jaishankar co-chairs L.69 ministerial meeting on UNSC reform,News On AIR,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:35,LT.NS,Renault Duster 1.3L Turbo Petrol Manual: Real World Fuel Efficiency,carandbike,positive,0.7035,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:37,M&M.NS,Tata Motors Passenger Vehicles Share Price Today (TMPV) | NSE/BSE Live,TechGraph,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:38,M&M.NS,"Asian Games: Seema Kumari runs into history with 10,000m bronze, ends India’s 16-year wait",The Times of India,positive,0.6532,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:38,M&M.NS,Asian Games: Asha tied at 13.83m but misses bronze on countback,Telangana Today,negative,0.3771,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-24 15:10:38,M&M.NS,Jaydip M appointed Marketing Head as Davat Beverages,Exchange4Media,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:38,M&M.NS,"Indian team scales 6,027-m Tharang II in Himachal’s Miyar Valley",BusinessLine,neutral,0.6882,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:38,M&M.NS,"PM congratulates Seema on winning Bronze Medal in Women’s 10,000m at Asian Games",PM India,positive,0.7107,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:39,MARUTI.NS,Maruti Suzuki commissions first green hydrogen plant at Haryana facility,Moneycontrol.com,positive,0.93,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:45,ONGC.NS,ONGC (NSE:ONGC) in Focus as Crude Oil Trends Shape Energy Outlook,Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:45,ONGC.NS,Oil India is beating ONGC. Can its production edge last?,Livemint,positive,0.6505,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:47,POWERGRID.NS,Power Grid In Focus As Company Takes 100% Control Of Barmer HVDC Transmission,Trade Brains,neutral,0.6909,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:50,SBILIFE.NS,"IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Should you buy?",Livemint,negative,0.832,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:50,SBILIFE.NS,"IRDAI Takes An Axe To Commissions, Proposes Five-Year Expense Caps For Insurers: PB Fintech Hardest Hit",NDTV Profit,neutral,0.7841,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:52,SBIN.NS,State Bank of India stock falls 1.57 percent on NSE,AD HOC NEWS,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:52,SBIN.NS,"PSUs in NSE IPO: How much did SBI, other government entities make in India’s second largest offer?",economictimes.com,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:54,SUNPHARMA.NS,NSE Share Price Debut: Enters India's Top 10 Firms,Univest,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:54,SUNPHARMA.NS,"NSE Shares Debut, Enter India's Top 10 Most Valuable Companies",Analytics Insight,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:54,SUNPHARMA.NS,NSE shares trump HUL! Enters top 10 list of Indian stocks in terms of market capitalization,Livemint,positive,0.8211,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:54,SUNPHARMA.NS,"After market debut, NSE sits among top 10 listed companies; valuation crosses ₹4.6 lakh-crore",DhanamOnline,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:56,TATAMOTORS.NS,Tata Motors Passenger Vehicles Share Price Today (TMPV) | NSE/BSE Live,TechGraph,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:10:59,TATACONSUM.NS,Tata Consumer Products Share Price Today (TATACONSUM) | NSE/BSE Live,TechGraph,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:11:05,TITAN.NS,Titan Company Share Price Today (TITAN) | NSE/BSE Live,TechGraph,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:11:05,TITAN.NS,NSE Becomes 10th Most Valued Listed Company In India As Market Cap Crosses Rs 4.5 Lakh Crore,NDTV Profit,positive,0.8764,AUTO_ACCEPTED,indi-finbert
+2026-09-24 15:11:05,TITAN.NS,"NSE breaks into top 10 BSE market-cap league on debut; beats HUL, Titan",Business Standard,positive,0.8922,AUTO_ACCEPTED,indi-finbert
