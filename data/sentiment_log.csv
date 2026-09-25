@@ -5030,3 +5030,31 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-24 15:11:05,TITAN.NS,Titan Company Share Price Today (TITAN) | NSE/BSE Live,TechGraph,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
 2026-09-24 15:11:05,TITAN.NS,NSE Becomes 10th Most Valued Listed Company In India As Market Cap Crosses Rs 4.5 Lakh Crore,NDTV Profit,positive,0.8764,AUTO_ACCEPTED,indi-finbert
 2026-09-24 15:11:05,TITAN.NS,"NSE breaks into top 10 BSE market-cap league on debut; beats HUL, Titan",Business Standard,positive,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:44,ADANIENT.NS,"Adani Enterprises shares rise after ₹2,498 crore block deal; what investors should know",Upstox,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:44,ADANIENT.NS,"Adani Enterprises block deal: Rs 2,498 crore shares changed hands; stock gains",Business Today,positive,0.7191,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:54,BAJFINANCE.NS,Bajaj Finance (NSE:BAJFINANCE) Gains Attention Amid Financial Sector Momentum,Kalkine India,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:56,BAJAJFINSV.NS,Bajaj Finance (NSE:BAJFINANCE) Gains Attention Amid Financial Sector Momentum,Kalkine India,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:59,BHARTIARTL.NS,Bharti Airtel stock falls 1.77 percent despite Q1 growth,AD HOC NEWS,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:58:59,BHARTIARTL.NS,"NSE Joins India’s Top 10 Most Valuable Companies, Shares Jump Over 5% In A Milestone Session",Free Press Journal,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:06,DIVISLAB.NS,"MCX, Divis Labs, Radico Khaitan: Top stocks to trade — Key levels, target prices & stop loss",Business Today,neutral,0.7189,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:07,DIVISLAB.NS,3 Indian Export Stocks That Could Benefit From A Weaker Rupee,Yahoo Finance,negative,0.7365,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:16,HDFCLIFE.NS,"Stocks making the biggest moves midday: PB Fintech, HDFC Life, NSE, Allied Blenders and more",financialexpress.com,neutral,0.7197,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:20,HINDALCO.NS,Hindalco Industries (NSE:HINDALCO) in Focus as Copper Prices Rise,Kalkine India,neutral,0.4783,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:23,ICICIBANK.NS,ICICI Bank (NSE:ICICIBANK) in Focus Amid Private Banking Sector Developments,Kalkine India,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:27,INDUSINDBK.NS,"IRDAI commission curbs: IndusInd, IDFC First most exposed; ICICI, PSBs less at risk, says Jefferies",bfsi.economictimes.indiatimes.com,negative,0.5167,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:30,JSWSTEEL.NS,JSW Steel (NSE:JSWSTEEL): Why Did Subsidiary JSW One Platforms File a DRHP for IPO?,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:34,LT.NS,Toyota Fortuner 2.5L introduced in India,CarDekho,positive,0.5898,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:34,LT.NS,LCC Projects Emerges L-1 Bidder For ₹653.34-Crore Rajasthan Irrigation Project,Sahi,positive,0.4963,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:34,LT.NS,"GM raises the bar for Heavy-Duty power, capability and control headlined by all-new Duramax 8.3L Turbo-Diesel V8 engine",General Motors,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:34,LT.NS,Adani Group may Invest 1 L cr in Bengal by 2035,TradingView,positive,0.5284,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:38,M&M.NS,NSE becomes world's sixth largest bourse with $47 billion m-cap,The Economic Times,positive,0.8906,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:38,M&M.NS,"Asian Games: Seema Kumari Wins Historic bronze in Women’s 10,000m",News On AIR,positive,0.4812,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:38,M&M.NS,Lovable’s annualized revenue crosses $600M as vibe coding takes off,TechCrunch,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:38,M&M.NS,Pair jailed over £1.5m drugs supply hub in warehouse,BBC,negative,0.6871,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:38,M&M.NS,Firms fined £1.3m after man killed by window that fell from luxury property in London,The Guardian,negative,0.7205,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:38,MARUTI.NS,Maruti Suzuki India Ltd (NSE: MARUTI) Starts Green Hydrogen Plant at Manesar Facility,Kalkine India,positive,0.473,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:38,MARUTI.NS,Maruti Suzuki Green Hydrogen Plant at Manesar: Clean Energy Manufacturing Initiative,Kalkine India,positive,0.73,AUTO_ACCEPTED,indi-finbert
+2026-09-25 04:59:45,POWERGRID.NS,Power Grid Corporation of India Ltd (NSE: POWERGRID) Acquires Barmer HVDC Transmission SPV,Kalkine India,neutral,0.3886,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 04:59:47,RELIANCE.NS,Reliance Industries Ltd (NSE: RELIANCE) Explores Longer-Term Rupee Bond Strategy,Kalkine India,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-09-25 05:00:03,TITAN.NS,"After market debut, NSE sits among top 10 listed companies; valuation crosses ₹4.6 lakh-crore",DhanamOnline,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-25 05:00:05,ULTRACEMCO.NS,UltraTech Cement Ltd (NSE: ULTRACEMCO) Expands Cement Capacity to 204.7 MTPA,Kalkine India,positive,0.7474,AUTO_ACCEPTED,indi-finbert
