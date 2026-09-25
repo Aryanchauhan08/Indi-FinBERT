@@ -5058,3 +5058,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-25 04:59:47,RELIANCE.NS,Reliance Industries Ltd (NSE: RELIANCE) Explores Longer-Term Rupee Bond Strategy,Kalkine India,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
 2026-09-25 05:00:03,TITAN.NS,"After market debut, NSE sits among top 10 listed companies; valuation crosses ₹4.6 lakh-crore",DhanamOnline,positive,0.7438,AUTO_ACCEPTED,indi-finbert
 2026-09-25 05:00:05,ULTRACEMCO.NS,UltraTech Cement Ltd (NSE: ULTRACEMCO) Expands Cement Capacity to 204.7 MTPA,Kalkine India,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:17:21,SBILIFE.NS,"IRDAI draft consultation paper: SBI Life 'Buy' best placed as EOM caps tighten, says Nomura",moneycontrol,positive,0.9327,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:17:22,ADANIENT.NS,"Adani Enterprises sees Rs 2,498 crore promoter group share deal",The Federal,neutral,0.7157,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:17:28,ASIANPAINT.NS,Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:17:30,AXISBANK.NS,"Top gainers and losers, September 25: Axis Bank climbs 2%, Asian Paints rises over 1%, Max Healthcare falls 3%; check list",Upstox,neutral,0.4227,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 15:17:39,BHARTIARTL.NS,"NSE Shares Lose Momentum After 5% Intraday Debut Rally, ₹22,569 Crore IPO Faces Profit-Booking",Free Press Journal,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:17:56,HDFCLIFE.NS,"SBI Life, Max Fin, HDFC Life, LIC share price targets: IRDAI may need to revisit proposed cap, says Systematix",Business Today,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:09,JSWSTEEL.NS,"JSW One Platforms files DRHP with SEBI, BSE, and NSE for IPO",scanx.trade,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:09,JSWSTEEL.NS,JSW One Platforms Files DRHP for IPO; JSW Steel Informs Exchanges,PSU Connect,neutral,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:09,JSWSTEEL.NS,JSW Steel's subsidiary JSW One Platforms files draft prospectus for IPO,Business Upturn,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:14,LT.NS,Kalpataru Projects Int'l lists subsidiary on Sweden's Nasdaq Stockholm,BusinessLine,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:14,LT.NS,"LOréal Paris to Host Le Défilé at The Eiffel tower, Celebrating Sisterhood, Diversity and Inclusion",thewire.in,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:14,LT.NS,An IRDAI rule change could put a key source of income for some banks and NBFCs under pressure. But why does insurance matter so much to lenders — and which players have the most at stake? Annanya Singh #IRDAI #Banks #NBFCs #Insurance #Insura,LinkedIn,neutral,0.7214,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:16,M&M.NS,"NSE, Vishal Mega Mart and 8 Other Stocks to Buy With Up to 64% Upside; Recommended by Emkay Global",Trade Brains,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:17,M&M.NS,"Aliko Dangote, Ethiopia and Djibouti to build $600m fuel pipeline",BBC,neutral,0.5519,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 15:18:17,M&M.NS,Box Office: 'Avengers: Endgame: Encore' & 'Primetime' Lead Previews With $3M Apiece,Deadline,neutral,0.6181,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 15:18:17,M&M.NS,"Lightspeed targets $250M for new India fund, focusing on early-stage AI",techcrunch.com,positive,0.6225,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 15:18:17,M&M.NS,"Asian Games 2026 Updates: Gulveer wins silver in men's 10,000m",Rediff,neutral,0.6413,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-25 15:18:17,M&M.NS,17.17m and onto the podium: Manpreet Kaur makes history; wins women's shot put bronze at Asian Games,The Times of India,positive,0.7077,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:18,MARUTI.NS,Maruti Suzuki India Limited (NSE: MARUTI) Production Capacity Expansion Roadmap,Kalkine India,positive,0.6642,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:21,NESTLEIND.NS,"Nestle India Q2 Results: Date, Time, Dividend News And More",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:29,SBILIFE.NS,"SBI Life, Max Fin, HDFC Life, LIC share price targets: IRDAI may need to revisit proposed cap, says Systematix",Business Today,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-09-25 15:18:36,TATASTEEL.NS,Tata Steel stock gets INR 220 target from Motilal Oswal,AD HOC NEWS,positive,0.7436,AUTO_ACCEPTED,indi-finbert
