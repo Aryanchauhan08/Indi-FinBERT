@@ -5100,3 +5100,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-28 05:26:05,TATASTEEL.NS,"Cochin Shipyard, Voltas, BEL, Tata Steel, Axis Bank, Vedanta Aluminium: Top stocks to buy | Target, SL by Ganesh Dongre",Livemint,positive,0.8399,AUTO_ACCEPTED,indi-finbert
 2026-09-28 05:26:07,TATACONSUM.NS,Tata Consumer profit rises 29% to ₹427 crore as growth businesses surge,scanx.trade,positive,0.7473,AUTO_ACCEPTED,indi-finbert
 2026-09-28 05:26:13,ULTRACEMCO.NS,India orders captive coal plants to maximise power output on surging demand,Mining.com,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:11:42,TATAMOTORS.NS,"Tata Motors expects over 7.5 lakh annual sales, launches Aries sedan at ₹5.29 lakh",moneycontrol,positive,0.9019,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:11:43,ADANIENT.NS,"Adani Enterprises shares drop 3% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Is it a stock to buy?",Livemint,negative,0.8445,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:11:45,ADANIPORTS.NS,"Biggest midday movers amid market fall: Vodafone Idea, Adani Ports, NSE and others",ET Now,neutral,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:11:51,AXISBANK.NS,Axis Bank updates contact details of authorized officers for material disclosures,scanx.trade,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:03,BRITANNIA.NS,Titan Company Share Price Today (TITAN) | NSE/BSE Live,TechGraph,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:30,ITC.NS,ITC Limited (NSE:ITC) Expands Dairy Presence Across Eastern India,Kalkine India,positive,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:32,INDUSINDBK.NS,IndusInd Bank Limited (NSE:INDUSINDBK) Introduces Dedicated GCC Banking Vertical,Kalkine India,neutral,0.57,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:12:32,INDUSINDBK.NS,IndusInd Bank Creates New Banking Division For India's Expanding Global Capability Centres,Sahi,positive,0.6808,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:44,LT.NS,Just Play Dead review – Samuel L Jackson and Eva Green punch up switchback crime caper,The Guardian,neutral,0.6554,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:44,LT.NS,Renault Triber 1.0L turbo-petrol launched at Rs. 7.84 lakh,Team-BHP,positive,0.5795,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:12:44,LT.NS,"New Suzuki 1.2L Turbo Engine - 125 Bhp, 230 Nm, E100, CNG, CBG Compatibility",RushLane,positive,0.7229,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:44,LT.NS,From India to the US boardroom: Why L-1A is becoming a strategic US-expansion route for Indian mid-sized b,The Economic Times,positive,0.8722,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:44,LT.NS,2026 Renault Triber 1.0L Turbo Petrol Review,Team-BHP,negative,0.3776,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:12:48,M&M.NS,Video | NDTV Yuva 2026: Dr. M Reveals The Science Behind Mind Reading,NDTV,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:48,M&M.NS,‘Avengers Endgame: Encore’ tops worldwide box office with $86m; ‘Heart Of The Beast’ launches on $50m,imdb.com,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:48,M&M.NS,BREAKING: Yamaha R15 M Discontinuation Likely By End Of 2026,ZigWheels.com,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-09-28 18:12:48,M&M.NS,"Travis Kelce’s $12.35M real estate portfolio spans nearly 48,000 square feet across three luxury homes",The Times of India,positive,0.3863,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:12:48,M&M.NS,"Seema Kaliramna throws personal best 59.88m, finishes fourth",telanganatoday.com,positive,0.6255,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:13:00,SBILIFE.NS,SBI Life (NSE:SBILIFE) and LIC (NSE:LICI): Low-Cost Distribution in Focus as IRDAI Pushes Reforms,Kalkine India,neutral,0.4256,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 18:13:10,TATACONSUM.NS,Rs 4 lakh crore loss! Why India's storied consumer stocks are languishing near the bottom in 2026,The Economic Times,negative,0.8904,AUTO_ACCEPTED,indi-finbert
