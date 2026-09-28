@@ -5080,3 +5080,23 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-25 15:18:21,NESTLEIND.NS,"Nestle India Q2 Results: Date, Time, Dividend News And More",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
 2026-09-25 15:18:29,SBILIFE.NS,"SBI Life, Max Fin, HDFC Life, LIC share price targets: IRDAI may need to revisit proposed cap, says Systematix",Business Today,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
 2026-09-25 15:18:36,TATASTEEL.NS,Tata Steel stock gets INR 220 target from Motilal Oswal,AD HOC NEWS,positive,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:24:53,JSWSTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel in focus as rebar prices rally; Nomura retains 'Buy'",moneycontrol,neutral,0.7031,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:24:53,TATASTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel in focus as rebar prices rally; Nomura retains 'Buy'",moneycontrol,neutral,0.7031,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:24:53,DRREDDY.NS,"Dr Reddy's shares gain over 1% after Nomura retains 'Buy'; Rs1,740 target, key biologics milestones ahead",moneycontrol,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:24:53,HDFCBANK.NS,"Trade Spotlight: How should you trade Balrampur Chini Mills, HDFC Bank, Samvardhana Motherson, Jubilant Foodworks, HBL Engineering, and others on September 28?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:24:54,ADANIENT.NS,"Adani Enterprises shares drop 2% after Adani group entities swap 86 lakh shares for ₹2,498 crore | Details here",Livemint,negative,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:01,AXISBANK.NS,Weekly Recap: NSE:AXISBANK cap risk and 18–25 bps FY26 RoA gain,tradingview.com,positive,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:31,HINDUNILVR.NS,Kwality Wall's Lists Successfully as Unilever PLC Discloses Regulatory Compliance,scanx.trade,neutral,0.5067,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 05:25:43,LT.NS,"Dilip Buildcon Declared L-1 Bidder For Projects Valued At ₹1,152 Crore And ₹689 Crore",Sahi,neutral,0.4703,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 05:25:43,LT.NS,Dilip Buildcon Declared L-1 Bidder For 4 Lane Corridor Project In Maharashtra Worth 6.88 Billion Rupees,tradingview.com,positive,0.6544,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:43,LT.NS,"Honda Compact SUV to Get Horse 1.2L Engine with Petrol, Hybrid and CNG Options",Car Lelo,positive,0.6544,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:43,LT.NS,( YOUTUBE LIVE ) A. Zverev vs L. Tien Laver Cup match LIVE,czechinvest.gov.cz,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:43,LT.NS,"Armani Prepares Talks with L’Oréal, LVMH and EssilorLuxottica Over Minority Stake Sale",Global Cosmetics News,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:47,M&M.NS,‘Avengers Endgame: Encore’ Powers $86M WW Re-Release Opening Ahead Of ‘Doomsday’ Global Domination,deadline.com,neutral,0.4953,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 05:25:47,M&M.NS,"CPI(M) MP John Brittas writes to CEC Gyanesh Kumar, alleges ""unlawful modification of online Form 6"" amid SIR row",ANI News,negative,0.5885,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 05:25:47,M&M.NS,Texas clinic owner convicted in $26M military health fraud tied to gold-plated Cybertruck,Fox News,negative,0.4475,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-28 05:25:47,M&M.NS,Gemfields to Post $73.5M Loss Following Ruby-Asset Downgrade,Rapaport,negative,0.719,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:25:47,M&M.NS,"Suvendu Adhikari slams Mamata, CPI(M) coming together on CEC issue",The Hindu,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:26:05,TATASTEEL.NS,"Cochin Shipyard, Voltas, BEL, Tata Steel, Axis Bank, Vedanta Aluminium: Top stocks to buy | Target, SL by Ganesh Dongre",Livemint,positive,0.8399,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:26:07,TATACONSUM.NS,Tata Consumer profit rises 29% to ₹427 crore as growth businesses surge,scanx.trade,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-09-28 05:26:13,ULTRACEMCO.NS,India orders captive coal plants to maximise power output on surging demand,Mining.com,positive,0.7444,AUTO_ACCEPTED,indi-finbert
