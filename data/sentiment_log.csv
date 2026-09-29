@@ -5133,3 +5133,22 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-29 05:46:06,TATAMOTORS.NS,Tata Motors Commercial Vehicles Warns of Commodity Cost Pressure,Kalkine India,negative,0.7449,AUTO_ACCEPTED,indi-finbert
 2026-09-29 05:46:10,TATACONSUM.NS,"Tata Consumer, Marico Stay JPMorgan's Preferred FMCG Picks Even As Inflation Continues To Threaten Margins",NDTV Profit,positive,0.8638,AUTO_ACCEPTED,indi-finbert
 2026-09-29 05:46:18,WIPRO.NS,NSE Rebalancing On Tuesday: These stocks set for biggest inflows and outflows,CNBC TV18,positive,0.709,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:13,INFY.NS,Infosys shares hit 6-year low intraday; here's how you should trade,moneycontrol,negative,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:13,TATACONSUM.NS,"Nomura picks Marico, Tata Consumer, ITC; flags 2QFY27 margin pressure from commodity costs",moneycontrol,neutral,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:14,HCLTECH.NS,"Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why",moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:14,INFY.NS,"Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why",moneycontrol,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:15,ADANIENT.NS,"Moneyview IPO allotment: How to check status online on NSE, BSE, MUFG Intime India; listing date, time revealed",Upstox,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:35,COALINDIA.NS,Transport Corporation of India (NSE:TCI) Board approves Rs 150-crore share buyback at Rs 960 apiece; check record date,Business Today,positive,0.711,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:45,HDFCBANK.NS,HDFC Bank Physical Share Demat Special Window Explained,Kalkine India,neutral,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:32:56,ITC.NS,ITC Limited (NSE: ITC) Acquires Sproutlife Foods and Expands Wellness Food Business,Kalkine India,positive,0.6848,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:05,LT.NS,Viral Video: Aishwarya Rai Stuns In Regal All-Black Look At L'Oreal Paris Show,NDTV,negative,0.7252,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:05,LT.NS,Aishwarya Rai Bachchan Brings Velvet and Crystals to L’Oréal Paris Le Défilé 2026,luxe.outlookindia.com,neutral,0.623,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 16:33:05,LT.NS,Celine Dion brings down the curtain on L'Oreal Paris runway show,Reuters,neutral,0.8463,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:08,M&M.NS,"Taxpayers have funded nearly $1.5M in pro-Trump ads. Criticism is mounting, including from the GOP",AP News,negative,0.6602,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:08,M&M.NS,The Rolex Four Seasons Daytona Collection Sells For A Combined $49.4M,hodinkee.com,neutral,0.417,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 16:33:08,M&M.NS,Putin Orders Russian Army to Increase Troop Size to 1.55M,The Moscow Times,neutral,0.5917,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 16:33:08,M&M.NS,Judge sets $5m bond for third suspect in killing of Black woman hung from tree in Mississippi,The Guardian,negative,0.5105,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 16:33:34,TITAN.NS,"Titan Company (TITAN) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:38,UPL.NS,UPL swings back to profit on strong Americas rally and debt discipline,AgroSpectrum India,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:39,WIPRO.NS,"BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?",The Economic Times,neutral,0.8783,AUTO_ACCEPTED,indi-finbert
+2026-09-29 16:33:39,WIPRO.NS,"NSE Index Rebalancing: BSE, Wipro, Indian Hotels Flow Estimates",Business Upturn,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
