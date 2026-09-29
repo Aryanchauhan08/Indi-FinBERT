@@ -5120,3 +5120,16 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-28 18:12:48,M&M.NS,"Seema Kaliramna throws personal best 59.88m, finishes fourth",telanganatoday.com,positive,0.6255,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-28 18:13:00,SBILIFE.NS,SBI Life (NSE:SBILIFE) and LIC (NSE:LICI): Low-Cost Distribution in Focus as IRDAI Pushes Reforms,Kalkine India,neutral,0.4256,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-09-28 18:13:10,TATACONSUM.NS,Rs 4 lakh crore loss! Why India's storied consumer stocks are languishing near the bottom in 2026,The Economic Times,negative,0.8904,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:02,ADANIPORTS.NS,"Adani Ports settles SEBI proceedings with INR 37,05,000 payment",businessupturn.com,neutral,0.704,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:27,HCLTECH.NS,"Stocks To Buy or Sell Today, September 29, 2026: IRFC, NCC and HCL Technologies Among Shares That May Remain in Focus on Tuesday",LatestLY,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:47,LT.NS,L-1A visa: How Indian mid-sized firms are planning their US expansion,Firstpost,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:47,LT.NS,Kendall Jenner Leads the Annual L’Oréal Paris Show in a See-Through Dress and Romantic Lingerie,Harper's BAZAAR,neutral,0.6486,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 05:45:47,LT.NS,2026 Renault Triber 1.0L Turbo Petrol Review: A look at the interior,Team-BHP,neutral,0.709,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:49,M&M.NS,"Mahindra M&M Weighs Fresh SUV Price Hike on Thar, Scorpio, XUV 7XO",Kalkine India,positive,0.6816,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:50,M&M.NS,"Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",techcrunch.com,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:50,M&M.NS,Physical AI startup SiMa.ai raises $150M in Series C,YourStory.com,positive,0.6099,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-29 05:45:50,M&M.NS,"'The Walking Dead: Dead City Season 4': Scott M. Gimple gives an update on renewal; says, 'I would hope f",The Times of India,neutral,0.7034,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:45:50,M&M.NS,Valley National Bank to acquire fintech Bluevine for $340M,Banking Dive,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:46:06,TATAMOTORS.NS,Tata Motors Commercial Vehicles Warns of Commodity Cost Pressure,Kalkine India,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:46:10,TATACONSUM.NS,"Tata Consumer, Marico Stay JPMorgan's Preferred FMCG Picks Even As Inflation Continues To Threaten Margins",NDTV Profit,positive,0.8638,AUTO_ACCEPTED,indi-finbert
+2026-09-29 05:46:18,WIPRO.NS,NSE Rebalancing On Tuesday: These stocks set for biggest inflows and outflows,CNBC TV18,positive,0.709,AUTO_ACCEPTED,indi-finbert
