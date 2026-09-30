@@ -5152,3 +5152,16 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-29 16:33:38,UPL.NS,UPL swings back to profit on strong Americas rally and debt discipline,AgroSpectrum India,positive,0.7439,AUTO_ACCEPTED,indi-finbert
 2026-09-29 16:33:39,WIPRO.NS,"BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?",The Economic Times,neutral,0.8783,AUTO_ACCEPTED,indi-finbert
 2026-09-29 16:33:39,WIPRO.NS,"NSE Index Rebalancing: BSE, Wipro, Indian Hotels Flow Estimates",Business Upturn,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:33:24,APOLLOHOSP.NS,"Apollo Hospitals, Yatharth, others fall up to 6% on SC's 'corporate hospitals don't spare anyone' remark",moneycontrol,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:33:44,COALINDIA.NS,Coal India (NSE:COALINDIA) Signs MoU With HURL for Coal Gasification-Based Urea Project at Sindri,Kalkine India,positive,0.7182,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:11,LT.NS,See the Shoes at the 2026 Le Défilé L’Oréal Paris Runway Show [PHOTOS],wwd.com,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:11,LT.NS,"Technology may change rapidly, but constitutional values must endure: MoS L. Murugan",The Hindu,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:11,LT.NS,"I&B Minister L Murugan calls upon young creators to harness AI for innovation, empowerment",News On AIR,neutral,0.7346,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:11,LT.NS,2026 Renault Triber 1.0L Turbo Exterior review: Here's how it looks,Team-BHP,positive,0.421,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 05:34:14,M&M.NS,Trump agrees to end court fight against $5m verdict in E Jean Carroll case,The Guardian,positive,0.5886,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 05:34:14,M&M.NS,Floods affect over 2.6M people across Thailand,Anadolu Ajansı,negative,0.607,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 05:34:14,M&M.NS,Federal watchdog says Trump’s $810M funding cancellation is unconstitutional,Politico,negative,0.4905,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 05:34:14,M&M.NS,Genentech AI alumni launch health startup Ortet with $500M,Endpoints News,neutral,0.4048,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 05:34:34,TCS.NS,"Stocks To Buy or Sell Today, September 30, 2026: Bank of Baroda, TCS and Biocon Among Shares That May",LatestLY,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:39,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India September 2026,Samco,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-09-30 05:34:42,WIPRO.NS,"BSE, Wipro shares in focus as stock exchange replaces…",inkl,neutral,0.6229,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
