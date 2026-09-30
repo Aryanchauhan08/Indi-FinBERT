@@ -5165,3 +5165,26 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-30 05:34:34,TCS.NS,"Stocks To Buy or Sell Today, September 30, 2026: Bank of Baroda, TCS and Biocon Among Shares That May",LatestLY,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
 2026-09-30 05:34:39,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India September 2026,Samco,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
 2026-09-30 05:34:42,WIPRO.NS,"BSE, Wipro shares in focus as stock exchange replaces…",inkl,neutral,0.6229,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 16:26:34,AXISBANK.NS,Axis Bank Postal Ballot 2026: Board Appointments Explained,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:26:34,AXISBANK.NS,Axis Bank seeks approval for director re-appointments and new hires,scanx.trade,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:26:43,BPCL.NS,"HPCL, Oil India Upgraded, IndiGo, BPCL Downgraded: Axis Capital's September Earnings Estimate Changes — Check Full List",NDTV Profit,neutral,0.7318,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:26:52,DIVISLAB.NS,Divi's Laboratories DIVISLAB Trading Window Closure Oct 2026,Kalkine India,neutral,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:26:53,DRREDDY.NS,Dr. Reddy's Laboratories stock gets a Citi upgrade as margins face a test,AD HOC NEWS,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:00,HCLTECH.NS,"IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",Livemint,neutral,0.8449,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:17,INFY.NS,"IT sector Q2 FY27 preview: TCS, Infosys to HCL Tech, Tech M— Kotak sees muted quarter for Indian IT giants",Livemint,neutral,0.842,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:20,KOTAKBANK.NS,"Macquarie sees strong earnings recovery for banks, picks 5 stocks to outperform",The Economic Times,positive,0.8965,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:21,LT.NS,Larsen & Toubro (NSE:LT): Did It Win Twin Road Contracts in Dubai?,Kalkine India,neutral,0.7289,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:21,LT.NS,Larsen & Toubro revises timeline for stake disposal in L&T Metro Rail (Hyderabad) to December 2026,Business Upturn,neutral,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:22,LT.NS,Former DHS secretary Kristi L. Noem files for divorce,The Washington Post,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:22,LT.NS,Abu Dhabi’s ‘Zero Hormuz’ push: $300 billion L’imad fund eyes billions in new port investments,Moneycontrol.com,positive,0.9391,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:22,LT.NS,"Suzuki 1.2L Series Hybrid, Turbo Petrol and 1.5L turbo Petrol Engines: Power Details",Car Lelo,neutral,0.4183,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 16:27:22,LT.NS,Cabinet Approves ₹1.86L crore Green Energy Corridor-III Scheme with 50 GWh BESS,Saur Energy,positive,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:26,M&M.NS,Yamaha R15 M Could Be Discontinued Soon in India,BikeAdvice,negative,0.5527,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 16:27:26,M&M.NS,M. Night Shyamalan’s ‘Remain’: First Reactions,The Hollywood Reporter,neutral,0.6531,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:26,M&M.NS,"Railway crimes in NW 'cost £7.8m last year', says Network Rail",BBC,negative,0.4144,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-09-30 16:27:26,M&M.NS,"a16z-backed EliseAI raises $350M, doubles valuation to $4B",TechCrunch,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:31,NTPC.NS,NTPC Solar Capacity: 153.94 MW Kalasar Project Goes Commercial,Kalkine India,negative,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:44,TATAMOTORS.NS,"Tata Motors Passenger Vehicles (TMPV) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:52,TECHM.NS,Tech Mahindra to consider interim dividend and bonus share issue on 15 October,CNBC TV18,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:59,WIPRO.NS,Wipro (NSE:WIPRO) Extends Alpha Net Consulting Contracts Acquisition Timeline to December 2026,Kalkine India,neutral,0.6886,AUTO_ACCEPTED,indi-finbert
+2026-09-30 16:27:59,WIPRO.NS,Nifty rejig kicks in: BSE joins as Wipro exits; what investors need to know,IndiaIPO,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
