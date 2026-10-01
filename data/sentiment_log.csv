@@ -5202,3 +5202,43 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-01 05:54:37,M&M.NS,"Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",TechCrunch,positive,0.6903,AUTO_ACCEPTED,indi-finbert
 2026-10-01 05:54:37,M&M.NS,$500M Gift Will Fuel Next Era of Computer Science at Carnegie Mellon,Carnegie Mellon University,positive,0.7082,AUTO_ACCEPTED,indi-finbert
 2026-10-01 05:54:37,M&M.NS,M. Night Shyamalan 'Remain' Reactions: Jake Gyllenhaal Is 'Incredible',Variety,positive,0.5691,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 17:03:16,ICICIBANK.NS,"Elara Securities picks ICICI Bank, warns of auto margin risks from raw material costs",moneycontrol,negative,0.7536,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,KOTAKBANK.NS,Buy Kotak Mahindra Bank; target of Rs 500: Prabhudas Lilladher,moneycontrol,positive,0.9369,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,KOTAKBANK.NS,"Kotak Mahindra Bank has strong growth runway, says Elara Securities' research head",moneycontrol,positive,0.9461,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,INFY.NS,"IT shares buck trend amid market crash; Mphasis, Coforge, Infosys rise up to 5%",moneycontrol,positive,0.9446,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,KOTAKBANK.NS,Kotak Mahindra Bank – Can the new captain make it a winner?,moneycontrol,neutral,0.943,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,BAJAJ-AUTO.NS,"Bajaj Auto crashes 8%, auto stocks slide on weak September sales; Maruti, M&M among top losers, Hyundai gains",moneycontrol,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:16,MARUTI.NS,"Bajaj Auto crashes 8%, auto stocks slide on weak September sales; Maruti, M&M among top losers, Hyundai gains",moneycontrol,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:17,HDFCBANK.NS,HDFC Bank ADRs surge 4% as RBI approves Anup Bagchi as new MD & CEO,moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:18,ADANIENT.NS,Adani Enterprises ADANIENT: Subsidiary Bond Issue Clarified,Kalkine India,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:22,APOLLOHOSP.NS,Apollo to Max: Why brokerages see up to 46% upside in hospital stocks despite SC order,financialexpress.com,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:27,BAJAJ-AUTO.NS,"Bajaj Auto, M&M, Hero Moto skid up to 6%; here's why auto stocks are down",business-standard.com,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:37,CIPLA.NS,Top 14 Pharma Stocks To Buy In India October 2026,Samco,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:39,COALINDIA.NS,Coal India NSE:COALINDIA September Coal Supply Up 12.5%,Kalkine India,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:39,COALINDIA.NS,Coal India September Output Jumps 9% as Offtake Rises 12.5%,Equitypandit,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:40,COALINDIA.NS,Coal India (COAL) Earnings Boost: September Production Surges 9.2% Y/Y,smartkarma.com,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:41,DIVISLAB.NS,Top 14 Pharma Stocks To Buy In India October 2026,Samco,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:41,DIVISLAB.NS,Stock market closed for next 3 days - here is why | Check NSE calendar dates October 2026,Livemint,neutral,0.8371,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:43,DRREDDY.NS,Top 14 Pharma Stocks To Buy In India October 2026,Samco,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:44,EICHERMOT.NS,Eicher Motors (NSE:EICHERMOT): Did Royal Enfield Hit Record Sales in September 2026?,Kalkine India,positive,0.4016,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 17:03:53,HEROMOTOCO.NS,Hero MotoCorp September 2026 Dispatches Rise 12% YoY,Kalkine India,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:03:53,HEROMOTOCO.NS,Hero MotoCorp achieves 12% YoY growth in September dispatches with 7.66 lakh units,Business Upturn,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:09,LT.NS,"MoS L Murugan Participates in Swachhata Hi Seva Activities at IIMC, New Delhi",News On AIR,neutral,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:09,LT.NS,"Exclusive | L'Oréal sees India entering its top 10 markets before 2030, crossing €1 billion in sales - CNBC TV18",LinkedIn,positive,0.7339,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:09,LT.NS,“More Than a Thousand Words”: L’Osservatore Romano in images at Vatican Museums,Vatican News,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:09,LT.NS,"Exclusive | L’Oréal CEO on AI, India manufacturing and creating beauty products for the world",CNBC TV18,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:09,LT.NS,L’Oréal and COSMAX are shaping the future of your beauty routine,Vogue Adria,neutral,0.6417,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 17:04:12,M&M.NS,Mahindra & Mahindra transfers equity shares under stock option scheme,Business Upturn,neutral,0.7311,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:12,M&M.NS,BMW M 1000 R Nürburgring Edition Comes to India,BikeWale,neutral,0.6624,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:12,M&M.NS,Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.,TechCrunch,neutral,0.7137,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:12,M&M.NS,M. Suchitra wins Prabhakaran-OISCA environmental award,The Hindu,positive,0.54,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 17:04:12,M&M.NS,Binance Futures Will Delist Multiple USDⓈ-M Perpetual Contracts (2026-10-05),Binance,neutral,0.705,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:12,M&M.NS,Restate raises $20m Series A from Singular for AI agent infrastructure,The Next Web,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:13,MARUTI.NS,Maruti Suzuki September 2026 Production Volume Data,Kalkine India,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:13,MARUTI.NS,"Nifty extends slide to eighth straight week, longest in 25 years; TMPV, Maruti, M&M, Jio Financial among top drags",Business Today,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:14,MARUTI.NS,"Maruti Suzuki India (MSIL) Earnings Highlight: September Sales Reach 236,013 Units Amid Market Reaction",smartkarma.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:17,NTPC.NS,NTPC (NSE:NTPC) 50 MW Solar COD Rajasthan RTC Project,Kalkine India,neutral,0.594,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 17:04:19,ONGC.NS,ONGC Senior Management Change October 2026 | NSE:ONGC,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:28,SUNPHARMA.NS,Top 14 Pharma Stocks To Buy In India October 2026,Samco,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:33,TATACONSUM.NS,Tata Consumer Products (NSE:TATACONSUM): What Is the Special Window for Physical Share Transfer?,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-01 17:04:40,ULTRACEMCO.NS,UltraTech Cement Q2 FY27 Earnings Call Date and Details,Kalkine India,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
