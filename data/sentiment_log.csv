@@ -5188,3 +5188,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-09-30 16:27:52,TECHM.NS,Tech Mahindra to consider interim dividend and bonus share issue on 15 October,CNBC TV18,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
 2026-09-30 16:27:59,WIPRO.NS,Wipro (NSE:WIPRO) Extends Alpha Net Consulting Contracts Acquisition Timeline to December 2026,Kalkine India,neutral,0.6886,AUTO_ACCEPTED,indi-finbert
 2026-09-30 16:27:59,WIPRO.NS,Nifty rejig kicks in: BSE joins as Wipro exits; what investors need to know,IndiaIPO,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:53:51,APOLLOHOSP.NS,Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart,Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:18,HDFCLIFE.NS,"HDFC Life (HDFCLIFE) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:24,ICICIBANK.NS,"ICICI Bank (ICICIBANK) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:27,INDUSINDBK.NS,"IndusInd Bank stock draws an INR 1,250 Jefferies target",AD HOC NEWS,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:30,JSWSTEEL.NS,"A-One Steels Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 1 October 2026",ET Now,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:32,KOTAKBANK.NS,NSE moves closer to corporate bond index futures after Sebi nod,Business Standard,neutral,0.7624,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:34,LT.NS,"Nayyi Navelli: Official Trailer | Yami Gautam Dhar, Addinath, Balaji Mohan, Aanand L Rai, G.V. Prakash Kumar | 16th Oct",Bollywood Hungama,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:34,LT.NS,"L-Arginine, Vitamin C Tied to Reduced Fatigue in COPD",Medscape,positive,0.5429,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-01 05:54:34,LT.NS,YouTube Impact Summit 2026: I&B Minister of State L Murugan highlights role of creator economy and AI,The New Indian Express,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:37,M&M.NS,"Bajaj Auto, M&M, Hero Moto skid up to 6%; here's why auto stocks are down",Business Standard,negative,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:37,M&M.NS,"Siemens appoints Ms. Veronika Bienert as Special Director, following retirement of Mr. Matthias Rebellius",Business Upturn,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:37,M&M.NS,"Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",TechCrunch,positive,0.6903,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:37,M&M.NS,$500M Gift Will Fuel Next Era of Computer Science at Carnegie Mellon,Carnegie Mellon University,positive,0.7082,AUTO_ACCEPTED,indi-finbert
+2026-10-01 05:54:37,M&M.NS,M. Night Shyamalan 'Remain' Reactions: Jake Gyllenhaal Is 'Incredible',Variety,positive,0.5691,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
