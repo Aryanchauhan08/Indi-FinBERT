@@ -5252,3 +5252,18 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-02 05:38:23,M&M.NS,"Hezbollah received $157M in weapons in 2024, mostly from 1 nation, report says",Fox News,neutral,0.6901,AUTO_ACCEPTED,indi-finbert
 2026-10-02 05:38:23,M&M.NS,DHT Holdings VLCC to rake in $36m from Gulf of Oman fixture,TradeWinds News,positive,0.6733,AUTO_ACCEPTED,indi-finbert
 2026-10-02 05:38:43,TCS.NS,Tata Consultancy Services takes over Best Buy’s Global Capability Center in India,Business Upturn,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:17:58,BAJAJFINSV.NS,"Bajaj Finserv approves ₹5,800 crore investment in Bajaj Finance through convertible warrants",Business Upturn,positive,0.7329,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:01,BHARTIARTL.NS,Bharti Airtel sets trading window closure: what it means for Bharti Airtel stock,AD HOC NEWS,neutral,0.7252,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:30,JSWSTEEL.NS,"A-ONE STEELS INDIA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:32,KOTAKBANK.NS,Only 9% up since last MD but Jefferies sees 10% more in Kotak Mahindra Bank shares after Anup Saha's appointment,Livemint,positive,0.8454,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:35,LT.NS,Traffic diversions announced as L’Étape Mysuru event set to draw hundreds of cyclists,thehindu.com,negative,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:35,LT.NS,Mumbai Airport: 265 Weekly Int'l Flights Cut from Oct 25,Rediff MoneyWiz,negative,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:35,LT.NS,"Legal & General Group Plc (LGEN.L) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:35,LT.NS,How stablecoins speed int’l payments,Payments Dive,neutral,0.7126,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:35,LT.NS,"Nykaa, L’Oréal’s BOLD back emerging Indian beauty brands in strategic venture deal",marketech apac,positive,0.7092,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:38,M&M.NS,"‘Verity’ Thrills $4.5M Previews, ‘Digger’ Shovels $1M+ – Box Office Update",deadline.com,positive,0.7221,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:38,M&M.NS,BJP workers wave black flag at Excise Minister M. Liju in Keralam’s Alappuzha,thehindu.com,negative,0.5776,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-02 16:18:38,M&M.NS,"10 Fascinating ""Baby-Sitters Club"" Behind-The-Scenes Stories From Ann M. Martin As It Turns 40",BuzzFeed,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:47,RELIANCE.NS,Reliance files Jio IPO prospectus: what it means for Reliance Industries stock,AD HOC NEWS,neutral,0.738,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:18:52,SUNPHARMA.NS,Sun Pharma Postal Ballot Notice October 2026,kalkine.co.in,neutral,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-10-02 16:19:01,TECHM.NS,Tech Mahindra Q2FY27 Results: Earnings call scheduled for October 15,scanx.trade,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
