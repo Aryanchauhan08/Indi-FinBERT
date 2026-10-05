@@ -5267,3 +5267,32 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-02 16:18:47,RELIANCE.NS,Reliance files Jio IPO prospectus: what it means for Reliance Industries stock,AD HOC NEWS,neutral,0.738,AUTO_ACCEPTED,indi-finbert
 2026-10-02 16:18:52,SUNPHARMA.NS,Sun Pharma Postal Ballot Notice October 2026,kalkine.co.in,neutral,0.7378,AUTO_ACCEPTED,indi-finbert
 2026-10-02 16:19:01,TECHM.NS,Tech Mahindra Q2FY27 Results: Earnings call scheduled for October 15,scanx.trade,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:17,ICICIBANK.NS,"ICICI Bank, SBI, Kotak Bank: Why Motilal Oswal picked these banking stocks; check CAGR, target price and more",moneycontrol,neutral,0.9374,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:17,BAJFINANCE.NS,Price Action: Bajaj Finance gains 4% on fundraising plan; Petronet LNG rises 2% on MD & CEO appointment,moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:17,HDFCBANK.NS,"HDFC Bank share price falls 1.2% after early gain; leadership transition, Q2 update in focus",moneycontrol,negative,0.9416,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:17,INFY.NS,"Trade Spotlight: How should you trade Capillary Technologies, Cyient, JSW Infrastructure, Infosys, Schneider Electric, and others on October 5?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:18,ADANIENT.NS,Weekly Recap: Q1 loss after OFAC and SEBI finds no Vinod Adani control,TradingView,negative,0.6753,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:25,AXISBANK.NS,Weekly Recap: AXISBANK Apple Pay launch and data-center lending boost,TradingView,positive,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:48,HDFCLIFE.NS,Top 6 Insurance Stocks To Buy In India In October 2026,samco.in,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:40:51,HINDALCO.NS,Hindalco Industries Limited (NSE: HINDALCO) in Focus on Copper Economics,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:00,INFY.NS,"TCS, Infosys to Wipro: Jefferies sees earnings risk while Nuvama eyes upside for IT stocks",financialexpress.com,neutral,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:02,KOTAKBANK.NS,Kotak Mahindra Bank stock gets a new CEO after RBI approval,AD HOC NEWS,neutral,0.7397,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:04,LT.NS,Larsen & Toubro secures mega orders for power transmission and distribution,Business Upturn,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:05,LT.NS,Prix de l'Arc de Triomphe: Daryz claims rare back-to-back success,BBC,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:05,LT.NS,Daryz wins back-to-back Prix de l’Arc de Triomphes at Longchamp – as it happened,The Guardian,neutral,0.4104,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 05:41:05,LT.NS,"Skoda Hosts First L'Étape Mysuru By Tour De France - 1,500 Riders Participate",DriveSpark,neutral,0.5052,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 05:41:05,LT.NS,"Prix de l'Arc de Triomphe 2026 result LIVE: Updates, Latest Winners, Result",Racing Post,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:05,LT.NS,Hundreds of cyclists hit Mysuru streets for L’Etape by Tour de France,The Hindu,negative,0.4304,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 05:41:08,M&M.NS,Digger may lose $150m after Tom Cruise film bombs at the box office,The Guardian,negative,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:08,M&M.NS,"Box Office Global: 'Digger' Tanks $20M WW Bow, 'Verity' Vivacious $62M",Deadline,positive,0.676,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:08,M&M.NS,Male escort scores huge legal win as judge rules he’s allowed to keep $6M he got from love-starved Roblox widow,New York Post,positive,0.6883,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:08,M&M.NS,‘Digger' Bombs With $8M; Misunderstood or Insufferable? Post Your Review!,worldofreel.com,negative,0.5952,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 05:41:08,M&M.NS,"'Digger': Tom Cruise Movie Bombs at Box Office, Will Lose $150M",Deadline,negative,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:09,MARUTI.NS,Key facts: NSE:MARUTI ~220k bookings; REEV access possible,TradingView,positive,0.6532,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:17,RELIANCE.NS,Weekly Recap: Jio IPO approval and gas ceiling $9.89/MMBtu,TradingView,neutral,0.7191,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:17,RELIANCE.NS,Reliance Industries reports securities allotment: what it means for Reliance stock,AD HOC NEWS,neutral,0.74,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:18,SBILIFE.NS,Top 6 Insurance Stocks To Buy In India In October 2026,samco.in,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:25,TATASTEEL.NS,Tata Steel invests USD 340 million and gets INR 220 target for Tata Steel stock,AD HOC NEWS,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:29,TCS.NS,"TCS, Infosys to Wipro: Jefferies sees earnings risk while Nuvama eyes upside for IT stocks",financialexpress.com,neutral,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:31,TECHM.NS,"TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings",Livemint,neutral,0.7056,AUTO_ACCEPTED,indi-finbert
+2026-10-05 05:41:37,WIPRO.NS,"TCS, Infosys to Wipro: Jefferies sees earnings risk while Nuvama eyes upside for IT stocks",financialexpress.com,neutral,0.7381,AUTO_ACCEPTED,indi-finbert
