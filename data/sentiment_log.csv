@@ -5296,3 +5296,24 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-05 05:41:29,TCS.NS,"TCS, Infosys to Wipro: Jefferies sees earnings risk while Nuvama eyes upside for IT stocks",financialexpress.com,neutral,0.7381,AUTO_ACCEPTED,indi-finbert
 2026-10-05 05:41:31,TECHM.NS,"TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings",Livemint,neutral,0.7056,AUTO_ACCEPTED,indi-finbert
 2026-10-05 05:41:37,WIPRO.NS,"TCS, Infosys to Wipro: Jefferies sees earnings risk while Nuvama eyes upside for IT stocks",financialexpress.com,neutral,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:14,AXISBANK.NS,Axis Bank gross advances increase over ₹13 lakh crore in Q2 FY27; check all updates,Upstox,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:49,ITC.NS,ITC (NSE:ITC): What Does Its Q2 FY27 Dematerialisation Certificate Mean?,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:50,INDUSINDBK.NS,IndusInd Bank stock prepares for a 71.68 percent profit rebound,AD HOC NEWS,positive,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:55,KOTAKBANK.NS,Kotak Mahindra Bank (NSE:KOTAKBANK): What Do Its Q2 FY27 Deposits and Advances Numbers Show?,Kalkine India,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:57,LT.NS,Larsen & Toubro (NSE:LT) Power T&D Mega Orders Oct 2026,Kalkine India,neutral,0.6599,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:58,LT.NS,BREAKING: Honda XR300 Rally & XR300 L Bikes Launched In India,ZigWheels.com,neutral,0.5578,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 19:29:58,LT.NS,"B Sai Sudharsan and L Balaji address the media, Puducherry, October 5, 2026 CAP",Cricinfo,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:29:58,LT.NS,Honda XR300 L and XR300 Rally launched in India,EVO India,neutral,0.4306,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 19:29:58,LT.NS,The facelift: How homegrown D2C challengers are forcing L'Oreal to rewrite its India playbook,TradingView,negative,0.4551,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 19:29:58,LT.NS,"5th-Gen Hyundai Tucson Hybrid Details Revealed – 245 PS, 17.4 km/l and Next-Gen Hybrid Tech",Autopunditz,positive,0.733,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:00,M&M.NS,Top 31 EV Stocks To Buy In India October 2026,Samco,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:01,M&M.NS,CSL pays $355M to co-develop Alentis’ phase 2-stage fibrosis drug,Fierce Biotech,positive,0.726,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:01,M&M.NS,"'Digger': Tom Cruise Movie Bombs at Box Office, Will Lose $150 Million",Deadline,negative,0.739,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:01,M&M.NS,"Sterlite Tech stock zooms 1069% from Jan low; m-cap tops ₹50,000 crore",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:01,M&M.NS,‘Verity’ rules worldwide box office as ‘Digger’ capsizes with $20m debut,Screen Daily,negative,0.6974,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:02,MARUTI.NS,Maruti Suzuki India NSE:MARUTI Investor Meet Oct 2026,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:06,NTPC.NS,NTPC announces cessation of Shri Piyush Singh as Government Nominee Director,Business Upturn,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:20,TATASTEEL.NS,Enterprise value to EBITDA forward of Tata Steel Limited – NSE:TATASTEEL,TradingView,positive,0.5851,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-05 19:30:21,TATACONSUM.NS,"AMFI reshuffle: NSE may get largecap status, SBI Fund Management may become midcap in H1 CY27",The Economic Times,neutral,0.7988,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:27,TITAN.NS,"Titan FY26 revenue hits Rs 88,136 crore as gold jewellery demand lifts sales",Goodreturns,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-05 19:30:31,WIPRO.NS,Wipro NSE:WIPRO Q2 FY27 Board Meeting Date Announced,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
