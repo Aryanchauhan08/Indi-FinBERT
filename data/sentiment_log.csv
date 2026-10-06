@@ -5317,3 +5317,13 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-05 19:30:21,TATACONSUM.NS,"AMFI reshuffle: NSE may get largecap status, SBI Fund Management may become midcap in H1 CY27",The Economic Times,neutral,0.7988,AUTO_ACCEPTED,indi-finbert
 2026-10-05 19:30:27,TITAN.NS,"Titan FY26 revenue hits Rs 88,136 crore as gold jewellery demand lifts sales",Goodreturns,positive,0.7476,AUTO_ACCEPTED,indi-finbert
 2026-10-05 19:30:31,WIPRO.NS,Wipro NSE:WIPRO Q2 FY27 Board Meeting Date Announced,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:21:25,AXISBANK.NS,Key facts: NSE:AXISBANK Q2 gross adv ₹13.85L Cr; $10.62B swap; NII+8.5%,TradingView,neutral,0.7246,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:21:25,AXISBANK.NS,"Axis Bank’s gross advances rise 23% YoY to Rs 13.85 lakh crore in Q2, deposits up 21%",The Economic Times,positive,0.897,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:22:04,LT.NS,Exclusive | L’Oréal Taps Advisers to Explore Unloading Chemical-Related Liabilities,WSJ,neutral,0.705,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:22:04,LT.NS,"L'Oreal explores unloading chemical-related liabilities, WSJ reports",Reuters,neutral,0.9109,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:22:04,LT.NS,L’Oréal Cuts Customer Service Time 64% With AI,PYMNTS.com,negative,0.6048,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-06 06:22:04,LT.NS,Key facts: NSE:AXISBANK Q2 gross adv ₹13.85L Cr; $10.62B swap; NII+8.5%,TradingView,neutral,0.7246,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:22:07,M&M.NS,"At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",TechCrunch,positive,0.7089,AUTO_ACCEPTED,indi-finbert
+2026-10-06 06:22:07,M&M.NS,"Jio Financial, Allianz invest $66M in JV",businessinsurance.com,positive,0.4704,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-06 06:22:07,M&M.NS,Paxton reports $18M quarterly fundraising haul,Politico,positive,0.5306,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-06 06:22:10,NESTLEIND.NS,"Nestlé India (NESTLEIND) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
