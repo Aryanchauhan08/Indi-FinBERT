@@ -5327,3 +5327,29 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-06 06:22:07,M&M.NS,"Jio Financial, Allianz invest $66M in JV",businessinsurance.com,positive,0.4704,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-06 06:22:07,M&M.NS,Paxton reports $18M quarterly fundraising haul,Politico,positive,0.5306,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-06 06:22:10,NESTLEIND.NS,"Nestlé India (NESTLEIND) Share Price, News, Stock Market Cap NSE/BSE",TechGraph,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:49,KOTAKBANK.NS,Why is Kotak Mahindra Bank outperforming Nifty and Bank Nifty in last two months? Here are 3 key reasons,moneycontrol,neutral,0.94,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:49,HDFCBANK.NS,"Nomura retains 'Buy' on HDFC Bank, Neutral on BOB, AU, Yes Bank, Bandhan",moneycontrol,neutral,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:49,ADANIPORTS.NS,"Nomura retains 'Buy' on Adani Ports, JSW Infrastructure; sees steady Q2",moneycontrol,positive,0.9214,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:49,KOTAKBANK.NS,"Kotak Mahindra Bank shares jump nearly 4% as Q2 advances, deposits post strong growth",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:49,INDUSINDBK.NS,"Price Action: Kotak Bank, IndusInd Bank rise on better monthly data; Trent surges 11% as Q2 revenue up 23%",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:49:57,AXISBANK.NS,Axis Bank secures listing approval for US$300 million senior notes at 5.348%,scanx.trade,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:00,BAJFINANCE.NS,Bajaj Finance (NSE: BAJFINANCE): Q2 Asset Growth Sets Early Tone,Kalkine India,positive,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:00,BAJFINANCE.NS,Bajaj Finance Q2 Results: Key Things to Know Before Earnings,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:02,BAJAJFINSV.NS,Bajaj Finance Q2 Results: Key Things to Know Before Earnings,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:05,BPCL.NS,"Oil India, BPCL, HPCL, IOCL, ONGC, Petronet LNG: Oil & Gas Q2 results preview",ET EnergyWorld,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:05,BPCL.NS,"BPCL, HPCL, IOC in focus: Morgan Stanley sees a 3-year refining upswing",The Financial Express,positive,0.7241,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:14,DRREDDY.NS,Dr. Reddy's (NSE: DRREDDY) US Arm Gets IRS Penalty Notice,Kalkine India,negative,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:19,HCLTECH.NS,HCL Technologies (NSE:HCLTECH): What Will It Showcase at India Mobile Congress 2026?,Kalkine India,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:30,ICICIBANK.NS,"ICICI Bank Q2 Results FY27: NII, NIM and Asset Quality in Focus Before Oct 17",NiftyTrader,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:36,JSWSTEEL.NS,A-One Steels India Ltd (AONESTEELS) Share Price,Business Today,neutral,0.74,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:39,KOTAKBANK.NS,Indian banks' Q2FY27 earnings seen rising 11%; FCNR deposits may weigh on margins: Kotak,The Economic Times,positive,0.8541,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:42,LT.NS,"As AI reshapes the consumer journey, L’Oréal is rethinking its marketing engine",Fortune,positive,0.4829,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-06 16:50:42,LT.NS,"Reckitt Benckiser Group plc (RKT.L) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:42,LT.NS,"Robbers rip out ATM, drag it 500m in Rs 4.8L Deogarh heist",The Times of India,negative,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:46,M&M.NS,CPI(M) opposes toll collection at Keralam’s Nattika before NH 66 works are complete,The Hindu,negative,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:46,M&M.NS,LIV Golf: Competition secures potential $300m investment to emerge from restructuring,BBC,positive,0.7255,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:53,ONGC.NS,"Oil India, BPCL, HPCL, IOCL, ONGC, Petronet LNG: Oil & Gas Q2 results preview",ET EnergyWorld,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:50:59,SBILIFE.NS,"Up to 52% upside - Jindal SAW, SBI Life, ICICI Bank shares | 360 ONE's 21 biggest bets for investors - Check full list",Livemint,positive,0.8422,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:51:05,TATASTEEL.NS,A-One Steels India Ltd (AONESTEELS) Share Price,Business Today,neutral,0.74,AUTO_ACCEPTED,indi-finbert
+2026-10-06 16:51:05,TATASTEEL.NS,Tata Steel (NSE: TATASTEEL) Launches Fire-Resistant E350 Steel,Kalkine India,positive,0.4097,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-06 16:51:05,TATASTEEL.NS,German Green Steel & Power Ltd (GERMAN) Share Price,Business Today,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
