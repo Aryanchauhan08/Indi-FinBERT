@@ -5353,3 +5353,25 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-06 16:51:05,TATASTEEL.NS,A-One Steels India Ltd (AONESTEELS) Share Price,Business Today,neutral,0.74,AUTO_ACCEPTED,indi-finbert
 2026-10-06 16:51:05,TATASTEEL.NS,Tata Steel (NSE: TATASTEEL) Launches Fire-Resistant E350 Steel,Kalkine India,positive,0.4097,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-06 16:51:05,TATASTEEL.NS,German Green Steel & Power Ltd (GERMAN) Share Price,Business Today,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-07 05:59:50,KOTAKBANK.NS,"Kotak Mahindra Bank stock outlook bullish: HSBC upgrades rating on loan growth, CEO clarity; check target price",moneycontrol,positive,0.9449,AUTO_ACCEPTED,indi-finbert
+2026-10-07 05:59:50,BRITANNIA.NS,"Trade Spotlight: How should you trade Laurus Labs, BHEL, ACME Solar Holdings, Indian Hotels, Britannia, and others on October 7?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-10-07 05:59:53,ADANIPORTS.NS,Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart,Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-07 05:59:58,AXISBANK.NS,Axis Bank Ltd (NSE: AXISBANK) Q2 Update: FCNR(B) Swap Facility Shapes Balance Sheet and Funding Mix,Kalkine India,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:03,BAJAJFINSV.NS,Bajaj Finance (NSE: BAJFINANCE): Q2 Asset Growth Sets Early Tone,Kalkine India,positive,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:05,BPCL.NS,BPCL (NSE: BPCL): Softer Crude and the Refining-Margin Outlook,Kalkine India,negative,0.7112,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:12,COALINDIA.NS,Coal India (NSE: COALINDIA): PSU Dividend Appeal in a Cautious Market,Kalkine India,negative,0.7185,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:12,COALINDIA.NS,"India’s biggest power producer plans more private coal buying, people say",Mining.com,positive,0.7195,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:13,DIVISLAB.NS,Divi's Laboratories (NSE: DIVISLAB): Long-Term Theme vs Sector Slide,Kalkine India,neutral,0.6953,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:38,KOTAKBANK.NS,Key facts: NSE:KOTAKBANK Q2 loan surge; rate repricing; Jefferies adds,TradingView,positive,0.5361,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 06:00:39,KOTAKBANK.NS,"HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank: What share price fall signals ahead of Q2 earnings",Business Today,neutral,0.7046,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:41,LT.NS,The facelift: How L’Oréal plans to reclaim India,Livemint,neutral,0.776,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:41,LT.NS,-Arginine inhibits NLRP3 inflammasome activation,Nature,negative,0.7125,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:41,LT.NS,Rs 460cr released for payment of honorarium to 1.28L Shiksha Mitras,The Times of India,neutral,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:41,LT.NS,L’Oréal Explores Unloading Chemical-Related Liabilities,The Business of Fashion,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:44,M&M.NS,Ex-US spy found with $40m in gold bars pleads guilty to wire fraud,BBC,negative,0.4576,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 06:00:44,M&M.NS,Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product,TechCrunch,neutral,0.5358,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 06:00:44,M&M.NS,"AI company Zero Gravity investing S$20m in Singapore, including in badminton research",CNA,positive,0.7121,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:44,M&M.NS,Dr. M. Sivaraman joins MSA Partners as a Partner in Chennai,Bar and Bench,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:44,M&M.NS,Oil prices rise as M.East supply jitters persist By Investing.com,Investing.com India,negative,0.7639,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:00:54,RELIANCE.NS,"Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history",Yahoo Finance UK,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-07 06:01:08,TECHM.NS,Indian Export Stocks Like Tech Mahindra Worth Watching After The RBI Rate Hike,Simply Wall Street,positive,0.7173,AUTO_ACCEPTED,indi-finbert
