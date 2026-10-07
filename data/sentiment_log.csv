@@ -5375,3 +5375,35 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-07 06:00:44,M&M.NS,Oil prices rise as M.East supply jitters persist By Investing.com,Investing.com India,negative,0.7639,AUTO_ACCEPTED,indi-finbert
 2026-10-07 06:00:54,RELIANCE.NS,"Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history",Yahoo Finance UK,neutral,0.746,AUTO_ACCEPTED,indi-finbert
 2026-10-07 06:01:08,TECHM.NS,Indian Export Stocks Like Tech Mahindra Worth Watching After The RBI Rate Hike,Simply Wall Street,positive,0.7173,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:26:55,BHARTIARTL.NS,Bharti Airtel shares rise up to 2% after telco hikes tariff on postpaid plans,moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:26:56,ADANIENT.NS,Adani Enterprises stock falls as Q1 loss offsets revenue growth,AD HOC NEWS,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:27:23,BHARTIARTL.NS,Bharti Airtel (NSE:BHARTIARTL): What Does Free International Roaming on All Postpaid Plans Mean?,Kalkine India,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:27:27,BRITANNIA.NS,"FMCG Q2FY27 preview: 6 stocks HDFC Sec likes; Honasa, Nestlé, Emami, Bikaji, Britannia, Godrej Consumer - check targets",Livemint,neutral,0.8324,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:27:32,COALINDIA.NS,Coal India stock draws on 12.5 percent supply growth,AD HOC NEWS,positive,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:27:38,DRREDDY.NS,Dr. Reddy's DRREDDY Reg 74(5) Depository Certificate Q2 FY27,Kalkine India,positive,0.3826,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:27:41,EICHERMOT.NS,Eicher Motors stock weighs strong sales against expansion costs,AD HOC NEWS,negative,0.5196,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:27:46,HCLTECH.NS,HCL Technologies HCLTECH AI Center of Excellence South Africa,Kalkine India,positive,0.3799,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:27:49,HDFCBANK.NS,HDFC Bank New CEO Anup Bagchi: Post-Merger Road Ahead,Kalkine India,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:19,KOTAKBANK.NS,Kotak Mahindra Bank (NSE: KOTAKBANK): Two-Month Outperformance,Kalkine India,positive,0.3865,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:19,KOTAKBANK.NS,Kotak Mahindra Bank stock gains as Q2 advances rise 24.7 percent,AD HOC NEWS,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:24,LT.NS,Samuel L. Jackson Reveals Why Making Movies Is His ‘Happy Place’,The Times of India,neutral,0.4994,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:24,LT.NS,‘The Beast’ Review: Samuel L. Jackson and Renny Harlin Reunite for a Subpar Actioner,Variety,neutral,0.7105,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:24,LT.NS,"Honda prices new XR300 L at ₹1.83 lakh, Rally at ₹2.08 lakh",ET Auto,neutral,0.6381,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:24,LT.NS,"Honda announces prices of XR300 L, XR300 Rally",Motown India,neutral,0.4743,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:24,LT.NS,DGP flags off Nagaland Police contingent for Nat'l Motorcycle Rally,MorungExpress,neutral,0.6724,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:30,M&M.NS,Healthleap raises $38M for its AI that flags hospital patients who may need a closer look,TechCrunch,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:30,M&M.NS,"Pakistan Navy conducts 2 counter-narcotics operations, seizes drugs worth $96m: ISPR",Dawn,neutral,0.6226,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:30,M&M.NS,SPC forwards complaint against former CPI(M) district secretary Suresh Babu to Palakkad police,The Hindu,negative,0.5154,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-07 17:28:31,MARUTI.NS,Maruti Suzuki stock falls 1.69 percent as sales rise 24.4 percent,AD HOC NEWS,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:34,NESTLEIND.NS,Nestle India stock falls 1.43 percent before October 15 results,AD HOC NEWS,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:39,ONGC.NS,ONGC (NSE: ONGC) in Focus as Crude Hovers Near $100,Kalkine India,neutral,0.7115,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:39,ONGC.NS,ONGC Stock And Indian Oil Producers Facing Higher Crude And Inflation,Simply Wall Street,negative,0.6868,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:39,ONGC.NS,Oil India (NSE: OILINDIA): Premium to ONGC Under Scrutiny,Kalkine India,negative,0.6996,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:43,POWERGRID.NS,Power Grid (NSE: POWERGRID): Dividend Appeal vs Rising Bond Yields,Kalkine India,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:45,RELIANCE.NS,Reliance Industries (NSE: RELIANCE) Up 2.7% on Jio Listing Hopes,Kalkine India,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:52,SBIN.NS,State Bank of India stock fell 1.01 percent on October 7,AD HOC NEWS,negative,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:28:55,SUNPHARMA.NS,SPARC NSE Demat Confirmation Certificate Q2 FY27 Filing,Kalkine India,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:29:03,TATASTEEL.NS,"Tata Steel Q2 Business Update: India Production Rises 10%, Deliveries Up 8% — Check Segment-wise Breakdown",NDTV Profit,positive,0.8769,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:29:15,TITAN.NS,"Titan reports 25% revenue growth in Q2FY27, jewellery sales up 21%",Business Standard,positive,0.896,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:29:15,TITAN.NS,"Titan Share Price: Nomura, Motilal rate ‘Buy’ despite miss in Q2 jewellery segment growth",The Financial Express,positive,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-10-07 17:29:15,TITAN.NS,"Titan Q2 business update: international growth 97%, jewellery up 21%, 78 new stores",Business Upturn,positive,0.7421,AUTO_ACCEPTED,indi-finbert
