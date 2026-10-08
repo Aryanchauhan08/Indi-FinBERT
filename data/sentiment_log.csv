@@ -5423,3 +5423,42 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-08 06:05:38,TCS.NS,"Indian shares extend losses as RBI rate hike, rising oil weigh",Reuters,negative,0.9128,AUTO_ACCEPTED,indi-finbert
 2026-10-08 06:05:41,TITAN.NS,Titan Q2 FY27 Business Update: Growth Across Segments,Kalkine India,neutral,0.6742,AUTO_ACCEPTED,indi-finbert
 2026-10-08 06:05:41,TITAN.NS,Titan Company (NSE: TITAN) in Focus as Gold Swings Near 7-Week Low,Kalkine India,negative,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:02,ADANIENT.NS,"Adani Enterprises, APSEZ, Adani Green: Why are Adani Group stocks falling on October 8?",Upstox,negative,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:03,ADANIENT.NS,"Nifty 50 stocks since last 52-week low: Eternal, Adani Enterprises lead gains; Infosys, ONGC lag",Moneycontrol.com,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:03,ADANIENT.NS,Adani Enterprises stock gets CARE AA upgrade and falls 6.89 percent,AD HOC NEWS,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:03,ADANIENT.NS,Adani Enterprises schedules Singapore meeting: what it means for Adani Enterprises stock,AD HOC NEWS,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:09,AXISBANK.NS,Jefferies names Axis Bank stock a top pick on rate outlook,AD HOC NEWS,positive,0.732,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:10,BAJAJ-AUTO.NS,Bajaj Auto (BAJAJ-AUTO) Share Price NSE,TechGraph,neutral,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:14,BAJAJFINSV.NS,Bajaj Finserv Shares Trading Near Its 52 Week Low; Is it an Opportunity for Earnings Growth or Hidden Risks?,Trade Brains,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:21,COALINDIA.NS,Coal India NSE:COALINDIA Q2 FY27 Reg 74(5) Certificate Filed,Kalkine India,neutral,0.6739,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:24,DRREDDY.NS,Dr. Reddy's FTO-11 Facility Receives Two USFDA Observations,Kalkine India,neutral,0.4592,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-08 17:26:30,HCLTECH.NS,"IT sector Q2FY27: Infosys, HCL Tech, Wipro, Tech Mahindra results, interim dividend dates",The Financial Express,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:31,HDFCBANK.NS,HDFC Bank Ltd (HDFCBANK) Share Price NSE,TechGraph,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:31,HDFCBANK.NS,HDFC Bank (NSE:HDFCBANK): Why Did It Publish a Postal Ballot Notice Confirmation on 8 October 2026?,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:32,HDFCLIFE.NS,HDFC Life September 2026 Premium Update and Insurance Business Trends,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:35,HEROMOTOCO.NS,Euler Motors eyes doubling its revenue to ₹800 crore in FY27,ET Auto,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:37,HINDUNILVR.NS,"HUL Q2 FY27 Results Date, Investor Call and Dividend Update",Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:40,ICICIBANK.NS,"ICICI Bank, SBI, Axis Bank Are Jefferies' Top Picks As Rate Hikes Could Lift Bank Earnings",NDTV Profit,positive,0.8218,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:45,JSWSTEEL.NS,JSW Steel Q2 FY27 Crude Steel Output Up 10% QoQ,Kalkine India,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:46,JSWSTEEL.NS,JSW Steel Q2 crude steel production rises 5% to 7.27 million tonnes,Business Standard,positive,0.893,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:47,KOTAKBANK.NS,Kotak Mahindra Bank Q2 FY27 Results Review on October 24,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:49,LT.NS,Samuel L Jackson confirms Marvel return as Nick Fury,Digital Spy,neutral,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:49,LT.NS,L Murugan Meets Para-Swimmer Satendra Singh Lohiya,News On AIR,neutral,0.7282,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:49,LT.NS,China's NMPA Approves Dato-DXd for Metastatic TNBC Ineligible for PD-(L)1 Inhibition,OncLive,positive,0.731,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:52,M&M.NS,Bajaj Auto (BAJAJ-AUTO) Share Price NSE,TechGraph,neutral,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:53,M&M.NS,Cal AI’s 19-year-old founder just raised $10M for his new AI startup,TechCrunch,neutral,0.6901,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:53,M&M.NS,G. Prabhakaran-OISCA award presented to M. Suchitra,The Hindu,neutral,0.7122,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:53,M&M.NS,"Ye Earned $20M From Canceled St. Petersburg Gigs, Kommersant Reports",The Moscow Times,neutral,0.4988,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-08 17:26:54,MARUTI.NS,"Maruti Suzuki Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:55,NESTLEIND.NS,"Nestle India stock trades at INR 1,315.50 before results",AD HOC NEWS,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:55,NESTLEIND.NS,Nestle India sets second-quarter results date: what it means for Nestle India stock,AD HOC NEWS,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:26:58,ONGC.NS,ONGC (NSE: ONGC) in Focus as Brent Climbs to $102.2,Kalkine India,positive,0.6664,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:02,RELIANCE.NS,Sunrakshakk Industries India Limited (SUNRAKSHAK) Share Price NSE,TechGraph,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:12,TATACONSUM.NS,"Tata Consumer stock gets an INR 1,230 target from Motilal Oswal",AD HOC NEWS,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:13,TCS.NS,TCS Q2 FY27 Results Review and Dividend Developments,Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:13,TCS.NS,TCS Q2 FY27 Results and Rs 12 Dividend Declared,Kalkine India,neutral,0.7315,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:14,TCS.NS,TCS Q2 Results 2026 Today: 5 triggers could decide share price's next move post earnings announcement | Experts' view,Livemint,neutral,0.8443,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:15,TECHM.NS,Tech Mahindra Share Price - Live NSE: TECHM Stock Price & Chart,Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:15,TECHM.NS,Tech Mahindra stock trades 19.1 percent below yearly high,AD HOC NEWS,negative,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:16,TECHM.NS,"IT sector Q2FY27: Infosys, HCL Tech, Wipro, Tech Mahindra results, interim dividend dates",The Financial Express,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-08 17:27:22,WIPRO.NS,"IT sector Q2FY27: Infosys, HCL Tech, Wipro, Tech Mahindra results, interim dividend dates",The Financial Express,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
