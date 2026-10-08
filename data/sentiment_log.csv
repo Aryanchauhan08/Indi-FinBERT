@@ -5407,3 +5407,19 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-07 17:29:15,TITAN.NS,"Titan reports 25% revenue growth in Q2FY27, jewellery sales up 21%",Business Standard,positive,0.896,AUTO_ACCEPTED,indi-finbert
 2026-10-07 17:29:15,TITAN.NS,"Titan Share Price: Nomura, Motilal rate ‘Buy’ despite miss in Q2 jewellery segment growth",The Financial Express,positive,0.7324,AUTO_ACCEPTED,indi-finbert
 2026-10-07 17:29:15,TITAN.NS,"Titan Q2 business update: international growth 97%, jewellery up 21%, 78 new stores",Business Upturn,positive,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:04:39,BAJAJFINSV.NS,"Jefferies top NBFC bets for Q2: Bajaj Finance, Chola & Shriram set for robust earnings",The Financial Express,positive,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:04:55,HDFCBANK.NS,HDFC Bank (NSE: HDFCBANK) Names Anup Bagchi as CEO: Can New Leadership Solve Post-Merger Challenges?,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:10,JSWSTEEL.NS,"JSW Steel redeems US$500,000,000 notes ahead of schedule",Business Upturn,neutral,0.6981,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:14,LT.NS,Samuel L. Jackson Announces His Next Marvel Movie — And It Isn't Avengers: Doomsday (Exclusive),The Direct,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:14,LT.NS,‘The Beast’ Review: Samuel L. Jackson and Joel Kinnaman in a Renny Harlin Joint That’s a Deadly Combo of Silly and Tedious,The Hollywood Reporter,negative,0.5588,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-08 06:05:14,LT.NS,The Beast Review: Samuel L. Jackson Plays The President,IGN,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:17,M&M.NS,Robot data startup Mecka AI nabs $60M from Sequoia,TechCrunch,neutral,0.4713,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-08 06:05:17,M&M.NS,Delhi Confidential: Rashtrapati Bhavan responds to CPI(M) MP John Brittas; Shekhawat savours Rajasthan in Malta,The Indian Express,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:17,M&M.NS,"‘Resident Evil’ Becoming Zach Cregger’s Highest-Grossing Movie Ever At $280M+ WW, Boosted By $35M China Debut",Deadline,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:17,M&M.NS,"India-France Rafale-M Deal Includes Clause for Integrating Indian Weapon Systems, Confirms MoD Annual Report",Defence.in,positive,0.6902,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:17,M&M.NS,Novartis-partnered biotech nabs $150M Series B to move into the clinic,Endpoints News,positive,0.7134,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:18,MARUTI.NS,Maruti Suzuki (NSE: MARUTI): Festive Stock Build vs Rural Demand,Kalkine India,neutral,0.4246,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-08 06:05:35,TATASTEEL.NS,Tata Steel Q2FY27 Results: India crude steel production up 10% YoY to 6.21 MT,scanx.trade,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:38,TCS.NS,"Indian shares extend losses as RBI rate hike, rising oil weigh",Reuters,negative,0.9128,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:41,TITAN.NS,Titan Q2 FY27 Business Update: Growth Across Segments,Kalkine India,neutral,0.6742,AUTO_ACCEPTED,indi-finbert
+2026-10-08 06:05:41,TITAN.NS,Titan Company (NSE: TITAN) in Focus as Gold Swings Near 7-Week Low,Kalkine India,negative,0.7366,AUTO_ACCEPTED,indi-finbert
