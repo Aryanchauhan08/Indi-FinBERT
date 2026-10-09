@@ -5489,3 +5489,55 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-09 06:10:07,SBILIFE.NS,SBI Life Insurance Share Price - Live NSE: SBILIFE Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
 2026-10-09 06:10:17,TCS.NS,Tata Consultancy Services (NSE: TCS) Anchors a Resilient IT Pack Before Q2 Results,Kalkine India,positive,0.7205,AUTO_ACCEPTED,indi-finbert
 2026-10-09 06:10:27,WIPRO.NS,"Infosys, Wipro ADRs fall nearly 3% after TCS earnings, US crackdown on H-1B-linked green card programme",The Economic Times,negative,0.8927,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:04,TCS.NS,IT shares rise after 4 days: Is it a relief rally or did fundamentals change post-TCS Q2 results? Here's what analysts said,moneycontrol,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:04,TCS.NS,Buy Tata Consultancy Services; target of Rs 2430: Anand Rathi,moneycontrol,positive,0.8774,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:06,ADANIENT.NS,"Adani Ent stock trades at INR 2,634.40 with INR 3.6 trillion market cap",AD HOC NEWS,neutral,0.706,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:08,ADANIPORTS.NS,"Adani Ports stock at INR 1,761, 6.9 percent below its high",AD HOC NEWS,negative,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:09,APOLLOHOSP.NS,"Apollo Hospitals stock rises to INR 8,027.50, 11.5 percent below high",AD HOC NEWS,positive,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:11,ASIANPAINT.NS,"Asian Paints stock trades at INR 2,345.00, 21.5 percent below its high",AD HOC NEWS,negative,0.6878,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:20,BPCL.NS,BPCL Signs ₹85 Crore Agreement for 40% Bitumen Venture Stake,Kalkine India,positive,0.7323,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:20,BPCL.NS,BPCL Special Dematerialisation Window Notice October 2026,Kalkine India,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:24,BRITANNIA.NS,"Britannia Industries (BRITANNIA) Share/Stock Price Live, NSE",TechGraph,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:24,BRITANNIA.NS,"Nestle India stock costs INR 1,333.00 with INR 2,570.4 billion value",AD HOC NEWS,neutral,0.4587,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:27,COALINDIA.NS,"Coal India stock trades at INR 411.55, 16.2 percent below yearly high",AD HOC NEWS,negative,0.6914,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:27,COALINDIA.NS,Coal India lifted H1 offtake 7.60 percent. Coal India stock sits 16.47 percent below high,AD HOC NEWS,negative,0.5812,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:37,HCLTECH.NS,"HCL Tech Q2 results 2026: Announcement date and time, earnings schedule, dividend yield, history, stock report",IndiaIPO,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:40,HDFCLIFE.NS,HDFC Life stock trades at INR 556.65 with a 60.8 P/ E,AD HOC NEWS,neutral,0.6457,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:40,HDFCLIFE.NS,HDFC Life reports 36 percent growth. HDFC Life stock sits 29.48 percent below its high,AD HOC NEWS,negative,0.7222,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:44,HINDALCO.NS,Hindalco Industries (NSE:HINDALCO): Copper Prices and Q1 FY27 Performance,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:45,HINDUNILVR.NS,"Hindustan Unilever stock stands at INR 1,856.70 with INR 4.4 trillion value",AD HOC NEWS,neutral,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:54,JSWSTEEL.NS,JSW Steel Limited (NSE: JSWSTEEL) Records 10% Sequential Production Growth as Investors Assess Metals Demand,Kalkine India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:54,JSWSTEEL.NS,"JSW Steel stock trades at INR 1,168.00 with volume 34.8 percent below average",AD HOC NEWS,negative,0.5277,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:58,LT.NS,"Larsen & Toubro stock at INR 3,703.30, 16.6 percent below its high",AD HOC NEWS,negative,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:59,LT.NS,Football and beauty: L’Oréal enters the Paris Saint-Germain sponsorship arena,Premium Beauty News,neutral,0.716,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:59,LT.NS,"Sangtam highlights role of logistics, connectivity in nat’l growth",MorungExpress,neutral,0.5095,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:59,LT.NS,2 held for robbing Rs 1.2L from collection agent,The Times of India,negative,0.6504,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:01:59,LT.NS,BJP wins prestige seat Nandigram by record 1.22L votes,Rediff,positive,0.6388,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:01:59,LT.NS,An antiques lover’s guide to L’Isle-sur-la-Sorgue,Financial Times,neutral,0.637,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:02,M&M.NS,Mahindra & Mahindra NSE:M&M New York Roadshow October 2026,Kalkine India,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:03,M&M.NS,King pays Andrew's £1.5m repair bill on Royal Lodge,BBC,neutral,0.4891,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:03,M&M.NS,Hyderabad’s Nomad’s Taco earns Mexico’s Sello M distinction for authentic cuisine,The Hindu,positive,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:03,M&M.NS,Andrew Mountbatten-Windsor faced £1.8m repair bill after leaving Royal Lodge,The Guardian,neutral,0.6459,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:03,M&M.NS,GSK commits $800M for construction of new Upper Merion facility as pharma investment surges,The Business Journals,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:03,M&M.NS,Morning Coffee: How to earn a $100m bonus at Goldman Sachs. Why prime broking businesses are so special,eFinancialCareers,neutral,0.7028,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:03,MARUTI.NS,"Maruti Suzuki stock at INR 11,420.00, 34.3 percent below its high",AD HOC NEWS,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:05,NESTLEIND.NS,"Nestle India stock costs INR 1,333.00 with INR 2,570.4 billion value",AD HOC NEWS,neutral,0.4587,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:05,NESTLEIND.NS,Nestlé India Joint Venture Faces FSSAI Notice Over Celevida GLP+,Kalkine India,neutral,0.5957,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:05,NESTLEIND.NS,Nestle India faced FSSAI cases as Nestle India stock sits 13.93 percent below its high,AD HOC NEWS,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:07,NTPC.NS,"NTPC Q1 FY27 Results, Power Capacity Expansion and Financing Outlook",Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:07,NTPC.NS,NTPC stock stands at INR 312.00 with INR 3.0 trillion market value,AD HOC NEWS,neutral,0.73,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:09,ONGC.NS,"Oil India vs ONGC: Valuation Premium, Crude Oil and FY26 Performance",Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:09,ONGC.NS,"ONGC stock closes at INR 221.27, 28.0 percent below its 52-week high",AD HOC NEWS,negative,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:09,ONGC.NS,ONGC Credit Rating Reaffirmed by Care Edge Ratings 2026,Kalkine India,neutral,0.5247,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:10,POWERGRID.NS,Power Grid Commissions Karnataka Bidar Solar Transmission Project,Kalkine India,neutral,0.646,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 17:02:10,POWERGRID.NS,Power Grid stock trades at INR 250.25 with a P/ E of 14.3,AD HOC NEWS,neutral,0.6938,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:11,POWERGRID.NS,"Power Grid Corporation in focus after fully commissioning 2,500 MW Bidar solar transmission scheme",Trade Brains,neutral,0.6755,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:14,SBILIFE.NS,"SBI Life stock stands at INR 1,682.00 with INR 1.7 trillion value",AD HOC NEWS,neutral,0.686,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:23,TATACONSUM.NS,Tata Consumer stock stands at INR 955.00 with P/ E 57.8,AD HOC NEWS,neutral,0.7127,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:25,TCS.NS,Tata Consultancy Services Limited (NSE: TCS) Climbs After ₹12 Interim Dividend and Strong Q2 FY27 Results,Kalkine India,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:25,TCS.NS,"TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks",Yahoo Finance Australia,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:25,TCS.NS,"India Stocks Rebound, Halting Weekly Losing Streak; Oil Price Concerns and Tightening Worries Persist",BigGo Finance,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:25,TCS.NS,TCS Maintains US Hiring Plans Amid PERM Programme Suspension,Kalkine India,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:27,TECHM.NS,"Tech Mahindra stock stands at INR 1,514.10, 18.3 percent below its high",AD HOC NEWS,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:30,ULTRACEMCO.NS,UltraTech Cement stock gains 2.15 percent before October 19 results,AD HOC NEWS,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-09 17:02:30,ULTRACEMCO.NS,"UltraTech Cement stock at INR 10,675.00 with a P/ E of 36.8",AD HOC NEWS,neutral,0.6282,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
