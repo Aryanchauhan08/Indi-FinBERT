@@ -5462,3 +5462,30 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-08 17:27:15,TECHM.NS,Tech Mahindra stock trades 19.1 percent below yearly high,AD HOC NEWS,negative,0.7437,AUTO_ACCEPTED,indi-finbert
 2026-10-08 17:27:16,TECHM.NS,"IT sector Q2FY27: Infosys, HCL Tech, Wipro, Tech Mahindra results, interim dividend dates",The Financial Express,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
 2026-10-08 17:27:22,WIPRO.NS,"IT sector Q2FY27: Infosys, HCL Tech, Wipro, Tech Mahindra results, interim dividend dates",The Financial Express,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,SUNPHARMA.NS,"Lupin, Sun Pharma, Zydus Lifesciences gain up to 1.5% as Nomura retains 'Buy' ratings amid pharma growth surge",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,TCS.NS,Buy TCS; target of Rs 2400: Motilal Oswal,moneycontrol,positive,0.9378,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,TCS.NS,Buy Tata Consultancy Services; target of Rs 2390: Prabhudas Lilladher,moneycontrol,positive,0.9015,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,TCS.NS,"TCS shares jump over 5% after Q2 results; IT stocks rally, shrug off US visa curbs on AI, growth optimism",moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,TCS.NS,"TCS stock outlook: Nomura sees 27% upside post Q2 results, Citi warns of downside; US visa curbs add pressure",moneycontrol,positive,0.8805,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,NTPC.NS,"Trade Spotlight: How should you trade Bharti Hexacom, NTPC Green Energy, Lemon Tree Hotels, Hexaware, V-Mart Retail, and others on October 9?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,EICHERMOT.NS,"Nomura sees Ather, TVS, Eicher Motors beating 2Q estimates; M&M, Ather remain preferred auto plays",moneycontrol,positive,0.9342,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:00,TCS.NS,"TCS Q2 results: Net profit rises 4% to Rs 13,884 crore; AI revenue crosses $3 billion, Rs 12 dividend announced",moneycontrol,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:24,DIVISLAB.NS,3 Indian Export Stocks Retail Investors Are Watching For Dollar Earnings,Yahoo Finance,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:25,DRREDDY.NS,Dr. Reddy's Laboratories (NSE: DRREDDY) Receives Two USFDA Observations Following FTO-11 Inspection,Kalkine India,neutral,0.7278,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:47,JSWSTEEL.NS,JSWSTEEL Share Price Today - JSW Steel on NSE/BSE,scanx.trade,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:48,JSWSTEEL.NS,"JSW Steel Q2 crude output rises 5% to 7.27 million tonnes, Indian ops up 5%",Business Standard,positive,0.8968,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:52,LT.NS,H-1B alternatives: Can L-1 and O-1 visas open another US route for Indians?,India Today,neutral,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:52,LT.NS,"Charles M. Perou, PhD, Honored With 2026 William L. McGuire Memorial Lecture Award",The ASCO Post,neutral,0.7215,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:52,LT.NS,Kioxia Introduces E1.L QLC-based SSDs for Hyperscale Data Centers | KIOXIA - Japan (English),KIOXIA Corporation,neutral,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:52,LT.NS,Estée Lauder appoints ex-L’Oréal Gaétane Baudry to lead Bobbi Brown,Premium Beauty News,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:55,M&M.NS,Vesta raises $30M to bring swarms of agents to mortgage lenders,TechCrunch,neutral,0.4729,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 06:09:55,M&M.NS,"Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset",Fierce Biotech,positive,0.6558,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:55,M&M.NS,"CPI(M) leader alleges BJP, RSS attacked his home; BJP denies claim",Asianet Newsable,neutral,0.4847,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 06:09:55,M&M.NS,China’s Manus raises over $500M in first funding round since split with Meta,TechCrunch,positive,0.7383,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:55,M&M.NS,CPI(M) leader and senior advocate Bikash Ranjan Bhattacharya residence attacked,The Hindu,neutral,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:09:58,NESTLEIND.NS,"Nestlé India (NESTLEIND) Share/Stock Price Live, NSE",TechGraph,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:10:03,POWERGRID.NS,Power Grid Corporation of India commissions solar energy transmission project in Bidar,Business Upturn,positive,0.4796,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-09 06:10:04,POWERGRID.NS,Power Grid Stock And Other Indian Dividend Shares Built For Higher Rates,Simply Wall Street,positive,0.7081,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:10:07,SBILIFE.NS,SBI Life Insurance Share Price - Live NSE: SBILIFE Stock Price & Chart,Upstox,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:10:17,TCS.NS,Tata Consultancy Services (NSE: TCS) Anchors a Resilient IT Pack Before Q2 Results,Kalkine India,positive,0.7205,AUTO_ACCEPTED,indi-finbert
+2026-10-09 06:10:27,WIPRO.NS,"Infosys, Wipro ADRs fall nearly 3% after TCS earnings, US crackdown on H-1B-linked green card programme",The Economic Times,negative,0.8927,AUTO_ACCEPTED,indi-finbert
