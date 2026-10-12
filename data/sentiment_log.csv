@@ -5541,3 +5541,28 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-09 17:02:27,TECHM.NS,"Tech Mahindra stock stands at INR 1,514.10, 18.3 percent below its high",AD HOC NEWS,negative,0.7394,AUTO_ACCEPTED,indi-finbert
 2026-10-09 17:02:30,ULTRACEMCO.NS,UltraTech Cement stock gains 2.15 percent before October 19 results,AD HOC NEWS,positive,0.7478,AUTO_ACCEPTED,indi-finbert
 2026-10-09 17:02:30,ULTRACEMCO.NS,"UltraTech Cement stock at INR 10,675.00 with a P/ E of 36.8",AD HOC NEWS,neutral,0.6282,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:02,APOLLOHOSP.NS,Weekly Recap: 30% oncology markup cap risks EBITDA and APOLLOHOSP +3.4% jump,TradingView,negative,0.6715,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:04,ASIANPAINT.NS,"FMCG revenues to rise in Q2, but costs could dent margins",The Economic Times,negative,0.882,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:05,AXISBANK.NS,Key facts: NSE:AXISBANK to lift private banks' YoY PAT ~20% for Q3 FY27; QoQ NIM down 5–10 bps,TradingView,negative,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:06,AXISBANK.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:26,HCLTECH.NS,"Q2 results today: HCLTech, ICICI Pru among 18 firms to report earnings",Business Standard,neutral,0.8898,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:26,HCLTECH.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:28,HDFCBANK.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:33,HINDUNILVR.NS,"Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE",Business Today,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:35,ICICIBANK.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:36,ITC.NS,"Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE",Business Today,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:45,LT.NS,Saudi Under Fire Again; Houthis Fire Ballistic Missile After Riyadh Int'l Airport Attack,The Times of India,negative,0.5466,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:45,LT.NS,L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré,ArchDaily,neutral,0.7245,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:45,LT.NS,Deadly Houthi strike on Riyadh airport draws int'l condemnation,Daily Sabah,negative,0.6597,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:45,LT.NS,"Yemen's Houthis, Saudi-led coalition trade fresh strikes amid growing int'l concern",Xinhua,negative,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:45,LT.NS,"Hyderabad: Promised ₹45L for old one-rupee note, man loses ₹7.93L in currency fraud",NewsMeter,negative,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:48,M&M.NS,"‘The Social Reckoning’ Bombs With $5.5 Million Opening, Horror ‘Other Mommy’ Rules Weekend’ – Box Office Update",Deadline,negative,0.6406,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:48,M&M.NS,Deloitte used automation for Australian grant contract worth $2.2M,Politico,neutral,0.7059,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:48,M&M.NS,Delhi Confidential: Manoj Tiwari’s ‘Gen Z’ Chaupal; CPI(M) leaders’ protest plan foiled at Kerala House,The Indian Express,negative,0.5796,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:48,M&M.NS,"Box Office Global: 'Resident Evil' No. 1, Zach Cregger Record",Deadline,neutral,0.6273,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:48,M&M.NS,M Riaz Hamidullah at Idea Exchange: ‘Ready to engage with India on even keel… must pass through intersection of dignity and shared benefits’,The Indian Express,neutral,0.7117,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:51,NESTLEIND.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:58:55,POWERGRID.NS,POWERGRID Commissions Rajasthan REZ Phase-III Part-C1 Transmission System,PSU Connect,neutral,0.5924,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:58:56,POWERGRID.NS,Power Grid Corporation stock in focus as Power Grid completes 20 GW Rajasthan REZ transmission project,Trade Brains,neutral,0.5563,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 05:59:09,TCS.NS,"Stock market outlook: Wipro, HCL Tech results and inflation data in focus",Mathrubhumi English,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-12 05:59:17,WIPRO.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
