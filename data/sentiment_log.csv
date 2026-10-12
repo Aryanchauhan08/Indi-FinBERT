@@ -5566,3 +5566,55 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-12 05:58:56,POWERGRID.NS,Power Grid Corporation stock in focus as Power Grid completes 20 GW Rajasthan REZ transmission project,Trade Brains,neutral,0.5563,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-12 05:59:09,TCS.NS,"Stock market outlook: Wipro, HCL Tech results and inflation data in focus",Mathrubhumi English,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
 2026-10-12 05:59:17,WIPRO.NS,"Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",The Economic Times,neutral,0.8899,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:49:51,ADANIENT.NS,"Adani Enterprises stock sits at INR 2,630, 19.0 percent below high",ad-hoc-news.de,negative,0.5787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 19:49:51,ADANIENT.NS,CARE raised Adani Enterprises to AA: Adani Enterprises stock is 18.89 percent below high,ad-hoc-news.de,negative,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:49:56,ASIANPAINT.NS,"Asian Paints stock stands at INR 2,331.00, 21.9 percent below its high",ad-hoc-news.de,negative,0.7236,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:49:58,AXISBANK.NS,"Axis Bank stock at INR 1,253.00, market cap INR 3.9 trillion",ad-hoc-news.de,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:02,BAJAJFINSV.NS,"Bajaj Finserv stock at INR 1,719.90, 21.6 percent below its high",ad-hoc-news.de,negative,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:07,BRITANNIA.NS,"Nestle India stock at INR 1,324.70 with P/ E 67.0",ad-hoc-news.de,neutral,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:08,BRITANNIA.NS,"Nestle vs ITC vs Britannia vs Marico: Which FMCG stock to buy before their Q2 results? Target price, earning expectation",Livemint,neutral,0.8395,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:10,COALINDIA.NS,Coal India stock at INR 413.00 with INR 2.5 trillion market cap,ad-hoc-news.de,neutral,0.7337,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:14,DRREDDY.NS,"Dr. Reddy’s Laboratories (DRREDDY) Share Price, NSE",TechGraph,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:15,EICHERMOT.NS,"Eicher Motors stock stands at INR 7,119 as volume trails its 450,944 average",ad-hoc-news.de,positive,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:18,HCLTECH.NS,"HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8945,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:18,HCLTECH.NS,HCL Technologies HCLTECH Q2 FY27 Results and Dividend,Kalkine India,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:19,HCLTECH.NS,"India's HCLTech flags volatile demand environment, narrows growth forecast",Reuters,negative,0.9146,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:19,HCLTECH.NS,"HCLTech Q2 Results: Revenue up 11.5% but misses estimates, net profit up 21.2%",Livemint,positive,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:19,HCLTECH.NS,HCLTech Revenue Misses Estimates as AI Reshapes Indian IT Business Model,The420.in,negative,0.7315,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:19,HCLTECH.NS,HCL Tech Q2 results 2026 today | Is this a stock to buy ahead of quarterly earnings? Experts' view,Livemint,neutral,0.8433,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:25,HINDALCO.NS,"Hindalco stock trades at INR 882.50, 25.0 percent below high",ad-hoc-news.de,negative,0.6977,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:25,HINDALCO.NS,Hindalco plans private network at bauxite mine,Mining.com.au,neutral,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:26,HINDUNILVR.NS,"Hindustan Unilever stock at INR 1,820.70, 0.1 percent above yearly low",ad-hoc-news.de,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:34,JSWSTEEL.NS,"JSW Steel stock trades at INR 1,173 with INR 2.9 trillion market value",ad-hoc-news.de,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:37,LT.NS,Larsen & Toubro (NSE:LT): What Does Its Q2 FY27 Reg 74(5) Compliance Filing Mean?,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:38,LT.NS,"46,000 km with my Hyundai i10 Nios 1.2L NA: Likes and dislikes",Team-BHP,neutral,0.6691,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:38,LT.NS,Builder’s bag containing ₹1.2L stolen from car,The Times of India,negative,0.7245,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:38,LT.NS,Form 4 Atlantic Union Bankshares Corp: Ronald L. Tillett (Director) For: 1 October,Investing.com India,neutral,0.7751,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:38,LT.NS,"Aanand L Rai’s ‘Nakhrewaalii’ to release on October 30, 2026",The News Mill,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:38,LT.NS,Aanand L Rai’s ‘Nakhrewaalii’ to be released on October 30,ANI News,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:41,M&M.NS,"Mahindra stock at INR 2,813.00 with INR 3.4 trillion market cap",ad-hoc-news.de,neutral,0.7321,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,M&M.NS,Tom Cruise film Digger forecast to lose $245m as The Social Recknoning also struggles at box office,BBC,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,M&M.NS,Jithin M. George joins Shardul Amarchand Mangaldas as Partner in IP practice,Bar and Bench,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,M&M.NS,Alvarez vs M’billi boxing bout to go ahead despite Saudi airport attacks,Al Jazeera,neutral,0.7126,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,M&M.NS,Digger on course for $245m loss after box office collapse,The Guardian,negative,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,M&M.NS,Former Plaud exec raises $26M for AI app that listens to you in the background,TechCrunch,positive,0.6818,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,MARUTI.NS,"Maruti Suzuki stock at INR 11,315 with a 24.8 P/ E ratio",ad-hoc-news.de,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:42,MARUTI.NS,Maruti Suzuki NCLAT Hearing Postponed: CCI Matter Update,Kalkine India,neutral,0.7225,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:44,NESTLEIND.NS,"Nestle India stock at INR 1,324.70 with P/ E 67.0",ad-hoc-news.de,neutral,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:44,NESTLEIND.NS,"Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE",Business Today,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:44,NESTLEIND.NS,"Nomura sets INR 1,675 target for Nestle India stock",ad-hoc-news.de,neutral,0.7086,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:45,NESTLEIND.NS,"Nestle vs ITC vs Britannia vs Marico: Which FMCG stock to buy before their Q2 results? Target price, earning expectation",Livemint,neutral,0.8395,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:46,NTPC.NS,"NTPC stock at INR 310.00, 1.4 percent above its yearly low",ad-hoc-news.de,negative,0.6677,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:46,NTPC.NS,NTPC Seeks Industrial Partners for Co-Generation Projects,Kalkine India,neutral,0.7038,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:49,POWERGRID.NS,Power Grid Corporation Acquires Lakadia II Transmission SPV,Kalkine India,positive,0.5174,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-12 19:50:49,POWERGRID.NS,"Power Grid stock at INR 249.00, volume 31.54 percent below average",ad-hoc-news.de,negative,0.694,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:49,POWERGRID.NS,"NTPC stock at INR 310.00, 1.4 percent above its yearly low",ad-hoc-news.de,negative,0.6677,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:49,POWERGRID.NS,PFC Transfers Three Transmission SPVs | NSE:PFC Update,Kalkine India,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:49,POWERGRID.NS,"Power Grid commissions 2,500 MW project: what it means for Power Grid stock",ad-hoc-news.de,neutral,0.6926,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:50:57,TATAMOTORS.NS,Tata Motors Passenger Vehicles Stellantis Deal NSE:TMPV,Kalkine India,neutral,0.7242,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:01,TATACONSUM.NS,Tata Consumer Products ESOP Allotment October 2026,Kalkine India,neutral,0.7346,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:01,TATACONSUM.NS,"Tata Consumer stock at INR 958.80, 1.5 percent above yearly low",ad-hoc-news.de,negative,0.7299,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:03,TCS.NS,HCL Tech shares rise 2% ahead of IT major’s Q2 earnings announcement today. What to expect?,The Economic Times,positive,0.8928,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:04,TECHM.NS,Tech Mahindra shares see sharpest fall among IT peers: What is behind the slide?,Upstox,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:07,ULTRACEMCO.NS,"UltraTech Cement stock at INR 10,520, 19.8 percent below its high for the year? no",ad-hoc-news.de,negative,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-12 19:51:10,WIPRO.NS,"Wipro RSU Grant 2026: 2,46,048 Units Issued to Employees",Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
