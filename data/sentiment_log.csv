@@ -5631,3 +5631,63 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-13 06:49:29,ONGC.NS,"ONGC stock stood at INR 220.00 with P/ E 6.4 on October 12, 2026 3600 characters",ad-hoc-news.de,neutral,0.6875,AUTO_ACCEPTED,indi-finbert
 2026-10-13 06:49:32,POWERGRID.NS,POWERGRID acquires Lakadia C and Jam Khambhaliya REZ transmission SPVs for ₹39.16 Cr,Trade Brains,positive,0.7054,AUTO_ACCEPTED,indi-finbert
 2026-10-13 06:49:49,TITAN.NS,Titan Company NSE:TITAN Demat Certificate Q2 FY27,Kalkine India,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:21,HCLTECH.NS,Reduce HCL Technologies; target of Rs 1090: ICICI Securities,moneycontrol,negative,0.5125,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:37:21,HCLTECH.NS,Buy HCL Technologies; target of Rs 1435: Anand Rathi,moneycontrol,positive,0.9312,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:21,INFY.NS,"Nifty IT surges over 5% as strong HCL Tech earnings lift IT stocks; TCS, Infosys gain amid global AI selloff",moneycontrol,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:21,TCS.NS,"Nifty IT surges over 5% as strong HCL Tech earnings lift IT stocks; TCS, Infosys gain amid global AI selloff",moneycontrol,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:21,HCLTECH.NS,Hold HCL Technologies; target of Rs 1230: Prabhudas Lilladher,moneycontrol,neutral,0.9418,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:21,DRREDDY.NS,"Trade Spotlight: How should you trade Gabriel India, Dr Reddys Labs, MCX India, Craftsman Automation, Solar Industries, and others on October 13?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:23,ADANIENT.NS,CARE raises Adani Enterprises to AA for Adani Enterprises stock,ad-hoc-news.de,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:24,ADANIENT.NS,"Jefferies maintains INR 3,830 target for Adani Enterprises stock",ad-hoc-news.de,neutral,0.6948,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:27,ASIANPAINT.NS,"Asian Paints stock stands at INR 2,376.00 with 47.83 times earnings",ad-hoc-news.de,positive,0.6296,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:37:29,AXISBANK.NS,Axis Bank ESOP Allotment October 2026 | NSE:AXISBANK,Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:32,BAJFINANCE.NS,Bajaj Finserv stock trades at 27.87 times earnings,ad-hoc-news.de,positive,0.7249,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:33,BAJFINANCE.NS,Bajaj Finance Q2 FY27 Earnings Conference Call on 19 Oct 2026,Kalkine India,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:34,BAJAJFINSV.NS,Bajaj Finserv stock trades at 27.87 times earnings,ad-hoc-news.de,positive,0.7249,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:39,BRITANNIA.NS,Britannia Industries BRITANNIA Q2 FY27 Reg 74(5) Compliance Certificate,Kalkine India,neutral,0.6968,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:41,CIPLA.NS,Cipla Q2FY27 Earnings Call Set for 27 October 2026,Kalkine India,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:41,CIPLA.NS,"Cipla stock costs INR 1,329.60, 20.53 percent below its 52-week high",ad-hoc-news.de,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:45,DRREDDY.NS,"Trade Spotlight: Gabriel India, Dr Reddy's Among Counters Watched",Kalkine India,positive,0.6125,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:37:47,EICHERMOT.NS,"Eicher Motors stock trades at INR 7,095.50, 33.86 times earnings",ad-hoc-news.de,positive,0.5572,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:37:49,GRASIM.NS,"What Are Diversified Material, Steel Tube and Integrated Steel Stocks?",Univest,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:51,HCLTECH.NS,Indian benchmark shares jump as encouraging HCLTech earnings propel IT buying,Reuters,positive,0.9174,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:51,HCLTECH.NS,"Nifty IT surges 3% as strong HCL Tech earnings lift IT stocks; TCS, Infosys gain amid global AI selloff",TradingView,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:51,HCLTECH.NS,"HCLTech jumps over 7%, TCS up 5%: Why are IT stocks rallying",The Times of India,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:51,HCLTECH.NS,Indian Shares Rise as IT Stocks Rally After HCLTech Earnings,India Business Trade,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:37:56,HINDALCO.NS,Hindalco stock trades at INR 894.90 before November 6 results,ad-hoc-news.de,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:02,INDUSINDBK.NS,"IndusInd Bank (INDUSINDBK) Share/Stock Price Live, NSE",TechGraph,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:02,INDUSINDBK.NS,IndusInd Bank INDUSINDBK Q2 FY27 Earnings Call Date,Kalkine India,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:03,INDUSINDBK.NS,Why IndusInd Bank Stock Fits Rising Demand For Cash Like Investments,Simply Wall Street,positive,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:04,INFY.NS,INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE,Univest,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:04,INFY.NS,"IT Rebound To Extend? Infosys, Wipro ADRs Spike Up To 6% After Strong D-Street Show",NDTV Profit,positive,0.8768,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:04,INFY.NS,Infosys INFY Springboard Livelihood Program 2.5 Lakh Jobs,Kalkine India,positive,0.7303,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:05,JSWSTEEL.NS,"Nomura keeps INR 1,400.00 target for JSW Steel stock",ad-hoc-news.de,neutral,0.6137,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:08,KOTAKBANK.NS,"Top stocks to buy for long term: Bharti Airtel, Kotak Bank, Eternal among 9 shares experts suggest - Check target price",Livemint,neutral,0.5482,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:10,LT.NS,"L. Murugan resigns from Ministry, Rajya Sabha seat, setting off buzz about a pre-Deepavali Cabinet reset",The Hindu,neutral,0.543,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:10,LT.NS,"Amsterdam’s IDFA Sets Int’l, Envision Competition Lineups, Adds ‘Musk,’ ‘You Can See Everything’",The Hollywood Reporter,neutral,0.6774,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:10,LT.NS,"Dr L. Murugan resigns as Minister of State, Rajya Sabha member",News On AIR,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:10,LT.NS,"Want to strengthen Tamil Nadu BJP: L Murugan quits govt, thanks PM amid rejig buzz",India Today,neutral,0.684,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:10,LT.NS,MoS L Murugan resigns from Union Cabinet and Rajya Sabha: 'Wish to return to grassroots',Moneycontrol.com,neutral,0.9086,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:12,M&M.NS,Tata Motors stock rises 3.08 percent at a 36.64 price-to-earnings ratio,ad-hoc-news.de,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:13,M&M.NS,Gianni Infantino: FIFA president received undeclared second salary payment of £1.3m from World Cup company,Sky Sports,neutral,0.7197,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:13,M&M.NS,'123456' password linked to Denmark data breach affecting 8.8M people,The Register,negative,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:13,M&M.NS,"CMF by Nothing has launched its first speakers: the Speaker S for $59 and the Speaker M for $109, both with I",Mezha,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:13,MARUTI.NS,Maruti Suzuki schedules October 27 results. Maruti Suzuki stock nears yearly low,ad-hoc-news.de,negative,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:13,MARUTI.NS,Tata Motors stock rises 3.08 percent at a 36.64 price-to-earnings ratio,ad-hoc-news.de,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:15,NESTLEIND.NS,MarketsMOJO upgrades Nestle India stock to Buy,ad-hoc-news.de,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:16,NESTLEIND.NS,Nestle India Q2 preview: Strong volumes to drive growth; PAT may top ₹1k cr,Business Standard,positive,0.8898,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:16,NESTLEIND.NS,Nestle India reported 48.00 percent profit growth: what it means for Nestle India stock,ad-hoc-news.de,positive,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:17,NTPC.NS,NTPC (NSE:NTPC) Explores Green Ammonia Offtake Agreements,Kalkine India,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:18,ONGC.NS,Religare keeps INR 370.00 target for ONGC stock,ad-hoc-news.de,neutral,0.5728,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:20,POWERGRID.NS,Power Grid (NSE:POWERGRID) Commissions Rajasthan 20 GW Renewable Transmission Project,Kalkine India,positive,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:20,POWERGRID.NS,"Power Grid commissions 20 GW project: what 6,500 MW means for Power Grid stock",ad-hoc-news.de,neutral,0.5119,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:23,RELIANCE.NS,RIL target price ahead of Jio IPO: 47% upside - Why Religare recommends buying Mukesh Ambani stock before issue launch,TradingView,positive,0.6845,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:25,SBIN.NS,"Jefferies keeps INR 1,320 target for State Bank of India stock",ad-hoc-news.de,neutral,0.7178,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:27,SUNPHARMA.NS,"Sun Pharma NCD Programme Gets CRISIL, ICRA AAA Rating",Kalkine India,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:28,TATAMOTORS.NS,Tata Motors stock rises 3.08 percent at a 36.64 price-to-earnings ratio,ad-hoc-news.de,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:35,TECHM.NS,"Nifty IT shines, up 3%; HCL Tech, TCS, LTM, Tech Mahindra surge up to 5%",IndiaIPO,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:37,TITAN.NS,"Titan stock trades at INR 4,487.00, 13.50 percent below its high",ad-hoc-news.de,negative,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:38,ULTRACEMCO.NS,"Investing.com sees INR 13,882.14 for UltraTech Cement stock",ad-hoc-news.de,neutral,0.4925,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:38,ULTRACEMCO.NS,UltraTech Cement schedules October 19 results: what it means for UltraTech Cement stock,ad-hoc-news.de,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-13 17:38:41,WIPRO.NS,Wipro NSE:WIPRO U.S. PERM Suspension Impact Statement,Kalkine India,neutral,0.6043,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 17:38:41,WIPRO.NS,"IT Rebound To Extend? Infosys, Wipro ADRs Spike Up To 6% After Strong D-Street Show",NDTV Profit,positive,0.8768,AUTO_ACCEPTED,indi-finbert
