@@ -5618,3 +5618,16 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-12 19:51:04,TECHM.NS,Tech Mahindra shares see sharpest fall among IT peers: What is behind the slide?,Upstox,negative,0.7446,AUTO_ACCEPTED,indi-finbert
 2026-10-12 19:51:07,ULTRACEMCO.NS,"UltraTech Cement stock at INR 10,520, 19.8 percent below its high for the year? no",ad-hoc-news.de,negative,0.7428,AUTO_ACCEPTED,indi-finbert
 2026-10-12 19:51:10,WIPRO.NS,"Wipro RSU Grant 2026: 2,46,048 Units Issued to Employees",Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:48:42,BAJAJ-AUTO.NS,Two-wheelers to lead auto earnings growth in September quarter despite margin pressure: Jefferies,ANI News,positive,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:48:56,DRREDDY.NS,"Trade Spotlight: How should you trade Gabriel India, Dr Reddys Labs, MCX India, Craftsman Automation,...",Moneycontrol.com,neutral,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:01,HCLTECH.NS,"Indian shares rise, led by IT gains after strong HCLTech earnings",Reuters,positive,0.9173,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:14,INFY.NS,"Infosys Limited (INFY.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:20,LT.NS,"Telangana HC to hear L-1 bidder, refuses interim halt to RR-2 tenders",The New Indian Express,negative,0.6654,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:20,LT.NS,"3.85L complaints, appeals pending with 28 information commissions",The Times of India,negative,0.6492,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 06:49:20,LT.NS,Form 4 Walmart Inc: Steuart L. Walton (Director) For: 30 September,Investing.com India,neutral,0.7751,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:20,LT.NS,Will turn Sangrur into skating hub to nurture int’l players: CM | Hindustan Times,Hindustan Times,positive,0.4333,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 06:49:23,M&M.NS,Elon Musk spends $366m to bolster Republican Party in US midterm elections,Al Jazeera,positive,0.3973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-13 06:49:23,M&M.NS,Top 10 blue-chips’ share of India’s m-cap drops to lowest since 2017,The Economic Times,negative,0.8938,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:29,ONGC.NS,"ONGC stock stood at INR 220.00 with P/ E 6.4 on October 12, 2026 3600 characters",ad-hoc-news.de,neutral,0.6875,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:32,POWERGRID.NS,POWERGRID acquires Lakadia C and Jam Khambhaliya REZ transmission SPVs for ₹39.16 Cr,Trade Brains,positive,0.7054,AUTO_ACCEPTED,indi-finbert
+2026-10-13 06:49:49,TITAN.NS,Titan Company NSE:TITAN Demat Certificate Q2 FY27,Kalkine India,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
