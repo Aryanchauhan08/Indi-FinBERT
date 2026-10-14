@@ -5691,3 +5691,17 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-13 17:38:38,ULTRACEMCO.NS,UltraTech Cement schedules October 19 results: what it means for UltraTech Cement stock,ad-hoc-news.de,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-10-13 17:38:41,WIPRO.NS,Wipro NSE:WIPRO U.S. PERM Suspension Impact Statement,Kalkine India,neutral,0.6043,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-13 17:38:41,WIPRO.NS,"IT Rebound To Extend? Infosys, Wipro ADRs Spike Up To 6% After Strong D-Street Show",NDTV Profit,positive,0.8768,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:53:37,SUNPHARMA.NS,"Sun Pharma: Tariff relief, innovation brighten growth outlook",moneycontrol,positive,0.9449,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:53:37,HCLTECH.NS,Hold HCL Technologies; target of Rs 1360: LKP Research,moneycontrol,neutral,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:53:39,ADANIENT.NS,"Stocks in news: Adani Enterprises, Hyundai Motor India, BHEL, BEL, Groww, Tata Elxsi and RailTel",The Economic Times,neutral,0.8914,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:53:57,COALINDIA.NS,360 ONE sets INR 516.00 target for Coal India stock,ad-hoc-news.de,neutral,0.6186,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 04:53:57,COALINDIA.NS,360 ONE set an INR 516.00 target for Coal India stock,ad-hoc-news.de,neutral,0.4866,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 04:54:02,EICHERMOT.NS,MarketsMojo downgrades Eicher Motors stock to Hold,ad-hoc-news.de,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:07,HDFCBANK.NS,HDFC Bank Q2 FY27 Earnings Call Date and Dial-In Details,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:25,LT.NS,"""Wish To Return To Grassroots"": L Murugan Resigns As Union Minister",NDTV,neutral,0.7334,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:25,LT.NS,"BJP MP L. Murugan Resigns as Union Minister, Says Wish to Return to Grassroots",TheWire.in,neutral,0.7321,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:28,M&M.NS,Elon Musk becomes biggest donor of US midterms cycle with $366m spent,The Guardian,positive,0.719,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:28,M&M.NS,Pluto Security raises $42M as AI gives enterprise security teams a new headache,TechCrunch,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:28,M&M.NS,Cineplex posts record $45.1M box office revenue for September,Global News,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-10-14 04:54:28,M&M.NS,Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m,Al Jazeera,neutral,0.484,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 04:54:55,UPL.NS,how InvestingPro spotted UPL’s 96% surge 17 months ahead By Investing.com,Investing.com India,positive,0.7768,AUTO_ACCEPTED,indi-finbert
