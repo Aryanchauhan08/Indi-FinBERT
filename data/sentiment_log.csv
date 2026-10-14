@@ -5705,3 +5705,44 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-14 04:54:28,M&M.NS,Cineplex posts record $45.1M box office revenue for September,Global News,positive,0.7358,AUTO_ACCEPTED,indi-finbert
 2026-10-14 04:54:28,M&M.NS,Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m,Al Jazeera,neutral,0.484,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-14 04:54:55,UPL.NS,how InvestingPro spotted UPL’s 96% surge 17 months ahead By Investing.com,Investing.com India,positive,0.7768,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:40,JSWSTEEL.NS,"Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel, Jindal Steel",moneycontrol,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:40,TATASTEEL.NS,"Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel, Jindal Steel",moneycontrol,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:41,SUNPHARMA.NS,"Nifty Pharma falls 1.6%; Divi's Labs, Sun Pharma lead losses: What lies ahead?",moneycontrol,negative,0.9424,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:41,RELIANCE.NS,"Jio listing could trigger 47% upside in Reliance Industries stock, says Religare",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:47,ASIANPAINT.NS,Asian Paints stock trades at 47.53 times earnings,ad-hoc-news.de,positive,0.6627,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:50,AXISBANK.NS,"Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",The Economic Times,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:57,BPCL.NS,"Crude oil prices above $100 a barrel: Why HPCL, IOCL and BPCL could face earnings pressure, experts decode",Livemint,negative,0.7323,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:08:57,BPCL.NS,"ONGC, Indian Oil and BPCL June 2026 Earnings",Kalkine India,neutral,0.7018,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:00,BRITANNIA.NS,"FMCG Ahead of Q2: Britannia, Marico and Dabur Signals Compared",Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:00,BRITANNIA.NS,"Nestle India stock at INR 1,362.60, 12.26 percent below its high",ad-hoc-news.de,negative,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:06,DIVISLAB.NS,"Sun Pharma, Divis Laboratories and Torrent Pharma Earnings",Kalkine India,neutral,0.716,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:09,EICHERMOT.NS,Eicher Motors (NSE:EICHERMOT): What Does Its Q2 FY27 Depository Compliance Filing Mean?,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:09,EICHERMOT.NS,"Motilal Oswal rates Eicher Motors stock Neutral at INR 7,096",ad-hoc-news.de,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:15,HDFCBANK.NS,"HDFC Bank Limited (HDFCBANK.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:16,HDFCBANK.NS,"Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",The Economic Times,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:20,HEROMOTOCO.NS,"Auto and tyre stocks: Sales are booming, but costs are biting. Motilal Oswal's 13 Buy, Sell and Neutral calls",The Economic Times,neutral,0.7731,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:22,HINDUNILVR.NS,"Macquarie keeps INR 2,750.00 target for Hindustan Unilever stock",ad-hoc-news.de,neutral,0.617,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:25,ICICIBANK.NS,"Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank?",The Economic Times,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:30,INFY.NS,INFY Share Price Today - Infosys on NSE/BSE,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:35,LT.NS,"Larsen & Toubro stock sits below Motilal Oswal's INR 4,400 target",ad-hoc-news.de,negative,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:35,LT.NS,L&T Q2 FY27 Results Date: What to Track This Quarter,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:36,LT.NS,Watch L’Oréal’s Strategy for a New Era of Beauty,Bloomberg.com,positive,0.6119,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:36,LT.NS,Form 4 Soligenix Inc: Diane L. Parks (Director) For: 12 October,Investing.com India,neutral,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:36,LT.NS,Baby boy sold by mom for Rs 1.8L rescued from Bengal,The Times of India,negative,0.6655,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:36,LT.NS,"GSK plans to cut up to 1,217 jobs in Belgium as it begins three-year restructuring plan",Reuters,neutral,0.845,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:36,LT.NS,"L Murugan resigns as I&B MoS, to focus on BJP's Tamil Nadu strategy",Adgully,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:40,M&M.NS,FIFA to propose sizable association payout bump from $10M to $25M,ESPN India,neutral,0.5378,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:40,M&M.NS,Scimplify raises $25M to challenge China’s grip on critical materials with AI,TechCrunch,positive,0.6745,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:40,M&M.NS,"Meet M Thangaraj, the Tenkasi teacher who turned a village classroom into a mini government; students run",The Times of India,neutral,0.5047,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:40,M&M.NS,Hamilton reports $10.6M Q3 haul for Kansas Senate race,Politico,positive,0.5348,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:41,MARUTI.NS,"Maruti Suzuki stock trades at 24.52 times earnings, 35.65 percent below its high",ad-hoc-news.de,negative,0.5942,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:42,NESTLEIND.NS,Nestlé India NESTLEIND SEBI Demat Special Window Notice,Kalkine India,neutral,0.735,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:42,NESTLEIND.NS,"Nestle India stock at INR 1,362.60, 12.26 percent below its high",ad-hoc-news.de,negative,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:46,ONGC.NS,"ONGC, Indian Oil and BPCL June 2026 Earnings",Kalkine India,neutral,0.7018,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:46,ONGC.NS,ONGC stock trades 27.28 percent below its 52-week high,ad-hoc-news.de,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:09:48,POWERGRID.NS,Power Grid stock is valued at INR 248.95 with 14.57 price-to-earnings ratio,ad-hoc-news.de,neutral,0.3912,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:54,SBIN.NS,State Bank of India stock sits at INR 948.80 with volume 23.36 percent below average,ad-hoc-news.de,neutral,0.5414,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-14 15:09:56,SUNPHARMA.NS,"Sun Pharma, Divis Laboratories and Torrent Pharma Earnings",Kalkine India,neutral,0.716,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:10:04,TCS.NS,"TCS Q2 FY27 Earnings Call: Revenue, AI Growth and Margins",Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:10:07,TECHM.NS,Tech Mahindra Q2 preview: PAT may jump 30-40% YoY; firm to mull bonus issue,Business Standard,positive,0.8927,AUTO_ACCEPTED,indi-finbert
+2026-10-14 15:10:14,WIPRO.NS,Wipro releases Q1 FY27 earnings call transcript,scanx.trade,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
