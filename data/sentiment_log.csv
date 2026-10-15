@@ -5746,3 +5746,44 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-14 15:10:04,TCS.NS,"TCS Q2 FY27 Earnings Call: Revenue, AI Growth and Margins",Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
 2026-10-14 15:10:07,TECHM.NS,Tech Mahindra Q2 preview: PAT may jump 30-40% YoY; firm to mull bonus issue,Business Standard,positive,0.8927,AUTO_ACCEPTED,indi-finbert
 2026-10-14 15:10:14,WIPRO.NS,Wipro releases Q1 FY27 earnings call transcript,scanx.trade,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:13,ADANIENT.NS,"IIFL Capital Initiates Coverage On Adani Enterprises With 'Buy' Rating, Sees 22% Upside",NDTV Profit,positive,0.8768,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:16,APOLLOHOSP.NS,"Apollo Hospitals, Max Healthcare and Manipal Health Results",Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:24,BAJFINANCE.NS,"Bajaj Finserv Share Price Today, Bajaj Finserv Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:24,BAJFINANCE.NS,"Bajaj Finance, Shriram Finance and Cholamandalam Results",Kalkine India,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:27,BPCL.NS,Topsoe secures technology contract for Bharat Petroleum’s SAF project in India,Hydrocarbon Engineering,positive,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:27,BPCL.NS,BPCL signs CNG pact: what it means for BPCL stock,ad-hoc-news.de,positive,0.6526,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:34,COALINDIA.NS,BHARAT COKING COAL LTD Share Price,Upstox,neutral,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:34,COALINDIA.NS,"Mining Update: Coal India, NMDC and Hindustan Copper Diverge",Kalkine India,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:38,DRREDDY.NS,Dr. Reddy's DRREDDY USFDA Form 483 Visakhapatnam FTO-9,Kalkine India,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:46,HDFCLIFE.NS,"LIC, SBI Life and HDFC Life Q1 FY27 Results",Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:47,HDFCLIFE.NS,"Q2 results today: Wipro, Nestle India, 47 others to announce earnings",Business Standard,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:47,HDFCLIFE.NS,"Q2 results, October 15: Nestle India, Wipro, Jio Financial, Tech Mahindra, Polycab, HDFC Life, Indian Bank, IRFC, others to post earnings",Dailyhunt,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:39:49,HINDALCO.NS,"Hindalco, Hindustan Zinc and Vedanta Financial Results",Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:00,JSWSTEEL.NS,"JSW Steel, Tata Steel and Jindal Steel Production Updates",Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:02,KOTAKBANK.NS,Can Kotak Mahindra Bank Sustain Its Profit Growth Momentum in Q2 FY27?,Trade Brains,neutral,0.6881,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:04,LT.NS,[ＡＬＳＯ[Ｌ Ｉ Ｖ Ｅ]]ＭＥＳＳＩ]！！ Manchester City vs PSG Live Match Today,Universidad de Córdoba (UCO),neutral,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:04,LT.NS,COREINTEGRA CONSULT SER L Share Price,Upstox,neutral,0.7298,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:04,LT.NS,"Form 4 AutoZone : Bailey L. Childress (SVP, Merchandising Support) For: 9 October",Investing.com India,neutral,0.7518,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:04,LT.NS,Škoda Auto India Brings Global Cycling Heritage to Mysuru with L’Étape by Tour de France,Machine Maker,positive,0.6329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-15 04:40:08,M&M.NS,"Box Office: 'Street Fighter' Eyes $70M Global Opening, First Paramount WB Movie",Deadline,positive,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:08,M&M.NS,OpenAI’s London staff receive average of £2.3m per person annually,The Guardian,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:08,M&M.NS,"COVID-19 grants paid to 9,000 ineligible Victorian businesses",ABC News & Headlines – Australian Broadcasting Corporation,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:08,M&M.NS,Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace,TechCrunch,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:08,M&M.NS,Confido Health nabs $12.5M to scale agentic AI across PE-backed medical groups,Fierce Healthcare,positive,0.5909,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-15 04:40:11,NESTLEIND.NS,"Q2 results today: Wipro, Nestle India, 47 others to announce earnings",Business Standard,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:11,NESTLEIND.NS,"Q2 Results Today Live: Wipro, Nestle, Tech Mahindra, Jio Financial, IRFC, Polycab, HDFC AMC, HDFC Life, Tata Communications, KVB, IIFL, Persistent Systems, 360 ONE WAM, Angel One to announce Q2 results, Tata Tech, Groww, Leela Palaces' shares in",BusinessLine,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:19,SBILIFE.NS,"LIC, SBI Life and HDFC Life Q1 FY27 Results",Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:19,SBILIFE.NS,SBI confirms no encumbrance on SBI Life Insurance shares in FY26,scanx.trade,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:27,TATASTEEL.NS,"JSW Steel, Tata Steel and Jindal Steel Production Updates",Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:28,TATACONSUM.NS,"Tata Consumer Products (TATACONSUM) Share Price Today, Live Chart, News",TechGraph,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:32,TECHM.NS,"Infosys, Tech Mahindra and Persistent Systems Results",Kalkine India,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:33,TECHM.NS,"Q2 Results Today Live: Wipro, Nestle, Tech Mahindra, Jio Financial, IRFC, Polycab, HDFC AMC, HDFC Life, Tata Communications, KVB, IIFL, Persistent Systems, 360 ONE WAM, Angel One to announce Q2 results, Tata Tech, Groww, Leela Palaces' shares in",BusinessLine,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:33,TECHM.NS,"Q2 results today, October 15: Nestle India, Wipro, Tech Mahindra, Jio Financial, IRFC among 46 companies announcing FY27 earnings",ET Now,neutral,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:33,TECHM.NS,"Q2 results, October 15: Nestle India, Wipro, Jio Financial, Tech Mahindra, Polycab, HDFC Life, Indian Bank, IRFC, others to post earnings",Dailyhunt,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:33,TECHM.NS,"Top Q2 results today, October 15: Wipro, Tech Mahindra, Nestle India, Polycab, Angel One among companies to announce earnings",Business Upturn,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:38,WIPRO.NS,"Stocks To Buy or Sell Today, October 15, 2026: Wipro, Coal India and IRB Infrastructure Among Shares Likely",LatestLY,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:39,WIPRO.NS,"Q2 results today: Wipro, Nestle India, 47 others to announce earnings",Business Standard,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:39,WIPRO.NS,"Q2 Results Today Live: Wipro, Nestle, Tech Mahindra, Jio Financial, IRFC, Polycab, HDFC AMC, HDFC Life, Tata Communications, KVB, IIFL, Persistent Systems, 360 ONE WAM, Angel One to announce Q2 results, Tata Tech, Groww, Leela Palaces' shares in",BusinessLine,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:39,WIPRO.NS,"Top Q2 results today, October 15: Wipro, Tech Mahindra, Nestle India, Polycab, Angel One among companies to announce earnings",Business Upturn,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:39,WIPRO.NS,"Q2 results, October 15: Nestle India, Wipro, Jio Financial, Tech Mahindra, Polycab, HDFC Life, Indian Bank, IRFC, others to post earnings",Dailyhunt,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-15 04:40:39,WIPRO.NS,Wipro Q2 Results October 15: Key Things to Watch,Dainik Jagran MP CG,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
