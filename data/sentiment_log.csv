@@ -5787,3 +5787,60 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-15 04:40:39,WIPRO.NS,"Top Q2 results today, October 15: Wipro, Tech Mahindra, Nestle India, Polycab, Angel One among companies to announce earnings",Business Upturn,neutral,0.737,AUTO_ACCEPTED,indi-finbert
 2026-10-15 04:40:39,WIPRO.NS,"Q2 results, October 15: Nestle India, Wipro, Jio Financial, Tech Mahindra, Polycab, HDFC Life, Indian Bank, IRFC, others to post earnings",Dailyhunt,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
 2026-10-15 04:40:39,WIPRO.NS,Wipro Q2 Results October 15: Key Things to Watch,Dainik Jagran MP CG,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:08,WIPRO.NS,"Wipro Q2 results: Net profit falls 4.5% QoQ to Rs 3,201 crore; revenue rises 1.1%, Q3 guidance remains weak",moneycontrol,negative,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:08,TCS.NS,Buy Tata Consultancy Services; target of Rs 2530: Geojit Financial Services,moneycontrol,positive,0.7543,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:08,NESTLEIND.NS,"Nestle India Q2 results: Profit jumps 36%, revenue rises 20%; stock plunges 7% amid inflation concerns",moneycontrol,positive,0.8591,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:08,RELIANCE.NS,"Reliance Industries shares jump 3% as Jio IPO price band, record Rs 30,213 crore issue boost sentiment",moneycontrol,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:09,WIPRO.NS,"Wipro large deal bookings hit 19-quarter low, CEO expects Q3 rebound",moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:10,ADANIENT.NS,Adani Enterprises signs Jabil AI venture: multi-gigawatt plans shape Adani Enterprises stock,ad-hoc-news.de,positive,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:13,APOLLOHOSP.NS,Apollo Hospitals Q2 FY27 Earnings Conference Call Details,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:20,BAJFINANCE.NS,"Q2 Results October 19, 2026: Bajaj Finance, UltraTech Cement and More",Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:21,BAJAJFINSV.NS,"Bajaj Finserv Share Price Today, Bajaj Finserv Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:21,BAJAJFINSV.NS,"Q2 Results October 19, 2026: Bajaj Finance, UltraTech Cement and More",Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:41,HDFCBANK.NS,HDFC Life's quarterly profit rises as sales via India's HDFC Bank recover,Reuters,positive,0.9168,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:42,HDFCLIFE.NS,HDFC Life HDFCLIFE Board Meeting Outcome October 2026,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:42,HDFCLIFE.NS,RBL Bank RBLBANK Investor Meet HDFC Life October 2026,Kalkine India,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:42,HDFCLIFE.NS,HDFC Life's quarterly profit rises as sales via India's HDFC Bank recover,Reuters,positive,0.9168,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:42,HDFCLIFE.NS,India's HDFC Life posts quarterly profit rise as premium income rises,TradingView,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:42,HDFCLIFE.NS,"Q2 results today, October 15: Nestle India, Wipro, Tech Mahindra, Jio Financial, IRFC among 46 companies announcing FY27 earnings",ET Now,neutral,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:43,HEROMOTOCO.NS,Hero MotoCorp (NSE:HEROMOTOCO): What Does Its Q2 FY27 Demat Compliance Filing Cover?,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:49,ICICIBANK.NS,"ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",IndiaIPO,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:53,INFY.NS,"TCS, HCLTech Q2 FY27 Results; Infosys Reports 23 October",Kalkine India,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:59,LT.NS,President Murmu accepts resignation of Union minister L Murugan,ThePrint,neutral,0.7323,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:59,LT.NS,President Murmu accepts L Murugan’s resignation amid buzz over Union Cabinet reshuffle,The Times of India,neutral,0.5924,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-15 15:02:59,LT.NS,"IG Group Holdings plc (IGG.L) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:59,LT.NS,President Murmu accepts Minister L Murugan's resignation,The Economic Times,neutral,0.8802,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:02:59,LT.NS,Centre Pompidou Francilien — Fabrique de l’Art / PCA / Prellwitz Chilinski Associates,ArchDaily,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:02,M&M.NS,Mahindra & Mahindra Q2FY27 Analyst Meet November 2026,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:03,M&M.NS,M Modi Hails India’s Record-Breaking Asian Games 2026 Contingent,The Times of India,neutral,0.5976,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-15 15:03:03,M&M.NS,James Talarico announces record-breaking $64M haul,Politico,positive,0.481,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-15 15:03:05,NESTLEIND.NS,"Nestle India Q2 Results: Standalone profit jumps 36% YoY to Rs 1,027 crore, revenue rises 20%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:05,NESTLEIND.NS,Nestlé India Q2 FY27 Results: Revenue and Profit Details,Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:05,NESTLEIND.NS,Nestle India reports Q2 profit growth: what it means for Nestle India stock,ad-hoc-news.de,neutral,0.6755,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:05,NESTLEIND.NS,Nestle India Q2 Profit Jumps 36% But Stock Falls Nearly 4%,HDFC Sky,negative,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:05,NESTLEIND.NS,"Top gainers and losers, Oct 15: Tech Mahindra jumps 4.7%, RIL gains 3%; Nestle India tanks 8%; check full list",Upstox,positive,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:06,NESTLEIND.NS,Nestlé India shares crash 9% despite strong Q2 numbers: What is spooking investors?,Upstox,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:06,NESTLEIND.NS,Nestle India Q2 Results: Here's why the stock fell up to 8% despite numbers meeting expectations,CNBC TV18,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:06,NESTLEIND.NS,"Nestlé India Limited Reports Earnings Results for the Second Quarter and Six Months Ended September 30, 2026",www.marketscreener.com,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:06,NESTLEIND.NS,"Nestle India Q2 results: Consolidated net profit jumps 36% on-year to Rs 1,010 crore, revenue rises 20%",TradingView,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:07,NTPC.NS,NTPC NSE:NTPC Regulation 74(5) Certificate Q2 FY27,Kalkine India,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:09,ONGC.NS,"Oil and Natural Gas (ONGC) Share Price Today, Live Chart, News",TechGraph,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:10,POWERGRID.NS,Power Grid buys INR 39.16 crore projects. Power Grid stock spans INR 244.65 to INR 324.95,ad-hoc-news.de,positive,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:13,RELIANCE.NS,Jio IPO Has Reliance Shares Rising 3%: Will the Rally Last Till the October 28 Listing?,NiftyTrader,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:15,SBIN.NS,SBI calls INR 60.0 billion debt: State Bank of India stock sits 22.25 percent below its 52-week high,ad-hoc-news.de,negative,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:20,TATAMOTORS.NS,Tata Motors PV: How Is India’s EV Leader Expected to Perform in Q2 FY27?,Trade Brains,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:24,TCS.NS,TCS Industrial Intelligence Foundry: AI for Manufacturing,Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:24,TCS.NS,Tata Consultancy Services completes acquisition of BBY Services India,Business Upturn,neutral,0.7169,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:26,TECHM.NS,"Q2 Results October 15: Wipro, Tech Mahindra, Nestlé, Polycab",Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:26,TECHM.NS,"Top gainers and losers, Oct 15: Tech Mahindra jumps 4.7%, RIL gains 3%; Nestle India tanks 8%; check full list",Upstox,positive,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:26,TECHM.NS,"Tech Mahindra TECHM: Dividend, Bonus Issue & Q2 FY27 Results",Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:26,TECHM.NS,Q2 Results Today: 35 Indian Companies to Announce Earnings on October 15,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:26,TECHM.NS,"Stock market rally: Sensex jumps 1,534 points; Reliance, Tech Mahindra shine",NewsDrum,positive,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:27,TECHM.NS,India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat,Reuters,positive,0.9067,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:27,TECHM.NS,"Tech Mahindra Q2 profit rises 32.7% to ₹1,586 crore; revenue up 15.6%",Business Standard,positive,0.8978,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:27,TECHM.NS,India's Tech Mahindra second-quarter revenue beats estimate,Central Oregon Daily,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:28,TITAN.NS,"Titan, Senco Gold, Kalyan Jewellers, PC Jeweller: What makes this festive season different?",Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:29,ULTRACEMCO.NS,"Q2 Results October 19, 2026: Bajaj Finance, UltraTech Cement and More",Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:33,WIPRO.NS,"Wipro Q2 results: Net profit falls 1.4% to ₹3,201 crore, revenue rises 9.1%",Business Standard,negative,0.8932,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:33,WIPRO.NS,"Wipro, Nestle India, Jio Financial Among 49 Firms Reporting Q2 Results Today",Business Outreach Magazine,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-15 15:03:33,WIPRO.NS,Q2 Results Today: 35 Indian Companies to Announce Earnings on October 15,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
