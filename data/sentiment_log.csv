@@ -5844,3 +5844,39 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-15 15:03:33,WIPRO.NS,"Wipro Q2 results: Net profit falls 1.4% to ₹3,201 crore, revenue rises 9.1%",Business Standard,negative,0.8932,AUTO_ACCEPTED,indi-finbert
 2026-10-15 15:03:33,WIPRO.NS,"Wipro, Nestle India, Jio Financial Among 49 Firms Reporting Q2 Results Today",Business Outreach Magazine,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
 2026-10-15 15:03:33,WIPRO.NS,Q2 Results Today: 35 Indian Companies to Announce Earnings on October 15,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,WIPRO.NS,"Wipro shares rise 2% after Q2 results; Nomura sees 15% upside, retains Buy rating",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,NESTLEIND.NS,Nestle India stock falls further after 8% crash on Q2 results; HSBC sees 16% upside but flags growth slowdown,moneycontrol,negative,0.9435,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,TECHM.NS,Tech Mahindra Q2 FY27 – strengthening its growth leadership,moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,TITAN.NS,Weekly Tactical Pick | Titan Company: Festive demand to accelerate growth in H2,moneycontrol,positive,0.9252,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,WIPRO.NS,Hold Wipro; target of Rs 166: Prabhudas Lilladher,moneycontrol,neutral,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:30,NESTLEIND.NS,Accumulate Nestle India; target of Rs 1526: Prabhudas Lilladher,moneycontrol,neutral,0.9354,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:35,APOLLOHOSP.NS,Apollo Hospitals sets November 4 results as cancer drug cap tests Apollo Hospitals stock,ad-hoc-news.de,neutral,0.7262,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:38,AXISBANK.NS,"Axis Bank ESOP Grant 2026: 1,95,605 Options at Rs 1,264.60",Kalkine India,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:38,AXISBANK.NS,"ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",IndiaIPO,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:52,DIVISLAB.NS,"What do the latest quarterly results of Sun Pharmaceutical (SUNPHARMA), Divi's Laboratories (DIVISLAB) and Torrent",Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:32:58,HCLTECH.NS,HCL Technologies HCLTECH Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:01,HDFCBANK.NS,"ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",IndiaIPO,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:01,HDFCLIFE.NS,Q2 Results Today: 35 Indian Companies to Announce Earnings on October 15,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:14,JSWSTEEL.NS,"Why did metals earnings diverge in the June quarter at Tata Steel (TATASTEEL), Hindalco (HINDALCO) and JSW Steel (JSWSTEEL)?",Kalkine India,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:18,LT.NS,President Murmu accepts resignation of Dr L Murugan with immediate effect,News On AIR,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:18,LT.NS,President Droupadi Murmu accepts resignation of Union minister L Murugan,Deccan Herald,neutral,0.7334,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:18,LT.NS,"In 1994, Samuel L. Jackson’s ‘Pulp Fiction’ was released; 32 years later, the 77-year-old actor still rem",The Times of India,neutral,0.4871,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 04:33:18,LT.NS,Our Favorite L’Oréal Paris Makeup Goes Far Beyond the Classics,Allure,positive,0.4331,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 04:33:21,M&M.NS,Different ideologies welcome in democracy: Calcutta High Court allows CPI(M) to erect book stall near its office,Bar and Bench,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:21,M&M.NS,Secret documents reveal donors behind $330 million for Trump’s ballroom,The Washington Post,neutral,0.6384,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 04:33:21,M&M.NS,Why OMass’ $310M series C marks ‘fantastic milestone’ on journey to become ‘Britain’s Big Biotech’,Fierce Biotech,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:21,M&M.NS,TAGS Tender Generates $27.1M in Revenue,Rapaport,positive,0.7017,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:23,NESTLEIND.NS,"Q2 Results October 15: Wipro, Tech Mahindra, Nestlé, Polycab",Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:23,NESTLEIND.NS,"NIFTY50 above 23K, SENSEX soars 1,376 pts in noon deals; RIL, IDBI Bank, Nestle India, Tech Mahindra among buzzing stocks",Upstox,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:24,NESTLEIND.NS,"Nestle India flags food, commodity inflation after profit surges 36%",Reuters,negative,0.6857,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:24,NESTLEIND.NS,Nestle India stock falls further after 8% crash on Q2 results; HSBC sees 16% upside but flags growth...,Moneycontrol.com,negative,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:24,NESTLEIND.NS,"Nestle India Q2 Review: Brokerages Cut Earnings Estimates, Target Price As Q2 Beat Fails To Ease Inflation Fears",NDTV Profit,negative,0.8134,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:28,POWERGRID.NS,PTC India NSE:PTC Board Change After POWERGRID Nominee Exit,Kalkine India,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:38,TATASTEEL.NS,"Why did metals earnings diverge in the June quarter at Tata Steel (TATASTEEL), Hindalco (HINDALCO) and JSW Steel (JSWSTEEL)?",Kalkine India,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:43,TECHM.NS,"Tech Mahindra shares jump over 6%, up 21% in 5 sessions: Growth is returning, but can earnings sustain the momentum?",Upstox,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:44,TECHM.NS,"Q2 impact: TechM shares gain 5% as analysts raise earnings estimate, target",Business Standard,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:44,TECHM.NS,"Tech Mahindra Q2 Results: Net profit jumps 33% YoY to Rs 1,586 crore; co declares Rs 15/share dividend, 1:",The Economic Times,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:44,TECHM.NS,"46 Companies Including Wipro, Tech Mahindra, Nestle India and Jio Financial to Announce Q2 Results Today",India Business Trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:49,WIPRO.NS,Wipro FLARRE.AI acquisition: 20% stake in AI insurance platform,Kalkine India,neutral,0.72,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:50,WIPRO.NS,Wipro to Announce Q2 FY27 Results on October 15 After Market Hours,India Business Trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-16 04:33:50,WIPRO.NS,"BSE Sensex closes after Wipro guidance with 1,534-point gain",ad-hoc-news.de,positive,0.7433,AUTO_ACCEPTED,indi-finbert
