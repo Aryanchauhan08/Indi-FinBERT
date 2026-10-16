@@ -5880,3 +5880,57 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-16 04:33:49,WIPRO.NS,Wipro FLARRE.AI acquisition: 20% stake in AI insurance platform,Kalkine India,neutral,0.72,AUTO_ACCEPTED,indi-finbert
 2026-10-16 04:33:50,WIPRO.NS,Wipro to Announce Q2 FY27 Results on October 15 After Market Hours,India Business Trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
 2026-10-16 04:33:50,WIPRO.NS,"BSE Sensex closes after Wipro guidance with 1,534-point gain",ad-hoc-news.de,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:21,ADANIENT.NS,Adani Enterprises signs Jabil MoU: 50:50 venture frames Adani Enterprises stock,ad-hoc-news.de,positive,0.6856,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:24,APOLLOHOSP.NS,Apollo Hospitals APOLLOHOSP Investor Meetings Singapore Nov 2026,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:24,APOLLOHOSP.NS,Apollo Hospitals to participate in analyst and institutional meetings in Singapore,Business Upturn,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:25,ASIANPAINT.NS,"Kunal Bothra sets INR 1,505 target for Asian Paints stock",ad-hoc-news.de,positive,0.3787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:52:27,AXISBANK.NS,Axis Bank appoints Ananth Narayan G. as additional independent director,scanx.trade,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:28,AXISBANK.NS,"Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:30,BAJAJ-AUTO.NS,"Auto Q2 FY27 preview: TVS, Bajaj earnings seen surging; Maruti, Hyundai under pressure",Fortune India,negative,0.3802,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:52:32,BAJAJFINSV.NS,Bajaj Finserv BAJAJFINSV Insurance Premium Data September 2026,Kalkine India,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:37,BRITANNIA.NS,"Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE",Business Today,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:40,COALINDIA.NS,360 ONE names INR 516 target for Coal India stock,ad-hoc-news.de,neutral,0.7225,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:45,EICHERMOT.NS,Eicher Motors (NSE:EICHERMOT): Why Did It Open a Special Window for Physical Securities Transfer?,Kalkine India,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:48,HCLTECH.NS,HCL Technologies RSU Grant 2026: Key Details for Investors,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:49,HDFCBANK.NS,"HDFC Bank Q2 FY27 Results Preview: PAT, NII and Margins",Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:50,HDFCBANK.NS,HDFC Bank Q2 results: Net profit likely to remain flat despite strong loan growth; key focus on NIM and leadership transition,Upstox,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:50,HDFCBANK.NS,HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen,Business Standard,neutral,0.8611,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:50,HDFCBANK.NS,"Q2 Preview: ICICI, Axis, YES, HDFC Bank - 4 banking stocks to declare results 2026 on Oct 17 - Expectations by experts",Livemint,neutral,0.8322,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:50,HDFCBANK.NS,"Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:58,ICICIBANK.NS,"Q2 results, Oct 17: HDFC Bank, ICICI Bank, India Cements, Axis Bank, ixigo, Yes Bank, others to post earnings, check list",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:58,ICICIBANK.NS,"ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",The Economic Times,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:58,ICICIBANK.NS,"Q2 Preview: ICICI, Axis, YES, HDFC Bank - 4 banking stocks to declare results 2026 on Oct 17 - Expectations by experts",Livemint,neutral,0.8322,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:52:58,ICICIBANK.NS,"ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract",Business Standard,positive,0.8901,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:03,JSWSTEEL.NS,JSW Steel reports INR 47.36 billion revenue for JSW Steel stock,ad-hoc-news.de,neutral,0.5753,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:08,LT.NS,Samuel L. Jackson and Taylor Sheridan Finally Linked Up for ‘Frisco King’,Esquire,neutral,0.7093,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:08,LT.NS,President Murmu accepts resignation of Union Minister L. Murugan,Manorama Yearbook,neutral,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:09,LTIM.NS,"Top Q2 results today, October 16: DLF, PNB, LTIMindtree, Federal Bank, Tejas Networks among companies to announce earnings",Business Upturn,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:10,M&M.NS,Mahindra & Mahindra (NSE:M&M): What Does the Lost Share Certificate Notice Mean for Shareholders?,Kalkine India,neutral,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:11,M&M.NS,'Onion cartel' in Philippines fined $28m for price shock,BBC,negative,0.7189,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:11,M&M.NS,"Telangana’s groundwater levels: 4.41 m bgl in Sept 2025, 7.52 m bgl in Sept 2026",The Hindu,neutral,0.7083,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:11,M&M.NS,"‘Street Fighter’ Punches $4M In U.S. Previews, ‘You Can See Everything’ $2M – Box Office Update",Deadline,positive,0.6833,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:11,M&M.NS,What M-Sport is looking for as it assesses its 2027 WRC driver options,WRC.com,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:11,MARUTI.NS,"Maruti Suzuki stock: Citi sets INR 16,500.00 target for Maruti Suzuki stock",ad-hoc-news.de,neutral,0.4105,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:13,NESTLEIND.NS,"JM Financial cuts target for Nestle India stock to INR 1,450.00",ad-hoc-news.de,negative,0.7236,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:13,NESTLEIND.NS,Neutral Nestle India; target of Rs 1350: Motilal Oswal,Moneycontrol.com,neutral,0.9429,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:13,NESTLEIND.NS,"Nestle India shares crash nearly 8% after Q2 results; why did Macquarie, Goldman Sachs cut target prices?",Zee Business,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:13,NESTLEIND.NS,Nestle India reports Q2 profit up 36.30 percent while inflation tests Nestle India stock,ad-hoc-news.de,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:14,NESTLEIND.NS,Nestle India shares tank 9% in 2 days as firm flags inflation risks in Q2,Business Standard,negative,0.892,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:14,NESTLEIND.NS,"Earnings Central: Wipro, TechM, Polycab and Nestlé lead a busy Q2 results day",CNBC TV18,neutral,0.7294,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:16,ONGC.NS,ONGC stock sits 1.59 percent above its 52-week low at INR 222.00,ad-hoc-news.de,positive,0.4798,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:18,POWERGRID.NS,Power Grid buys two transmission firms: what it means for Power Grid stock,ad-hoc-news.de,positive,0.6633,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:19,RELIANCE.NS,"Reliance Industries (NSE: RELIANCE) Welcomes Starlink Competition, Says Jio Awaits Government Clearances",Kalkine India,positive,0.588,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:21,SBILIFE.NS,"Analyst consensus trims SBI Life Insurance Company stock target from INR 2,341 to INR 2,294",ad-hoc-news.de,negative,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:23,SBIN.NS,"State Bank of India stock: Investec keeps INR 1,390 target for State Bank of India stock",ad-hoc-news.de,neutral,0.5493,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:29,TATACONSUM.NS,"Motilal Oswal backs Tata Consumer stock with INR 1,230 target",ad-hoc-news.de,neutral,0.5965,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:31,TCS.NS,TCS Non-Deal Road Show USA October 2026 | NSE:TCS,Kalkine India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:32,TECHM.NS,Tech Mahindra (NSE:TECHM): What Does Its Lost Share Certificate Notice Mean?,Kalkine India,neutral,0.6825,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:32,TECHM.NS,"Tech Mahindra Dividend 2026: Record Date, Bonus and What to Check",Univest,neutral,0.5139,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-16 14:53:32,TECHM.NS,"Tech Mahindra Shares Surge 7% on Q2 Profit, Bonus and Dividend",Equitypandit,positive,0.7482,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:32,TECHM.NS,Tech Mahindra (NSE:TECHM) Expands AI and Digital Services Focus,Kalkine India,positive,0.7046,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:32,TECHM.NS,"Tech Mahindra shares jump 7.5%, up 22% in 5 sessions: Growth is returning, but can earnings sustain the momentum?",Upstox,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:33,TECHM.NS,"TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared",Livemint,neutral,0.8287,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:33,TECHM.NS,"Tech Mahindra, Wipro, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:35,TITAN.NS,Beyond Titan and Kalyan: Analysts pick these jewellery stocks as potential market winners. Do you own any?,The Economic Times,neutral,0.6764,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:38,WIPRO.NS,"HBL Engineering (NSE:HBLENGINE), Wipro and L&T Finance Trading Volumes",Kalkine India,neutral,0.7107,AUTO_ACCEPTED,indi-finbert
+2026-10-16 14:53:39,WIPRO.NS,"Tech Mahindra, Wipro, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
