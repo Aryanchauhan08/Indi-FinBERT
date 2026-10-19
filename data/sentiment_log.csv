@@ -5934,3 +5934,46 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-16 14:53:35,TITAN.NS,Beyond Titan and Kalyan: Analysts pick these jewellery stocks as potential market winners. Do you own any?,The Economic Times,neutral,0.6764,AUTO_ACCEPTED,indi-finbert
 2026-10-16 14:53:38,WIPRO.NS,"HBL Engineering (NSE:HBLENGINE), Wipro and L&T Finance Trading Volumes",Kalkine India,neutral,0.7107,AUTO_ACCEPTED,indi-finbert
 2026-10-16 14:53:39,WIPRO.NS,"Tech Mahindra, Wipro, Infosys, TCS jump up to 7%: Why are IT stocks rising today?",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,ICICIBANK.NS,Buy ICICI Bank; target of Rs 1900: Prabhudas Lilladher,moneycontrol,positive,0.93,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,HDFCBANK.NS,"HDFC Bank stock falls 2%, among top Nifty losers after Q2 results; brokerages flag margin pressure",moneycontrol,negative,0.944,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,AXISBANK.NS,Buy Axis Bank; target of Rs 1600: Prabhudas Lilladher,moneycontrol,positive,0.9323,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,AXISBANK.NS,Axis Bank Q2 FY27 – Hits and misses go hand in hand,moneycontrol,neutral,0.9272,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,HDFCBANK.NS,HDFC Bank stock: Brokerages stay bullish despite target price cuts after Q2 results; Bernstein sees 58% upside,moneycontrol,positive,0.9458,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,HDFCBANK.NS,HDFC Bank Q2 FY27: Is the worst behind?,moneycontrol,neutral,0.9407,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,ICICIBANK.NS,"ICICI Bank Q2 FY27: Strong earnings beat fuelled by high growth, low provisions",moneycontrol,positive,0.9396,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:48,ICICIBANK.NS,"Trump waives Russia oil sanctions; HDFC, Axis, ICICI Bank in focus | Opening Bell",moneycontrol,neutral,0.6329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 04:40:48,ICICIBANK.NS,"ICICI Bank stock: Brokerages bullish after Q2 earnings beat, raise targets; Goldman Sachs sees 45% upside",moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:49,AXISBANK.NS,"Brokerages retain 'buy' on ICICI, HDFC, Axis Bank after Q2; margin recovery key",moneycontrol,positive,0.8963,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:58,AXISBANK.NS,"Q2 Results LIVE Updates: HDFC, ICICI, Axis, Yes Bank react to earnings; UltraTech, Bajaj Fin report today",IndiaIPO,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:40:58,AXISBANK.NS,"Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:02,BAJFINANCE.NS,"Q2 results this week: Infosys, Eternal, Bajaj Finance, Adani Energy, Kotak Mahindra Bank, UltraTech Cement, Tata Motors, Dr Reddy's, HPCL and more",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:02,BAJFINANCE.NS,"Q2 results, October 19: Bajaj Finance, UltraTech Cement, Union Bank, Hindustan Zinc, L&T Tech, IREDA, HFCL, others to post earnings",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:04,BAJAJFINSV.NS,"Top Q2 results next week, October 19 - 24: Infosys, Bajaj Finance, Swiggy, Bank of India and Adani Power among companies to report earnings",Business Upturn,neutral,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:24,HDFCBANK.NS,"Q2 Results LIVE Updates: HDFC, ICICI, Axis, Yes Bank react to earnings; UltraTech, Bajaj Fin report today",IndiaIPO,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:24,HDFCBANK.NS,"Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:33,ICICIBANK.NS,"Q2 Results LIVE Updates: HDFC, ICICI, Axis, Yes Bank react to earnings; UltraTech, Bajaj Fin report today",IndiaIPO,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:33,ICICIBANK.NS,"Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:37,INDUSINDBK.NS,"IndusInd Bank, Persistent Systems Q4 Results Today: Here's What To Expect",NDTV Profit,neutral,0.8725,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:40,JSWSTEEL.NS,"Q2 results this week: Infosys, Eternal, Bajaj Finance, Adani Energy, Kotak Mahindra Bank, UltraTech Cement, Tata Motors, Dr Reddy's, HPCL and more",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:42,KOTAKBANK.NS,"Q2 results this week: Infosys, Eternal, Bajaj Finance, Adani Energy, Kotak Mahindra Bank, UltraTech Cement, Tata Motors, Dr Reddy's, HPCL and more",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:42,KOTAKBANK.NS,"Q2 results this week: Infosys, Kotak Bank, Bajaj Finance, Swiggy, Eternal in focus",The Financial Express,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:44,LT.NS,Form 4 Macy’s : Richard L. Markee (Director) For: 30 September By Investing.com,Investing.com India,neutral,0.7741,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:44,LT.NS,【L/EPL】#FREE!! Arsenal vs Nottingham Forest LIVE F r e e StReAm,Universidad de Córdoba (UCO),neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:44,LT.NS,Why Siddaramaiah quiet despite sting operation by own party: Union Minister HD Kumaraswamy,The New Indian Express,negative,0.6734,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:44,LT.NS,IMA FA beat KRYPHSA 2-1 as 31st L Sangita Devi Memorial 1st Division League gets underway,The Sangai Express,neutral,0.613,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 04:41:44,LT.NS,Sirsa police attach assets worth Rs 38.5L of alleged drug trafficker,The Times of India,negative,0.7291,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:47,M&M.NS,Elizabeth Holmes documentary You Can See Everything debuts with huge $15m opening weekend,The Guardian,positive,0.6261,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 04:41:47,M&M.NS,"‘Street Fighter’ Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans – Global Box Office Update",Deadline,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:47,M&M.NS,Former MIT scientist wins $6M defamation verdict against colleague who accused him of sexual misconduct,New York Post,positive,0.3132,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 04:41:47,M&M.NS,"CPI(M) MP John Brittas writes to President, seeks intervention over JNU students’ hunger strike",ANI News,neutral,0.6631,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:50,NESTLEIND.NS,"With EPS Growth And More, Nestlé India (NSE:NESTLEIND) Makes An Interesting Case",Simply Wall Street,positive,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:50,NESTLEIND.NS,"Weekly Recap: Q2FY27 revenue & margin rise and domestic growth, ad spend",TradingView,positive,0.5086,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 04:41:56,POWERGRID.NS,Weekly Recap: Q1 net profit down 0.9% and Pune West TBCB project win,TradingView,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:41:58,RELIANCE.NS,A few more things about the Jio Platforms IPO,Finshots,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:04,SUNPHARMA.NS,India's pharmaceutical companies to report mixed results as domestic growth offsets pricing pressures,The Economic Times,negative,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:07,TATASTEEL.NS,Tata Steel schedules Q2 results: what it means for Tata Steel stock,ad-hoc-news.de,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:16,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India October 2026,Samco,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:17,ULTRACEMCO.NS,"Q2 results, October 19: Bajaj Finance, UltraTech Cement, Union Bank, Hindustan Zinc, L&T Tech, IREDA, HFCL, others to post earnings",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:17,ULTRACEMCO.NS,"Q2 Results LIVE Updates: HDFC, ICICI, Axis, Yes Bank react to earnings; UltraTech, Bajaj Fin report today",IndiaIPO,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:17,ULTRACEMCO.NS,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19",Business Standard,neutral,0.894,AUTO_ACCEPTED,indi-finbert
+2026-10-19 04:42:17,ULTRACEMCO.NS,"Top Q2 results today, October 19: Bajaj Finance, Hindustan Zinc, UltraTech Cement, L&T Technology among companies to announce earnings",Business Upturn,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
