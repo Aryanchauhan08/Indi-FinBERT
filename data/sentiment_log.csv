@@ -5977,3 +5977,57 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-19 04:42:17,ULTRACEMCO.NS,"Q2 Results LIVE Updates: HDFC, ICICI, Axis, Yes Bank react to earnings; UltraTech, Bajaj Fin report today",IndiaIPO,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
 2026-10-19 04:42:17,ULTRACEMCO.NS,"Q2 results today: UltraTech Cement, Hindustan Zinc, and 33 more on Oct 19",Business Standard,neutral,0.894,AUTO_ACCEPTED,indi-finbert
 2026-10-19 04:42:17,ULTRACEMCO.NS,"Top Q2 results today, October 19: Bajaj Finance, Hindustan Zinc, UltraTech Cement, L&T Technology among companies to announce earnings",Business Upturn,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:11,JSWSTEEL.NS,JSW Steel rises 2.5% to become top Nifty gainer as Odisha HC quashes Rs 696 crore demand,moneycontrol,positive,0.9468,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:12,ULTRACEMCO.NS,UltraTech Cement shares fall 5% from day's high post-Q2 results: Here's why,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:12,ULTRACEMCO.NS,"UltraTech Cement Q2 results: Net profit rises 21% to Rs 1,494 crore, revenue up 19%; stock falls 2%",moneycontrol,positive,0.8737,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:14,ADANIENT.NS,Adani Enterprises signs Jabil MoU as 49.92 percent growth frames Adani Enterprises stock,ad-hoc-news.de,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:19,AXISBANK.NS,Axis Bank (NSE:AXISBANK): What Did Its Q2 FY27 Results Newspaper Publication Disclose?,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:19,AXISBANK.NS,"Crude fears clip wings; Axis Bank dives 3.84% as Sensex, Nifty open flat",TradingView,negative,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:20,AXISBANK.NS,India's Axis Bank slides after quarterly profit falls short of expectations,Reuters,negative,0.9147,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:20,AXISBANK.NS,"Axis Bank Share Price And Q2 Results 2026: Profit Jumps 37.6%, But Why Did Shares Fall? Check Five-Year Trends And Economic Impact",Jagran Josh,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:20,AXISBANK.NS,"Axis Bank stock tumbles 4%, tops Nifty losers after Q2 results; brokerages bullish, check target prices,...",Moneycontrol.com,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:20,AXISBANK.NS,"PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Wh",The Economic Times,negative,0.6711,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:20,AXISBANK.NS,Axis Bank Shares Drop 5% After Q2 Profit Falls Short,Analytics Insight,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:24,BAJFINANCE.NS,"Bajaj Finance Q2 FY27 Results: PAT, Revenue Key Figures",Kalkine India,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:24,BAJFINANCE.NS,"Q2 results 2026 today Oct 19 Monday: Hindustan Zinc, IREDA, L&T Tech, Union Bank among 35 firms to announce earnings",Livemint,neutral,0.8406,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:24,BAJAJFINSV.NS,Bajaj Finserv Reinsurance Subsidiary and Regulatory Process Explained,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:33,COALINDIA.NS,Coal India stock: 360 ONE Capital sets INR 516 target for Coal India stock,ad-hoc-news.de,positive,0.4834,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:00:43,HDFCBANK.NS,"HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",The Economic Times,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:43,HDFCBANK.NS,"Sensex, Nifty trade flat as private bank earnings weigh, PSU banks rally",India Today,neutral,0.6639,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:43,HDFCBANK.NS,"PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Wh",The Economic Times,negative,0.6711,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:46,HEROMOTOCO.NS,Hero MotoCorp receives ESG score of 72 from NSE Sustainability Ratings,Dalal Street Investment Journal,positive,0.7292,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:46,HEROMOTOCO.NS,Hero MotoCorp Q2FY27 Earnings Call Scheduled for 29 October 2026,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:51,ICICIBANK.NS,"Sensex, Nifty trade flat as private bank earnings weigh, PSU banks rally",India Today,neutral,0.6639,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:00:57,JSWSTEEL.NS,"JSW Steel stock: J.P. Morgan keeps INR 1,560.00 target for JSW Steel stock",ad-hoc-news.de,neutral,0.5048,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:00:59,KOTAKBANK.NS,Kotak Mahindra Bank Q2 FY27 Earnings Call on October 24,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:01,LT.NS,Larsen Toubro Tashkent Airport Project and Construction Stages Explained,Kalkine India,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:02,LT.NS,"Privacy vs Jyothi: 1.3L consumers refuse to share documents, opt out of power scheme",The Times of India,negative,0.7259,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:02,LT.NS,Nagaland student among top 60 at nat’l INSPIRE-MANAK competition,MorungExpress,neutral,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:02,LT.NS,Form 4 The Buckle Inc: Bill L. Fairfield (Director) For: 15 October,Investing.com India,neutral,0.7749,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:02,LT.NS,"Kerala High Court Orders SBI To Refund ₹3.73L To Cybercrime Victim, Says Bank Did Not Prove 'Negligence'...",Live Law,negative,0.6525,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:02,LT.NS,Grand Continent Hotels L Share Price Today After 8.25% Fall,Univest,negative,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:03,LTIM.NS,"LTIMindtree Q2 FY27: Revenue ₹11,808 Crore, Profit Flat",Kalkine India,neutral,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:04,M&M.NS,SML Mahindra (NSE:SMLMAH) Q2 FY27 Unaudited Results,Kalkine India,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:05,M&M.NS,Victoria’s Secret reboots its fantasy with Kylie Jenner’s $50M diamond bra,CNN,positive,0.4777,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:05,M&M.NS,Elon Musk’s ex says she turned down a $40M NDA — then her child support was cut to about $5M total. Was it all worth it?,Yahoo Finance,negative,0.6487,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:05,M&M.NS,"Roche does $400M upfront, $15B deal with China’s Hansoh",Endpoints News,positive,0.7395,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:05,M&M.NS,‘Street Fighter’ tops global box office with $51m opening punch; ‘Sense And Sensibility’ enters top 10,Screen Daily,positive,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:10,NTPC.NS,NTPC NSE:NTPC Govt Nominee Director Appointment 2026,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:11,ONGC.NS,"ONGC stock: Results are due on November 16, 2026 for ONGC stock",ad-hoc-news.de,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:13,POWERGRID.NS,POWERGRID Pune West Project and Electricity Transmission Explained,Kalkine India,neutral,0.6912,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:14,POWERGRID.NS,Power Grid won Pune West project: what it means for Power Grid stock,ad-hoc-news.de,neutral,0.6844,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:18,SBIN.NS,"CareEdge Global IFSC Sells 19.8% Stake to SBI, NSE IFSC",Rediff MoneyWiz,negative,0.6917,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:18,SBIN.NS,"CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",Business Standard,negative,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:18,SBIN.NS,"Care Edge Ratings to sell 19.8 per cent stake in CareEdge Global IFSC to SBI, NSEIX",Mid-Day,negative,0.584,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:26,TATACONSUM.NS,"Tata Consumer Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:27,TCS.NS,Tata Consultancy Services (TCS) Share Price Today & Chart,TechGraph,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:29,TECHM.NS,Tech Mahindra (NSE:TECHM)’s 1:1 Bonus and Rs 15 Dividend: October 23 Record Date in Focus,Kalkine India,neutral,0.5541,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:30,TECHM.NS,How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in,The Economic Times,positive,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:30,TECHM.NS,Tech Mahindra Lifted Margins for 12 Quarters. AI Is the Next Test,Analytics India Magazine,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:31,TITAN.NS,"Titan stock: At INR 4,476.80, Titan stock trades at 68.51 times earnings",ad-hoc-news.de,positive,0.7194,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:32,ULTRACEMCO.NS,UltraTech Cement Quarterly Earnings and Cement Manufacturing Explained,Kalkine India,neutral,0.5411,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-19 17:01:32,ULTRACEMCO.NS,UltraTech Cement Q2 FY27 Results: Key Financial Highlights,Kalkine India,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:32,ULTRACEMCO.NS,UltraTech Cement approves corporate guarantee up to USD 55 million,Business Upturn,positive,0.7227,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:32,ULTRACEMCO.NS,UltraTech Cement announces board changes as K. K. Maheshwari steps down,Business Upturn,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:33,ULTRACEMCO.NS,India Cements shares decline 4% even as Q2 results improve; UltraTech commentary awaited,CNBC TV18,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-19 17:01:33,ULTRACEMCO.NS,UltraTech Cement announces financial results for Q2 and H1 FY2026,Business Upturn,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
