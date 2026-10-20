@@ -6054,3 +6054,34 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-20 04:51:38,TECHM.NS,"Tech Mahindra stock: Prabhudas Lilladher raises Tech Mahindra stock target to INR 1,910",ad-hoc-news.de,positive,0.7466,AUTO_ACCEPTED,indi-finbert
 2026-10-20 04:51:41,ULTRACEMCO.NS,UltraTech Cement grants stock options under employee scheme 2022,Business Upturn,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
 2026-10-20 04:51:42,ULTRACEMCO.NS,UltraTech Cement Q2 Results 2026: Profit Rises 21.3% as Costs Increase,Business Viewpoint Magazine,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:13,ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited Share Price an,Kalkine India,neutral,0.6443,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 15:05:13,ADANIPORTS.NS,"Adani Ports (ADANIPORTS) Share Price Today, Live Chart & News",TechGraph,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:21,BAJFINANCE.NS,Bajaj Finance Q2 FY27: Growth Outlook Raised,Kalkine India,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:23,BAJAJFINSV.NS,Bajaj Finserv Nifty Bank ETF Index Exposure and Risk Explained,Kalkine India,neutral,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:31,COALINDIA.NS,"Coal India raises H1 supply to 384.20 Mt, testing Coal India stock",ad-hoc-news.de,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:31,COALINDIA.NS,"Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for th",The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:31,COALINDIA.NS,"Dussehra 2026: Stock market holiday today or not? NSE, BSE to remain open or closed on 20 Oct Tuesday? Exchange calendar",Livemint,neutral,0.8449,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:31,COALINDIA.NS,"NMDC puts nickel foray on hold on global oversupply concerns, sources say",Kitco,negative,0.7348,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:31,COALINDIA.NS,"Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction",Livemint,neutral,0.8424,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:36,EICHERMOT.NS,Eicher Motors Limited Share Price and Technical Levels,Kalkine India,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:42,HDFCBANK.NS,"HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations — which stock should you buy?",Livemint,neutral,0.8445,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:44,HDFCLIFE.NS,Nifty 50 losers: From Nestle India to IndiGo; 5 stocks that bucked market rally last week,ET Now,neutral,0.6367,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 15:05:50,ICICIBANK.NS,"HDFC Bank vs ICICI Bank share price targets: Check upside potential, returns, valuations — which stock should you buy?",Livemint,neutral,0.8445,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:56,JSWSTEEL.NS,"JSW Steel stock: INR 466.62 billion revenue, October 19 close",ad-hoc-news.de,neutral,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:05:56,JSWSTEEL.NS,JSW Steel Limited Share Price and Technical Levels,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:00,LT.NS,Larsen & Toubro Limited Share Price and Technical Levels,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:01,LT.NS,Un rapport souligne l'importance du Comité de l'OMC pour aider à résoudre les préoccupations commerciales en matière d'accès aux marchés,World Trade Organization,neutral,0.7028,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:01,LT.NS,"How L-Carnitine, Found in Red Meat and Exercise Supplements, May Amplify Inflammation",Yale School of Medicine,neutral,0.3903,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 15:06:01,LT.NS,DRI seizure sparks political row as Palaniswami targets CM Vijay over Drug racket,The New Indian Express,negative,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:04,M&M.NS,"4.2m to 4.5m SUV Sales Sep 2026, Q3 - Creta, Victoris, Seltos, Vitara, Sierra, Hyryder, ROXX, Kushaq, Elevate",RushLane,neutral,0.6697,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:04,M&M.NS,CPI(M) leader MA Baby writes to President for withdrawal of Census rule amendments,The New Indian Express,neutral,0.7355,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:04,M&M.NS,"SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",TechCrunch,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:04,M&M.NS,"Nearly 1.6M pounds of hot dogs, bacon and other meats recalled nationwide",Fox Business,negative,0.7298,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:04,M&M.NS,Ambrose Healthcare inks $181M deal for former Pfizer target AM-Pharma,Fierce Biotech,positive,0.7253,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:07,NESTLEIND.NS,"Nestle India stock: InCred cuts target for Nestle India stock to INR 1,375",ad-hoc-news.de,negative,0.6971,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:07,NESTLEIND.NS,"InCred cuts target for Nestle India stock to INR 1,375 as growth base toughens",ad-hoc-news.de,negative,0.7305,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:08,NTPC.NS,NTPC denies reports of 7.43% profit growth and stock buyback date,Business Upturn,negative,0.6915,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:18,SUNPHARMA.NS,Sun Pharma UNLOXCYT NCCN Category 2A laCSCC Guideline Update,Kalkine India,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:31,ULTRACEMCO.NS,Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart,Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:31,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Q2 FY27 Results Newspaper Publication,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-20 15:06:31,ULTRACEMCO.NS,UltraTech Cement Q2 FY27: Price Hikes Amid Fuel Costs,Kalkine India,negative,0.3479,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
