@@ -6031,3 +6031,26 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-19 17:01:32,ULTRACEMCO.NS,UltraTech Cement announces board changes as K. K. Maheshwari steps down,Business Upturn,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
 2026-10-19 17:01:33,ULTRACEMCO.NS,India Cements shares decline 4% even as Q2 results improve; UltraTech commentary awaited,CNBC TV18,negative,0.7454,AUTO_ACCEPTED,indi-finbert
 2026-10-19 17:01:33,ULTRACEMCO.NS,UltraTech Cement announces financial results for Q2 and H1 FY2026,Business Upturn,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:50:31,ADANIPORTS.NS,"Adani Ports stock: On the NSE, Adani Ports stock trades at a 30.1 price-to-earnings ratio",ad-hoc-news.de,positive,0.7279,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:50:39,BAJFINANCE.NS,"What Are Biggest Public Lender, Financial Holding Company and Power Financier Stocks?",Univest,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:50:44,BRITANNIA.NS,"Nestle India stock: Prabhudas Lilladher keeps INR 1,526 target for Nestle India stock",ad-hoc-news.de,neutral,0.4868,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 04:51:12,KOTAKBANK.NS,Kotak Mahindra Bank sets October 24 results: HSBC targets Kotak Mahindra Bank stock at INR 520,ad-hoc-news.de,neutral,0.6647,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:13,LT.NS,"Larsen & Toubro stock: JPMorgan sets INR 5,060 target for Larsen & Toubro stock",ad-hoc-news.de,neutral,0.6374,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 04:51:14,LT.NS,Jio Platforms' IPO Draws 2.5 L-cr in Anchor Bids,TradingView,positive,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:14,LT.NS,"KU, IMHANS organise int’l workshop on digital wellbeing, neurodiversity inclusion across Asia- Africa",Greater Kashmir,neutral,0.7124,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:14,LT.NS,Form 4 FuelCell Energy Inc: Cynthia L. Hansen (Director) For: 15 October,Investing.com India,neutral,0.775,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:14,LT.NS,"India to host intl legal metrology meet on Oct 26-28, over 100 foreign delegates to take part",Daily Excelsior,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:16,M&M.NS,Mahindra & Mahindra NDET Stake Dilution and Ownership Change Explained,Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:17,M&M.NS,Kylie Jenner wears $50M fantasy bra in Victoria’s Secret debut show,CNN,neutral,0.7209,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:17,M&M.NS,Tolan snags $30M for its AI companion that helps users navigate life,TechCrunch,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:17,M&M.NS,"⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",The Hacker News,neutral,0.3773,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 04:51:17,M&M.NS,Attacks on CPI(M) book stalls unacceptable: Bengal Minister Swapan Dasgupta,The Indian Express,negative,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:18,MARUTI.NS,"Maruti Suzuki stock: Results are due October 27, 2026. Maruti Suzuki stock stands at INR 11,475.00",ad-hoc-news.de,neutral,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:19,NESTLEIND.NS,"Nestle India stock: Prabhudas Lilladher keeps INR 1,526 target for Nestle India stock",ad-hoc-news.de,neutral,0.4868,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 04:51:24,POWERGRID.NS,Power Grid stock: 26 analysts put INR 315.00 target on Power Grid stock,ad-hoc-news.de,neutral,0.711,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:29,SBIN.NS,State Bank of India stock: Results are due November 5 for State Bank of India stock,ad-hoc-news.de,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:29,SBIN.NS,"CareEdge Global IFSC to sell 19.8 pc stake to SBI, NSEIX",cfo.economictimes.indiatimes.com,negative,0.4888,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-20 04:51:38,TECHM.NS,"Tech Mahindra Limited (NSE:TECHM) Is About To Go Ex-Dividend, And It Pays A 2.9% Yield",Simply Wall Street,neutral,0.7292,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:38,TECHM.NS,"Tech Mahindra stock: Prabhudas Lilladher raises Tech Mahindra stock target to INR 1,910",ad-hoc-news.de,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:41,ULTRACEMCO.NS,UltraTech Cement grants stock options under employee scheme 2022,Business Upturn,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-20 04:51:42,ULTRACEMCO.NS,UltraTech Cement Q2 Results 2026: Profit Rises 21.3% as Costs Increase,Business Viewpoint Magazine,positive,0.7466,AUTO_ACCEPTED,indi-finbert
