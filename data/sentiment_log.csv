@@ -6085,3 +6085,33 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-20 15:06:31,ULTRACEMCO.NS,Ultratech Cement Share Price - Live NSE: ULTRACEMCO Stock Price & Chart,Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
 2026-10-20 15:06:31,ULTRACEMCO.NS,UltraTech Cement ULTRACEMCO Q2 FY27 Results Newspaper Publication,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
 2026-10-20 15:06:31,ULTRACEMCO.NS,UltraTech Cement Q2 FY27: Price Hikes Amid Fuel Costs,Kalkine India,negative,0.3479,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 04:46:10,ULTRACEMCO.NS,"Buy Ultratech Cement; target of Rs 14,623: Prabhudas Lilladher",moneycontrol,positive,0.9421,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:10,BAJFINANCE.NS,Buy Bajaj Finance; target of Rs 1150: Prabhudas Lilladher,moneycontrol,positive,0.9411,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:10,BAJFINANCE.NS,"Bajaj Finance – Q2 stable, but catalysts missing for stock upside",moneycontrol,neutral,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:10,NTPC.NS,Acme Solar gets Nomura's 'Buy'; NTPC Green rated 'Neutral' on execution risks,moneycontrol,positive,0.8487,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:10,ULTRACEMCO.NS,"UltraTech Cement: Growth remains strong, but cost pressures persist",moneycontrol,neutral,0.6377,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 04:46:10,DRREDDY.NS,"Trade Spotlight: How should you trade ACME Solar Holdings, Blue Star, Oriental Hotels, PVR Inox, South Indian Bank, Dr Reddys Labs, and others on October 21?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:12,ADANIENT.NS,"Q2 results 2026 today: Eternal, Adani Green, Indian Hotels among 38 firms to announce quarterly earnings | Full list",Livemint,neutral,0.824,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:12,ADANIENT.NS,"Q2 results today, October 21: Eternal, Adani Green Energy, Indian Hotels, PC Jeweller among 30+ companies announcing earnings",ET Now,neutral,0.692,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:12,ADANIENT.NS,"Top Q2 results today, October 21: Adani Green, Eternal, IHCL, Aditya Birla Sun, SRF among companies to announce earnings",Business Upturn,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:15,ASIANPAINT.NS,"Asian Paints stock: October 29 results set while Asian Paints stock closed at INR 2,330.70",ad-hoc-news.de,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:17,AXISBANK.NS,"Axis Bank Q2 FY27 Results: PAT Up 38% to ₹7,003 Cr, GNPA at 1.16%",Kalkine India,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:19,BAJAJ-AUTO.NS,"Citi on Indian autos: FY27 two-wheeler volume growth raised to 9%, earnings estimates lifted",Business Upturn,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:20,BAJFINANCE.NS,PRE-MARKET INDIAN STOCK NEWS: Bajaj Finance and Hindustan Zinc post strong Q2 profit growth; Jio Platforms' record IPO opens; markets reopen after Dussehra holiday,Newsquawk,positive,0.729,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:23,BPCL.NS,"BPCL 2Q FY27 Conference Call: Date, Time and Details",Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:34,EICHERMOT.NS,Eicher Motors stock: October 28 results date arrives for Eicher Motors stock,AD HOC NEWS,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:43,HINDALCO.NS,Hindalco ends AluChem deal. Hindalco stock sits 23.43 percent below its high,ad-hoc-news.de,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:56,LT.NS,Larsen & Toubro wins *Large orders in New Delhi and Andhra Pradesh,Business Upturn,positive,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:57,LT.NS,Trustee Robert Young L sells $17.6m in Nuveen Municipal Credit Income Fund,Investing.com India,negative,0.7211,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:57,LT.NS,"Yami Gautam, Aanand L Rai add star power to Delhi's grand Dussehra celebrations",India Today,positive,0.7052,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:57,LT.NS,"Lured into stocks app trap, businessman loses ₹57.3L",The Times of India,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:46:57,LT.NS,"Duo lose Rs 63 L in stock app, APK scams",Ahmedabad Mirror,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:00,M&M.NS,Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates,The Guardian,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:00,M&M.NS,Trump and Vance announce $25M whistleblower program to encourage public to report alleged fraud,AP News,positive,0.5372,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 04:47:00,M&M.NS,Trump commits more than $400m ahead of high-stakes midterm elections,Al Jazeera,neutral,0.6003,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 04:47:00,M&M.NS,OpenAI’s former research chief launches Arda at a $1.5bn valuation,The Next Web,neutral,0.5431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 04:47:01,MARUTI.NS,"Maruti Suzuki stock: October 19 NSE close puts Maruti Suzuki stock at INR 11,475.00",AD HOC NEWS,neutral,0.734,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:04,NTPC.NS,NTPC NSE:NTPC Denies Profit Growth and Buyback Claims,Kalkine India,negative,0.721,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:07,POWERGRID.NS,Power Grid stock: First-quarter profit falls 0.89 percent to INR 35.98 billion,ad-hoc-news.de,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:20,TCS.NS,"Stocks To Buy or Sell Today, October 21, 2026: Bank of Baroda, TCS and Biocon Among Shares That May Remain",LatestLY,neutral,0.7278,AUTO_ACCEPTED,indi-finbert
+2026-10-21 04:47:21,TCS.NS,Infosys Q2FY27 preview: Will large-deal value cross $3-billion mark? 5 key indicators,The Financial Express,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
