@@ -6115,3 +6115,55 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-21 04:47:07,POWERGRID.NS,Power Grid stock: First-quarter profit falls 0.89 percent to INR 35.98 billion,ad-hoc-news.de,negative,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-10-21 04:47:20,TCS.NS,"Stocks To Buy or Sell Today, October 21, 2026: Bank of Baroda, TCS and Biocon Among Shares That May Remain",LatestLY,neutral,0.7278,AUTO_ACCEPTED,indi-finbert
 2026-10-21 04:47:21,TCS.NS,Infosys Q2FY27 preview: Will large-deal value cross $3-billion mark? 5 key indicators,The Financial Express,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:51,ULTRACEMCO.NS,Hold UltraTech Cement: target of Rs 11000: ICICI Securities,moneycontrol,neutral,0.9406,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:51,BAJFINANCE.NS,Buy Bajaj Finance; target of Rs 1250: ICICI Securities,moneycontrol,positive,0.9326,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:51,RELIANCE.NS,Reliance shares climb 2.7% as Jio Platforms IPO achieves full subscription within minutes,moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:51,ULTRACEMCO.NS,"Buy UltraTech Cement; target of Rs 13,220: Motilal Oswal",moneycontrol,positive,0.9379,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:51,ULTRACEMCO.NS,"Buy UltraTech Cement; target of Rs 13,200: Emkay Global Financial",moneycontrol,positive,0.9005,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:52,ULTRACEMCO.NS,UltraTech Cement shares rise 2% post-Q2 results; brokerages divided on outlook amid fuel and energy cost pressures,moneycontrol,positive,0.9414,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:14:59,ASIANPAINT.NS,"Diwali Gifting Stocks 2026: Titan, Nestle India",Univest,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:00,AXISBANK.NS,NSE exit triggers sharp slowdown in unlisted share trading,The Economic Times,negative,0.8921,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:00,AXISBANK.NS,"Multibagger alert! PC Jeweller shares jump 6% to fresh 52-week high, rally over 100% in 2026",The Economic Times,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:00,AXISBANK.NS,"Indian shares slip on elevated crude, Ambani's Jio IPO sees strong demand",Reuters,negative,0.914,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:00,AXISBANK.NS,"Sensex, Nifty rally up to 1% in early trade on IT stocks, firm global cues",The New Indian Express,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:00,AXISBANK.NS,"Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers",The Economic Times,negative,0.894,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:04,BAJFINANCE.NS,Bajaj Finance down 3% post Q2; analysts stay bullish on asset quality gains,Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:04,BAJFINANCE.NS,Bajaj Finance share price falls after margin warning in earnings call; Bullish analysts see 33% upside,CNBC TV18,negative,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:04,BAJFINANCE.NS,"From Bajaj Finance, Union Bank of India To Sobha: Check HDFC Securities' Latest Q2 Ratings, Target Prices",NDTV Profit,neutral,0.8735,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:07,BPCL.NS,From Samosa oil to jet fuel: 7 Indian stocks set to benefit from SAF,The Financial Express,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:10,BRITANNIA.NS,"Hexagon Nutrition Ltd Share Price Today,, HEXAGON Share Price NSE, BSE",Business Today,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:17,DRREDDY.NS,Dr. Reddy’s Zytorvi Approval for Advanced Esophageal Cancer,Kalkine India,positive,0.6501,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:17,DRREDDY.NS,"Dr Reddy receives Zytorvi approval: Citi targets Dr Reddy stock at USD 1,450",AD HOC NEWS,positive,0.4289,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:17,DRREDDY.NS,Dr. Reddy's Zytorvi DCGI Approval for ESCC India 2026,Kalkine India,positive,0.5358,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:19,EICHERMOT.NS,Eicher Motors sets October 28 results date for Eicher Motors stock,AD HOC NEWS,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:20,GRASIM.NS,Grasim Industries ECH Plant Gujarat Commercial Production 2026,Kalkine India,neutral,0.7322,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:20,GRASIM.NS,Grasim Industries begins commercial production at epichlorohydrin plant in Gujarat,Business Upturn,positive,0.6655,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:24,HDFCBANK.NS,"HDFC Bank (HDFCBANK) Share Price Today, Live Chart & News",TechGraph,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:27,HEROMOTOCO.NS,Hero MotoCorp (HEROMOTOCO) Share Price Today & Chart,TechGraph,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:29,HINDALCO.NS,Hindalco stock: November 6 results set the next test for Hindalco stock,AD HOC NEWS,neutral,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:31,HINDUNILVR.NS,Hindustan Unilever sets October 28 results: what it means for Hindustan Unilever stock,AD HOC NEWS,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:31,HINDUNILVR.NS,Hindustan Unilever stock: Revenue rises 10.10 percent. It sits 30.63 percent below its high,AD HOC NEWS,positive,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:33,ICICIBANK.NS,"IBN stock pre-market: India trading opens at INR 1,398.80",AD HOC NEWS,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:34,ITC.NS,ITC Hotels expands presence in Uttarakhand,The Times of India,positive,0.7341,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:34,ITC.NS,"Sensex, Nifty rally up to 1% in early trade on IT stocks, firm global cues",The New Indian Express,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:34,ITC.NS,Indian Air Force Veteran Dr. Garima Mishra Takes Charge as HP Telecom India CEO from October 21,Prittle Prattle News,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:41,KOTAKBANK.NS,HSBC raises target for Kotak Mahindra Bank stock to INR 520,AD HOC NEWS,positive,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:43,LT.NS,EU relations with Canada,Consilium.europa.eu,neutral,0.7334,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:43,LT.NS,Form 4 Old Second Bancorp Inc: Dennis L. Klaeser (Director) For: 21 February,Investing.com India,neutral,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:43,LT.NS,"Why did L Murugan resign, and TVK, YSRCP’s INDIA bloc dilemma | Powertrip #168",The News Minute,neutral,0.6779,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:43,LT.NS,L’Entropiste indulges in olfactory decadence with Festin,Premium Beauty News,neutral,0.5851,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:43,LT.NS,"MAXVOLT ENERGY INDUS L Lower Circuit Today: Price, Data and Peers",Univest,negative,0.6873,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:47,M&M.NS,Pakistan arrests man wanted by US over $126m postage fraud case,BBC,negative,0.4335,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:47,M&M.NS,Mach9 raises $34M after pivoting to AI CAD software,TechCrunch,positive,0.7372,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:47,M&M.NS,Jeff Bezos and Lauren Sánchez Bezos' latest $100M bet is saving species on the edge of extinction,Fortune,positive,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:47,M&M.NS,NRSC takes on $20M in loans,Politico,positive,0.5783,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:47,M&M.NS,Trump says he will have spent $400m to support Republicans in midterms – as it happened,The Guardian,neutral,0.5418,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:48,MARUTI.NS,Jay Bharat Maruti JAYBARMARU Volume Surge NSE Clarification,Kalkine India,positive,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:49,NESTLEIND.NS,Nestle India reports 36 percent profit growth as InCred cuts target for Nestle India stock,AD HOC NEWS,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:53,ONGC.NS,"Oil India, ONGC over IOC, BPCL, HPCL: JM Financial backs upstream, stays cautious on OMCs",ET EnergyWorld,neutral,0.4765,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:15:56,RELIANCE.NS,"Reliance Industries Limited (RELIANCE.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:56,RELIANCE.NS,JIO IPO - Reliance Industries Shares Gain more than 1% after India's Largest IPO opens for subscription,India Infoline,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:57,RELIANCE.NS,"Jio IPO or RIL shares? Where should investors bet as Ambani's Rs 30,213 crore issue opens",The Economic Times,neutral,0.8851,AUTO_ACCEPTED,indi-finbert
+2026-10-21 15:15:59,SBIN.NS,"Rating agency CareEdge to sell 19.8% stake in arm IFSC unit to SBI, NSE IFSC",Venture Intelligence News,negative,0.6227,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:16:03,TATAMOTORS.NS,Tata Motors NSE:TMCV ESG Score 71 Leader Category FY26,Kalkine India,positive,0.5727,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-21 15:16:07,TATACONSUM.NS,Tata Consumer schedules results. Motilal Oswal sets a target for Tata Consumer stock,AD HOC NEWS,neutral,0.7366,AUTO_ACCEPTED,indi-finbert
