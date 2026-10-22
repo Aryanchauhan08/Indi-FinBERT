@@ -6212,3 +6212,40 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-22 04:45:42,TCS.NS,ICICI Bank Stock Update: Shares Rally on Strong Q2 Earnings,LatestLY,positive,0.7475,AUTO_ACCEPTED,indi-finbert
 2026-10-22 04:45:43,TECHM.NS,Tech Mahindra TECHM Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.737,AUTO_ACCEPTED,indi-finbert
 2026-10-22 04:45:46,ULTRACEMCO.NS,UltraTech Cement Capacity Expansion and Manufacturing Strategy,Kalkine India,neutral,0.6081,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:16:57,HINDALCO.NS,Buy Hindalco; target of Rs 1170: Motilal Oswal,moneycontrol,positive,0.9382,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:16:57,DRREDDY.NS,"Nomura maintains 'Buy' on Dr Reddy's, sees 30% earnings upside from potential abatacept approval",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:16:59,ADANIENT.NS,Adani Enterprises signs Jabil AI venture ahead of stock results on October 28,AD HOC NEWS,neutral,0.4521,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:16:59,ADANIENT.NS,"Adani Total Gas Q2 Results: Revenue jumps 34% on 12% volume growth, EBITDA margin falls",CNBC TV18,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:00,ADANIPORTS.NS,Adani Ports (NSE:ADANIPORTS): Why Did It Incorporate a New Subsidiary in Oman?,Kalkine India,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:13,BHARTIARTL.NS,"NSE shares in focus as IPO lock-in expiry frees up stake worth Rs 3,247 crore for trade. How the stock per",The Economic Times,neutral,0.5517,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:17:24,GRASIM.NS,"Sensex tanks 460 points as Nifty slips below 22,700; media stocks lead losses",prameyanews.com,negative,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:24,GRASIM.NS,Nippon Life India AMC Q2FY27 Results: Net profit falls 6% YoY to ₹324 crore,scanx.trade,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:28,HDFCLIFE.NS,India stocks lower at close of trade; Nifty 50 down 0.54%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:28,HDFCLIFE.NS,"Top Gainers and Losers Today, October 22, 2026, at 3:30 PM IST: Bajaj Finance Leads Gainers",HDFC Sky,positive,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:41,INFY.NS,"Infosys Q2 results, dividend: Earnings expectations, timing, FY27 guidance & targets",Business Today,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:46,LT.NS,PM congratulates Suhas L. Yathiraj on winning Bronze at the Asian Para Games,PM India,positive,0.6709,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:46,LT.NS,EC announces bypoll for Madhya Pradesh Rajya Sabha seat vacated by L Murugan,The Times of India,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:46,LT.NS,"Delhi-NCR, Chennai ride high on ind’l, warehousing demand: Report",Construction Week India,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:46,LT.NS,"Week after Union Minister L Murugan quit, bypoll date for Rajya Sabha seat",The Indian Express,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:46,LT.NS,Microchip expands L-Series with radiation-tolerant oscillator,Investing.com India,positive,0.773,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:49,M&M.NS,Retired decorator's Pokémon cards sell for £1.5m,BBC,neutral,0.5184,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:17:49,M&M.NS,"CPI(M), Congress allege party offices vandalised by BJP supporters near Kolkata",The New Indian Express,negative,0.66,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:49,M&M.NS,David Szalay’s Booker Prize year: ‘I’m looking forward to being a writer again’,The Booker Prizes,positive,0.6356,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:17:49,M&M.NS,CPI(M) leader serves defamation notice on Congress district panchayat member,The Hindu,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:49,M&M.NS,"Dr. B.R. Ambedkar University, Delhi invites applications for One-Year LL.M. Programme 2026—27",SCC Online,neutral,0.7208,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:51,NESTLEIND.NS,"InCred sets INR 1,375 target for Nestle India stock",AD HOC NEWS,neutral,0.6275,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 15:17:51,NESTLEIND.NS,"Nestle, Zydus Wellness shares plunge to six-month low amid FSSAI action",Moneycontrol.com,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:51,NESTLEIND.NS,India stocks lower at close of trade; Nifty 50 down 0.54%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:51,NESTLEIND.NS,"Nestle India, Zydus Wellness shares fall over 2% after FSSAI notices over product claims; here's what the issue is about",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:51,NESTLEIND.NS,India shares lower at close of trade; Nifty 50 down 0.54%,Investing.com India,negative,0.7744,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:55,ONGC.NS,ONGC stock: JPMorgan cuts target from INR 335.00 to INR 300.00,AD HOC NEWS,negative,0.6987,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:56,ONGC.NS,"Indian Oil (IOC) Share Price Today, Live Chart & News",TechGraph,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:17:58,RELIANCE.NS,Reliance Industries (RELIANCE) Share Price Today & Chart,TechGraph,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:00,SBILIFE.NS,SBI Life scheduled half-year results for SBI Life stock,AD HOC NEWS,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:03,SUNPHARMA.NS,"India's Sun Pharma misses debt fundraise goal as investors demand higher yields, bankers say",marketscreener.com,negative,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:03,SUNPHARMA.NS,"Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak",The Economic Times,negative,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:03,SUNPHARMA.NS,"Sensex tanks 460 points as Nifty slips below 22,700; media stocks lead losses",prameyanews.com,negative,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:03,SUNPHARMA.NS,Sun Pharma reports UNLOXCYT designation: October 30 results will test Sun Pharma stock,AD HOC NEWS,neutral,0.7041,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:10,TCS.NS,Tata Consultancy Services Stock Update: Shares Slip Amidst AI-Driven Market Shift,LatestLY,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:12,TECHM.NS,"Tech Mahindra stock: At 1.51 percent below its high, Tech Mahindra stock costs INR 1,826.00",AD HOC NEWS,negative,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-10-22 15:18:15,ULTRACEMCO.NS,UltraTech Cement (NSE:ULTRACEMCO): What Is the Lost Share Certificate Notice About?,Kalkine India,negative,0.5496,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
