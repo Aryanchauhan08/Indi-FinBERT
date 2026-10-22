@@ -6167,3 +6167,48 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-21 15:15:59,SBIN.NS,"Rating agency CareEdge to sell 19.8% stake in arm IFSC unit to SBI, NSE IFSC",Venture Intelligence News,negative,0.6227,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-21 15:16:03,TATAMOTORS.NS,Tata Motors NSE:TMCV ESG Score 71 Leader Category FY26,Kalkine India,positive,0.5727,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-21 15:16:07,TATACONSUM.NS,Tata Consumer schedules results. Motilal Oswal sets a target for Tata Consumer stock,AD HOC NEWS,neutral,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:34,WIPRO.NS,"Trade Spotlight: How should you trade Coforge, PVR Inox, PTC Industries, Wipro, RBL Bank, and others on October 22?",moneycontrol,neutral,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:36,ADANIENT.NS,"Adani Ent stock: AnalystLowTarget cuts fair value for Adani Enterprises stock to INR 3,282.00",AD HOC NEWS,negative,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:36,ADANIENT.NS,Adani signs 50:50 Jabil venture: October 28 results matter for Adani Enterprises stock,AD HOC NEWS,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:41,AXISBANK.NS,"Axis Bank ESOP Allotment: 47,781 Shares Issued in October 2026",Kalkine India,neutral,0.7302,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:41,AXISBANK.NS,Axis Bank Q2 FY27 Results Show a Mix of Hits and Misses for the Lender,Kalkine India,neutral,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:58,EICHERMOT.NS,India stocks lower at close of trade; Nifty 50 down 0.34%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:44:58,EICHERMOT.NS,"Jio Platforms IPO breaks records: How Hyundai, NSE, LIC and other mega issues fared on Day 1",Upstox,positive,0.4208,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:00,GRASIM.NS,Grasim Begins Epichlorohydrin Production at Vilayat Gujarat,Kalkine India,positive,0.3991,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:01,HCLTECH.NS,HCLTech NVIDIA Auto Validation Launch: What Investors Should Know,Kalkine India,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:04,HDFCLIFE.NS,HDFC Life stock: Prabhudas Lilladher sets INR 765 target for HDFC Life stock,AD HOC NEWS,positive,0.7102,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:04,HDFCLIFE.NS,HDFC Life approves INR 5.0 billion debt issue: what it means for HDFC Life stock,AD HOC NEWS,positive,0.6699,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:12,ITC.NS,"Hexagon Nutrition Ltd Share Price Today,, HEXAGON Share Price NSE, BSE",Business Today,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:15,INFY.NS,Jefferies sees valuation upside in select IT stocks despite muted growth forecast,The Economic Times,positive,0.8919,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:15,INFY.NS,Infosys Stock Update: Share Price Jumps 3% on Truist Deal,LatestLY,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:15,INFY.NS,Infosys Q2 results preview: Will the results provide oomph to surging IT stocks?,The Economic Times,neutral,0.8882,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:17,KOTAKBANK.NS,"Market's Early Rally Fizzles Out As Banking, Financial Stocks Weigh On Benchmarks",ETV Bharat,negative,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:17,KOTAKBANK.NS,BQuick On April 30: Top 10 Stories In Under 10 Minutes,NDTV Profit,neutral,0.8445,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:17,KOTAKBANK.NS,"NSE shares in focus as IPO lock-in expiry frees up stake worth Rs 3,247 crore for trade. How the stock per",The Economic Times,neutral,0.5517,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:17,KOTAKBANK.NS,"Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers",The Economic Times,negative,0.894,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:20,LT.NS,Houthis Bombard Saudi; Scene Of Terror At King Fahd Int'l Airport Amid Damage & Casualties,The Times of India,negative,0.685,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:20,LT.NS,SBI Probes Dark Web Leak of 3.8 L Records,TradingView,negative,0.6947,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:20,LT.NS,AXA XL's CEO awarded title of Chevalier de l'Ordre national du Mérite,Asia Insurance Review,neutral,0.7168,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:20,LT.NS,"Form 4 Vivid Seats Inc: Todd L. Boehly (Director, 10% Owner) For: 19 October",Investing.com India,neutral,0.7718,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:20,LT.NS,Burglars decamp with Rs 14.8L valuables,Ahmedabad Mirror,negative,0.7361,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:22,M&M.NS,Mahindra & Mahindra (NSE:M&M): Why Did It Transfer ESOP Shares to Employees on 21 Oct 2026?,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:22,M&M.NS,Legora raises $550 million Series E at $8.8 billion valuation to accelerate growth,Legora,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:22,M&M.NS,De Beers Allocates $73M to Diamonds for Development Fund,Rapaport,neutral,0.4265,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:22,M&M.NS,Essar picked for $240m Tuna Tekra multipurpose terminal,Splash247,positive,0.662,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:25,NESTLEIND.NS,Nestle India (NSE: NESTLEIND) Shares Decline as Price Pressure Persists Despite Q2 Profit Growth,Kalkine India,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:25,NESTLEIND.NS,Nestlé India NESTLEIND Senior Management Change Jan 2027,Kalkine India,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:25,NESTLEIND.NS,"Hexagon Nutrition Ltd Share Price Today,, HEXAGON Share Price NSE, BSE",Business Today,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:29,POWERGRID.NS,Power Grid stock: Consensus sets INR 305.00 median target for Power Grid stock,AD HOC NEWS,positive,0.556,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:31,RELIANCE.NS,"Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",The Economic Times,positive,0.8958,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:31,RELIANCE.NS,Reliance Industries (NSE:RELIANCE): Why Did US Secretary of State Visit Jamnagar?,Kalkine India,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:31,RELIANCE.NS,Reliance Jamnagar Refinery and India's Global Energy Role,Kalkine India,neutral,0.7093,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:34,SBIN.NS,"SBI stock: Cyber incident exposes 3,897 records. State Bank of India stock falls 1.10 percent",AD HOC NEWS,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:40,TATACONSUM.NS,Tata Consumer stock: Tata Consumer completes 80 percent Capital Foods stake,AD HOC NEWS,positive,0.528,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:40,TATACONSUM.NS,Indian Air Force Veteran Dr. Garima Mishra Takes Charge as HP Telecom India CEO from October 21,Prittle Prattle News,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:42,TCS.NS,"Sensex, Nifty rally up to 1% in early trade on IT stocks, firm global cues",The New Indian Express,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:42,TCS.NS,"Jio Platforms IPO breaks records: How Hyundai, NSE, LIC and other mega issues fared on Day 1",Upstox,positive,0.4208,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-22 04:45:42,TCS.NS,"Stock Markets Today: Sensex, Nifty Rebound on IT Sector Gains, Positive Global Sentiment",Rediff,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:42,TCS.NS,Tata Consultancy Services Stock Update: Shares Up 2% on IT Sector Rally,LatestLY,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:42,TCS.NS,ICICI Bank Stock Update: Shares Rally on Strong Q2 Earnings,LatestLY,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:43,TECHM.NS,Tech Mahindra TECHM Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-10-22 04:45:46,ULTRACEMCO.NS,UltraTech Cement Capacity Expansion and Manufacturing Strategy,Kalkine India,neutral,0.6081,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
