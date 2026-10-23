@@ -6249,3 +6249,37 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-22 15:18:10,TCS.NS,Tata Consultancy Services Stock Update: Shares Slip Amidst AI-Driven Market Shift,LatestLY,negative,0.7452,AUTO_ACCEPTED,indi-finbert
 2026-10-22 15:18:12,TECHM.NS,"Tech Mahindra stock: At 1.51 percent below its high, Tech Mahindra stock costs INR 1,826.00",AD HOC NEWS,negative,0.7414,AUTO_ACCEPTED,indi-finbert
 2026-10-22 15:18:15,ULTRACEMCO.NS,UltraTech Cement (NSE:ULTRACEMCO): What Is the Lost Share Certificate Notice About?,Kalkine India,negative,0.5496,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 04:49:26,POWERGRID.NS,Weekly Tactical Pick -- Power Grid: Execution holds the key to unlocking growth,moneycontrol,positive,0.7848,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:28,ADANIENT.NS,"Adani Ent stock: At 40.34 times earnings, Adani Enterprises stock trades on NSE",AD HOC NEWS,positive,0.6615,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:29,ADANIPORTS.NS,Adani Ports (NSE:ADANIPORTS) Sets Up Step-Down Subsidiary in Oman,Kalkine India,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:37,BAJFINANCE.NS,Bajaj Finance Shares Fall Over 3% Despite 29% Q2 Profit Growth (NSE:BAJFINANCE),Kalkine India,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:37,BAJFINANCE.NS,"Nifty 50 Earnings Watch: IHCL, Eternal, UltraTech, Bajaj Finance",Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:41,BPCL.NS,"Top Q2 results today, October 23: Infosys, Coforge, Tata Motors, Adani Powe, Bank of India, BPCL among companies to announce earnings",Business Upturn,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:41,BHARTIARTL.NS,Bharti Airtel (BHARTIARTL) Share Price Today & Chart,TechGraph,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:56,HDFCBANK.NS,HDFC Bank shares down 30% in 2026: FPI love for India’s largest bank wanes; what’s ahead?,Business Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:49:56,HDFCBANK.NS,"Infosys Q2 results, dividend: Earnings expectations, timing, FY27 guidance & targets",Business Today,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:01,HINDUNILVR.NS,"Sensex, Nifty decline in early trade as power, metal stocks drag markets lower",The New Indian Express,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INDUSINDBK.NS,3 Banking Stocks for Higher Rates as Cash and Money Market Demand Grows,Simply Wall Street,positive,0.7141,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INDUSINDBK.NS,"Q2 results today, October 23: Infosys, Adani Power, IndusInd Bank, Tata Motors CV, Shriram Finance among 70+ companies announcing earnings",ET Now,neutral,0.6947,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INDUSINDBK.NS,"Top Q2 results today, October 23: Infosys, Coforge, Tata Motors, Adani Powe, Bank of India, BPCL among companies to announce earnings",Business Upturn,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INFY.NS,"Infosys share price: IT major jumps 4% ahead of its Q2 results, dividend 2026 announcement today: What to expect?",Livemint,positive,0.8468,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INFY.NS,"Stocks in news: Swiggy, Infosys, HPCL, eMudhra, Adani Power, Shriram Finance, Tata Motors and NLC India",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INFY.NS,Ahead of Market: 10 things that will decide stock market action on Friday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INFY.NS,Infosys Stock Update: Shares See Intraday Dip Ahead of Q2 Earnings,LatestLY,negative,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:06,INFY.NS,"Infosys share price rises 2.3% to ₹1,179.70 ahead of Q2 results today; Kotak sees FY27 guidance cut",Business Upturn,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:10,KOTAKBANK.NS,Kotak Mahindra Bank Q2 Expectations: Can Earnings Growth Surprise Investors?,Trade Brains,neutral,0.727,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:11,LT.NS,Indian Green Energy Stocks Face Selling Pressure as Sensex Falls 0.62% Amid Mixed Sector Performance (22 October 2026),SolarQuarter,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:11,LT.NS,"Why is stock market falling today? 4 factors dragging Nifty, Sensex",Zee Business,negative,0.6786,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:12,LT.NS,L'Oreal says weight loss drugs are impacting beauty and skin care sales,BBC,negative,0.6798,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:12,LT.NS,L'Oreal Q3 sales beat forecasts as consumers indulge in premium beauty,Reuters,positive,0.9137,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:12,LT.NS,Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges,CNN,negative,0.3763,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 04:50:12,LT.NS,"‘Dutton Ranch’s’ Kelly Reilly, Kenneth Branagh And, Via Video, Samuel L. Jackson Bring Star Power to Paramount U.K. Upfront",The Hollywood Reporter,neutral,0.384,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 04:50:15,M&M.NS,Warhound raises $200M to engineer war dogs and arm them with Anduril gear,TechCrunch,positive,0.7273,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:15,M&M.NS,"Maharashtra M. Pharmacy admission 2026: 4,135 students offered seats in fourth CAP round",The Times of India,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:15,M&M.NS,"1.7m workers to get tax free salary, top earners pay more",Business Daily,neutral,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:15,M&M.NS,SBI data leak a matter of grave concern: CPI(M) MP A.A. Rahim,The Hindu,negative,0.6085,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 04:50:18,NESTLEIND.NS,Nestle India Q2 Results in Focus Amid Festive Demand,Kalkine India,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:23,RELIANCE.NS,Reliance Industries Gains as Jio Platforms IPO Fully Booked,Kalkine India,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:25,SBILIFE.NS,SBI Life Insurance SBILIFE H1 FY27 Earnings Call Details,Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:36,TECHM.NS,"Tech Mahindra Limited (NSE:TECHM) Q2 FY27: Margin Gains, Deal Wins and a Bonus Issue Recommendation",Kalkine India,positive,0.7178,AUTO_ACCEPTED,indi-finbert
+2026-10-23 04:50:42,WIPRO.NS,Wipro Q2 Results in Focus as IT Major Features in Trade Spotlight (NSE:WIPRO),Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
