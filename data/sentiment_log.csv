@@ -6283,3 +6283,44 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-23 04:50:25,SBILIFE.NS,SBI Life Insurance SBILIFE H1 FY27 Earnings Call Details,Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
 2026-10-23 04:50:36,TECHM.NS,"Tech Mahindra Limited (NSE:TECHM) Q2 FY27: Margin Gains, Deal Wins and a Bonus Issue Recommendation",Kalkine India,positive,0.7178,AUTO_ACCEPTED,indi-finbert
 2026-10-23 04:50:42,WIPRO.NS,Wipro Q2 Results in Focus as IT Major Features in Trade Spotlight (NSE:WIPRO),Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,INFY.NS,Infosys Q2 results: IT major's ADR falls 6% after it lowers annual revenue growth guidance,moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,BPCL.NS,"BPCL, IndiGo, Apollo Tyres, other crude-sensitive shares fall up to 4% as oil prices surge",moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,INFY.NS,Infosys flags intensifying pricing pressure as clients demand higher AI productivity,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,INFY.NS,"AI-driven cyber threats open up huge opportunity for Infosys, says CEO Salil Parekh",moneycontrol,positive,0.9416,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,JSWSTEEL.NS,"JSW Steel Q2 results: Profit zooms 225% YoY at Rs 5,279 on record sales, firm flat steel prices; revenue rises 10.7%",moneycontrol,positive,0.9394,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:56,INFY.NS,Infosys revises FY27 revenue growth guidance between 1-2%; reduces both upper and lower end of the band,moneycontrol,negative,0.8731,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:58,ADANIENT.NS,"Adani Ent stock: INR 2,477.00 on October 23 sits below its 52-week high",AD HOC NEWS,negative,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:05:58,ADANIENT.NS,Adani Enterprises signs Jabil MoU as results test Adani Enterprises stock,AD HOC NEWS,positive,0.6543,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:03,AXISBANK.NS,HDFC Bank Share Price - Live NSE: HDFCBANK Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:07,BAJFINANCE.NS,Bajaj Finance Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:08,BAJAJFINSV.NS,Bajaj Finance Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:09,BPCL.NS,"BPCL Q2 FY27 Results: Net Profit, Revenue Key Figures",Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:10,BPCL.NS,"Q2 results, Oct 23: Infosys, Adani Power, JSW Steel, Tata Motors, BPCL, CG Power, Torrent Pharma, Shriram Finance, others to post earnings",Upstox,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:19,DRREDDY.NS,"Dr. Reddy's Laboratories posts ₹8,671 crore revenue in Q2 FY27",Business Upturn,neutral,0.7026,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:21,GRASIM.NS,"Surging oil prices drag Sensex, Nifty 50 even as Jio Platforms IPO shines",Livemint,negative,0.786,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:26,HDFCLIFE.NS,"HDFC Life (HDFCLIFE) Share Price Today, Live Chart & News",TechGraph,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:26,HDFCLIFE.NS,HDFC Life H1 FY27 Earnings Call: Key Highlights for Investors,Kalkine India,neutral,0.7315,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:32,ICICIBANK.NS,ICICI Bank Q2 FY27 Earnings Call Key Highlights,Kalkine India,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:36,INDUSINDBK.NS,IndusInd Bank Q2 FY27 Results: Board Approves Unaudited Financials,Kalkine India,neutral,0.7359,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:37,INDUSINDBK.NS,"IndusInd Bank Reports Strong Q2 FY27 Earnings, Net Profit Surges To ₹1,242 Crore; Asset Quality Improves",Free Press Journal,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:37,INFY.NS,"Infosys Flash Crash: Stock touches ₹1,038.05 lower circuit, recovers within minutes ahead of Q2 results",Business Upturn,negative,0.487,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:38,INFY.NS,"LIVE | Infosys Q2 results: Profit, revenue, guidance and management commentary - The Economic Times Video | ET Tv",The Economic Times,neutral,0.8934,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:38,INFY.NS,"Infosys cuts FY27 revenue growth guidance to 1-2%, Q2 CC revenue growth at 1.5%",Fortune India,negative,0.7013,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:38,INFY.NS,"LIVE | Infosys Q2 results: Profit, revenue, guidance and management commentary",The Economic Times,neutral,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:38,INFY.NS,"Infosys Q2 results: From 29% jump in AI Revenue to lower FY27 guidance, 5 key takeaways",The Financial Express,neutral,0.5269,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:39,JSWSTEEL.NS,JSW Steel JSWSTEEL Board Approves 5 MTPA Expansion and UAE Unit,Kalkine India,positive,0.4578,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:40,JSWSTEEL.NS,"Earnings call transcript: JSW Steel Q2 2026 shows record volumes, shares fall",Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:40,JSWSTEEL.NS,"JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%",The Economic Times,positive,0.8911,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:43,LT.NS,High-ranking Virginia Democrat charged in public corruption case,NBC News,neutral,0.4442,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:43,LT.NS,L’Oreal Eyes Profit Rise This Year as Sales Keep Growing,WSJ,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:47,M&M.NS,JD Vance’s family no longer allowed to say ‘M-word’,Yahoo Sports,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:47,M&M.NS,Senate Democrats’ campaign arm takes out $15M loan,Politico,neutral,0.6152,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:47,M&M.NS,CMES scores VLCC $48m fixture to Petrobras as spot rates continue pullback,TradeWinds News,negative,0.3863,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-23 15:06:50,NTPC.NS,Indian Renewable Energy Stocks Decline as Inox Wind Falls 5.45% on October 23,SolarQuarter,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:50,NTPC.NS,"Bonfiglioli Transmissions shares list at par with IPO issue price on NSE, BSE",Upstox,positive,0.7112,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:50,NTPC.NS,NTPC Board Meet on 31 Oct to Approve Q2 Results & Consider 1st Interim Dividend,PSU Connect,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:50,NTPC.NS,NTPC Appoints Diwakar Nath Misra as Government Nominee Director,PSU Connect,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:06:52,ONGC.NS,ONGC stock: HSBC raises target for ONGC stock from INR 300 to INR 310,AD HOC NEWS,positive,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:07:00,SUNPHARMA.NS,Sun Pharma UNLOXCYT ESMO 2026 Data: aCSCC Trial Results,Kalkine India,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:07:05,TATACONSUM.NS,Tata Consumer Products (NSE:TATACONSUM): What Investor Meetings Are Planned for November 2026?,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-23 15:07:08,TECHM.NS,Tonbo Imaging India shares list at 66% premium on NSE; here's how much investors made per lot,Upstox,positive,0.7444,AUTO_ACCEPTED,indi-finbert
