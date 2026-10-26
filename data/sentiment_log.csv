@@ -6370,3 +6370,68 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-26 04:48:40,TATACONSUM.NS,"Q2 Results Monday: Tata Consumer, Paytm, Mankind Pharma among 55 companies to announce earnings on October 26",ET Now,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
 2026-10-26 04:48:40,TATACONSUM.NS,"Top Q2 results today, October 26: Tata Consumer Products, Paytm, Mankind Pharma, ITC Hotels, REC among companies to announce earnings",Business Upturn,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
 2026-10-26 04:48:42,TECHM.NS,"Weekly Recap: Q2 revenue, PAT growth and 1:1 bonus issue",TradingView,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:41,TATAMOTORS.NS,Neutral TATA Motors; target of Rs 416: Motilal Oswal,moneycontrol,neutral,0.9417,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:41,INDUSINDBK.NS,Neutral IndusInd Bank; target of Rs 1050: Motilal Oswal,moneycontrol,neutral,0.9423,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:41,DRREDDY.NS,Neutral Dr Reddys Laboratories; target of Rs 1180: Motilal Oswal,moneycontrol,neutral,0.9411,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:41,CIPLA.NS,"Cipla: Nomura maintains 'Buy' with Rs 1,510 target ahead of Q2 results",moneycontrol,positive,0.8843,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:43,JSWSTEEL.NS,JSW Steel shares rise 6% as Q2 results beat estimates; brokerages see up to 39% upside,moneycontrol,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:45,ADANIENT.NS,"IIFL Capital sets INR 3,282 target for Adani Enterprises stock",ad-hoc-news.de,positive,0.3927,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:49:45,ADANIPORTS.NS,"Motilal Oswal reiterates INR 2,130 target for Adani Ports stock",ad-hoc-news.de,neutral,0.6926,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:51,AXISBANK.NS,"Axis Bank discloses Q2FY27 earnings call transcript for quarter ended September 30, 2026",scanx.trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:51,AXISBANK.NS,Axis Bank Q2 FY27 Earnings Call Transcript Filing,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:58,BPCL.NS,"BPCL Q2 FY27: Net Profit Drops 21.5% to ₹4,863 Crore, Revenue Jumps 30%",Indian Masterminds,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:49:58,BPCL.NS,"From Rs 507 to Rs 290: BPCL's LPG losses ease, but November brings a twist | Q2 Earnings Concall",ET Now,positive,0.3773,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:49:59,BHARTIARTL.NS,Bharti Airtel BHARTIARTL Reg 74(5) Certificate Q2 2026,Kalkine India,neutral,0.5163,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:50:05,COALINDIA.NS,Bharat Coking Coal (NSE:BHARATCOAL): What Did Its Q2 FY27 Unaudited Results Reveal?,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:06,COALINDIA.NS,Bharat Coking Coal shares rally 5% after Q2 profit turnaround; revenue jumps 39% YoY,The Economic Times,positive,0.8978,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:08,DRREDDY.NS,India shares higher at close of trade; Nifty 50 up 0.68% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:08,DRREDDY.NS,Dr Reddy's share price spurts 4% post Q2 earnings; analysts upgrade rating,Business Standard,positive,0.8846,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:08,DRREDDY.NS,"Dr Reddy’s betting on semaglutide comeback, abatacept for next growth phase, says CFO Narasimham",Moneycontrol.com,positive,0.9464,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:08,DRREDDY.NS,India stocks higher at close of trade; Nifty 50 up 0.68%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:08,DRREDDY.NS,"Sensex Jumps 482 Points, Nifty Closes Above 22,750 as Metal and Pharma Stocks Rally",INDIA New England News,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:09,DRREDDY.NS,"Stock Picks Today: Infosys, Kotak Mahindra Bank, Dr. Reddy's, SBI Cards, And More On Brokerages' Radar",NDTV Profit,neutral,0.8283,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:09,DRREDDY.NS,Dr. Reddy’s Q2 Results: Can Semaglutide Recovery and Domestic Growth Justify Its 39x P/E?,Trade Brains,neutral,0.673,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:09,DRREDDY.NS,Kotak Mahindra Bank Q2 Profit Rises 29.5%; Dr. Reddy’s Profit Drops 36%,Business Connect Magazine,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:11,GRASIM.NS,"NSE seeks explanations from Eventions, Grasim and Kolte-Patil",Traders Union,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:11,GRASIM.NS,"From LIC, NSE to Hyundai: Can Jio Platforms IPO break India’s mega listing jinx on 28 Oct Wed ? What market experts say",Livemint,neutral,0.7835,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:13,HCLTECH.NS,HCL Technologies (NSE:HCLTECH): What Does Its New Semiconductor Partnership With Rapidus Mean?,Kalkine India,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:25,ICICIBANK.NS,"HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure",Upstox,positive,0.7371,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:25,ICICIBANK.NS,"Sensex jumps 480 points, Nifty closes at 22,753",Awaz The Voice,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:25,ICICIBANK.NS,Blackstone-backed ASK hires ex-Motilal executive as mutual fund chief,Moneycontrol.com,neutral,0.9449,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:27,ITC.NS,ITC Hotels NSE:ITCHOTELS Dubai Subsidiary Incorporation 2026,Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:29,INDUSINDBK.NS,"Stock Picks Today: Infosys, Kotak Mahindra Bank, Dr. Reddy's, SBI Cards, And More On Brokerages' Radar",NDTV Profit,neutral,0.8283,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:31,INFY.NS,"India's Infosys falls after revenue growth view cut flags AI, competitive pressures",Reuters,negative,0.9138,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:33,JSWSTEEL.NS,"JSW Steel posts three-fold jump in profit, lines up capacity expansion",The Economic Times,positive,0.8974,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:34,KOTAKBANK.NS,Kotak Mahindra Bank ESG Rating 70 FY2025-26 NSE,Kalkine India,neutral,0.6644,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:34,KOTAKBANK.NS,Kotak Mahindra Bank Receives ESG Rating of 70 from NSE Sustainability Ratings,PSU Connect,positive,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:34,KOTAKBANK.NS,"Stock Picks Today: Infosys, Kotak Mahindra Bank, Dr. Reddy's, SBI Cards, And More On Brokerages' Radar",NDTV Profit,neutral,0.8283,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:34,KOTAKBANK.NS,"Kotak Mahindra Bank Q2: net profit up 29.5% YoY to ₹4,212 Cr as NII rises to ₹8,459 Cr",Trade Brains,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:34,KOTAKBANK.NS,Kotak Mahindra Bank Q2 Profit Rises 29.5%; Dr. Reddy’s Profit Drops 36%,Business Connect Magazine,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:35,LT.NS,"Larsen & Toubro Limited (LT.NS) stock price, news, quote and history",Yahoo Finance Singapore,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:35,LT.NS,Indian Stock Market Gains 0.66% As Renewable Energy Stocks Show Mixed Performance (26 October 2026),SolarQuarter,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:36,LT.NS,L’Opéra rolls out Diwali 2026 hampers. Here’s what’s new in its festive collection,ThePrint,neutral,0.6914,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:36,LT.NS,L Catterton Invests in Glance: AI Agentic Commerce Platform,Rediff MoneyWiz,neutral,0.6482,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:50:36,LT.NS,L Catterton Backs InMobi-Backed Glance To Expand Its AI Shopping Business In US,Inc42,positive,0.5554,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:50:36,LT.NS,L Catterton announces strategic investment in Glance,Exchange4Media,neutral,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:36,LT.NS,L Catterton makes strategic investment in Jio Platforms-backed Glance,Entrackr,neutral,0.4725,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:50:38,M&M.NS,"Lumax Auto Tech (NSE: LUMAXTECH): Record Q2 FY27, Mix Shift",Kalkine India,positive,0.7256,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:38,M&M.NS,Lumax Industries LUMAXIND Q2FY27 Results: Revenue and PAT Growth,Kalkine India,positive,0.6621,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:38,M&M.NS,Kotak Mahindra Bank Receives ESG Rating of 70 from NSE Sustainability Ratings,PSU Connect,positive,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:38,M&M.NS,"Auto sector stocks today, October 26: Force Motors jumps 1.42%, Hyundai Motor gains 0.94%, Hero MotoCorp up 0.82%",Business Upturn,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:39,M&M.NS,Matiks raises $10M to expand its math and puzzle gaming platform,TechCrunch,positive,0.7395,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:39,M&M.NS,Box Office Global: 'Clayface' $43M WW Opening Second No. 1 Skydance,Deadline,positive,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:39,M&M.NS,‘Very little that we do where we need frontier models’: Goldman’s CEO,The Next Web,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:45,ONGC.NS,JM Financial retains INR 300 target for ONGC stock,ad-hoc-news.de,positive,0.644,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 16:50:47,POWERGRID.NS,Jyoti Structures (NSE:JYOTISTRUC) Wins ₹949.35 Crore HVDC Orders,Kalkine India,positive,0.7309,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:49,RELIANCE.NS,"Reliance's Jio Platforms IPO allotment today, 26 Oct: Check status online, latest GMP price, share listing prediction",Livemint,neutral,0.8422,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:54,SUNPHARMA.NS,"Sun Pharma NCD Allotment Rs 7,816 Crore October 2026",Kalkine India,neutral,0.7288,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:58,TATASTEEL.NS,Tata Steel Q2 results rescheduled to November 7; here's what to expect,Zee Business,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:50:59,TATACONSUM.NS,Tata Consumer Products Q2 FY27 Results: Revenue Up 17%,Kalkine India,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:00,TATACONSUM.NS,"Tata Consumer Q2 Results: Net profit rises 16% YoY to Rs 470 crore, revenue up 14%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:00,TATACONSUM.NS,"Earnings call transcript: Tata Consumer posts solid Q2 2026 growth, shares fall",Investing.com India,negative,0.7689,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:00,TATACONSUM.NS,"Tata Consumer Products Q2 net profit rises 16% to ₹469 cr, sales up 14%",Business Standard,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:00,TATACONSUM.NS,"Tata Consumer Products Q2 profit rises 18%, revenue rises 14% to ₹5,661 crore",CNBC TV18,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:01,TCS.NS,Tata Consultancy Services Stock Update: Shares Dip Marginally Intraday,LatestLY,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:02,TCS.NS,"IT Q2 Results FY27: TCS, Infosys, HCLTech, Wipro & Tech Mahindra - Who led in revenue, profit, AI, guidance & hiring?",Zee Business,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:04,TECHM.NS,Top IT stocks to buy after Q2 results: TCS vs Infosys vs Wipro vs HCL vs Tech Mahindra - What market experts recommend,Livemint,neutral,0.8334,AUTO_ACCEPTED,indi-finbert
+2026-10-26 16:51:04,TECHM.NS,"IT Q2 Results FY27: TCS, Infosys, HCLTech, Wipro & Tech Mahindra - Who led in revenue, profit, AI, guidance & hiring?",Zee Business,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
