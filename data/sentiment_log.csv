@@ -6324,3 +6324,49 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-23 15:07:00,SUNPHARMA.NS,Sun Pharma UNLOXCYT ESMO 2026 Data: aCSCC Trial Results,Kalkine India,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
 2026-10-23 15:07:05,TATACONSUM.NS,Tata Consumer Products (NSE:TATACONSUM): What Investor Meetings Are Planned for November 2026?,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
 2026-10-23 15:07:08,TECHM.NS,Tonbo Imaging India shares list at 66% premium on NSE; here's how much investors made per lot,Upstox,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,KOTAKBANK.NS,"Kotak Mahindra Bank stock jumps 2%, among top Nifty gainers after Q2 results; JPMorgan raises target price",moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,JSWSTEEL.NS,JSW Steel Q2 FY27: Record sales lift profit as balance sheet gets stronger,moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,INDUSINDBK.NS,IndusInd Bank Q2 FY27: Steady work in progress,moneycontrol,neutral,0.9026,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,INFY.NS,"Infosys stock falls after Q2 earnings miss, guidance cut, but pares loss to 1%; brokerages see margin pressure",moneycontrol,negative,0.9434,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,INFY.NS,"Buy or sell Infosys stock after Q2 earnings miss, guidance cut? UBS sees 23% upside, HSBC flags margin pressure",moneycontrol,positive,0.9028,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,INFY.NS,"US & Asian market in red | Crude prices, US yields inch up | Infosys cuts FY27 guidance",moneycontrol,negative,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,BHARTIARTL.NS,"Trade Spotlight: How should you trade Bharti Airtel, ONGC, Anand Rathi Wealth, JSW Cement, Firstsource Solutions, and others on October 26?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,ONGC.NS,"Trade Spotlight: How should you trade Bharti Airtel, ONGC, Anand Rathi Wealth, JSW Cement, Firstsource Solutions, and others on October 26?",moneycontrol,neutral,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,INFY.NS,Infosys Q2 FY27 – Weak guidance overshadows strong bookings,moneycontrol,negative,0.932,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:31,POWERGRID.NS,KEC International shares gain 4% on transmission lines orders from Power Grid,moneycontrol,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:33,ADANIENT.NS,"Q2 results this week: Ather Energy, IndiGo, L&T, Paytm, Maruti, Mazagon Dock, Adani Enterprises, Vedanta, among others in focus",Upstox,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:38,ASIANPAINT.NS,"US Fed rate decision, corporate earnings, crude oil to steer market sentiment",Rediff,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:38,ASIANPAINT.NS,"Q2 results this week: Over 450 companies to announce earnings; Coal India, NTPC, L&T, Maruti Suzuki, Vedanta in focus - Full list",ET Now,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:38,ASIANPAINT.NS,"Top Q2 results next week, October 26-30: L&T, Asian Paints, Maruti Suzuki, Trent, Paytm, Tata Consumer Products among companies to report earnings",Business Upturn,neutral,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:52,COALINDIA.NS,"PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential",Livemint,neutral,0.7563,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:52,COALINDIA.NS,Bharat Coking Coal Q2 results: Coal India arm posts ₹124 crore net profit; offtake volumes improve nearly 10% YoY,Upstox,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:57,GRASIM.NS,ScanX - Stock Screener & Market Research Platform Built for India,scanx.trade,neutral,0.6795,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:57,GRASIM.NS,Grasim Industries (NSE:GRASIM): Did Bombay HC Quash a Tax Reassessment Notice?,Kalkine India,neutral,0.6836,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:57,GRASIM.NS,Jyoti Structures secures orders worth Rs. 949.35 crores from Power Grid Corporation,Business Upturn,positive,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:57,GRASIM.NS,IIFL Finance announces completion of Mr. T S Ramakrishnan's tenure as non-executive nominee director,Business Upturn,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:47:57,GRASIM.NS,"Biocon secures market entry for Yesintek™, a proposed biosimilar to Stelara®, in additional global markets",Business Upturn,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:13,INFY.NS,India's Infosys falls after cutting revenue growth guidance for fiscal 2027,TradingView,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:16,KOTAKBANK.NS,"Q2 Results LIVE Updates: Infosys, Kotak Bank react to earnings; Tata Consumer, Paytm report today",IndiaIPO,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:16,KOTAKBANK.NS,"Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",The Economic Times,neutral,0.8926,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:17,LT.NS,Rajkot footwear trader loses ₹5.7L in Vietnam import scam,The Times of India,negative,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:17,LT.NS,L Catterton backs AI shopper Glance as agentic commerce race heats up,Dealroom,negative,0.6587,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:17,LT.NS,Form 4 Home Federal Bancorp Inc of Louisiana: Mary L. Jones (Sr. VP Retail & COO) For: 15 October,Investing.com India,neutral,0.7731,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:17,LT.NS,L-Arginine and Vitamin C Supplementation May Reduce Fatigue in COPD: Study,Medical Dialogues,positive,0.6316,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 04:48:17,LT.NS,"L Catterton Backs Glance, the AI Personal Shopper Vying for Future of Commerce",WWD,negative,0.566,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 04:48:21,M&M.NS,Storm Over M Kharge's 'Baap' Retort Against PM Modi. Then A 'Misunderstanding' Twist,NDTV,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:21,M&M.NS,"‘Clayface’ Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger – Global Box Office",Deadline,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:21,M&M.NS,Dongfeng launches M-Hero X700 SUV with Huawei intelligence,CarNewsChina.com,positive,0.5815,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 04:48:21,M&M.NS,Saiee M Manjrekar’s first look from Ram Charan-backed period drama ‘The India House’ leaked,Telangana Today,positive,0.4242,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 04:48:21,M&M.NS,Meet M Padmavathi from Tamil Nadu: She founded a trust after dreaming of becoming a collector; 17 years l,The Times of India,positive,0.4255,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-26 04:48:21,MARUTI.NS,"Weekly Recap: FY2025-26 record sales and Suzuki ~Rs 77,500 crore investment",TradingView,positive,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:22,MARUTI.NS,"Weekly News Wrap: Festive Sales Surge, Citroen Eyes India EV Production, BKT-Pirelli Plan JV",Autocar Professional,positive,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:26,NTPC.NS,"Q2 results this week: Over 450 companies to announce earnings; Coal India, NTPC, L&T, Maruti Suzuki, Vedanta in focus - Full list",ET Now,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:28,POWERGRID.NS,Jyoti Structures (NSE:JYOTISTRUC): Did It Win a Rs 949 Crore HVDC Order from Power Grid?,Kalkine India,positive,0.6683,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:33,SBIN.NS,"Weekly Recap: SBIN cyber incident response and insurer notified of ₹1,425 crore claim",TradingView,neutral,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:37,TATAMOTORS.NS,"Weekly News Wrap: Festive Sales Surge, Citroen Eyes India EV Production, BKT-Pirelli Plan JV",Autocar Professional,positive,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:40,TATACONSUM.NS,"Q2 Results LIVE Updates: Infosys, Kotak Bank react to earnings; Tata Consumer, Paytm report today",IndiaIPO,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:40,TATACONSUM.NS,"Q2 Results, Oct 26: Paytm, Tata Consumer, Ather Energy, Mankind Pharma, REC, Bank of Maharashtra, Sona BLW Precision, others to post earnings",Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:40,TATACONSUM.NS,India’s Earnings Diary Is Packed For October 26th,Finimize,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:40,TATACONSUM.NS,"Q2 Results Monday: Tata Consumer, Paytm, Mankind Pharma among 55 companies to announce earnings on October 26",ET Now,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:40,TATACONSUM.NS,"Top Q2 results today, October 26: Tata Consumer Products, Paytm, Mankind Pharma, ITC Hotels, REC among companies to announce earnings",Business Upturn,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-26 04:48:42,TECHM.NS,"Weekly Recap: Q2 revenue, PAT growth and 1:1 bonus issue",TradingView,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
