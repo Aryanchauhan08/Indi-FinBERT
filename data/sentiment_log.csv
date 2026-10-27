@@ -6541,3 +6541,120 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-27 05:06:34,ULTRACEMCO.NS,CP Capital board approves corrigendum for ₹151.44 warrant issue,scanx.trade,positive,0.7182,AUTO_ACCEPTED,indi-finbert
 2026-10-27 05:06:34,ULTRACEMCO.NS,"Gayatri Projects becomes debt-free on borrowings from banks and financial institutions, boosting financial health",scanx.trade,positive,0.7458,AUTO_ACCEPTED,indi-finbert
 2026-10-27 05:06:37,WIPRO.NS,"TCS, Infosys, HCLTech, Wipro, TechM add 13,918 employees in Q2",Moneycontrol.com,neutral,0.9134,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:14,MARUTI.NS,"Maruti Suzuki Q2 results: Net profit falls 26% to Rs 2,466 crore as West Asia conflict hits margins, offsets record sales",moneycontrol,negative,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:14,BAJAJ-AUTO.NS,"Bajaj Auto Q2 results: Net profit jumps 35% to Rs 3,354 crore as exports surge; revenue up 34%",moneycontrol,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:14,BPCL.NS,BPCL target cut to Rs 385 as high crude prices threaten near-term earnings,moneycontrol,negative,0.9409,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:14,CIPLA.NS,"Cipla Q2 results: Net profit plunges 35% to Rs 878 crore, revenue down 2.4% YoY; stock falls",moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:15,ADANIENT.NS,"Nifty, Sensex close flat amid pressure from high crude prices and caution ahead of US Fed policy",The Tribune,neutral,0.681,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:15,ADANIENT.NS,"Jio Platforms shares to list on BSE, NSE tomorrow; GMP signals 22% premium",The Economic Times,positive,0.8679,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:15,ADANIENT.NS,Jabil signs 50:50 AI venture with Adani before Adani Enterprises stock results,ad-hoc-news.de,positive,0.6268,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:16,ADANIENT.NS,"Cantor Fitzgerald sets INR 3,254.00 target for Adani Enterprises stock",ad-hoc-news.de,positive,0.4032,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:18,ADANIPORTS.NS,Stock recommendations for 27 October from MarketSmith India,Livemint,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:18,ADANIPORTS.NS,"Adani Group stocks today, October 27: Adani Energy Solutions and Adani Green Energy gain, Ambuja Cement falls",Business Upturn,negative,0.7004,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:19,APOLLOHOSP.NS,"Why stock market ended mixed today: Sensex, Nifty flat as Midcap Index gains 565 points",IndiaIPO,neutral,0.7078,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:19,APOLLOHOSP.NS,"Sensex, Nifty end flat in volatile trade; midcaps rally 565 points, Tata Consumer shines",NewsDrum,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:21,ASIANPAINT.NS,"Indian Stock Market: Sensex and Nifty Trade Flat Amid IT Sell-Off, Broader Markets Outperform",Pragativadi,neutral,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:21,ASIANPAINT.NS,"Sensex, Nifty end flat in volatile trade; midcaps rally 565 points, Tata Consumer shines",NewsDrum,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:21,ASIANPAINT.NS,Asian Paints Q2 FY27 Outlook: 5 Key Things to Watch as the Stock Trades at 2021 Levels,Trade Brains,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:22,AXISBANK.NS,Markets end little changed as oil prices rise and bank stocks fall,Awaz The Voice,negative,0.6826,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:22,AXISBANK.NS,India stocks lower at close of trade; Nifty 50 down 0.02%,Investing.com,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:22,AXISBANK.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:23,AXISBANK.NS,"Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",The Economic Times,neutral,0.8862,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:23,AXISBANK.NS,PSU vs private banks: The real story behind the Q2 divergence,The Economic Times,neutral,0.8824,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:23,BAJAJ-AUTO.NS,Bajaj Auto appoints Madhusudan Gopalan as Chief Product Officer effective 16 November 2026,Business Upturn,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:23,BAJAJ-AUTO.NS,Bajaj Auto appoints Pallavi Joshi Bakhru as non-executive independent director,Business Upturn,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:24,BAJAJ-AUTO.NS,"Bajaj Auto Q2 Results: Profit jumps 35% YoY to Rs 3,354 crore; revenue up 34%",The Economic Times,positive,0.8978,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:24,BAJAJ-AUTO.NS,"Bajaj Auto Q2 FY27 results: Profit jumps 35% to ₹3,354 crore, revenue rises 34% to ₹20,003 crore",Fortune India,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:24,BAJAJ-AUTO.NS,"Bajaj Auto Q2 earnings: Revenue hits Rs 20,000 crore mark for first time, net profit rises 35%",Business Today,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:25,BAJFINANCE.NS,"Trade Spotlight: How should you trade BSE, Mankind Pharma, Bajaj Finserv, Bharti Airtel, Zydus...",Moneycontrol.com,neutral,0.941,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:25,BAJFINANCE.NS,Dalal Street Diwali sale: Kotak adds 5 midcaps with up to 37% upside — Full list,The Financial Express,positive,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:25,BAJFINANCE.NS,Bajaj Auto appoints Madhusudan Gopalan as Chief Product Officer effective 16 November 2026,Business Upturn,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:25,BAJFINANCE.NS,Bajaj Auto appoints Pallavi Joshi Bakhru as non-executive independent director,Business Upturn,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:30,BHARTIARTL.NS,"Trade Spotlight: How should you trade BSE, Mankind Pharma, Bajaj Finserv, Bharti Airtel, Zydus...",Moneycontrol.com,neutral,0.941,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:30,BHARTIARTL.NS,India stocks lower at close of trade; Nifty 50 down 0.02%,Investing.com,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:30,BHARTIARTL.NS,India shares lower at close of trade; Nifty 50 down 0.02%,Investing.com India,negative,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:30,BHARTIARTL.NS,"Jio Platforms shares to list on BSE, NSE tomorrow; GMP signals 22% premium",The Economic Times,positive,0.8679,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:30,BHARTIARTL.NS,Jio Could Debut As Indias Second-Most Valuable Listed Company,Free Press Journal,positive,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:34,CIPLA.NS,Cipla Q2 Results: Profit falls 35% YoY to Rs 878 crore; revenue slips 2%,The Economic Times,negative,0.8936,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:34,CIPLA.NS,"Earnings Central: L&T, Bajaj Auto, Maruti Suzuki, Cipla headline Tuesday’s Q2 results",CNBC TV18,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:34,CIPLA.NS,Cipla Q2 Results: Profit Falls 35% to Rs. 878 Crore,Analytics Insight,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,India stocks lower at close of trade; Nifty 50 down 0.02%,Investing.com,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,"Coal India spends ₹7,996 crore in H1 FY27, exceeds capex target by 9%",Business Standard,positive,0.8384,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,Zetwerk Manufacturing Businesses Ltd (ZETWERK) Share Price,Business Today,neutral,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,India shares lower at close of trade; Nifty 50 down 0.02%,Investing.com India,negative,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,"Coal India Records 27% Capex Growth In H1 FY27, Investments Hit ₹7,966 Crore, Surpassing Targets",Free Press Journal,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:35,COALINDIA.NS,Coal India's capex improves 27% in H1 FY27 business update; what investors need to know ahead of Q2 results,Upstox,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:40,GRASIM.NS,S H Kelkar receives cautionary letters from BSE and NSE for compliance delay,scanx.trade,negative,0.6392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:40,GRASIM.NS,TNA Solutions Ltd Share Price,Business Today,neutral,0.7303,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:41,GRASIM.NS,"Taking Stock: Sensex, Nifty end flat amid F&O expiry volatility; Fed decision in focus",TradingView,neutral,0.6974,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:41,GRASIM.NS,"Share Market Today: Nifty 50, Bank Nifty | Oct 27, 2026",Liquide Blog,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:44,HDFCBANK.NS,HDFC Bank CEO Transition: Anup Bagchi Takes Charge,Kalkine India,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:44,HDFCBANK.NS,"Gravita India Q2 Results: Revenue Jumps 37%, Rs 7.7 Interim Dividend Declared; Check Record Date",NDTV Profit,positive,0.8775,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:44,HDFCBANK.NS,"Anup Bagchi takes charge as HDFC Bank CEO amid governance concerns, internal probe and leadership changes",IBTimes India,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:47,HEROMOTOCO.NS,"Hero MotoCorp allocates 20,615 equity shares under Employee Incentive Scheme",Business Upturn,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:47,HEROMOTOCO.NS,KNR Constructions announces financial closure for NH-167 project,Business Upturn,negative,0.6675,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:47,HEROMOTOCO.NS,Lloyds Metals And Energy announces agreements for stake acquisition in Amplus firms,Business Upturn,neutral,0.4794,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:47,HEROMOTOCO.NS,KNR Constructions project worth Rs. 157.54 crore revoked by GHMC,Business Upturn,negative,0.7164,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:47,HEROMOTOCO.NS,Tata Power signs MoU with BPCL for ₹250 crore power infrastructure project,Business Upturn,positive,0.6998,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:48,HEROMOTOCO.NS,"Hero MotoCorp Q2 Preview: Profit Seen Rising 7%, Margins Under Pressure From Commodity Costs",NDTV Profit,positive,0.5859,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:53,ITC.NS,India stocks lower at close of trade; Nifty 50 down 0.02%,Investing.com,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:53,ITC.NS,India shares lower at close of trade; Nifty 50 down 0.02%,Investing.com India,negative,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:53,ITC.NS,"ITC Hotels shares extend rally for second day, rise 6% post-strong Q2; brokerages bullish, check share...",Moneycontrol.com,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:53,ITC.NS,ITC schedules November 2 results. Investors value ITC stock at 16.41 times earnings,ad-hoc-news.de,positive,0.7126,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:55,INDUSINDBK.NS,IndusInd Bank Q2 FY27 Earnings Call Transcript Now Available,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:57,INFY.NS,"Infosys, TCS, Coforge shares: IT stocks fall after Anthropic IPO filing; here's why -",IndiaIPO,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:57,INFY.NS,"Stock market ends flat as Infosys drags IT stocks, defence shares rally",TradingView,neutral,0.4671,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:57,INFY.NS,Infosys Successfully Delivers Syngenta's Global SAP S/4HANA Transformation for Crop Protection Business,PR Newswire,positive,0.3973,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:54:58,JSWSTEEL.NS,JSW Steel Limited Just Beat EPS By 34%: Here's What Analysts Think Will Happen Next,Simply Wall Street,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:58,JSWSTEEL.NS,"JSW Cement details utilisation of Rs 16,000 million IPO proceeds for September 2026 quarter",Business Upturn,neutral,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:58,JSWSTEEL.NS,JSW Cement expands production with ₹509 crore investment in Vijayanagar and more,Business Upturn,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:58,JSWSTEEL.NS,Vardhman Special Steels appoints Iwao Shimamoto as non-executive director,Business Upturn,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:54:58,JSWSTEEL.NS,Gravita India records Rs. 2902 crore revenue in H1FY27 amidst strategic expansions,Business Upturn,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:00,KOTAKBANK.NS,Ahead of Market: 10 things that will decide stock market action on Tuesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:00,KOTAKBANK.NS,"Jio Platforms shares to list on BSE, NSE tomorrow; GMP signals 22% premium",The Economic Times,positive,0.8679,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:02,LT.NS,Libya says int'l aviation restrictions removed after 11 years | Daily Sabah,Daily Sabah,positive,0.3679,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:02,LT.NS,"Defender 3.0L Diesel 130 X On Road Price, Features & Specs, Images",CarDekho,positive,0.568,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:02,LT.NS,Modular quantum computing takes shape with l-couplers,IBM,neutral,0.5892,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:02,LT.NS,"Defender 3.0L Diesel 110 X On Road Price, Features & Specs, Images",CarDekho,positive,0.6714,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:02,LT.NS,Form 4 ONEOK: Kevin L. Burdick (Officer) For: 23 September By Investing.com,Investing.com India,neutral,0.7731,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:03,LTIM.NS,LTM (NSE:LTM) Wins Up to USD 100 Million Banking Engagement,Kalkine India,positive,0.694,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:06,M&M.NS,Dinosaur skeleton goes to auction in New York with £4.5m price tag,BBC,neutral,0.6556,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:06,M&M.NS,"Tamil Nadu revises building rules, raises height limit for non-high-rise buildings to 19.5 m",The New Indian Express,neutral,0.3884,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:06,M&M.NS,Australian billionaire Packer paid $1.25m to law firm defending Netanyahu – report,The Times of Israel,neutral,0.6321,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:06,MARUTI.NS,Maruti Suzuki India to establish Osamu Suzuki Centre of Excellence Foundation,Business Upturn,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:06,MARUTI.NS,"Maruti Suzuki India reports Q2 FY'27 net sales of ₹506,155 million, increasing 26.1%",Business Upturn,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:07,MARUTI.NS,"Maruti Suzuki Q2 results: Net profit falls 26% to Rs 2,466 crore as West Asia conflict hits margins,...",Moneycontrol.com,negative,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:07,MARUTI.NS,"Maruti Suzuki Q2 Results: Profit falls 26% YoY to Rs 2,466 crore, but revenue rises 26%",The Economic Times,negative,0.8928,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:07,MARUTI.NS,"Maruti Suzuki Q2 FY27 results: Net profit falls 26% to ₹2,466 crore as revenue jumps 26% to ₹53,356 crore",Fortune India,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:07,MARUTI.NS,"Maruti Suzuki India Q2 net profit falls 26.36%to Rs 2,466 crore; revenue rises on record sales",Deccan Herald,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:07,MARUTI.NS,Maruti Suzuki flags West Asia-linked commodity costs as margins come under pressure,The Economic Times,negative,0.8933,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:09,NTPC.NS,NTPC in Focus on Coal Supply Normalisation Outlook (NSE:NTPC),Kalkine India,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:10,NTPC.NS,"Power sector set for stronger Q2 earnings as demand rises; NTPC, Tata Power among top picks: Elara Capital",CNBC TV18,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:11,ONGC.NS,ONGC (NSE:ONGC) In Spotlight As Crude Prices Ease,Kalkine India,positive,0.6169,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:11,ONGC.NS,JM Financial keeps INR 300 target for Oil and Natural Gas Corporation stock,ad-hoc-news.de,positive,0.7229,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:14,RELIANCE.NS,Reliance sets October 30 results and debt review for Reliance Industries stock,ad-hoc-news.de,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:14,RELIANCE.NS,"Jio IPO to list tomorrow; GMP signals 22% premium, analysts recommend investors to stay invested",Fortune India,positive,0.6887,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:14,RELIANCE.NS,"Jio Platforms IPO Allotment Finalised: Steps to check status online via PAN on KFin Tech, NSE, BSE; demat credit and listing date",Upstox,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:14,RELIANCE.NS,"Jio Platforms IPO listing date and time, share price prediction, expected gains, latest GMP; all eyes on NSE, BSE debut",Livemint,neutral,0.8405,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:16,SBILIFE.NS,SBI Life Q2 Results: Net Profit Up 10% To Rs 549 Crore,NDTV Profit,positive,0.8778,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:16,SBILIFE.NS,SBI Life Insurance reports a 19% increase in value of new business to ₹ 32.7 billion,Business Upturn,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:16,SBILIFE.NS,IndusInd General Insurance Appoints Sharad Mathur as MD & CEO,Business Upturn,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:17,SBILIFE.NS,Earnings call transcript: SBI Life posts strong H1 2027 growth as stock slips 0.65%,Investing.com India,negative,0.5949,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:17,SBILIFE.NS,SBI Life Insurance Company Q2 2027 Earnings Call Is Live,TradingView,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:17,SBIN.NS,India stocks lower at close of trade; Nifty 50 down 0.02%,Investing.com,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:17,SBIN.NS,India shares lower at close of trade; Nifty 50 down 0.02%,Investing.com India,negative,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:19,SUNPHARMA.NS,Sensex falls over 300 points as crude hovers near USD 115,Awaz The Voice,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:19,SUNPHARMA.NS,"Closing Bell: Sensex, Nifty end flat; Smallcap stocks rally, Media index jumps nearly 4%",Zee Business,positive,0.736,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:20,TATAMOTORS.NS,"Indian Stock Market: Sensex and Nifty Trade Flat Amid IT Sell-Off, Broader Markets Outperform",Pragativadi,neutral,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:20,TATAMOTORS.NS,Tata Motors Holds an outside organisation Offer Amid Shareholder Push (NSE:TATAMOTORS),Kalkine India,positive,0.5166,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:20,TATAMOTORS.NS,Tata Motors' bid to takeover Iveco clears 80% acceptance threshold,Business Standard,positive,0.8889,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:20,TATAMOTORS.NS,S H Kelkar receives cautionary letters from BSE and NSE for compliance delay,scanx.trade,negative,0.6392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-27 15:55:20,TATAMOTORS.NS,"Coal India spends ₹7,996 crore in H1 FY27, exceeds capex target by 9%",Business Standard,positive,0.8384,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:25,TATACONSUM.NS,"Tata Consumer Q2 Profit Rises 15.65%, Revenue Up 14% on India Biz",Rediff MoneyWiz,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:25,TATACONSUM.NS,"Tata consumer Q2 net profit up despite higher costs, weak tea demand",The Economic Times,positive,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:25,TATACONSUM.NS,Tata Consumer’s Newer Brands Won Over Analysts After Earnings,Finimize,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:25,TATACONSUM.NS,Tata Consumer soars 6% after Q2: Why brokerages cut target prices by nearly 14%,The Financial Express,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:26,TCS.NS,"Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history",Yahoo Finance UK,neutral,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:27,TECHM.NS,"Stock Markets Fall In Early Trade Amid Persistently Elevated Crude Oil Prices, IT Selling",Outlook India,negative,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:27,TECHM.NS,"Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",Livemint,neutral,0.8321,AUTO_ACCEPTED,indi-finbert
+2026-10-27 15:55:31,ULTRACEMCO.NS,"UltraTech Cement (NSE:ULTRACEMCO) Capacity, Plants and Green Power Update",Kalkine India,neutral,0.5419,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
