@@ -6658,3 +6658,102 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-27 15:55:27,TECHM.NS,"Stock Markets Fall In Early Trade Amid Persistently Elevated Crude Oil Prices, IT Selling",Outlook India,negative,0.7455,AUTO_ACCEPTED,indi-finbert
 2026-10-27 15:55:27,TECHM.NS,"Jio Platforms IPO allotment status finalised! Did you get shares - check from direct Kfin tech, NSE website links",Livemint,neutral,0.8321,AUTO_ACCEPTED,indi-finbert
 2026-10-27 15:55:31,ULTRACEMCO.NS,"UltraTech Cement (NSE:ULTRACEMCO) Capacity, Plants and Green Power Update",Kalkine India,neutral,0.5419,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:27,RELIANCE.NS,"Jio Platforms becomes 12th Reliance Group company to list on NSE, says CEO Ashishkumar Chauhan",moneycontrol,positive,0.9234,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:28,ADANIENT.NS,Gift Nifty Points to Weak Start as Crude Tops $115,HDFC Sky,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:28,ADANIENT.NS,"Q2 Results, Oct 28: HUL, Adani Ports, Adani Enterprises, TVS Motor, Hyundai Motor, Hero MotoCorp, Meesho, others to post earnings",Upstox,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:28,ADANIENT.NS,"Jio Platforms lists at 21% premium, becomes India's 2nd-most valuable firm",Business Standard,positive,0.8968,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:28,ADANIENT.NS,Adani flagship’s US$10 bil wipeout raises stake for earnings,The Edge Malaysia,positive,0.7355,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:31,APOLLOHOSP.NS,Jupiter Life Line Hospitals Limited Just Missed EPS By 76%: Here's What Analysts Think Will Happen Next,Simply Wall Street,negative,0.5868,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:34,AXISBANK.NS,Axis Bank is in focus during the private-bank Q2 FY27 results season.,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:36,BAJAJ-AUTO.NS,"Bajaj Auto Q2 Results: Revenue crosses ₹20,000 Crore, Net Profit jumps 35%",HT Auto,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:36,BAJAJ-AUTO.NS,"Bajaj Auto Q2 Profit Rises 35% To Rs 3,354 Cr As Revenue Hits Record",BW Auto World,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:37,BAJFINANCE.NS,"ADITYA BIRLA SUN LIFE BSE TOTAL MARKET ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:37,BAJFINANCE.NS,"SENSEX, NIFTY50 end rangebound session on a flat note; Tata Consumer, Bharti Airtel top gainers",Upstox,neutral,0.7192,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:37,BAJFINANCE.NS,"Bajaj Electricals grants 88,222 stock options under PSOP Plan 2023",Business Upturn,neutral,0.3816,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:38,BAJAJFINSV.NS,"ADITYA BIRLA SUN LIFE BSE TOTAL MARKET ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:38,BAJAJFINSV.NS,Dalal Street Diwali sale: Kotak adds 5 midcaps with up to 37% upside — Full list,The Financial Express,positive,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:40,BHARTIARTL.NS,India shares lower at close of trade; Nifty 50 down 0.02% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:40,BHARTIARTL.NS,India Readies for Largest-Ever IPO,RealMoney Pro,neutral,0.401,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:40,BHARTIARTL.NS,"Jio IPO listing: How LIC, Reliance Power, NSE, LG, Hyundai, Paytm fared on debut day",Business Today,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:42,BRITANNIA.NS,Britannia Industries under watch in the Q2 FY27 FMCG focus,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:43,CIPLA.NS,Cipla Q2 FY27 Profit Falls 35% to ₹878 Crore as One India Posts Record Quarter and US Inhaler Pipeline Builds,eHealth Magazine,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:43,CIPLA.NS,"Stock Picks Today: Maruti Suzuki, Bajaj Auto, L&T, Paytm, SBI Life, And More On Brokerages' Radar",NDTV Profit,neutral,0.8612,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:43,CIPLA.NS,Cipla grants stock options and ESARs under employee benefit schemes,Business Upturn,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:44,CIPLA.NS,"Indian drugmaker Cipla misses profit view on US weakness, shares slip",Reuters,negative,0.914,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:44,CIPLA.NS,"Cipla’s US recovery, biosimilar pipeline key to future growth prospects",The Economic Times,positive,0.8895,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:44,CIPLA.NS,Cipla Q2 FY27 earnings awaited on a heavy results day,Kalkine India,positive,0.4448,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:45,COALINDIA.NS,"Coal India (NSE:COALINDIA) Capex Rises 27% to ₹7,966 Crore in H1 FY27, Crossing Half-Year Target",Kalkine India,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:46,DIVISLAB.NS,Missed Divi's Laboratories' Rally? Here's What Holders Saw,Yahoo Finance,negative,0.413,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:50,GRASIM.NS,"ADITYA BIRLA SUN LIFE BSE TOTAL MARKET ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:51,HCLTECH.NS,"Stock Markets Today: Sensex, Nifty Tumble as IT Stocks, Crude Prices Weigh",Rediff,negative,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:51,HCLTECH.NS,"Jio Platforms Ltd Share Price Today,, JPL Share Price NSE, BSE",Business Today,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:52,HDFCBANK.NS,"A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide?",The Economic Times,negative,0.464,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:52,HDFCBANK.NS,Jio Platforms Lists Today; How 10 Major IPOs Performed Debut Day,HDFC Sky,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:52,HDFCBANK.NS,"Anup Bagchi takes charge as HDFC Bank MD & CEO amid growth, governance challenges",Fortune India,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:52,HDFCBANK.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:52,HDFCBANK.NS,Jio becomes India’s second-most valuable company at ₹12.5 lakh crore; Reliance Group overtakes Tata Group as top conglomerate,Fortune India,positive,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:54,HDFCLIFE.NS,HDFC Life seeks member nod for GIFT City insurance office,scanx.trade,neutral,0.7328,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:56,HEROMOTOCO.NS,"Top Q2 results today, October 28: Adani Enterprises, Hindustan Unilever, Hero MotoCorp, Hyundai Motor India, TVS Motor among companies to report earnings",Business Upturn,neutral,0.7372,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:57,HINDALCO.NS,Hindalco Industries in focus as Nifty Metal sentiment firms,Kalkine India,neutral,0.6999,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:58,HINDUNILVR.NS,Hindustan Unilever Q2 profit rises 6% on strong demand offsets rising costs,Yahoo Finance Singapore,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:58,HINDUNILVR.NS,Hindustan Unilever declares interim dividend of ₹19 per share for FY 2026-27,Business Upturn,neutral,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:58,HINDUNILVR.NS,"Hindustan Unilever reports turnover of ₹18,071 crores for September 2026 quarter",Business Upturn,neutral,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:58,HINDUNILVR.NS,Polycab India retains listing on MSCI Index as NCLAT issues directive,Business Upturn,neutral,0.7276,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:42:58,HINDUNILVR.NS,"Schaeffler India faces INR 13,85,25,490 GST penalty",Business Upturn,neutral,0.5393,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:42:59,HINDUNILVR.NS,"HUL, Hyundai Motors, Vedanta, Bandhan Bank, United Spirits Q2 Results Today — Earnings Estimates",NDTV Profit,neutral,0.8729,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:01,ITC.NS,India shares lower at close of trade; Nifty 50 down 0.02% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:01,ITC.NS,"Why stock market ended mixed today: Sensex, Nifty flat as Midcap Index gains 565 points",IndiaIPO,neutral,0.7078,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:03,INFY.NS,Infosys draws four downgrades in a day on weaker annual sales outlook,Business Standard,negative,0.8937,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:03,INFY.NS,Infosys to hold investor roadshows in London and Edinburgh in November,scanx.trade,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:05,JSWSTEEL.NS,JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart,Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:05,JSWSTEEL.NS,Jindal Stainless (NSE:JSL): Q2 FY27 Sales and Margin Trends,Kalkine India,neutral,0.7353,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:05,JSWSTEEL.NS,"Metal sector stocks today, October 28: Welspun Corp jumps 5.44%, NALCO up 3.88%, Hindustan Zinc gains 2.09%",Business Upturn,positive,0.7416,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:06,KOTAKBANK.NS,"Bank Stocks Q2 FY27: 25% profit jump likely as FCNR(B) inflows surge; why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:06,KOTAKBANK.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:06,KOTAKBANK.NS,"ADITYA BIRLA SUN LIFE BSE TOTAL MARKET ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:08,LT.NS,I Put L’Oréal Paris Revitalift to the Test—These Products Impressed Me Most,Vogue,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:08,LT.NS,"Nuveen Municipal Credit Opportunities Fund trustee Robert Young L buys $248,882 in stock By Investing.com",Investing.com India,positive,0.556,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:08,LT.NS,"47.57L voters yet to figure in draft roll, SIR claims window to close on October 30",The New Indian Express,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:11,M&M.NS,Nanotyrannus: Dinosaur skeleton sells for $47.3m in New York auction,BBC,neutral,0.6611,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:11,M&M.NS,CMF Speaker M Review: This Bluetooth Speaker Sparks Joy,Gizmodo,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:11,M&M.NS,Mochatrade raises $6m to open US stocks to Indian traders,FinTech Global,positive,0.722,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:11,M&M.NS,"2026 LiveLaw (SC) 1092 | M/S. LAKSHMI SUGAR MILLS CO. LTD. VERSUS COMMISSIONER OF INCOME TAX, DELHI -II",Live Law,neutral,0.7383,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:11,M&M.NS,Snowmountain AI raises $2.31M early VC round led by Globalway,Dealroom,positive,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,Maruti Suzuki (NSE:MARUTI) Approves OSCOE Foundation as Section 8 Subsidiary,Kalkine India,neutral,0.6096,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,"Five Stocks To Buy Today, October 28: Union Bank, Birla Cable, NSE, And More",NDTV Profit,neutral,0.7521,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,S H Kelkar receives cautionary letters from BSE and NSE for compliance delay,scanx.trade,negative,0.6392,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,Earnings call transcript: Maruti Suzuki posts record sales in Q2 2027 By Investing.com,Investing.com India,positive,0.7518,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,Maruti Q2 net misses street view despite record quarterly sales,The Economic Times,negative,0.893,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:12,MARUTI.NS,Maruti Suzuki Q2 FY27 Results: Why Selling a Record 6.97 Lakh Cars Did Not Mean Higher Profit,NiftyTrader,positive,0.5389,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:13,NESTLEIND.NS,Low volatility index funds: why they fell more than the market,Value Research,negative,0.6745,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:13,NESTLEIND.NS,"Double-digit profit growth, stocks down up to 43%: 4 names worth a fresh look",The Financial Express,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:14,NTPC.NS,Renewable Energy Stocks Surge Up to 10% as Indian Benchmark Indices Remain Flat (27 October 2026),SolarQuarter,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:14,NTPC.NS,"Coal India spends ₹7,996 crore in H1 FY27, exceeds capex target by 9%",Business Standard,positive,0.8384,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:17,POWERGRID.NS,Jyoti Structures secures Rs. 648.91 crore order for transmission line project in Gujarat,Business Upturn,positive,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:18,RELIANCE.NS,"#Watch | NSE MD & CEO Ashish Chauhan welcomes Jio Platforms to the exchange, calling NSE and Jio two key pillars of India’s growth story. Jio Platforms becomes the 12th company from Reliance Industries to list on the NSE. #JioPlatforms #NSE #Reliance",LinkedIn,positive,0.6924,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:18,RELIANCE.NS,Reliance Industries Limited. . Jio IPO Listing Ceremony,Facebook,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:18,RELIANCE.NS,Ambani's Jio surges 21% in Mumbai debut after record $3.2 billion India IPO,Reuters,positive,0.9174,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:19,RELIANCE.NS,Jio makes its D-Street debut: What it means for Reliance Industries investors and the road ahead,The Economic Times,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:19,SBILIFE.NS,"SBI Life launches Waiver of Premium rider, ensuring continuity of policyholders long-term financial plans",TheWire.in,neutral,0.5827,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:19,SBILIFE.NS,SBI Life Insurance Co Ltd (NSE:SBILIFE) (Q2 2027) Earnings Call Highlights: Strong VONB Margin ...,Yahoo Finance,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:19,SBILIFE.NS,"Stock Picks Today: Maruti Suzuki, Bajaj Auto, L&T, Paytm, SBI Life, And More On Brokerages' Radar",NDTV Profit,neutral,0.8612,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:20,SBILIFE.NS,Earnings call transcript: SBI Life posts strong H1 2027 growth as stock slips 0.65% By Investing.com,Investing.com India,negative,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:20,SBILIFE.NS,SBI Life Insurance Q2 Results: Net profit grows 11% YoY to Rs 549 crore,The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:21,SBIN.NS,India shares lower at close of trade; Nifty 50 down 0.02% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:21,SBIN.NS,"Fortune India Banking & NBFCs Summit 2026: Technology, governance, and AI reshape India’s banking sector",Fortune India,neutral,0.6997,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:21,SBIN.NS,"Bank Stocks Q2 FY27: 25% profit jump likely as FCNR(B) inflows surge; why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:21,SBIN.NS,SBI Funds Management: Seeks Exchange Nod for Promoter Reclassification,InvestyWise,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:22,SUNPHARMA.NS,"ADITYA BIRLA SUN LIFE BSE TOTAL MARKET ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:22,SUNPHARMA.NS,"Operating Margin Above 30 Per Cent Stocks 2026: Sun Pharma, HAL",Univest,positive,0.7211,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:23,TATAMOTORS.NS,"Tata Motors (NSE:TMCV) Electric Truck Deal for 3,000 Units in India",Kalkine India,positive,0.5979,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 05:43:23,TATAMOTORS.NS,Tata Motors (NSE:TMCV) Overseas Tender Offer: Provisional Results Out,Kalkine India,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:25,TATASTEEL.NS,"Q2 Results, Oct 28: HUL, Adani Ports, Adani Enterprises, TVS Motor, Hyundai Motor, Hero MotoCorp, Meesho, others to post earnings",Upstox,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:25,TATASTEEL.NS,Tata Electronics Exports Near ₹1 Lakh Crore in FY26,Urban Acres,positive,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:28,TCS.NS,"NSE, Sensex Today: Stock Market Latest News; Infosys, TCS, HCLTech Fall, L&T, Bajaj Auto Gain",The Sunday Guardian,positive,0.6892,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:29,TECHM.NS,"Jio Platforms Ltd Share Price Today,, JPL Share Price NSE, BSE",Business Today,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:29,TECHM.NS,Sensex falls 700 points: 3 reasons why the stock market is down today,India Today,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:29,TECHM.NS,"Stock Markets Today: Sensex, Nifty Tumble as IT Stocks, Crude Prices Weigh",Rediff,negative,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:29,TECHM.NS,"Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained",NDTV Profit,negative,0.8731,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:29,TECHM.NS,EverestIMS Technologies Ltd Share Price,Business Today,neutral,0.73,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:34,WIPRO.NS,"Jio Platforms Ltd Share Price Today,, JPL Share Price NSE, BSE",Business Today,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 05:43:34,WIPRO.NS,EverestIMS Technologies Ltd Share Price,Business Today,neutral,0.73,AUTO_ACCEPTED,indi-finbert
