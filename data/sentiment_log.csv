@@ -6757,3 +6757,76 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-28 05:43:29,TECHM.NS,EverestIMS Technologies Ltd Share Price,Business Today,neutral,0.73,AUTO_ACCEPTED,indi-finbert
 2026-10-28 05:43:34,WIPRO.NS,"Jio Platforms Ltd Share Price Today,, JPL Share Price NSE, BSE",Business Today,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
 2026-10-28 05:43:34,WIPRO.NS,EverestIMS Technologies Ltd Share Price,Business Today,neutral,0.73,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:00,TATASTEEL.NS,"Diwali stock picks 2026: SBI Securities’ 11 recommendations for Samvat 2083; Tata Steel, IHCL among top bets",moneycontrol,neutral,0.5358,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:00,RELIANCE.NS,"Jio Listing: Reliance Industries, Jio Platforms become India's No. 1 and No. 2 most valuable firms",moneycontrol,positive,0.9452,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:00,RELIANCE.NS,Jio IPO helps Reliance overtake Tata Group as India's most valuable conglomerate,moneycontrol,positive,0.9367,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:00,MARUTI.NS,"Buy Maruti Suzuki; target of Rs 13,750: Prabhudas Lilladher",moneycontrol,positive,0.9428,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:00,SBILIFE.NS,Buy SBI Life Insurance Company; target of Rs 2200: Prabhudas Lilladher,moneycontrol,positive,0.9395,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:00,CIPLA.NS,Neutral Cipla; target of Rs 1450: Motilal Oswal,moneycontrol,neutral,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:01,ADANIENT.NS,Adani Enterprises NSE:ADANIENT Q2 FY27 Unaudited Results,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:01,ADANIENT.NS,Coal India Share Price - Live NSE: COALINDIA Stock Price & Chart,Upstox,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:02,ADANIENT.NS,Adani Flagship’s $10 Billion Wipeout Raises Stake for Earnings,Bloomberg.com,positive,0.732,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:02,ADANIENT.NS,"Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore, profit at Rs 1,492 crore",The Economic Times,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:02,ADANIENT.NS,"Adani Enterprises Limited Reports Earnings Results for the Second Quarter and Six Months Ended September 30, 2026",marketscreener.com,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:02,ADANIENT.NS,"Adani Enterprises Q2 Results: Net profit falls 55% to ₹1,492 crore, revenue up 75%",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:02,ADANIENT.NS,"Adani Enterprises' profit fell 55% to ₹1,492 crore: Revenue rose 75% in Q2; profit declined due to expenses...",Bhaskar English,negative,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:03,ADANIPORTS.NS,"Adani Ports Revenue Crosses Rs 11,300 Crore In Q2, Raises FY27 Outlook",NDTV,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:03,ADANIPORTS.NS,"APSEZ Q2 Net Profit Rises 18 Pc To Rs 3,682.44 Cr On Higher Revenues",ETV Bharat,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:03,ADANIPORTS.NS,"APSEZ delivers 24% revenue & 23% EBITDA growth in Q2 FY27, raises FY27 revenue and EBITDA guidance band by ₹1,000 Cr each",IndianMandarins,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:03,ADANIPORTS.NS,"Adani Ports Q2 FY27: Revenue up 24%, EBITDA up 23%; company raises FY27 guidance by ₹1,000 crore each",Oneindia,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:04,APOLLOHOSP.NS,"Top gainers and losers, Oct 28: Infosys, RIL shares fall 3%; Apollo Hospitals, L&T gain 4%",Upstox,negative,0.706,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:04,APOLLOHOSP.NS,India shares lower at close of trade; Nifty 50 down 0.22% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:04,APOLLOHOSP.NS,"Sensex Falls 353 Points, Nifty Slips Below 22,700 as IT Stocks Drag Markets",News Mobile,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:04,APOLLOHOSP.NS,News | Indian Markets Cautious Amid Rupee Weakness and Global Uncertainty,Kalkine India,negative,0.7041,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:09,BAJAJ-AUTO.NS,"NSE, Sensex Today: Stock Market Latest News; Infosys, TCS, HCLTech Fall, L&T, Bajaj Auto Gain",The Sunday Guardian,positive,0.6892,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:10,BAJAJ-AUTO.NS,"Auto biggies Q2 result compared: Bajaj Auto vs Maruti Suzuki - Who wins the earnings race? Profit, revenue, target price",Livemint,neutral,0.8405,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:10,BAJAJ-AUTO.NS,Maruti Q2 net misses street view despite record quarterly sales,The Economic Times,negative,0.893,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:10,BAJAJ-AUTO.NS,"Bajaj Auto Hits Record Revenue of ₹25,000 Cr: Can Strong EV Sales Drive Further Growth?",Trade Brains,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:11,BAJFINANCE.NS,Cinevista Limited (NSE:CINEVISTA) Confirms Q2 FY27 Financial Results Published in Newspapers,Kalkine Media,neutral,0.739,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:11,BAJFINANCE.NS,Aegis Logistics (NSE:AEGISLOG) Publishes Q2 FY27 Financial Results in Leading Newspapers,Kalkine Media,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:12,BAJAJFINSV.NS,Cinevista Limited (NSE:CINEVISTA) Confirms Q2 FY27 Financial Results Published in Newspapers,Kalkine Media,neutral,0.739,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:12,BAJAJFINSV.NS,Aegis Logistics (NSE:AEGISLOG) Publishes Q2 FY27 Financial Results in Leading Newspapers,Kalkine Media,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:14,BPCL.NS,"BPCL, Indian Oil, HPCL: Oil-sensitive stocks fall as crude oil prices jump 2% to $116/barrel; Nifty Oil & Gas down 2.2%",Upstox,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:14,BPCL.NS,Bharat Petroleum Corporation Limited Just Missed Earnings - But Analysts Have Updated Their Models,Simply Wall Street,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:15,BHARTIARTL.NS,"Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm",Reuters,positive,0.9114,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:15,BHARTIARTL.NS,Bharti Airtel Earnings Webinar Q2 FY27 | NSE:BHARTIARTL,Kalkine India,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:21,COALINDIA.NS,Coal India Q2 FY27 Results on Oct 29: Will a Second Payout Cushion a 31.6% Profit Drop?,NiftyTrader,negative,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:28,HCLTECH.NS,HCLTech Nano GCC on AWS: AI Capability Centers Launched,Kalkine India,positive,0.5282,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:29,HDFCBANK.NS,HDFC Bank in focus during private-bank Q2 results season,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:33,HEROMOTOCO.NS,"Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",The Economic Times,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:33,HEROMOTOCO.NS,Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge,The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:33,HEROMOTOCO.NS,Hero MotoCorp misses quarterly profit estimates as costs rise in India,Traders Union,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:33,HEROMOTOCO.NS,"Hero, TVS and Bajaj outshine carmakers with record profit growth amid West Asia blues",Livemint,positive,0.8429,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:33,HEROMOTOCO.NS,"Q2 results: Adani Enterprises, APSEZ, Hero MotoCorp, 141 more on Oct 28",Business Standard,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:35,HINDUNILVR.NS,"HUL posts 15% sales growth, declares ₹19 dividend; stock falls 1.8%",TradingView,negative,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:35,HINDUNILVR.NS,Hindustan Unilever (NSE:HINDUNILVR): Has the Q2 FY27 Earnings Call Recording Been Made Available?,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:35,HINDUNILVR.NS,Hindustan Unilever subsidiary voluntarily liquidated in Brazil with no operational impact,Business Upturn,neutral,0.6324,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:36,HINDUNILVR.NS,"HUL Q2 Results: Net profit rises 4% YoY to Rs 2,790 crore; Rs 19/share dividend declared",The Economic Times,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:36,HINDUNILVR.NS,"HUL Q2 results: Net profit rises 4% to ₹2,790 crore, volume growth at 7%",Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:36,HINDUNILVR.NS,HUL Q2 Results: Revenue growth highest in 14 quarters; Volumes increase by 7%,CNBC TV18,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:36,HINDUNILVR.NS,Hindustan Unilever quarterly profit rises on stronger India demand,Traders Union,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:40,INDUSINDBK.NS,"IndusInd Bank (NSE:INDUSINDBK) Grants 55,106 ESOPs Following RBI Approval",Kalkine India,neutral,0.4689,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:41,INFY.NS,Infosys Finacle Deploys Universal Banker at UNI Canada,Kalkine India,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:41,INFY.NS,"Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash",NDTV,negative,0.7196,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:41,INFY.NS,Canada's UNI Financial Cooperation Advances Branch Modernization with Infosys Finacle Universal Banker,Morningstar,positive,0.5727,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:41,INFY.NS,"NSE, Sensex Today: Stock Market Latest News; Infosys, TCS, HCLTech Fall, L&T, Bajaj Auto Gain",The Sunday Guardian,positive,0.6892,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:48,LT.NS,BJP names Hardeep Puri for L Murugan's RS seat from MP,Rediff,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:48,LT.NS,"Govt has Rs 1.4L cr for Musi project, but no money for farmers: Sabitha",The Times of India,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:48,LT.NS,Canon EF 70-300mm f/4-5.6L IS USM,PetaPixel,neutral,0.7081,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:48,LT.NS,"Nuveen Municipal Credit Opportunities Fund trustee Robert Young L buys $248,882 in stock",Investing.com India,neutral,0.5152,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:51,M&M.NS,Wealthsimple raises CAD $425m at CAD $13.8bn valuation,FinTech Global,positive,0.7287,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:51,M&M.NS,"​An old Brisbane hospital outbuilding was transformed into a five-bedroom home, with its industrial sawto",The Times of India,positive,0.3875,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:39:51,M&M.NS,Uno Minda taps $10.5M in commercial paper to fund expansion push,Dealroom,positive,0.6739,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:52,MARUTI.NS,"Subros Shares Jump on Rs 1,225 Crore Maruti Suzuki Order",Univest,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:53,MARUTI.NS,Maruti profit declines 27% despite record quarterly sales,The Times of India,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:53,MARUTI.NS,"Maruti Suzuki India's First-Half Profit Skids Despite Record Revenue, Sales Volume",marketscreener.com,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:53,MARUTI.NS,Maruti Suzuki’s quarterly profit falls 26.36% in spite of record vehicle sales,Kashmir Reader,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:59,POWERGRID.NS,Power Grid Corporation (NSE:POWERGRID): Board to Meet on 1 Nov for Q2 Results and Interim Dividend?,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:39:59,POWERGRID.NS,Power Grid in Focus: PM-DHARA Transmission Spending in View,Kalkine India,neutral,0.735,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:01,RELIANCE.NS,Businesses and investors of Ambani's Jio as it debuts on Indian bourses,Reuters,neutral,0.9129,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:01,RELIANCE.NS,Reliance Industries Shares Fall 2% After Jio Platforms Listing; Q2 Results on October 30,India Infoline,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:02,RELIANCE.NS,"RIL shares in focus ahead of Oct 30 earnings, fundraising decision; all eyes on Jio’s mega listing",The Economic Times,neutral,0.8395,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:04,SBILIFE.NS,"SBI Life Insurance Q2 FY27: net profit up 10.9% YoY to ₹549 Cr as net premium income rises to ₹26,877 Cr",Trade Brains,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:08,TATAMOTORS.NS,NSE Trading Halt in 2021: What Went Wrong and Why?,HDFC Sky,neutral,0.3792,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-28 16:40:08,TATAMOTORS.NS,Jio Platforms Listing: Revisiting the Debut Performance of 10 Major Indian IPOs,HDFC Sky,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-28 16:40:15,TITAN.NS,Titan Company NSE:TITAN Incorporates Wholly Owned Unit in Canada,Kalkine India,neutral,0.696,AUTO_ACCEPTED,indi-finbert
