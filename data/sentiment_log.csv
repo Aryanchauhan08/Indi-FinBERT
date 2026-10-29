@@ -6830,3 +6830,70 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-28 16:40:08,TATAMOTORS.NS,NSE Trading Halt in 2021: What Went Wrong and Why?,HDFC Sky,neutral,0.3792,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-10-28 16:40:08,TATAMOTORS.NS,Jio Platforms Listing: Revisiting the Debut Performance of 10 Major Indian IPOs,HDFC Sky,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
 2026-10-28 16:40:15,TITAN.NS,Titan Company NSE:TITAN Incorporates Wholly Owned Unit in Canada,Kalkine India,neutral,0.696,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:16,SBILIFE.NS,"SBI Life: Nomura retains 'Buy' and top pick status, cuts target price to Rs 2,340",moneycontrol,positive,0.4826,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:16,ADANIPORTS.NS,"Adani Ports shares gain 2% after Q2 profit rises 18%; Emkay, Jefferies raise targets, what brokerages say",moneycontrol,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:16,TATACONSUM.NS,"Trade Spotlight: How should you trade Lenskart Solutions, Tata Consumer Products, BSE, Lumax Auto Tech, Nykaa, and others on October 29?",moneycontrol,neutral,0.9438,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:18,ADANIENT.NS,"Adani Enterprises, Adani Ports, Adani Green: Adani Group stocks surge over 4% amid Q2 momentum; what do analysts predict?",Upstox,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:18,ADANIENT.NS,"Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar",NDTV Profit,neutral,0.8674,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:18,ADANIENT.NS,Adani Enterprises Q2 net profit falls 55% despite 75% increase in revenue,The Economic Times,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:18,ADANIENT.NS,Adani Enterprises Q2 profit drops 55% even as operating earnings surge 62%,Business Standard,negative,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:18,ADANIENT.NS,Earnings call transcript: Adani Enterprises posts record H1 FY2027 growth By Investing.com,Investing.com India,positive,0.7763,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:19,ADANIPORTS.NS,"Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar",NDTV Profit,neutral,0.8674,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:20,ADANIPORTS.NS,Adani Ports raises FY27 guidance after 24% revenue growth,Indian Transport & Logistics,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:20,ADANIPORTS.NS,"APSEZ delivers 24% revenue and 23% EBITDA growth in Q2 FY27, raises FY27 revenue and EBITDA guidance band by ₹1,000 Cr each",Adani,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:21,APOLLOHOSP.NS,India stocks lower at close of trade; Nifty 50 down 0.22%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:22,ASIANPAINT.NS,"Q2 results, Oct 29: Coal India, IndiGo, Asian Paints, Vedanta Power, Trent, Ambuja Cements, Suzlon Energy, others to post earnings",Upstox,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:22,ASIANPAINT.NS,India’s BSE 500 Faces A Packed Earnings Diary On October 29th,Finimize,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:22,ASIANPAINT.NS,"Q2 Results Today, October 29: Coal India, Asian Paints, IndiGo, Trent, Suzlon among 140+ companies announcing earnings",ET Now,neutral,0.7167,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:22,ASIANPAINT.NS,"Top Q2 results today, October 29: Asian Paints, Coal India, IndiGo, Ambuja Cements, Suzlon Energy among companies to report earnings",Business Upturn,neutral,0.7331,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:23,AXISBANK.NS,Tejas Networks ICRA Credit Rating Reaffirmed at A+ and A1+,Kalkine India,positive,0.6738,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:23,AXISBANK.NS,"Top stock to buy today: Jefferies India sees 29% upside in NSE share price in upside scenario | Target price, rationale",Livemint,positive,0.8456,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:23,AXISBANK.NS,Baja Auto Q2 FY27 Results | Cipla Q2 FY27 Results | Top Buzzing Stocks Today,Equitymaster,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:25,BAJAJ-AUTO.NS,Bajaj Auto Q2 Profit Rises 35%,India Business Trade,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:25,BAJAJ-AUTO.NS,"Hero, TVS and Bajaj outshine carmakers with record profit growth amid West Asia blues",Livemint,positive,0.8429,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:25,BAJAJ-AUTO.NS,"Schaeffler India Q3 Revenue Rises 27.4% To Rs 3,006 Cr, Margins Narrow",BW Auto World,positive,0.7133,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:27,BAJAJFINSV.NS,"Sensex rises over 150 points, Nifty trades above 22,730 amid elevated crude oil prices",DD India,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:27,BAJAJFINSV.NS,"Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",The New Indian Express,positive,0.5073,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:27,BAJAJFINSV.NS,"Sensex gains over 150 points, Nifty crosses 22,730",Awaz The Voice,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:30,BHARTIARTL.NS,Bharti Hexacom (NSE:BHARTIHEXA) Announces Earnings Webinar on 6 November 2026 for Q2 FY27 Results,Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:33,CIPLA.NS,Cipla NSE:CIPLA Q2 FY27 Results Newspaper Publication,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:34,COALINDIA.NS,Can Coal India (NSE:COALINDIA) Retain Momentum as Costs Rise?,Kalkine India,neutral,0.7264,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:42,HDFCBANK.NS,"Sensex rises over 150 points, Nifty trades above 22,730 amid elevated crude oil prices",DD India,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:42,HDFCBANK.NS,"Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",The New Indian Express,positive,0.5073,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:42,HDFCBANK.NS,"Sensex gains over 150 points, Nifty crosses 22,730",Awaz The Voice,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:42,HDFCBANK.NS,HDFC Bank Stock Update: Shares Edge Lower Amid Leadership Transition,LatestLY,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:45,HEROMOTOCO.NS,"Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar",NDTV Profit,neutral,0.8674,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:45,HEROMOTOCO.NS,Hero MotoCorp Q2 FY27 Results and Rs 300 Crore Subsidiary Investment,Kalkine India,neutral,0.6374,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:46,HEROMOTOCO.NS,Hero Motocorp Dealer Near Me - Hero MotoCorp shares in spotlight after Q2 revenue jumps 11 PAT surges 14,auroradesio.it,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:46,HEROMOTOCO.NS,"Hero MotoCorp Q2FY27 results: Net profit soars 42% to ₹1,861 crore",Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:46,HEROMOTOCO.NS,"Hero MotoCorp Q2 Results: Standalone profit rises 4.6% to Rs 1,456 Crore, revenue jumps 21.1%",ET Now,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:48,HINDUNILVR.NS,"Stock Picks Today: HUL, TVS Motor, NSE, Meesho, Pidilite, And More On Brokerages' Radar",NDTV Profit,neutral,0.8674,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:48,HINDUNILVR.NS,Hindustan Unilever (NSE:HINDUNILVR) Q2 FY27 Results and ₹19 Interim Dividend,Kalkine India,neutral,0.72,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:49,HINDUNILVR.NS,"Q2 Results, Oct 28: HUL, Adani Ports, Adani Enterprises, TVS Motor, Hyundai Motor, Hero MotoCorp, Meesho, others to post earnings",Upstox,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:49,ICICIBANK.NS,"Jio Platforms gains 27% on day one of listing, becomes second most valued company in India",YourStory.com,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:53,INFY.NS,"SENSEX, NIFTY50 edge higher led by gains in IT heavyweights HCL Tech, TCS, Infosys",Upstox,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:53,INFY.NS,"Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",The New Indian Express,positive,0.5073,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:53,INFY.NS,"Sensex gains over 150 points, Nifty crosses 22,730",Awaz The Voice,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:54,JSWSTEEL.NS,SAIL NSE: New Government Nominee Directors Appointed,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:56,KOTAKBANK.NS,"Sensex rises over 150 points, Nifty trades above 22,730 amid elevated crude oil prices",DD India,positive,0.743,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:58,LT.NS,Delhi SIR: Only 2.7L file Form 6 for 47L voter deletions,The New Indian Express,neutral,0.5323,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:58,LT.NS,Delhi SIR: Only 2.7L Form 6 applications filed despite 47L name deletions,Rediff,neutral,0.5943,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:48:58,LT.NS,Form 4 Dow Inc: Jeffrey L. Tate (CFO) For: 26 October By Investing.com,Investing.com India,neutral,0.7741,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:48:58,LT.NS,"No. of int'l visitors smashes annual mark early, set to break 20M",Korea.net,positive,0.7381,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:01,M&M.NS,61-m girders installed for Bengaluru-Hosur rail project,The New Indian Express,positive,0.6579,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:01,M&M.NS,Upwind raises $400M after walking away from Datadog acquisition offer,TechCrunch,positive,0.6362,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:49:01,M&M.NS,Trump admin hit with $461M lawsuit as embassy fight started under Biden comes back to haunt State Dept,Fox News,negative,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:01,M&M.NS,Overturned lorry's loaf load causing delays on A1(M),BBC,negative,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:01,M&M.NS,Indian Navy conducts Rafale M trials in Goa,Asian Military Review,neutral,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:08,POWERGRID.NS,Power Grid Corporation NSE:POWERGRID Q2 FY27 Results Board Meeting,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:10,RELIANCE.NS,"Jio Platforms lists on NSE as 3,138th company, making Ambani family proud with a 21.36% surge",The Economic Times,positive,0.8898,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:10,RELIANCE.NS,Reliance Group overtakes Tata’s by market valuation thanks to blockbuster debut of Jio Platforms,Telangana Today,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:10,RELIANCE.NS,Jio Platforms IPO In Photos: Ambani Family Shares Special Moments At NSE Listing Ceremony,Outlook India,neutral,0.5096,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:49:11,SBILIFE.NS,SBI LIFE INSURANCE FUTURES Price Chart — NSE:SBILIFEF2027,TradingView,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:17,TATASTEEL.NS,"Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",The New Indian Express,positive,0.5073,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:49:17,TATASTEEL.NS,Reliance Group overtakes Tata’s by market valuation thanks to blockbuster debut of Jio Platforms,Telangana Today,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:17,TATASTEEL.NS,"A big box of opportunity? ₹10,000 crore container scheme puts Kalyani Cast-Tech, Jupiter Wagons in focus",Upstox,positive,0.3611,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-29 05:49:17,TATASTEEL.NS,"Metal sector stocks today, October 29: APL Apollo Tubes jumps 2.22%, Coal India up 0.99%, Vedanta rises 0.67%",Business Upturn,positive,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:17,TATASTEEL.NS,Diwali 2026 stock picks: SBI Securities names 11 Muhurat stocks for Samvat 2083,The Financial Express,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:18,TATACONSUM.NS,"₹1,224: That's What Analysts Think Tata Consumer Products Limited (NSE:TATACONSUM) Is Worth After Its Latest Results",Simply Wall St,positive,0.7261,AUTO_ACCEPTED,indi-finbert
+2026-10-29 05:49:21,TECHM.NS,"Sensex Falls 602 Points, Nifty 50 Slips 0.60% as IT and FMCG Stocks Face Selling Pressure",Dalal Street Investment Journal,negative,0.7441,AUTO_ACCEPTED,indi-finbert
