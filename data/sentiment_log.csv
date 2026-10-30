@@ -6985,3 +6985,70 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-29 16:58:28,TATASTEEL.NS,"Diwali stocks 2026: Tata Steel, MCX, IHCL and 8 more to add sparkle to shares portfolio in Samvat 2083 | Full list",Livemint,neutral,0.8402,AUTO_ACCEPTED,indi-finbert
 2026-10-29 16:58:28,TATASTEEL.NS,"Sensex rises over 150 points, Nifty trades above 22,730 amid elevated crude oil prices",DD India,positive,0.743,AUTO_ACCEPTED,indi-finbert
 2026-10-29 16:58:39,WIPRO.NS,Wipro NSE:WIPRO Completes FLARRE.AI Stake Acquisition,Kalkine India,neutral,0.63,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:04,ADANIPORTS.NS,Adani Ports places $3.3 billion bid for Evos Terminals; stock falls 1%,moneycontrol,negative,0.9413,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:04,HEROMOTOCO.NS,Buy Hero MotoCorp; target of Rs 6450: Choice Institutional Equities,moneycontrol,positive,0.9393,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:04,COALINDIA.NS,Coal India Q2 FY27: Weak monsoon helps cut coal stockpile by half,moneycontrol,negative,0.4828,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:04,RELIANCE.NS,"Reliance Industries Q2 results: Profit may top Rs 21,000 crore as refining, Jio drive earnings",moneycontrol,positive,0.9459,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:05,RELIANCE.NS,"Reliance Industries & Jio Platforms Q2 Results Live: RIL, Jio to announce September-quarter earnings today",moneycontrol,neutral,0.9416,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:05,ASIANPAINT.NS,Asian Paints Q2 FY27: Industrial strength offsets decorative margin pressure,moneycontrol,neutral,0.5267,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:05,ADANIENT.NS,Adani Enterprises Limited Share Price and Technical Levels,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:05,ADANIENT.NS,India stocks higher at close of trade; Nifty 50 up 1.05%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:05,ADANIENT.NS,"Benchmarks rise over 1% on positive Q2 earnings, easing crude prices",Business Standard,positive,0.8968,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:06,ADANIENT.NS,"Adani Enterprises shares: AEL targets by Cantor Fitzgerald, MOFSL, IIFL and Jefferies",Business Today,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:07,ADANIPORTS.NS,Adani Ports stock climbs over 5 pc after Q2 profit rises,The Siasat Daily,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:09,APOLLOHOSP.NS,"Apollo Hospitals, Bannerghatta Road performs the first surgery on Da Vinci 5 Robotic Surgical System in India",India's News.Net,neutral,0.4181,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:11,ASIANPAINT.NS,Asian Paints Q2 Review: Paintmaker Sees At Least Three Target Price Cuts After Q2 Earnings Miss Estimates,NDTV Profit,negative,0.6439,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:11,ASIANPAINT.NS,"Stock Picks Today: Asian Paints, Trent, TCS, Suzlon Energy, And More On Brokerages' Radar",NDTV Profit,neutral,0.8669,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:12,AXISBANK.NS,"Sensex, Nifty open marginally higher amid rising crude prices, weak global cues",www.malaysiasun.com,negative,0.3972,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:12,AXISBANK.NS,"Axis Trustee gives Yes Bank three working days to restore ₹8,415 crore AT1 bonds",Livemint,neutral,0.8352,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:15,BAJAJ-AUTO.NS,Tata Safari EV Expected to Launch in January with Powerful Battery Options,Udaipur Kiran,positive,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:15,BAJFINANCE.NS,"Trade Spotlight: How should you trade Lodha Developers, Saregama India, Bajaj Finance, Zensar Tech,...",Moneycontrol.com,neutral,0.9426,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:15,BAJFINANCE.NS,"Indian Equities Rally: Sensex Jumps 905 Pts, Nifty Tops 22,900",Rediff,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:15,BAJFINANCE.NS,"Sensex, Nifty open marginally higher amid rising crude prices, weak global cues",www.malaysiasun.com,negative,0.3972,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:15,BAJFINANCE.NS,"Sensex surges 905 pts, Nifty tops 22,900",Rediff,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:19,BHARTIARTL.NS,Bharti Airtel Stock Update: Shares See Marginal Intraday Dip,LatestLY,negative,0.7366,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:24,COALINDIA.NS,Coal India falls 3% post Q2 results but brokerages upbeat on PSU stock,Business Standard,negative,0.8916,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:24,COALINDIA.NS,Coal India (NSE:COALINDIA) Q2 FY27 Results and Interim Dividend,Kalkine India,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:24,COALINDIA.NS,"Coal India Q2 Profit Jumps 57% to ₹6,547 Cr; Revenue Up 21%",HDFC Sky,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:34,HDFCBANK.NS,"HDFC Bank Q2 Results Good Or Bad: Largest Indian Bank Earns Rs 19,510 Crore Profit, NII Up 10% YoY; Highlights",Goodreturns,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:40,HINDUNILVR.NS,HUL and Nestlé India Post Divergent Q2 Results as Brokerages Split on FMCG Outlook,finance.biggo.com,neutral,0.6942,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:41,ICICIBANK.NS,"Union Bank Of India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:41,ICICIBANK.NS,"ZF Commercial Vehicle Control Systems India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:41,ICICIBANK.NS,"BLS Polymers IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time revealed",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:41,ICICIBANK.NS,ICICI Prudential Nifty Pharma ETF,ET Now,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:42,ICICIBANK.NS,HDFC Bank vs ICICI Bank: Rivalry between India's biggest private banking stocks heats up; one offers up to 68% upside - Which should you buy?,ET Now,neutral,0.7318,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:48,KOTAKBANK.NS,Kotak Mahindra Bank Limited Share Price and Technical Levels,Kalkine India,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:49,KOTAKBANK.NS,"Top 3 stocks to buy tomorrow: Kotak Mahindra Bank, Nykaa, Eternal by market expert; check stop-loss, target price",Livemint,neutral,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:51,LT.NS,"Murugan calls rumours about his resignation libel, baseless",The New Indian Express,negative,0.6993,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:51,LT.NS,Form 4 HealthStream Inc: Trisha L. Coady (Executive Vice President) For: 29 October By Investing.com,Investing.com India,neutral,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:51,LT.NS,L'Examen global 2026 met en lumière les partenariats pour le commerce et le développement,World Trade Organization,neutral,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:51,LT.NS,"Duo drug 70-year-old farmer, flee with Rs 2.9L",The Times of India,negative,0.6315,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:54,M&M.NS,Trump’s plea – ‘pretend I’m on the ballot’ – deserves to backfire | Margaret Sullivan,The Guardian,neutral,0.6747,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:54,M&M.NS,SuperMe raises $20M for its network of AI expert profiles,TechCrunch,positive,0.7049,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:54,M&M.NS,Binance Hack Update: Arbitrum Security Council Freezes $30.5M,Disruption Banking,negative,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:54,M&M.NS,Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction,TechCrunch,positive,0.6032,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:49:54,M&M.NS,Wabi reels in $55M for its consumer-focused AI assistant,SiliconANGLE,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:56,MARUTI.NS,Maruti Suzuki India Ltd (BOM:532500) (Q2 2027) Earnings Call Highlights: Record Sales Volume ...,Yahoo Finance,positive,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:57,NESTLEIND.NS,"Patanjali Foods Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:58,NTPC.NS,NTPC Green Energy declares commercial operation of 95.6 MW Kalasar Solar project,Business Upturn,neutral,0.7047,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:49:59,NTPC.NS,"Q2 Results, Oct 30: Reliance Industries, Jio Platforms, BEL, IOCL, Varun Beverages, Bank of Baroda, NTPC Green, others to post earnings",Upstox,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:02,POWERGRID.NS,Power Grid Corporation of India Limited Share Price and Technical Levels,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:04,RELIANCE.NS,"Reliance Industries Q2 results 2026 today: Preview, should you buy, sell or hold ahead of earnings? Experts' views",Livemint,neutral,0.8437,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:04,RELIANCE.NS,Reliance Industries Q2 results today: Can the old economy rescue the new Reliance?,The Economic Times,neutral,0.894,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:04,RELIANCE.NS,Reliance Industries Q2 Results 2026 LIVE: Reliance Stock Price Trades Near 52-Week Low; Check RIL Q2 Preview,Goodreturns,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:04,SBILIFE.NS,India stocks higher at close of trade; Nifty 50 up 1.05%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:08,SUNPHARMA.NS,"Stock Market Today: Sensex Rises, Nifty 50 Near 23,000; Trent Zooms 6%, Sun Pharma 2%; RIL, Jio Platforms Q2 Results Eyed",NDTV Profit,positive,0.8656,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:08,SUNPHARMA.NS,"Q2 Results Today, October 30: Reliance Industries, Jio Platforms, Sun Pharma, BEL, Indian Oil among 200+ companies announcing earnings",ET Now,neutral,0.7247,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:08,SUNPHARMA.NS,"Top Q2 results today, October 30: Bharat Electronics, Sun Pharma, Bank of Baroda, IOC, Varun Beverages among companies to report earnings",Business Upturn,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:09,TATAMOTORS.NS,Tata Motors TMCV LTIP Share Allotment October 2026,Kalkine India,neutral,0.7301,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:09,TATAMOTORS.NS,Bondada Engineering Lists on NSE Main Board,Machine Maker,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:09,TATAMOTORS.NS,"Tata Motors allots 41,981 equity shares under long term incentive scheme",Business Upturn,neutral,0.6284,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:50:10,TATAMOTORS.NS,Tata Safari EV Expected to Launch in January with Powerful Battery Options,Udaipur Kiran,positive,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:11,TATASTEEL.NS,Stock Market Today: Sensex And Nifty Jump Amid Buying In IT Stocks; Trent Up 6%,ETV Bharat,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:15,TECHM.NS,"Markets extend previous session's rally amid buying in IT firms, earnings-driven demand in Trent",The New Indian Express,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:15,TECHM.NS,How to Judge a Stock's Move After Q2 FY27 Results: 4 Checks,Value Research,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:15,TECHM.NS,"Sensex, Nifty open marginally higher amid rising crude prices, weak global cues",www.malaysiasun.com,negative,0.3972,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-10-30 05:50:16,TECHM.NS,AI boosts productivity but Indian IT’s quarterly revenue-per-employee growth remains flat,Moneycontrol.com,neutral,0.691,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:16,TECHM.NS,"Stock Markets Today: Sensex, Nifty Up on Gains in IT Stocks",Rediff,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:16,TECHM.NS,"Coal India Q2 results: Net profit rises 53% YoY to Rs 6,516 crore, misses estimate; revenue up 20.9%",Business Upturn,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-10-30 05:50:21,WIPRO.NS,Wipro (NSE:WIPRO): Has the FLARRE.AI Acquisition Been Completed?,Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
