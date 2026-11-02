@@ -7139,3 +7139,148 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-10-30 16:44:27,WIPRO.NS,"Indian IT stocks in green as Alphabet sees worst day ever; Infosys, Wipro among top gainers",The Indian Express,positive,0.744,AUTO_ACCEPTED,indi-finbert
 2026-10-30 16:44:27,WIPRO.NS,"ZF Commercial Vehicle Control Systems India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
 2026-10-30 16:44:27,WIPRO.NS,Cognizant Q3 results: What global IT giant's revenue growth mean for the Indian IT stocks? Brokerages weigh in,ET Now,neutral,0.7025,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,NTPC.NS,NTPC: Strong power demand and capacity expansion to drive growth,moneycontrol,positive,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,SUNPHARMA.NS,Buy Sun Pharma; target of Rs 2300: Choice Institutional Equities,moneycontrol,positive,0.9311,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,ASIANPAINT.NS,"BPCL, HPCL, Asian Paints gain over 2% as Brent crude slips below $110; IndiGo, SpiceJet advance",moneycontrol,positive,0.9447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,BPCL.NS,"BPCL, HPCL, Asian Paints gain over 2% as Brent crude slips below $110; IndiGo, SpiceJet advance",moneycontrol,positive,0.9447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,RELIANCE.NS,"Reliance Industries shares jump nearly 8% after record Q2 results; top Nifty gainer, biggest index contributor",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,RELIANCE.NS,"Reliance Industries stock outlook bullish on strong O2C earnings, steady Jio growth; check target prices, upside",moneycontrol,positive,0.9448,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,ADANIPORTS.NS,"Trade Spotlight: How should you trade HCL Technologies, Titan Company, Kotak Mahindra Bank, Persistent Systems, Adani Ports, and others on November 2?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,HCLTECH.NS,"Trade Spotlight: How should you trade HCL Technologies, Titan Company, Kotak Mahindra Bank, Persistent Systems, Adani Ports, and others on November 2?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,KOTAKBANK.NS,"Trade Spotlight: How should you trade HCL Technologies, Titan Company, Kotak Mahindra Bank, Persistent Systems, Adani Ports, and others on November 2?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:17,TITAN.NS,"Trade Spotlight: How should you trade HCL Technologies, Titan Company, Kotak Mahindra Bank, Persistent Systems, Adani Ports, and others on November 2?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:18,MARUTI.NS,"Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales",moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:18,TATAMOTORS.NS,"Maruti Suzuki, Tata Motors PV, other auto stocks rise up to 3% amid strong October sales",moneycontrol,positive,0.9469,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:20,ADANIPORTS.NS,"Adani Ports achieves 27% cargo volume growth in Oct'26, handling 51 MMT",Business Upturn,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:20,ADANIPORTS.NS,"Schaeffler India reports 27.4% revenue growth in Q3 2026, reaching INR 30.1bn",Business Upturn,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:22,APOLLOHOSP.NS,"Geopolitical tensions, crude oil prices, and Q2 earnings to dictate market trends",Rediff,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:24,AXISBANK.NS,"FUNDVIEW Indian stocks may recover on steady growth and earnings, Axis AMC says",Reuters,positive,0.9155,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:24,AXISBANK.NS,Weekly Recap: Loan slowdown & NIM squeeze and Domestic corporate loan rise,TradingView,neutral,0.6439,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:24,AXISBANK.NS,Axis Bank AXISBANK: Girish Paranjpe Ceases as Independent Director,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:24,AXISBANK.NS,EAAA India Alternatives Ltd. Share Price Live Today,CNBC TV18,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:24,AXISBANK.NS,EAAA India Alternatives shares to list today: Check GMP ahead of market debut,The Economic Times,neutral,0.8881,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:28,BAJFINANCE.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:30,BAJAJFINSV.NS,"Geopolitical risks, crude oil and earnings to steer markets this week",Business Standard,neutral,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:30,BPCL.NS,"Key facts: NSE:BPCL Q2 profit; diesel duty raised, petrol duty cut",TradingView,neutral,0.6102,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:30,BPCL.NS,"Oil Stocks Today: HPCL, BPCL, IOCL Rally After Export Duty Revision",Outlook Money,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:30,BPCL.NS,Weekly Recap: Q2 earnings & capex plan and export duty changes,TradingView,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:30,BPCL.NS,"MK Sons Fine Jewels IPO allotment: How to check status online on NSE, BSE, Bigshare Services; listing date, time here",Upstox,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:31,BPCL.NS,"IOC, BPCL, HPCL clock ₹30,106 cr Q2 profit, nearly 39% of last year's annual earnings",ET EnergyWorld,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:31,BPCL.NS,"IOC, BPCL, HPCL Post Rs 30,106 Crore Q2 Profit, Clock 39% Of Annual Earnings",Times Now,neutral,0.6279,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:32,BHARTIARTL.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:32,BHARTIARTL.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:33,BRITANNIA.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:33,BRITANNIA.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:35,CIPLA.NS,"Weekly Recap: Cipla Ltd Q2 revenue, profit decline and FDA VAI Verna Goa",TradingView,negative,0.3854,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:35,CIPLA.NS,Pfizer stock faces India plant closure risk before results,ad-hoc-news.de,negative,0.6965,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:36,COALINDIA.NS,Coal India COALINDIA October 2026 Production Offtake Data,Kalkine India,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:36,COALINDIA.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:36,COALINDIA.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:36,COALINDIA.NS,Bharat Coking Coal BHARATCOAL October 2026 Production Update,Kalkine India,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:36,COALINDIA.NS,"Metal sector stocks today, November 2: Tata Steel jumps 4.15%, Jindal Steel gains 3.74%, Coal India up 3.98%",Business Upturn,positive,0.738,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:37,COALINDIA.NS,"Coal India Business Update: Production Up 19%, BCCL Output Nears 3 Million Tons YoY",NDTV Profit,positive,0.8769,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:39,DRREDDY.NS,Pfizer stock faces India plant closure risk before results,ad-hoc-news.de,negative,0.6965,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:44,HCLTECH.NS,Quess Corp (NSE:QUESS) Confirms Publication of Q2 FY27 Financial Results in Newspapers,Kalkine Media,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:44,HCLTECH.NS,Affle (NSE:AFFLE) Secures Perion Acquisition for Approximately $420 Million: Key Insights,Kalkine Media,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:44,HCLTECH.NS,Affle (NSE:AFFLE) to Acquire Perion Network for Approximately $420 Million: Key Details and Implications,Kalkine Media,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:44,HCLTECH.NS,Meesho (NSE:MEESHO) ESOP 2024 Grant: What It Means for Employees and Investors,Kalkine Media,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:45,HDFCBANK.NS,"Weekly Recap: 52-week low, YTD -31% and Anup Bagchi CEO, governance",TradingView,negative,0.7321,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:45,HDFCBANK.NS,EAAA India Alternatives shares make a muted market debut; stocks list on flat note,Business Today,neutral,0.6133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:45,HDFCBANK.NS,Weekly Recap: Loan slowdown & NIM squeeze and Domestic corporate loan rise,TradingView,neutral,0.6439,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:45,HDFCBANK.NS,Apollo Pipes (NSE:APOLLOPIPE) Credit Rating Upgraded to AA- by ICRA: Key Reasons Explained,Kalkine Media,positive,0.6927,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:45,HDFCBANK.NS,Affle (NSE:AFFLE) Secures Perion Acquisition for Approximately $420 Million: Key Insights,Kalkine Media,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:47,HDFCLIFE.NS,Top 6 Insurance Stocks To Buy In India In November 2026,Samco,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:48,HDFCLIFE.NS,FII retreat deepens: Almost every second Nifty stock sees stake cuts in all 3 quarters of 2026,The Economic Times,negative,0.8435,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:48,HEROMOTOCO.NS,"At 1 million each, legacy two-wheeler brands accelerate EV capacity build-up as startups lose ground",Moneycontrol.com,positive,0.9252,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:48,HEROMOTOCO.NS,Wall Street rushes in with bullish calls on India’s top bourse,The Economic Times,positive,0.8918,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:48,HEROMOTOCO.NS,Hero MotoCorp October sales rise 16% to 7.34 lakh units; scooters drive growth,The Financial Express,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:48,HEROMOTOCO.NS,Coal India reports 19.3% increase in October coal production,Business Upturn,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:49,HEROMOTOCO.NS,"Stocks in news: Reliance Industries, Jio Platforms, M&M, CDSL, ITC, NTPC, IOCL and Hero MotoCorp",The Economic Times,neutral,0.8916,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:49,HEROMOTOCO.NS,Hero MotoCorp Dispatches Up 16% in October to 7.34 Lakh Units,HDFC Sky,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:49,HEROMOTOCO.NS,"Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week",Dailyhunt,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,"EAAA India Alternatives makes muted debut, lists at less than 1% premium",Business Standard,negative,0.4697,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,Apollo Pipes (NSE:APOLLOPIPE) Credit Rating Upgraded to AA- by ICRA: Key Reasons Explained,Kalkine Media,positive,0.6927,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,Affle (NSE:AFFLE) Secures Perion Acquisition for Approximately $420 Million: Key Insights,Kalkine Media,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,Affle (NSE:AFFLE) to Acquire Perion Network for Approximately $420 Million: Key Details and Implications,Kalkine Media,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,Quess Corp (NSE:QUESS) Confirms Publication of Q2 FY27 Financial Results in Newspapers,Kalkine Media,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:53,ICICIBANK.NS,"Interim Q2 Review: Strongest Earnings Growth In 12 Quarters As BFSI, Metals Drive Outperformance, Says Motilal Oswal",NDTV Profit,positive,0.8757,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:54,ITC.NS,"ITC Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:54,ITC.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:54,ITC.NS,Weekly Recap: FMCG EBIT & volumes and Hotels Q2 EBITDA & occupancy,TradingView,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:54,ITC.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:54,ITC.NS,ITC Q2 results: Net profit likely to see double-digit fall due to subdued cigarette business growth,Upstox,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:55,ITC.NS,"ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target",IndiaIPO,neutral,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:56,INDUSINDBK.NS,Weekly Recap: Q2 PAT Rs12.4bn and focus on secured retail & MSME lending,TradingView,neutral,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:56,INDUSINDBK.NS,"Banking sector stocks today, November 2: Utkarsh Small Finance Bank jumps 4.19%, Bank of Baroda gains 3.22%; Federal Bank falls 1.59%",Business Upturn,positive,0.7147,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:59,JSWSTEEL.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:01:59,JSWSTEEL.NS,"Metal sector stocks today, November 2: Tata Steel jumps 4.15%, Jindal Steel gains 3.74%, Coal India up 3.98%",Business Upturn,positive,0.738,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:01,KOTAKBANK.NS,"Helios Capital Cuts HDFC Bank Exposure, Bets On Kotak Mahindra Bank And RBL Bank",Business Today,negative,0.3506,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:02,LT.NS,"Weekly Recap: Dhaka Metro Line 1 wins and Q2 revenue rise, margin dip",TradingView,positive,0.409,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:02,LT.NS,Larsen & Toubro secures significant orders for residential and commercial projects,Business Upturn,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,NHPC promotes Rajesh Kumar to Executive Director,Business Upturn,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,MOIL maintains manganese ore prices for November 2026,Business Upturn,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,Form 4 GlobalFoundries Inc: Samak L. Azar (CLO) For: 17 September By Investing.com,Investing.com India,neutral,0.7723,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,KC Int’l School hosts commerce fest,Daily Excelsior,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,Greater Noida: Buddh Int’l Circuit hosts fourth round of Indian Racing Festival | Hindustan Times,Hindustan Times,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,Goa so far supplied 7.6L tonne waste to cement plants as alternative fuel,The Times of India,positive,0.6534,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:02,LT.NS,CM sets Dec 31 deadline for CAA citizenship to 2.5L applicants,MillenniumPost,neutral,0.7338,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:06,M&M.NS,Trump calls former lawyer Alina Habba's $50m deal with family of pardoned Venezuelan banker 'unacceptable,The Times of India,negative,0.6517,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:06,M&M.NS,Box Office: 'You Can See Everything' & 'Clayface' In Staring Contest,Deadline,neutral,0.5266,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:06,M&M.NS,"Former European 1,500m champion Ciara Mageean has died at the age of 34.",Sky News,neutral,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:06,M&M.NS,'Squad' rakes in record $2.35M while slamming the door on cop donations,Fox News,positive,0.6634,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:06,M&M.NS,"RIL shares jump 6%, add Rs 86,400 crore in m-cap; Goldman Sachs sets highest target, sees 58% upside",Business Today,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:07,MARUTI.NS,Maruti Suzuki MARUTI October 2026 Record Monthly Sales,Kalkine India,positive,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:08,MARUTI.NS,Maruti Suzuki stock: Record sales meet margin pressure,ad-hoc-news.de,positive,0.498,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:10,NTPC.NS,"Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices",The New Indian Express,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:10,NTPC.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:10,NTPC.NS,"NTPC Q2 results: Net profit soars 41% YoY to ₹7,351 crore; dividend of ₹3/share declared",Upstox,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:11,ONGC.NS,ONGC Senior Management Change: New ED Appointed Nov 2026,Kalkine India,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:11,ONGC.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:11,ONGC.NS,"Geopolitical risks, crude oil and earnings to steer markets this week",Business Standard,neutral,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:11,ONGC.NS,"NTPC Q2 results: Net profit soars 41% YoY to ₹7,351 crore; dividend of ₹3/share declared",Upstox,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:11,ONGC.NS,Oil & Natural Gas Corporation announces changes in senior management with Ms. Deepali Masirkar's appointment,Business Upturn,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:12,ONGC.NS,"IOC, BPCL, HPCL clock ₹30,106 cr Q2 profit, nearly 39% of last year's annual earnings",ET EnergyWorld,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:12,ONGC.NS,Earnings call transcript: Indian Oil posts Q2 2026 profit beat on inventory gains,Investing.com UK,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:12,ONGC.NS,Earnings call transcript: Welspun Corp Q2 2026 revenue miss sparks 8.7% drop By Investing.com,Investing.com India,negative,0.7733,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:12,ONGC.NS,"Hinduja's Gulf Oil scouts acquisitions in Asia, South America ahead of global listing",The Economic Times,positive,0.8396,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:12,ONGC.NS,Oil & Gas Stocks To BUY: These 2 Maharatna OMC shares jump over 3% after Q2 results; up to 30% upside – Do you own?,Zee Business,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:13,POWERGRID.NS,Power Grid Corporation POWERGRID Q2 FY27 Results and Interim Dividend,Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,POWERGRID.NS,Power Grid Corporation of India Q2 Results: Net profit up 8%; approves ₹3 interim dividend,CNBC TV18,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,POWERGRID.NS,POWERGRID: Q2 profit rose YoY; ₹3/share interim dividend declared amid sustained transmission investment,TradingView,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,POWERGRID.NS,Power Grid Approves ₹3 Interim Dividend as Profit Rises,TipRanks,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,RELIANCE.NS,"Stock Picks Today: Delhivery, NSE, Muthoot Finance, Sun Pharma, BEL, And More On Brokerages' Radar",NDTV Profit,neutral,0.8707,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,RELIANCE.NS,Reliance Industries Q2 FY27 Analyst Meet Key Highlights,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,RELIANCE.NS,"India's Reliance set for best day since January 2024 as oil business, Jio Platforms lift outlook",Reuters,positive,0.9154,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:14,RELIANCE.NS,"Weekly Recap: Jio IPO valuation swing and high cash, lower debt, capex",TradingView,neutral,0.5421,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:14,RELIANCE.NS,Reliance Industries shares flying! Massive Monday jump for RIL stock - 6% surge strong Q2 results | Book profit or wait?,Livemint,positive,0.8471,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:15,RELIANCE.NS,"Reliance Industries stock outlook bullish on strong O2C earnings, steady Jio growth; check target prices,...",Moneycontrol.com,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:15,RELIANCE.NS,"Reliance Industries reports strong growth in September quarter, driven by oil-to-chemicals segment",The Economic Times,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:15,RELIANCE.NS,"Reliance Industries Q2 Review: Record O2C Earnings, Retail Weakness And A Brokerage Divide",NDTV Profit,negative,0.4453,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:15,RELIANCE.NS,Reliance Industries’ O2C And Jio Earnings Beat Lifted Shares,Finimize,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:15,RELIANCE.NS,Reliance Industries Q2 Profit Beats Estimates by Nearly 20%; Shares Surge as Much as 6.2% in Early Trading,BigGo Finance,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:16,SBILIFE.NS,Top 6 Insurance Stocks To Buy In India In November 2026,Samco,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:17,SBIN.NS,"Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:17,SBIN.NS,Weekly Recap: External rate up to 8.15% and YONO Bharat rollout,TradingView,neutral,0.512,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:17,SBIN.NS,"NTPC Q2 results: Net profit soars 41% YoY to ₹7,351 crore; dividend of ₹3/share declared",Upstox,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:17,SBIN.NS,"ITC, State Bank of India and 10 Other Stocks Set to Announce Q2 FY27 Results Next Week",Trade Brains,neutral,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:19,SUNPHARMA.NS,"Datos clave: NSE:SUNPHARMA: ganancia del segundo trimestre -36.4%; ventas en India +17.3%; Rs1,269 crore",TradingView,positive,0.4133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-02 06:02:19,SUNPHARMA.NS,"Stock Picks Today: Delhivery, NSE, Muthoot Finance, Sun Pharma, BEL, And More On Brokerages' Radar",NDTV Profit,neutral,0.8707,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:20,SUNPHARMA.NS,"Sun Pharma’s specialty portfolio, Organon deal to drive growth",The Economic Times,positive,0.8968,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:20,SUNPHARMA.NS,Earnings call transcript: Sun Pharma beats Q2 2026 estimates as shares rise By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:20,SUNPHARMA.NS,"Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price",Livemint,positive,0.8322,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:20,SUNPHARMA.NS,Sun Pharma Benefits As India Medicine Sales Growth Reaches 12% Driven By Chronic Care,Sahi,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,Tata Motors Passenger Vehicles (NSE:TMPV): What Drove 23% Sales Jump in October 2026?,Kalkine India,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,"News by CNBC TV18 on TradingView, 2026-11-01 — cnbctv:d2dfa2add094b:0",TradingView,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,Tata Motors stock absorbs Iveco as 89.42% stake is settled,ad-hoc-news.de,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,Dixon Technologies share price rises even as Q2 net profit nearly halves,Business Upturn,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,"Weekly News Wrap: Tata Takes Control of Iveco, EV Makers Step Up Capacity, Oct Sales Highlights",Autocar Professional,positive,0.7045,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:21,TATAMOTORS.NS,Tata Motors Passenger Vehicles Posts 23% Sales Surge in October on Strong EV and Export Growth,TipRanks,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:22,TATASTEEL.NS,"Reliance, Tata Steel lead 1000+ point Sensex morning rally as FIIs return",The Week,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:22,TATASTEEL.NS,"SENSEX, NIFTY50 rally over 1% amid crude oil pullback; Reliance, Tata Steel, Maruti lead pack of gainers",Upstox,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:22,TATASTEEL.NS,"Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers",CNBC TV18,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:25,TCS.NS,CDSL (NSE:CDSL) Publishes Q2 FY27 Audited Financial Results in Newspapers as per SEBI Regulations,Kalkine Media,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:27,TECHM.NS,"Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices",The New Indian Express,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:27,TECHM.NS,"Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week",Dailyhunt,neutral,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:30,ULTRACEMCO.NS,"Why is market rallying today? Sensex soars 1,000 pts, Nifty above 23,300. 7 factors driving Rs 6 lakh cror",The Economic Times,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:32,UPL.NS,"ITC, Marico, UPL and Other Stocks Set to Announce Q2 Results Today",Trade Brains,neutral,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-11-02 06:02:32,UPL.NS,"Q2 Results, Nov 2: ITC, Marico, NALCO, UPL, NLC India, Tata Investment Corp, ESDS Software Solution, others to post earnings",Dailyhunt,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
