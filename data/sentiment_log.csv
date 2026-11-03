@@ -7390,3 +7390,106 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-02 20:23:57,UPL.NS,UPL Sustains Profitable Growth Amid Global Headwinds and Cost Inflation,EquityBulls,positive,0.7425,AUTO_ACCEPTED,indi-finbert
 2026-11-02 20:23:57,UPL.NS,Earnings call transcript: UPL posts stronger margins in Q2 2026 as sales slip By Investing.com,Investing.com India,positive,0.7132,AUTO_ACCEPTED,indi-finbert
 2026-11-02 20:23:57,UPL.NS,"UPL Q2 Results: Profit Plunges 24%, But Here's A Metric That May Cheer The Street",NDTV Profit,negative,0.6541,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:19,ICICIBANK.NS,"Diwali stock picks 2026: Angel One's 8 ‘Shagun Ke Shares’ with up to 32% upside; ICICI Bank, Shanti Gold, Northern Arc and more",moneycontrol,positive,0.9455,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:20,ADANIPORTS.NS,"Trade Spotlight: How should you trade Tata Power, Godrej Properties, NALCO, PFC, UltraTech Cement, Adani Ports, and others on November 3?",moneycontrol,neutral,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:20,ULTRACEMCO.NS,"Trade Spotlight: How should you trade Tata Power, Godrej Properties, NALCO, PFC, UltraTech Cement, Adani Ports, and others on November 3?",moneycontrol,neutral,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:21,ADANIENT.NS,BLS Polymers Lists at 65% Premium on NSE After 241x Subscription,India Infoline,positive,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:21,ADANIENT.NS,"SBI-ETF NIFTY BANK Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:21,ADANIENT.NS,"Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:24,APOLLOHOSP.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:24,APOLLOHOSP.NS,Narayana Hrudayalaya Ltd (BOM:539551) (Q2 2027) Earnings Call Highlights: Strong India Margins ...,Yahoo Finance Singapore,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:28,AXISBANK.NS,"Private Banks Outshine Nifty 50 In Earnings Upgrades; HSBC Sees More Room For Growth, Prefers ICICI Bank, Axis Bank, Kotak",NDTV Profit,positive,0.8723,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:30,BAJFINANCE.NS,"Q2 results, Nov 3: SBI, NSE, Bajaj Finserv, Solar Industries, Lupin, MCX, Graphite India, Gujarat Fluorochemicals, GSK, others to post earnings",Upstox,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:30,BAJFINANCE.NS,"Bajaj Housing Finance IPO Date, Price, GMP, Review, Detail",IndiaIPO,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:30,BAJFINANCE.NS,"EAAA INDIA ALTERNATIVES LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:30,BAJFINANCE.NS,"Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:30,BAJFINANCE.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJFINANCE.NS,LIC Housing Finance Ltd (BOM:500253) (Q2 2027) Earnings Call Highlights: Disbursements Jump 11% ...,Yahoo Finance Singapore,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJFINANCE.NS,"HCL Tech, Bajaj Finance To Tata Power: Religare Broking Picks These Eight Stocks To Buy This Diwali",NDTV Profit,positive,0.5379,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:47:31,BAJFINANCE.NS,"Income Tax Returns: 'How India filed in 2026' - 5 trends that reveal how young investors, salaried earners manage money",Livemint,neutral,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJFINANCE.NS,"Sensex, Nifty Today: IndiGo, Asian Paints, Bajaj Finance Lead Gains; Trent, BEL, NTPC Fall; NALCO, ITC In Focus; Why Is Stock Market Rising?",The Sunday Guardian,neutral,0.653,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJAJFINSV.NS,"Q2 results, Nov 3: SBI, NSE, Bajaj Finserv, Solar Industries, Lupin, MCX, Graphite India, Gujarat Fluorochemicals, GSK, others to post earnings",Upstox,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJAJFINSV.NS,"Why is market rising today? Sensex jumps 800 pts, Nifty rises above 23,650. 6 key factors behind today's r",The Economic Times,positive,0.8878,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJAJFINSV.NS,"Bajaj Housing Finance IPO Date, Price, GMP, Review, Detail",IndiaIPO,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJAJFINSV.NS,"News by CNBC TV18 on TradingView, 2026-11-03 — cnbctv:105627754094b:0",TradingView,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:31,BAJAJFINSV.NS,"EAAA INDIA ALTERNATIVES LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:32,BAJAJFINSV.NS,India’s Earnings Calendar Gets Busy On November 3rd,Finimize,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:32,BAJAJFINSV.NS,"Q2 Results Today, November 3: SBI, Bajaj Finserv, Lupin, MCX to announce earnings; NSE's first since listing - Full list",ET Now,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:33,BPCL.NS,"IndiGo, Indian Oil and other crude-sensitive stocks rally up to 4% as oil dips below $105/bbl. Where are p",The Economic Times,positive,0.8961,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:33,BPCL.NS,"RIL, Dixon Tech, Coal India among buzzing stocks: NIFTY trades over 23,200, SENSEX off day’s high",Upstox,positive,0.5011,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:47:36,BRITANNIA.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:36,BRITANNIA.NS,"Diwali rally rolls on: Sensex jumps 670 pts, Nifty tops 23,600; IndiGo soars 3%",NewsDrum,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:38,CIPLA.NS,Cipla stock faces margin pressure as Q2 profit drops 35%,ad-hoc-news.de,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:39,COALINDIA.NS,Coal India (NSE:COALINDIA) Files DRHP for SECL IPO,Kalkine India,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:40,COALINDIA.NS,SECL IPO: Coal India Files 10% Stake Sale DRHP,Urban Acres,neutral,0.6845,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:40,DIVISLAB.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:42,DRREDDY.NS,Dr Reddy’s secures tentative US FDA approval for generic injectable HIV prevention drug; stock in focus,Upstox,positive,0.4297,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:47:42,DRREDDY.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:42,DRREDDY.NS,"Indian shares set to extend advance on softer oil, steady earnings",Livemint,positive,0.8339,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:43,EICHERMOT.NS,"Brokerage calls today, November 2: Indian Oil, Reliance, Bank of Baroda, Delhivery in focus",Business Upturn,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:45,GRASIM.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:46,HCLTECH.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:49,HDFCBANK.NS,"Private Banks Outshine Nifty 50 In Earnings Upgrades; HSBC Sees More Room For Growth, Prefers ICICI Bank, Axis Bank, Kotak",NDTV Profit,positive,0.8723,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:49,HDFCBANK.NS,HDFC Bank Q2 FY27 results: performance and outlook,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:50,HDFCLIFE.NS,"Income Tax Returns: 'How India filed in 2026' - 5 trends that reveal how young investors, salaried earners manage money",Livemint,neutral,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:51,HEROMOTOCO.NS,Hero MotoCorp schedules investor meetings and conferences for Nov 2026,scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:51,HEROMOTOCO.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:51,HEROMOTOCO.NS,"Auto sector stocks today, November 3: Ashok Leyland jumps 2.55%, Olectra Greentech up 2.40%, SML Mahindra gains 2.44%",Business Upturn,positive,0.7419,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:52,HINDALCO.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:54,HINDUNILVR.NS,"Indian stock markets continue to rally on Tuesday morning as HUL, HDFC Bank, IndiGo lead charge",The Week,positive,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:57,ITC.NS,"Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:57,ITC.NS,"ITC shares flat after Q2 profit drops 20%; brokerages flag cigarette business pressure, but hail FMCG...",Moneycontrol.com,negative,0.9217,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:57,ITC.NS,"Q2 results, Nov 3: SBI, NSE, Bajaj Finserv, Solar Industries, Lupin, MCX, Graphite India, Gujarat Fluorochemicals, GSK, others to post earnings",Upstox,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:58,ITC.NS,"ITC Q2 Review: Analysts See Cigarette Earnings Recovery By March, But Flag Risks",NDTV Profit,neutral,0.7596,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:58,ITC.NS,"ITC profit falls due to cigarette volumes, FMCG biz growth at 14-qtr high",Moneycontrol.com,negative,0.9411,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:58,ITC.NS,ITC profit falls 17% as cigarette taxes burns a hole in ITC's profits,Livemint,negative,0.8448,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:59,INDUSINDBK.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:47:59,INDUSINDBK.NS,"Banking sector stocks today, November 3: Karnataka Bank jumps 3.50%, J&K Bank up 2.81%, Bandhan Bank rises 2.66%",Business Upturn,positive,0.7332,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:00,INFY.NS,Only 3.2% of working Indians trade stocks. Why Morgan Stanley likes NSE,The Economic Times,neutral,0.892,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:00,INFY.NS,Lyka Labs pays ₹1.62 lakh fine to NSE for delayed FY26 annual report,scanx.trade,negative,0.69,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:04,KOTAKBANK.NS,"Private Banks Outshine Nifty 50 In Earnings Upgrades; HSBC Sees More Room For Growth, Prefers ICICI Bank, Axis Bank, Kotak",NDTV Profit,positive,0.8723,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:05,LT.NS,"Carnelian, HDFC AMC, L&T acquire 2.9% stake in EAAA India Alternatives on debut day",Moneycontrol.com,positive,0.7591,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:05,LT.NS,Brought home the 2026 Renault Duster 1.3L DCT at a great price,Team-BHP,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:05,LT.NS,Form 4 LiveRamp Holdings: John L. Battelle (Director) For: 2 November By Investing.com,Investing.com India,neutral,0.7751,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:05,LT.NS,Sa Re Ga Ma Pa Keralam Li’l Champs: Singer Srinivas surprises Avani with a special gift; watch video,The Times of India,positive,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:05,LT.NS,Phyllanthus urinaria L extract protects mice against cisplatin-induced acute kidney injury | Newswise,Newswise,neutral,0.433,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:48:07,M&M.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:07,M&M.NS,"NSE share price edges higher ahead of Q2 results announcement | Should you buy or sell? Check target, upside",Livemint,positive,0.8071,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:07,M&M.NS,"SBI-ETF NIFTY BANK Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:08,M&M.NS,Trump unveils results of $14m reflecting pool makeover in final appeal before midterms,The Guardian,neutral,0.5305,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:48:08,M&M.NS,India vs Pakistan 2027 World Cup tie has 8.4m applications for tickets,BBC,neutral,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:08,M&M.NS,Trajectory raises $45M to make AI model training accessible to nontechnical experts,TechCrunch,positive,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:08,M&M.NS,Cops bust botnet of 1.3M infected Android TV boxes,The Register,negative,0.4888,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-03 06:48:08,M&M.NS,Senior journalist M Bharat dies of heart attack at 48,The New Indian Express,neutral,0.7209,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:09,MARUTI.NS,Maruti Suzuki Q2 FY27 Investor Call Transcript NSE:MARUTI,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:09,MARUTI.NS,Maruti Suzuki India Q2 FY27 results: performance and outlook,Kalkine India,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:09,MARUTI.NS,"Maruti Suzuki (NSE:MARUTI) October 2026 Sales: Record 2,76,120 Units Dispatched",Kalkine India,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:11,NESTLEIND.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:14,ONGC.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:14,ONGC.NS,ONGC Joins Business Leadership League Roundtable at NSE,PSU Connect,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:17,RELIANCE.NS,Closing Bell: Nifty Gains 1.68% to 1-Month High as Reliance Surges 11.6%; NSE Reclaims $5 Trillion Market Cap,Dalal Street Investment Journal,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:17,RELIANCE.NS,"Reliance stock jumps past key resistance level, analysts see 33% upside",Moneycontrol.com,positive,0.9075,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:17,RELIANCE.NS,India stocks higher at close of trade; Nifty 50 up 1.68%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:17,RELIANCE.NS,India shares higher at close of trade; Nifty 50 up 1.68% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:18,RELIANCE.NS,Reliance stock draws focus after strong Q2 and Jio listing,ad-hoc-news.de,positive,0.7162,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:18,RELIANCE.NS,Reliance stock outlook improves after Q2 beat despite target cuts,ad-hoc-news.de,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:18,RELIANCE.NS,Reliance Industries Shares Surge 11.6% as Oil and Jio Businesses Boost Earnings,Unique Times Magazine,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:19,SBILIFE.NS,"Income Tax Returns: 'How India filed in 2026' - 5 trends that reveal how young investors, salaried earners manage money",Livemint,neutral,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:20,SBIN.NS,"Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:21,SBIN.NS,"SBI Q2 results 2026 today schedule, preview, expectations | Should you buy ahead of earnings announcement?",Livemint,neutral,0.8443,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:22,SUNPHARMA.NS,"Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",The Economic Times,neutral,0.8925,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:23,TATAMOTORS.NS,Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart,Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:23,TATAMOTORS.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:23,TATAMOTORS.NS,"Tata Motors Registered 27% Growth Yoy With Total Sales Of 47,652 Commercial Vehicle Units In October 2026.",TRIPURA STAR NEWS,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:23,TATAMOTORS.NS,"Hyundai Motor, Ashok Leyland share: NIFTY Auto soars 1.6% as strong October sales numbers impress investors",Upstox,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:25,TATASTEEL.NS,India stocks higher at close of trade; Nifty 50 up 1.68%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:25,TATASTEEL.NS,"India steel prices stay elevated as rebar outpaces HRC; Nomura remains positive on sector, retains 'Buy'...",Moneycontrol.com,positive,0.9299,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:25,TATASTEEL.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:26,TATACONSUM.NS,Tata Consumer Products ESG Rating FY26: Score of 64.72,Kalkine India,neutral,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:26,TATACONSUM.NS,"Indian stock markets continue to rally on Tuesday morning as HUL, HDFC Bank, IndiGo lead charge",The Week,positive,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:26,TATACONSUM.NS,"NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",Livemint,positive,0.8462,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:28,TCS.NS,Tata Consultancy Services Q2 FY27 results: performance and outlook,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:29,TECHM.NS,Tech Mahindra Q2 FY27 results: Margin recovery drives an improving profit picture,Kalkine India,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:34,UPL.NS,"UPL Q2 H1 FY27 Results: Revenue, EBITDA and Key Updates",Kalkine India,neutral,0.689,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:35,UPL.NS,UPL sustains profitable growth in Q2 FY27 amid global headwinds and cost inflation,AgroSpectrum India,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-11-03 06:48:35,WIPRO.NS,Wipro ESG Rating 79.18 by Third-Party Agency 2026,Kalkine India,neutral,0.7138,AUTO_ACCEPTED,indi-finbert
