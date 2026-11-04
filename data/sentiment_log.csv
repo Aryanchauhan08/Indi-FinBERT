@@ -7687,3 +7687,111 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-04 06:22:17,TECHM.NS,State Bank of India Q2 Earnings Set Focus With 13% NII Estimate,Multibagg AI,neutral,0.7129,AUTO_ACCEPTED,indi-finbert
 2026-11-04 06:22:17,TECHM.NS,"IT sector stocks today, November 4: R Systems jumps 11.82%, Sasken Technologies up 6.19%, Nucleus Software gains 2.13%",Business Upturn,positive,0.7416,AUTO_ACCEPTED,indi-finbert
 2026-11-04 06:22:20,ULTRACEMCO.NS,Top 17 Cement Stocks To Buy In India November 2026,Samco,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:30,POWERGRID.NS,Buy Power Grid Corporation of India; target of Rs 350: ICICI Securities,moneycontrol,positive,0.8399,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:31,ADANIENT.NS,India stocks higher at close of trade; Nifty 50 up 0.63%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:31,ADANIENT.NS,Apis India board approves NSE Main Board listing for existing shares,scanx.trade,neutral,0.4975,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:00:31,ADANIENT.NS,India shares higher at close of trade; Nifty 50 up 0.63% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:31,ADANIENT.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:31,ADANIENT.NS,"Stocks in news: NSE, BSE, SBI, Happiest Minds, MCX, IEX and Minda Corp",The Economic Times,neutral,0.8933,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:32,ADANIPORTS.NS,"Stock markets rally in early trade on foreign fund inflows, easing crude oil prices",The New Indian Express,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:32,ADANIPORTS.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:32,ADANIPORTS.NS,Adani Ports stock handles 51 million tons as October cargo jumps,ad-hoc-news.de,neutral,0.6595,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:32,ADANIPORTS.NS,"Adani Group stocks today, November 4: Adani Enterprises jumps 3.27%, Adani Power gains 2.44%, Adani Ports up 2.42%",Business Upturn,positive,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:34,APOLLOHOSP.NS,"Apollo Hospitals Q2 FY27 Results, Leadership Change and Divestment",Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:36,AXISBANK.NS,CSB Bank Postal Ballot Notice: What Members Need to Know,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:37,BAJAJ-AUTO.NS,"Auto sector stocks today, November 4: Olectra Greentech jumps 4.45%, VST Tillers up 2.15%, Landmark Cars gains 1.96%",Business Upturn,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:38,BAJAJ-AUTO.NS,"3 AI Stocks in India: Q2 FY27 Results, Revenue Growth & Future Outlook",Trade Brains,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:39,BAJFINANCE.NS,Bajaj Finance stock last trades at INR 994 after India session,ad-hoc-news.de,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:40,BAJAJFINSV.NS,Bajaj Finance stock last trades at INR 994 after India session,ad-hoc-news.de,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:41,BPCL.NS,BPCL Director Change: Shri A.P.M. Mohammed Hanish Exits Board,Kalkine India,neutral,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:43,BHARTIARTL.NS,NSE edges higher post Q2; Jefferies ups target after 1st earnings since IPO,Business Standard,positive,0.8961,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:43,BHARTIARTL.NS,"NSE to LIC: Top 3 Fresh Stake Purchases by SBI, ICICI and HDFC Groups",Trade Brains,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:44,BRITANNIA.NS,Retirement Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:45,BRITANNIA.NS,Britannia Q2 FY27 Expectations: Can the FMCG Giant Deliver Strong Growth Amid Margin Pressures?,Trade Brains,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:45,CIPLA.NS,Cipla CIPLA: Vikram Janakiraman Named Global CTO Officer,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:47,COALINDIA.NS,Coal India eyes $1.43 billion Mahanadi IPO,Mining.com.au,neutral,0.5861,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:00:47,COALINDIA.NS,"Muhurat Trading Picks: Tata Steel, Coal India to BEL - HDFC Sec recommends these 10 stocks to buy on Diwali | Full list",Livemint,neutral,0.7738,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:49,DRREDDY.NS,"NSE seeks clarifications from Bharat Wire Ropes, ITI, Dr. Reddy’s, Tata Communications and Vedanta",Traders Union,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:49,DRREDDY.NS,Biocon NSE:BIOCON Board Meeting Outcome November 2026,Kalkine India,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:49,DRREDDY.NS,"Dr. Reddy's Laboratories allocates 5,91,270 equity shares under its employee stock option plan",Business Upturn,neutral,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:50,DRREDDY.NS,Zydus Lifesciences Reports 26.6% Profit Decline as Rising Costs Hit Earnings,Unique Times Magazine,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:51,GRASIM.NS,"SBI NIFTY 50 ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:53,HCLTECH.NS,India shares higher at close of trade; Nifty 50 up 0.63% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:53,HCLTECH.NS,HCL Technologies to attend major investor conferences in November 2026,Business Upturn,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:54,HDFCBANK.NS,Reliance Industries shares: Another record! RIL biggest on MTF book with 60% jump; dethrones HDFC Bank | Buy or sell?,Livemint,positive,0.8454,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:54,HDFCBANK.NS,"Diwali stock picks 2026: Motilal Oswal, Ventura bet on 16 stocks with up to 84% upside for Samvat 20283;...",Moneycontrol.com,positive,0.9341,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:54,HDFCBANK.NS,"Stock markets rally in early trade on foreign fund inflows, easing crude oil prices",The New Indian Express,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:54,HDFCBANK.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:54,HDFCBANK.NS,HDFC Bank share price surges over 7% in 5 sessions; new leadership and challenges ahead,Upstox,positive,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:55,HDFCBANK.NS,Top Traded by Value Today 04-Nov-2026: HDFC Bank Leads,Multibagg AI,positive,0.6711,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:55,HDFCBANK.NS,"HDFC Bank, Ather, Paytm, LG India, Meesho among top Diwali picks for up to 75% upside",Business Today,positive,0.7194,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:57,HEROMOTOCO.NS,"Hero MotoCorp (NSE:HEROMOTOCO) Launches Novus Labs, Xpulse 450 and VIDA in Europe",Kalkine India,neutral,0.65,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:57,HEROMOTOCO.NS,"3 AI Stocks in India: Q2 FY27 Results, Revenue Growth & Future Outlook",Trade Brains,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:58,HINDALCO.NS,"Stock Market Today: Sensex gains 384 points, Nifty above 23,900",Multibagg AI,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:00:58,HINDALCO.NS,"Metal sector stocks today, November 4: MOIL jumps 4.53%, Maithan Alloys up 3.14%, Jindal Steel gains 1.62%",Business Upturn,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:00,ICICIBANK.NS,Buy State Bank of India; target of Rs 1300: ICICI Securities,Moneycontrol.com,positive,0.9105,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:00,ICICIBANK.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:00,ICICIBANK.NS,"SFC Environmental Technologies Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:00,ICICIBANK.NS,"NSE to LIC: Top 3 Fresh Stake Purchases by SBI, ICICI and HDFC Groups",Trade Brains,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:02,ITC.NS,ITC stock rebounds as FMCG growth offsets cigarette pressure,ad-hoc-news.de,positive,0.7338,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:04,INFY.NS,Infosys INFY Investor Roadshow November 2026 Forums,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:04,INFY.NS,Why are IT shares falling despite Democratic sweep in US adding to AI worries? Check what analysts say,Moneycontrol.com,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:04,INFY.NS,Indian stocks post longest winning streak in nearly 5 months on FPI inflow hopes,Reuters,positive,0.916,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:04,INFY.NS,"Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards",The Week,positive,0.6879,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:04,INFY.NS,Apis India board approves NSE Main Board listing for existing shares,scanx.trade,neutral,0.4975,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:05,JSWSTEEL.NS,Apis India board approves NSE Main Board listing for existing shares,scanx.trade,neutral,0.4975,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:05,JSWSTEEL.NS,Geekay Wires NSE:GEEKAYWIRE Q2 FY27 Results Approved,Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:05,JSWSTEEL.NS,"Metal sector stocks today, November 4: MOIL jumps 4.53%, Maithan Alloys up 3.14%, Jindal Steel gains 1.62%",Business Upturn,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:06,KOTAKBANK.NS,"Diwali stock picks 2026: Motilal Oswal, Ventura bet on 16 stocks with up to 84% upside for Samvat 20283;...",Moneycontrol.com,positive,0.9341,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:06,KOTAKBANK.NS,"SBI NIFTY 50 ETF Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:06,KOTAKBANK.NS,"Banking sector stocks today, November 4: Equitas Small Finance Bank jumps 7%, HDFC Bank gains 1.92%; Utkarsh Small Finance Bank down 4.77%",Business Upturn,positive,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:09,LT.NS,L'Occitane is set to sell the British brand Elemis to the private equity firm PAI Partners,FashionNetwork India,neutral,0.7141,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:09,LT.NS,L’OCCITANE Group and PAI Partners announce agreement for PAI to acquire ELEMIS,PAI Partners,positive,0.7132,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:09,LT.NS,To the Delegation of L’Œuvre d’Orient and the Institut Chrétiens d’Orient,The Holy See,neutral,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:09,LT.NS,Les partenaires pour le coton lancent une campagne pour attirer l'investissement dans les textiles/l'habillement en Afrique de l'Ouest et en Afrique centrale,World Trade Organization,neutral,0.6759,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:09,LT.NS,UBS raises Expeditors Int’l price target to $245 on strong quarter By Investing.com,Investing.com India,positive,0.776,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:11,M&M.NS,"Stock Picks Today: SBI, BEL, NSE, Tata Motors PV, Paytm, And More On Brokerages' Radar",NDTV Profit,neutral,0.8663,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:11,M&M.NS,"NSE to LIC: Top 3 Fresh Stake Purchases by SBI, ICICI and HDFC Groups",Trade Brains,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:11,M&M.NS,$445m down the drain? Elon Musk's Republican gamble fails; 'guess my election-interfering space lasers di,The Times of India,negative,0.7416,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:11,M&M.NS,Check Out the Pokémon Champions Battle Pass Season M‑8,Pokemon.com,neutral,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:11,M&M.NS,"Trump told voters, ‘Pretend I’m on the ballot.’ They did.",The Washington Post,neutral,0.5891,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:11,M&M.NS,Govt weighs options to recover $800m from Etisalat,Dawn,neutral,0.7045,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:12,MARUTI.NS,Maruti Suzuki Share Price,Upstox,neutral,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:13,NESTLEIND.NS,Nestle India Shares Slip 1.2% as FMCG Index Rises,Kalkine India,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:13,NESTLEIND.NS,Retirement Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:15,NTPC.NS,"PSU stocks today, November 4: BHEL jumps 5.68%, Engineers India gains 3.84%; RVNL falls 2.79%",Business Upturn,positive,0.6948,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:17,ONGC.NS,Diamondback Q3 Earnings Beat on Higher Oil Prices and Production,Yahoo Finance Singapore,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:17,POWERGRID.NS,"Stocks to BUY, SELL or HOLD Today, November 4: SBI, NSE, Power Grid, ITC, Bharat Electronics and others",ET Now,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:17,POWERGRID.NS,SPML Infra secures Rs. 186.41 crore order from Power Grid Corporation of India,Business Upturn,positive,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:17,POWERGRID.NS,GE Vernova T&D India secures letter of award from Power Grid Corporation of India,Business Upturn,positive,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:20,SBILIFE.NS,SBI Life Insurance Company Reports 17% H1 PAT Growth,Multibagg AI,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:20,SBILIFE.NS,SBI Life seeks member approval for Jambusaria as independent director,scanx.trade,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:20,SBILIFE.NS,"Stock Picks Today: SBI, BEL, NSE, Tata Motors PV, Paytm, And More On Brokerages' Radar",NDTV Profit,neutral,0.8663,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:20,SBILIFE.NS,BSE Q2 Results: Net profit surges 45% YoY to Rs 809 crore; revenue jumps 34%,The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:20,SBILIFE.NS,"NSE to LIC: Top 3 Fresh Stake Purchases by SBI, ICICI and HDFC Groups",Trade Brains,neutral,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:21,SBILIFE.NS,SBI vs SBI Life vs SBI Cards: Which SBI Group stock emerged as the Q2 results 2026 winner? Check technical targets,Livemint,neutral,0.843,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:24,TATAMOTORS.NS,Tata Motors And Iveco Group Come Together To Build For The Future Creating A New Global Force In Commercial Mobility.,TRIPURA STAR NEWS,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:24,TATAMOTORS.NS,Apis India board approves NSE Main Board listing for existing shares,scanx.trade,neutral,0.4975,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:24,TATAMOTORS.NS,"ICICI Lombard General Insurance Co Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:24,TATAMOTORS.NS,NSE share price in focus as 23% Q2 profit growth grabs attention; Can CAS changes drive further upside? Emkay weighs in,ET Now,positive,0.5235,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:25,TATASTEEL.NS,"Muhurat Trading Picks: Tata Steel, Coal India to BEL - HDFC Sec recommends these 10 stocks to buy on Diwali | Full list",Livemint,neutral,0.7738,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:25,TATASTEEL.NS,"Metal sector stocks today, November 4: MOIL jumps 4.53%, Maithan Alloys up 3.14%, Jindal Steel gains 1.62%",Business Upturn,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:25,TATASTEEL.NS,"Diwali Muhurat Trading 2026 Stock Picks: Adani Power, L&T, Maruti Suzuki and Tata Steel among HDFC Securities' top recommendations for Samvat 2083",ET Now,neutral,0.6607,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:25,TATASTEEL.NS,FIR against Prashant Bhushan for sharing morphed video of Russian foreign minister criticising India,ET Now,negative,0.6433,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:26,TATASTEEL.NS,Steel Exchange India Q2FY27 Results: Net profit jumps 835% YoY to ₹17.6 crore,scanx.trade,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:26,TATASTEEL.NS,"Linde India Q2 FY27: Revenue Grows 12.3%, Net Profit Falls 30.5% Amid Margin Pressure",Trade Brains,negative,0.7372,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:26,TATACONSUM.NS,Nestle India Shares Slip 1.2% as FMCG Index Rises,Kalkine India,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:27,TATACONSUM.NS,"Tata Consumer Q2FY27: Strong Revenue, Margin Growth Amidst Price Hikes",Rediff,positive,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:28,TCS.NS,India stocks higher at close of trade; Nifty 50 up 0.63%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:28,TCS.NS,TCS Enterprise AI Study: Key Findings on Productivity and Governance,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:28,TCS.NS,India shares higher at close of trade; Nifty 50 up 0.63% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:30,TECHM.NS,Google expands voluntary buyouts to 5 more countries after hiring spree: Is India included?,Livemint,neutral,0.5386,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:30,TITAN.NS,"Titan Company Q2 results preview: Profit may rise up to 27% YoY; jewellery growth, margins in focus",The Economic Times,positive,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:30,TITAN.NS,India stocks higher at close of trade; Nifty 50 up 0.63%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:30,TITAN.NS,"Samvat 2083: Kotak Mahindra Bank, Adani Ports, And 8 Other Stocks Among Motilal Oswal Picks For Muhurat Trading",Outlook Money,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:30,TITAN.NS,India shares higher at close of trade; Nifty 50 up 0.63% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:30,TITAN.NS,"Dhanteras 2026: How Titan, PC Jeweller, Senco Gold stocks are shaping up ahead of the big day",Upstox,positive,0.3969,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-04 18:01:32,ULTRACEMCO.NS,India Cements Limited Releases Q4 FY26 Earnings Call Transcript Following UltraTech Integration,scanx.trade,neutral,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:34,WIPRO.NS,"Wipro ESOP Allotment: 95,503 Shares Issued on 4 Nov 2026",Kalkine India,neutral,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:34,WIPRO.NS,Why are IT shares falling despite Democratic sweep in US adding to AI worries? Check what analysts say,Moneycontrol.com,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-11-04 18:01:34,WIPRO.NS,"IT sector stocks today, November 4: R Systems jumps 11.82%, Sasken Technologies up 6.19%, Nucleus Software gains 2.13%",Business Upturn,positive,0.7416,AUTO_ACCEPTED,indi-finbert
