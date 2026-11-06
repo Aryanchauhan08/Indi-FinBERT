@@ -8031,3 +8031,96 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-05 18:03:00,TITAN.NS,"Titan Q2 profit jumps 54% as ₹536 crore customs duty gain lifts earnings; board clears ₹2,500 crore NCD plan",Fortune India,positive,0.748,AUTO_ACCEPTED,indi-finbert
 2026-11-05 18:03:00,TITAN.NS,"Titan Q2 Results: Net profit zooms 56% on jewellery, watches, EyeCare revenue; beats estimates",CNBC TV18,positive,0.7476,AUTO_ACCEPTED,indi-finbert
 2026-11-05 18:03:03,WIPRO.NS,"Indian Railway Finance Corporation Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8741,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:40,TITAN.NS,Accumulate Titan Company; target of Rs 5330: Prabhudas Lilladher,moneycontrol,neutral,0.924,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:40,M&M.NS,Mahindra & Mahindra: Auto momentum offsets farm softness,moneycontrol,positive,0.9073,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:40,APOLLOHOSP.NS,Apollo Hospitals Q2FY27: Growth drivers intact; restructuring is the near-term overhang,moneycontrol,positive,0.6765,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:41,ADANIENT.NS,Kabra Extrusiontechnik gets in-principle listing approval for 37.6 lakh shares,scanx.trade,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:41,ADANIENT.NS,"ENNATURE BIO PHARMA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:42,ADANIPORTS.NS,"SBI, Adani Ports, HAL: Top stocks to trade — Check key levels, targets & stop loss",Business Today,neutral,0.736,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:42,ADANIPORTS.NS,"Kalyan Jewellers Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:42,ADANIPORTS.NS,"Tata Motors Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:42,ADANIPORTS.NS,"Anant Raj Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:42,ADANIPORTS.NS,Adani Ports announces agreement to acquire 100% stake in Evos B.V.,Business Upturn,positive,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:46,AXISBANK.NS,"Axis Bank Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:46,AXISBANK.NS,TUBE INVESTMENTS OF INDIA Share Price Today Down 9%,Equitymaster,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:47,AXISBANK.NS,Axis Bank stock holds as MarketsMOJO cites mixed signals,ad-hoc-news.de,positive,0.3857,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 06:43:48,BAJAJ-AUTO.NS,"Auto sector stocks today, November 6: M&M jumps 3.44%, Force Motors gains 1.44%, Hyundai Motor India up 1.08%",Business Upturn,positive,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:49,BAJFINANCE.NS,India stocks higher at close of trade; Nifty 50 up 2.40%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:49,BAJFINANCE.NS,"Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for...",Moneycontrol.com,positive,0.5145,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 06:43:49,BAJFINANCE.NS,"Sensex surges 2,009 points, Nifty up 576 amid global optimism",Rediff,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:50,BAJFINANCE.NS,India Shelter Finance net profit rises 19.5% YoY in Q2FY27,scanx.trade,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:50,BAJAJFINSV.NS,"Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",ANI News,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:50,BAJAJFINSV.NS,Bajaj Finserv Ltd. Just Recorded A 27% Revenue Beat: Here's What Analysts Think,Simply Wall St,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:53,BHARTIARTL.NS,Bharti Airtel stock: Profit rises but misses analyst view on costs,ad-hoc-news.de,negative,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:53,BHARTIARTL.NS,Bharti Airtel shares jump 3% after Q2 net profit rises 31% YoY. What are brokerages saying?,The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:53,BHARTIARTL.NS,India bucks Asia tech rout as oil slide reverses market fortunes,Reuters,negative,0.402,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 06:43:53,BHARTIARTL.NS,"Airtel gains 3%, nears record high as ARPU growth drives Q2 revenue by 17%",Business Standard,positive,0.896,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BHARTIARTL.NS,"Bharti Airtel Q2 Results: Profit rises 9%, revenue beats estimates as ARPU climbs to ₹271",CNBC TV18,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BHARTIARTL.NS,"Bharti Airtel Q2 Results: Profit Grows At Over Twice The Pace Than Revenue, ARPU Hits Rs 271",NDTV Profit,positive,0.8766,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BHARTIARTL.NS,"Airtel Q2 net profit jumped 31% to ₹8,887 crore on premium user growth",Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BRITANNIA.NS,India bucks Asia tech rout as oil slide reverses market fortunes,Reuters,negative,0.402,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 06:43:54,BRITANNIA.NS,"NSE shares hit fresh high, m-cap crosses $50 billion; what brokerages recommend",Business Today,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BRITANNIA.NS,Kabra Extrusiontechnik gets in-principle listing approval for 37.6 lakh shares,scanx.trade,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:54,BRITANNIA.NS,"Indian Railway Finance Corporation Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8741,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:43:55,BRITANNIA.NS,Britannia Q2 Results: Revenue Surges 15.6% To Beat Estimates. So Why Did Margins Shrink?,NDTV Profit,positive,0.8737,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:00,DRREDDY.NS,"Dr. Reddy’s Laboratories (DRREDDY) Share Price Today (NSE), Market News",TechGraph,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:01,EICHERMOT.NS,"Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",https://www.indiagazette.com/,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:04,HCLTECH.NS,"HCL Tech Consolidated September 2026 Net Sales at Rs 35,620.00 crore, up 11.51% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:04,HCLTECH.NS,"HCL Tech Standalone September 2026 Net Sales at Rs 15,445.00 crore, up 11.69% Y-o-Y",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:05,HDFCBANK.NS,"Indian Railway Finance Corporation Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8741,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:05,HDFCBANK.NS,HDFC Bank climbs from ₹684 to ₹756.70 in November trade,Multibagg AI,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:07,HDFCLIFE.NS,"HDFC Life Standalone September 2026 Net Sales at Rs 24,302.00 crore, up 18.27% Y-o-Y",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:08,HEROMOTOCO.NS,"F&O: Analyst recommends Bull spread strategy on Hero MotoCorp, PNB",Business Standard,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:08,HEROMOTOCO.NS,"FPIs buy ₹14,796 cr worth Indian stocks in biggest daily inflow since 2021",Business Standard,positive,0.8926,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:08,HEROMOTOCO.NS,Astral share price tumbles over 12% post Q2 earnings,Business Standard,negative,0.8945,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:08,HEROMOTOCO.NS,"Sai Life soars 10%, hits record high on strong Q2 earnings",Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:09,HINDALCO.NS,"GIFT Nifty down 123 pts; Airtel, ONGC, Titan, Hindalco, Britannia among top stock in focus",Business Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:09,HINDALCO.NS,"Kalyan Jewellers Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:10,HINDALCO.NS,"Q2 Results, Nov 6: Hindalco, Bosch, Siemens, Gland Pharma, Voltas, Data Patterns, Great Eastern Shipping, others to post earnings",Upstox,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:10,HINDALCO.NS,"Stock Picks Today: Hindalco Novelis, Bharti Airtel, LIC, Bharat Forge, And More On Brokerages' Radar",NDTV Profit,neutral,0.8712,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:10,HINDALCO.NS,"Q2 Results Today, November 6: Hindalco, Bosch, Siemens, Voltas, Jubilant FoodWorks among companies to announce earnings",ET Now,neutral,0.7361,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:12,ICICIBANK.NS,"Indian Railway Finance Corporation Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8741,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:14,INDUSINDBK.NS,IndusInd Bank enhances remittance experience with J.P. Morgan Payments partnership,Business Upturn,positive,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:16,INFY.NS,"Indian IT stocks shrug off Wall Street rout; NIFTY IT rises 2%, Infosys and TCS in the green",Upstox,positive,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:17,JSWSTEEL.NS,JSW Steel stock: Board approves 5-MTPA Odisha expansion,ad-hoc-news.de,positive,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:17,JSWSTEEL.NS,"Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",https://www.indiagazette.com/,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:17,JSWSTEEL.NS,Tube Investments of India TIINDIA Board Approves Rs 83 Cr Capex,Kalkine India,positive,0.55,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 06:44:21,LT.NS,"Form 4 Pathward Financial Inc: Brett L. Pharr (Director, CEO) For: 3 November By Investing.com",Investing.com India,neutral,0.7734,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:21,LT.NS,"Agnipath plan reforms explained: Rs 10.04L for Agniveers exiting forces after 4 yrs, Rs 15.94L for those",The Times of India,neutral,0.741,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:21,LT.NS,CM assures AAPWA of support for Sr Nat'l Wushu C'ship,The Arunachal Times,positive,0.703,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:21,LT.NS,Dy Collector halts takeover of 1.15 L sqm land,Oherald,negative,0.7003,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:21,LT.NS,GBT Technologies appoints Richard L. Taw III to board and enters employment agreement,TradingView,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,"Dalal Sreet Soars: BSE jumps 2,009 points, NSE tops 24,500; Falling crude, FII buying, US poll verdict add Rs 7 lakh cr",Organiser,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,"Mahindra & Mahindra shares gain 3% after Q2 profit jumps 25% to Rs 4,588 crore, revenue grows 25%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,"Sensex surges 2,009 points, Nifty up 576 amid global optimism",Rediff,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,"Box Office: 'Godzilla Minus Zero' Roars $6M Previews, 'Cat in the Hat' $1M",Deadline,positive,0.7226,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder,The Guardian,negative,0.6691,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure,TechCrunch,positive,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:23,M&M.NS,"BSE market cap crosses Rs 500 lakh crore driven by IPOs, steady recovery",The Economic Times,positive,0.8156,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:24,MARUTI.NS,"Indian Overseas Bank Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:25,NESTLEIND.NS,"Nestle Consolidated September 2026 Net Sales at Rs 6,788.34 crore, up 20.28% Y-o-Y",Moneycontrol.com,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:27,NTPC.NS,India shares higher at close of trade; Nifty 50 up 2.40% By Investing.com,Investing.com India,positive,0.7775,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:27,NTPC.NS,"HGS India Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 6 November 2026",ET Now,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:28,ONGC.NS,"Oil & Natural Gas Corporation Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8744,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:28,ONGC.NS,"GIFT Nifty down 123 pts; Airtel, ONGC, Titan, Hindalco, Britannia among top stock in focus",Business Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:29,ONGC.NS,ONGC Reports Q2 Standalone Revenue of ₹438.7 Billion Versus ₹464.6 Billion QoQ,Sahi,neutral,0.6823,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:31,RELIANCE.NS,"Reliance Industries (RELIANCE) Share Price Today (NSE), Market News",TechGraph,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:36,TATAMOTORS.NS,"HGS (India) Shares List At ₹160 On NSE SME, Rise To ₹168",HDFC Sky,positive,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:36,TATAMOTORS.NS,"Tata Motors Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:36,TATAMOTORS.NS,"Bharat Electronics Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:36,TATAMOTORS.NS,"Auto sector stocks today, November 6: M&M jumps 3.44%, Force Motors gains 1.44%, Hyundai Motor India up 1.08%",Business Upturn,positive,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:38,TATASTEEL.NS,"Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",https://www.indiagazette.com/,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:38,TATASTEEL.NS,"Tata Motors Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:38,TATASTEEL.NS,Bombay Coated and Special Steels Ltd Share Price Today – Live NSE/BSE,INDmoney,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:38,TATASTEEL.NS,"[India's 2025 crude steel output reaches 164.9 Mt, exceeding US and Japan combined]",Shanghai Metals Market,positive,0.7322,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:41,TCS.NS,IT Stocks Outlook for Samvat 2083: AI Growth vs Slow Revenue,Univest,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,"Mahindra & Mahindra shares gain 3% after Q2 profit jumps 25% to Rs 4,588 crore, revenue grows 25%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,"Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",https://www.indiagazette.com/,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,"Tech Mahindra Standalone September 2026 Net Sales at Rs 13,742.40 crore, up 13.88% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,"Tech Mahindra schedules investor meetings at BoFA, J.P. Morgan, CLSA",scanx.trade,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,"M&M results: Profit up 25% to ₹4,588 crore; No. 1 in SUVs, tractors",CNBCTV18,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:42,TECHM.NS,Mahindra stock: Q2 profit rises 25% as auto business accelerates,ad-hoc-news.de,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:43,TITAN.NS,Titan stock in focus after Q2 profit more than doubles,ad-hoc-news.de,positive,0.6539,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:43,TITAN.NS,Titan shares gain 2% after Q2 results; brokerages remain largely bullish,Business Standard,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:43,TITAN.NS,"GIFT Nifty down 123 pts; Airtel, ONGC, Titan, Hindalco, Britannia among top stock in focus",Business Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 06:44:47,WIPRO.NS,"Wipro Standalone September 2026 Net Sales at Rs 18,941.60 crore, up 6.59% Y-o-Y",Moneycontrol.com,positive,0.947,AUTO_ACCEPTED,indi-finbert
