@@ -8124,3 +8124,94 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-06 06:44:43,TITAN.NS,Titan shares gain 2% after Q2 results; brokerages remain largely bullish,Business Standard,positive,0.8977,AUTO_ACCEPTED,indi-finbert
 2026-11-06 06:44:43,TITAN.NS,"GIFT Nifty down 123 pts; Airtel, ONGC, Titan, Hindalco, Britannia among top stock in focus",Business Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
 2026-11-06 06:44:47,WIPRO.NS,"Wipro Standalone September 2026 Net Sales at Rs 18,941.60 crore, up 6.59% Y-o-Y",Moneycontrol.com,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,BRITANNIA.NS,Buy Britannia Industries; target of Rs 6046: Prabhudas Lilladher,moneycontrol,positive,0.9342,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,APOLLOHOSP.NS,Buy Apollo Hospitals; target of Rs 10400: Motilal Oswal,moneycontrol,positive,0.8804,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,HDFCBANK.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside for Samvat 2083; check target prices",moneycontrol,positive,0.856,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,ICICIBANK.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside for Samvat 2083; check target prices",moneycontrol,positive,0.856,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,APOLLOHOSP.NS,"Buy Apollo Hospitals Enterprise; target of Rs 10,500: Prabhudas Lilladher",moneycontrol,positive,0.9289,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:49,ADANIPORTS.NS,Adani Ports flexes its global muscles,moneycontrol,positive,0.7938,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:50,ADANIENT.NS,"Stock Market Today: Sensex gains 543 points, Nifty rises",Multibagg AI,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:50,ADANIENT.NS,"Stock markets extend winning streak to seventh session, Sensex gains over 1700 pts",The Statesman,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:50,ADANIENT.NS,"GIC Re’s NSE windfall masks weaker Q2 as flood claims, health push weigh",Livemint,negative,0.8435,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:51,ADANIENT.NS,Adani Enterprises stock posts 56% H1 EBITDA growth,ad-hoc-news.de,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:51,ADANIENT.NS,Adani Enterprises stock: Copper smelter targets 85% utilisation,ad-hoc-news.de,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:51,ADANIENT.NS,"Adani Group stocks today, November 6: Adani Ports gains 1.70%, Adani Total Gas, Adani Enterprises decline",Business Upturn,positive,0.7126,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:54,ADANIPORTS.NS,Electronic Gold Receipts cross 1 lakh units in single-day trade on NSE on Dhanteras,India's News.Net,negative,0.6534,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:54,ADANIPORTS.NS,"NSE pushes gold-backed EGRs on Dhanteras, sees potential to cut imports by USD 5-6 billion annually",India's News.Net,positive,0.716,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:58,AXISBANK.NS,"Stock markets extend winning streak to seventh session, Sensex gains over 1700 pts",The Statesman,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:58,AXISBANK.NS,"Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000",ANI News,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:58,AXISBANK.NS,Indian markets defy global tech rout; pre-Muhurat rally strongest since 1992,Fortune India,positive,0.7303,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:30:58,AXISBANK.NS,"Why did market rally today? Sensex ends 1,718 pts higher, Nifty reclaims 25,000 as D-Street concludes bump",The Economic Times,positive,0.893,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:01,BAJFINANCE.NS,"Bajaj Finance Consolidated September 2026 Net Sales at Rs 24,546.37 crore, up 21.64% Y-o-Y",Moneycontrol.com,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:01,BAJFINANCE.NS,"Bajaj Finance Standalone September 2026 Net Sales at Rs 20,890.66 crore, up 21.57% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:02,BAJAJFINSV.NS,Under Rs 2350 Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:04,BHARTIARTL.NS,Bharti Airtel overtakes Jio Platforms to become India's second-most valuable listed company after RIL,Business Today,positive,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:04,BHARTIARTL.NS,"Airtel shares rally 3% after Q2 profit jumps 31%; 4 brokerages bullish on telecom major, check share price...",Moneycontrol.com,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:05,BHARTIARTL.NS,"Airtel releases financial results for QE September 30, 2026",tele.net,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:05,BHARTIARTL.NS,Bharti Airtel’s September Quarter Revenue Rises 16.7 per cent as India Mobile and Africa Deliver,Dalal Street Investment Journal,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:06,BRITANNIA.NS,Britannia Shares Fall 4% Despite 16% Revenue Growth: What’s Driving the Share Price Down?,Trade Brains,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:08,COALINDIA.NS,Upcoming IPO: Coal India’s Mahanadi Coalfields gets Sebi nod for public issue; top things to know about PSU public offer,Livemint,positive,0.7933,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:08,COALINDIA.NS,"Jio, NSE made headlines, but India's average IPO size shrunk in 2026",Fortune India,neutral,0.7054,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:15,HDFCBANK.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",Moneycontrol.com,positive,0.9215,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:15,HDFCBANK.NS,HDFC Bank Chief Compliance Officer V.N. Srivatsan Joins,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:15,HDFCBANK.NS,"Indian stocks buck global tech rout, post best week in 6 years",Reuters,positive,0.8834,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:15,HDFCBANK.NS,"Bharti Airtel reclaims No. 2 spot among India's most valuable companies, overtakes Jio Platforms",The Economic Times,positive,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:16,HDFCBANK.NS,HDFC Bank Limited $HDB Stock Sold by Vise Technologies Inc.,MarketBeat,negative,0.6925,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:17,HDFCLIFE.NS,"HDFC Life (HDFCLIFE) Share Price Today (NSE), Market News",TechGraph,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:19,HINDALCO.NS,"Hindalco posts profit rise on firmer metal prices, sees elevated fuel costs",Mining.com,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:19,HINDALCO.NS,Hindalco Industries Q2 FY27 Results: Record Revenue and PAT,Kalkine India,positive,0.7062,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:20,HINDALCO.NS,Hindalco posts record Q2 FY27 profit as India business and Novelis recovery lift earnings,Dalal Street Investment Journal,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:20,HINDALCO.NS,"Hindalco Q2 PAT reaches ₹7,533 crore, up 59% year on year",Multibagg AI,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:20,HINDALCO.NS,"Hindalco Industries Q2 Results: Net Profit Rises 7.4% To Rs 7,532 Crore, Revenue Grows 8.1% QoQ",NDTV Profit,positive,0.8776,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:22,ICICIBANK.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",Moneycontrol.com,positive,0.9215,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:22,ICICIBANK.NS,"Indian stocks buck global tech rout, post best week in 6 years",Reuters,positive,0.8834,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:22,ICICIBANK.NS,India shares higher at close of trade; Nifty 50 up 2.01%,Investing.com India,positive,0.777,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:22,ICICIBANK.NS,Under Rs 1800 Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7318,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:25,INFY.NS,"Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline",Upstox,negative,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:25,INFY.NS,Under Rs 1350 Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:27,JSWSTEEL.NS,"BOMBAY COATED AND SPECIAL STEELS LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:27,JSWSTEEL.NS,Hi-Tech Pipes NSE:HITECH Q2 H1 FY27 Unaudited Results,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:27,JSWSTEEL.NS,Vardhman Special Steels (NSE:VSSL) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of,Simply Wall St,neutral,0.6598,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:28,KOTAKBANK.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",Moneycontrol.com,positive,0.9215,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:29,KOTAKBANK.NS,$5 billion in 5 days! Why FIIs are suddenly shopping Indian stocks non-stop this Diwali,The Economic Times,neutral,0.6683,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:29,LT.NS,Larsen & Toubro (NSE:LT) Analyst Meet Schedule November 2026,Kalkine India,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:30,LT.NS,L’Oréal and Aster Pharmacy partner to expand beauty pack refills in UAE,Packaging Insights,positive,0.7372,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:30,LT.NS,Liebherr L 566 H begins trial operation in port handling,Agg-Net,neutral,0.5803,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:30,LT.NS,Form 4 AptarGroup Inc: George L. Fotiades (Director) For: 5 November By Investing.com,Investing.com India,neutral,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:30,LT.NS,"Ayushman Bharat scheme enrolls 4.2cr in 3 months, 2.2L treated",The Times of India,neutral,0.6197,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:30,LT.NS,Mumbai Airport Shift 12 Int’l Operators To Navi Mumbai in 2027 Summer,Deccan Chronicle,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:32,M&M.NS,India stocks higher at close of trade; Nifty 50 up 2.01%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:32,M&M.NS,"Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083",Livemint,neutral,0.8451,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:32,M&M.NS,"Why did market rally today? Sensex ends 1,718 pts higher, Nifty reclaims 25,000 as D-Street concludes bump",The Economic Times,positive,0.893,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:32,M&M.NS,India shares higher at close of trade; Nifty 50 up 2.01%,Investing.com India,positive,0.777,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:32,M&M.NS,Tech Mahindra TECHM Acquires More Pininfarina Shares,Kalkine India,positive,0.57,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:33,M&M.NS,Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon,Al Jazeera,negative,0.6054,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:33,M&M.NS,Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M,TechCrunch,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:33,M&M.NS,"""I'm strictly d—ly"" - Sophie Cunningham gets brutally honest about ""lesbian mafia"" in the WNBA",Yahoo Sports,negative,0.6231,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:33,M&M.NS,‘Sick to my stomach’: trans Americans on politicians who spent $183m attacking them for votes,The Guardian,negative,0.7119,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:36,NTPC.NS,"NTPC Share Price Today, NTPC Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.8944,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:37,ONGC.NS,Jindal Drilling ONGC Contract: JINDRILL Wins 3-Year Rig Deal,Kalkine India,positive,0.7389,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:38,ONGC.NS,"ONGC uses stuck Russian dividend dues for Sakhalin fund, seeks operatorship of Venezuela oilfields",The Economic Times,neutral,0.873,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:38,ONGC.NS,"India Inc’s profit grows 25% in Jun-Sep, marking a high in 12 quarters",Moneycontrol.com,positive,0.9451,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:38,POWERGRID.NS,India shares higher at close of trade; Nifty 50 up 2.01%,Investing.com India,positive,0.777,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:40,RELIANCE.NS,"Indian stocks buck global tech rout, post best week in 6 years",Reuters,positive,0.8834,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:40,RELIANCE.NS,Bharti Airtel overtakes Jio Platforms to reclaim title of 2nd most valuable company by market cap,Upstox,positive,0.7406,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:40,RELIANCE.NS,Bharti Airtel overtakes Jio Platforms to become India's second-most valuable listed company after RIL,Business Today,positive,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:40,RELIANCE.NS,RIL surges 13% in 5 days: Why brokerages see up to 30% upside despite retail slowdown,The Financial Express,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:41,SBILIFE.NS,SBI (NSE:SBIN) New York Investor Meet November 2026,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:42,SBIN.NS,SBI (NSE:SBIN) New York Investor Meet November 2026,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:45,TATAMOTORS.NS,India stocks higher at close of trade; Nifty 50 up 2.01%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:45,TATAMOTORS.NS,India shares higher at close of trade; Nifty 50 up 2.01%,Investing.com India,positive,0.777,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:46,TATASTEEL.NS,"BOMBAY COATED AND SPECIAL STEELS LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:46,TATASTEEL.NS,"Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000",https://www.indiagazette.com/,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:46,TATASTEEL.NS,"Why did market rally today? Sensex ends 1,718 pts higher, Nifty reclaims 25,000 as D-Street concludes bump",The Economic Times,positive,0.893,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:49,TCS.NS,Under Rs 3800 Stocks to Buy in Nov 2026: Top 5 Picks,Univest,neutral,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:50,TECHM.NS,Tech Mahindra TECHM Acquires More Pininfarina Shares,Kalkine India,positive,0.57,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:50,TECHM.NS,India shares higher at close of trade; Nifty 50 up 2.01%,Investing.com India,positive,0.777,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:50,TECHM.NS,"Stock markets extend winning streak to seventh session, Sensex gains over 1700 pts",The Statesman,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:50,TECHM.NS,India draws $1.6 billion in foreign inflows in one day as AI stocks rout,StreetInsider,positive,0.5072,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-06 17:31:51,TITAN.NS,"Diwali stock picks 2026: Titan, ICICI Bank, HDFC Bank, BSE, Eternal among 25 stocks with up to 46% upside...",Moneycontrol.com,positive,0.9215,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:52,TITAN.NS,Indian Jewellery Giant Titan Jumps as Profits Beat Expectations,The Business of Fashion,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:55,WIPRO.NS,"Wipro Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:55,WIPRO.NS,"Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline",Upstox,negative,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-06 17:31:55,WIPRO.NS,Wipro Appoints Angan Guha as President and Chief Executive Officer for Americas 2 Strategic Market Unit,PSU Connect,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
