@@ -8358,3 +8358,75 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-09 06:27:46,ULTRACEMCO.NS,"Rail Vikas Nigam Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
 2026-11-09 06:27:49,WIPRO.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
 2026-11-09 06:27:49,WIPRO.NS,"SBI, Wipro, IOCL, Union Bank among top stocks to buy for short-term gains; check price targets",Business Today,neutral,0.5735,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:43:53,ADANIENT.NS,NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit,The Economic Times,positive,0.646,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:43:53,ADANIENT.NS,"IREDA stock rises 8%, logs seventh straight session of gains; rebounds over 21% from October low",The Economic Times,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:43:53,ADANIENT.NS,Meet Hafeez Contractor: The Padma Bhushan architect designing NSE’s new Mumbai headquarters,Livemint,neutral,0.6054,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:43:54,ADANIENT.NS,Voltas dips 8% in two sessions post Q2 earnings; Emkay retains 'Buy' rating,Business Standard,negative,0.8911,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:00,AXISBANK.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:00,AXISBANK.NS,Banking Stocks Set For Comeback In Samvat 2083? Avinash Gorakshakar Shares His Top Picks,Business Today,positive,0.618,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:00,AXISBANK.NS,"PC Jeweller, Vodafone Idea, YES Bank Shares Fall",HDFC Sky,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:00,AXISBANK.NS,"Bank profitability to improve in FY27 on margin recovery, healthy credit growth: Systematix",TradingView,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:03,BAJFINANCE.NS,"Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks",NDTV Profit,positive,0.8563,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:04,BAJAJFINSV.NS,Bajaj Finance stock: Board to set warrant issue price,ad-hoc-news.de,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:04,BAJAJFINSV.NS,"Indian Renewable Energy Development Agency Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:05,BAJAJFINSV.NS,"Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks",NDTV Profit,positive,0.8563,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:07,BHARTIARTL.NS,NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit,The Economic Times,positive,0.646,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:12,DIVISLAB.NS,"NSE share price targets: Two more Buy ratings, 12th since listing day; what MOFSL, JM say",Business Today,neutral,0.551,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:13,DIVISLAB.NS,Divi’s Laboratories (NSE:DIVISLAB) Q2 FY27 Results: PAT Up 64%,Kalkine India,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:16,GRASIM.NS,"Top Q2 results today, November 9: Whirlpool of India, Olectra Greentech, Medico Remedies among companies to announce earnings",Business Upturn,neutral,0.7302,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:18,HCLTECH.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:19,HDFCBANK.NS,"NSE stock leads turnover; ICICI Bank, HDFC Bank, Indian Hotels shares follow suit",Business Today,positive,0.6998,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:19,HDFCBANK.NS,"NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks",Upstox,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:19,HDFCBANK.NS,"Stock market holiday: Will NSE and BSE remain closed on Tuesday, November 10? Check list of holidays this month",Upstox,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:19,HDFCBANK.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:24,HINDALCO.NS,"Hindalco sees record Q2 net profit of ₹75.33b, Novelis revenue rises 25%",AL Circle,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:26,ICICIBANK.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:26,ICICIBANK.NS,"NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks",Upstox,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:26,ICICIBANK.NS,"Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",Livemint,neutral,0.8438,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:26,ICICIBANK.NS,ICICI Bank schedules a series of investor interactions in November 2026,Business Upturn,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:27,ICICIBANK.NS,"ICICI Bank schedules seven investor meets for Nov 16-19, 2026",scanx.trade,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:27,ICICIBANK.NS,Top Traded by Value Today 09-Nov-2026: Banks and Pharma Lead,Multibagg AI,neutral,0.7292,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:29,INDUSINDBK.NS,IndusInd Bank INDUSINDBK CITIC CLSA India Forum Meet Nov 2026,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:32,JSWSTEEL.NS,"Tata Steel, JSW Steel, SAIL: Steel stocks deliver strong Q2 show despite cost overhang; margin growth in focus next?",Upstox,positive,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:34,KOTAKBANK.NS,Samvat 2083 stock picks: 10 ideas from India’s top brokerages for the next Diwali,The Economic Times,neutral,0.8829,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:35,LT.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:35,LT.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:36,LT.NS,Bangalore to Chennai with my Skoda Slavia 1.0L: Route and fuel economy,Team-BHP,positive,0.407,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:36,LT.NS,Cesalatamig Monotherapy Yields Responses in PD-(L)1–Resistant NSCLC,CancerNetwork,positive,0.4124,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:36,LT.NS,"4th Governor’s Cup Boxing M Ratan, L Edison advance to Elite men’s -60 kg category semis",The Sangai Express,neutral,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:36,LT.NS,Why Toronto Businesses Should Consider L-1 Visas For U.S. Growth,Forbes,neutral,0.3994,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:36,LT.NS,Census: 24.25L housing blocks mapped using special software,MillenniumPost,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:38,M&M.NS,SML Mahindra reports October 2026 production and sales figures,Business Upturn,neutral,0.6148,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:38,M&M.NS,Stock Market Holiday: NSE And BSE To Remain Shut On November 10 For Diwali-Balipratipada,Free Press Journal,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:39,M&M.NS,"Tala pipe breach leads to wastage of 5 m gallon water, hits supply, floods localities",The Times of India,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:39,M&M.NS,"Cathie Wood's Ark Invest buys $96M of SpaceX, adds to Nvidia and AMD; trims Broadcom",TradingView,positive,0.7057,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:39,M&M.NS,"Dev error bricked 600 PCs, caused $1M CD-ROM write-off",The Register,negative,0.7357,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:44,ONGC.NS,NSE looks beyond transaction fees to drive growth,The Economic Times,positive,0.879,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:44,ONGC.NS,"IREDA stock rises 8%, logs seventh straight session of gains; rebounds over 21% from October low",The Economic Times,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:46,ONGC.NS,"Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",Livemint,positive,0.8168,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:46,ONGC.NS,Earnings call transcript: Kodiak Gas Services tops revenue estimates in Q3 2026 By Investing.com,Investing.com India,positive,0.7768,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:46,ONGC.NS,ADES wins contracts from ONGC for two jackup rigs in India,Yahoo Finance,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:46,ONGC.NS,"ADES Holding’s 9M Revenue Rises 44% YoY on Africa, Offshore Growth",Egypt Oil & Gas,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:48,RELIANCE.NS,"NIFTY50 fails to sustain 25,000, SENSEX declines 260 points after positive open; IT stocks among top losers",Upstox,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:48,RELIANCE.NS,"AMFI Rejig H1 CY27: NSE, Jio Platforms may enter largecap category; check stocks facing upgrades, downgrades",ET Now,neutral,0.5474,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:48,RELIANCE.NS,"Reliance stock outlook improves after O2C, Jio earnings beat",ad-hoc-news.de,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:51,SBIN.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:51,SBIN.NS,"Share Market Holiday: NSE, BSE to remain closed for Diwali-Balipratipada; see schedule",Zee Business,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:51,SBIN.NS,"NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks",Upstox,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:51,SBIN.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:52,SUNPHARMA.NS,Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock?,Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:53,TATAMOTORS.NS,Tata Motors subsidiary holds 96.25% of Iveco Group after tender offer,Business Upturn,neutral,0.7137,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:53,TATAMOTORS.NS,"AMFI Rejig H1 CY27: NSE, Jio Platforms may enter largecap category; check stocks facing upgrades, downgrades",ET Now,neutral,0.5474,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:53,TATAMOTORS.NS,Capri Global Capital redeems Rs. 900 lakh commercial paper on maturity,Business Upturn,neutral,0.6574,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:53,TATAMOTORS.NS,Bank of Baroda to participate in JM Financial's India Xchange 2026 conference,Business Upturn,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:53,TATAMOTORS.NS,EPack Prefab Technologies CFO resigns for personal reasons,Business Upturn,neutral,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:55,TATASTEEL.NS,Tata Steel share price falls despite 16% profit growth in Q2: 4 brokerages give up to 30% upside – Check targets,Zee Business,negative,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:55,TATASTEEL.NS,Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz,Business Standard,negative,0.8933,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:55,TATASTEEL.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:56,TATASTEEL.NS,"Tata Steel, JSW Steel, SAIL: Steel stocks deliver strong Q2 show despite cost overhang; margin growth in focus next?",Upstox,positive,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:56,TATACONSUM.NS,Krishival Foods Q2 FY27 Earnings Call Key Takeaways,Kalkine India,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:44:56,TATACONSUM.NS,"AMFI Rejig H1 CY27: NSE, Jio Platforms may enter largecap category; check stocks facing upgrades, downgrades",ET Now,neutral,0.5474,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:44:59,TECHM.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:45:01,TITAN.NS,Titan Company redeems commercial papers worth ₹850 crore,Business Upturn,neutral,0.5124,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 20:45:02,ULTRACEMCO.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-09 20:45:02,ULTRACEMCO.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
