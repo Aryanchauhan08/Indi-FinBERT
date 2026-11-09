@@ -8215,3 +8215,146 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-06 17:31:55,WIPRO.NS,"Wipro Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
 2026-11-06 17:31:55,WIPRO.NS,"Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline",Upstox,negative,0.7433,AUTO_ACCEPTED,indi-finbert
 2026-11-06 17:31:55,WIPRO.NS,Wipro Appoints Angan Guha as President and Chief Executive Officer for Americas 2 Strategic Market Unit,PSU Connect,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:48,TATASTEEL.NS,"Tata Steel Q2 FY27: India supports earnings, Europe remains the swing factor",moneycontrol,neutral,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:48,HINDALCO.NS,"Hindalco: Record Q2 profit, but a softer second half ahead",moneycontrol,neutral,0.8143,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:48,HINDALCO.NS,Hindalco shares drop 3% post-Q2 results; check what brokerages say,moneycontrol,negative,0.9439,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:48,BHARTIARTL.NS,Buy Bharti Airtel; target of Rs 2411: Prabhudas Lilladher,moneycontrol,positive,0.9408,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:48,HINDALCO.NS,"Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute, Westlife Foodworld, and others on November 9?",moneycontrol,neutral,0.9443,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:49,ADANIENT.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:49,ADANIENT.NS,"BHEL, Adani Power, Cummins India: Top stocks to trade — Check key levels, targets & stop loss",Business Today,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:49,ADANIENT.NS,"Stock market: HSBC upgrades India to 'Overweight', cuts China rating to 'Neutral'; here's why",Business Today,positive,0.5039,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:49,ADANIENT.NS,"AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27",The Economic Times,neutral,0.627,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:49,ADANIENT.NS,"ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:50,ADANIENT.NS,"Adani Ports shares gain 10% since Q2 earnings, approach Rs 2,000 mark; what's next?",Business Today,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:50,ADANIENT.NS,Adani Group Stock in Which DIIs Increased Their Stake From 6.84% to 10.62% Amid Potential Demerger Plans,Trade Brains,neutral,0.5461,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:50,ADANIENT.NS,"Adani Enterprises plans up to Rs 40,000 cr annual capex",The Siasat Daily,neutral,0.6671,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:50,ADANIPORTS.NS,"ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:53,ASIANPAINT.NS,Weekly Recap: Asian Paints top pick and shares rise before dividend date,TradingView,positive,0.5968,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:54,AXISBANK.NS,Weekly Recap: Director tenure ends and AXISBANK gets Muhurat buy call,TradingView,neutral,0.7155,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:54,AXISBANK.NS,Indian Stocks Snap Diwali Win Streak in First Drop Since 2017,Bloomberg.com,negative,0.574,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:54,AXISBANK.NS,"Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading",Firstpost,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:54,AXISBANK.NS,"PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",Business Standard,positive,0.5466,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:54,AXISBANK.NS,Bank holiday today: Are banks open or closed on November 9? Check details,Business Standard,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:55,BAJAJ-AUTO.NS,Does Bajaj Auto (NSE:BAJAJ-AUTO) Deserve A Spot On Your Watchlist?,Simply Wall St,neutral,0.6094,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:26:55,BAJAJ-AUTO.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:55,BAJAJ-AUTO.NS,NSE Market Lens Beta Brings Natural-Language Stock Screens,Elets CIO,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:55,BAJAJ-AUTO.NS,Muhurat Trading Outperformers in the Diwali Muhurat Session,Univest,positive,0.7175,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:56,BAJFINANCE.NS,Weekly Recap: Q2 FY27 profit rises 29% and early gold loan stress,TradingView,positive,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:56,BAJFINANCE.NS,"Indian Renewable Energy Development Agency Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:56,BAJFINANCE.NS,Weekly Recap: Q2 income and profit growth and warrant pricing meeting,TradingView,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:57,BAJAJFINSV.NS,Weekly Recap: Q2 income and profit growth and warrant pricing meeting,TradingView,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:26:57,BAJAJFINSV.NS,Weekly Recap: Q2 FY27 profit rises 29% and early gold loan stress,TradingView,positive,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:00,BHARTIARTL.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:00,BHARTIARTL.NS,India stocks lower at close of trade; Nifty 50 down 0.18%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:00,BHARTIARTL.NS,India shares lower at close of trade; Nifty 50 down 0.18% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:00,BHARTIARTL.NS,"Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading",Firstpost,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:01,BHARTIARTL.NS,"Bharti Airtel Q2 FY27 Results: Profit Rises 31%, ARPU Hits ₹271",thedigitalbriefnews.com,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:05,DIVISLAB.NS,"ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:05,DIVISLAB.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:05,DIVISLAB.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:05,DIVISLAB.NS,"GAIL (India) Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:05,DIVISLAB.NS,"State Bank Of India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,GRASIM.NS,"Tata Power, HAL, Eicher Motors, Grasim and 6 Other Stocks Announcing Results Next Week",Trade Brains,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,GRASIM.NS,"Top Q2 results this week (November 9-14): Vodafone Idea, HAL, Tata Power, Grasim, Eicher Motors, Ashok Leyland among companies to announce earnings",Business Upturn,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,GRASIM.NS,"Upcoming Q2 FY27 results this week: Tata Motors PV, Vi, HAL, Eicher Motors, Ashok Leyland and more; check full list",Dailyhunt,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,HCLTECH.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,HCLTECH.NS,"Weekly Recap: Q2 revenue-margin beat, strong bookings and Diwali pick",TradingView,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,HCLTECH.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,HCLTECH.NS,"The Indian Hotels Company Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:09,HCLTECH.NS,"Indian Renewable Energy Development Agency Ltd Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:11,HDFCBANK.NS,"Weekly Recap: ADR gains, profit growth and Anup Bagchi named CEO",TradingView,neutral,0.6056,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:11,HDFCBANK.NS,BANKNIFTY261123C57000 Options Chart and Quotes,TradingView,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:11,HDFCBANK.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:11,HDFCBANK.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:11,HDFCBANK.NS,"Sensex, Nifty Slip as Profit‑Booking Caps Recent Rally",HDFC Sky,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:14,HEROMOTOCO.NS,Hero's two-wheeler crown under threat as Honda extends retail lead,Business Standard,negative,0.893,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:14,HINDALCO.NS,"Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading",Firstpost,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:15,HINDUNILVR.NS,"Weekly Recap: Revenue up 6%, 21-quarter volume high and target slips",TradingView,positive,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:15,HINDUNILVR.NS,Analysts Have Made A Financial Statement On Dabur India Limited's (NSE:DABUR) Second-Quarter Report,Simply Wall St,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:17,ICICIBANK.NS,"ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:17,ICICIBANK.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:17,ICICIBANK.NS,"Punjab National Bank Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:17,ICICIBANK.NS,BANKNIFTY261123C57000 Options Chart and Quotes,TradingView,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:17,ICICIBANK.NS,Bank holiday today: Are banks open or closed on November 9? Check details,Business Standard,neutral,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:18,ITC.NS,Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines,TradingView,negative,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:19,INDUSINDBK.NS,"IndusInd Bank, Mazagon Dock offer 15-16% return potential, says Chola Securities",CNBC TV18,positive,0.7251,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:19,INDUSINDBK.NS,India shares lower at close of trade; Nifty 50 down 0.18% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:20,INFY.NS,Stock Radar: Infosys stocks showing signs of bottoming out after falling over 30% from highs; time to buy?,The Economic Times,negative,0.8766,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:20,INFY.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:20,INFY.NS,"Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled",IndiaIPO,positive,0.5732,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:20,INFY.NS,"Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading",Firstpost,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:20,INFY.NS,"WITCH Stocks Rally 23%, but Earnings Recovery Is Unproven",Multibagg AI,positive,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:21,JSWSTEEL.NS,"Rail Vikas Nigam Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:23,KOTAKBANK.NS,"Samvat 2083 top stocks of AUM Capital: Bharti Airtel, Kotak Bank and which ones?",News9live,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:24,LT.NS,Larsen & Toubro secures order from Noida Metro for Aqua Line Extension,Business Upturn,positive,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:24,LT.NS,Indian stocks open strong as Samvat 2083 begins with Muhurat trading rally,Mathrubhumi English,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:24,LT.NS,NSE Unveils BKC Headquarters Design With Illuminated Globe Base and Digital Facade in Mumbai,Business Upturn,neutral,0.7008,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:24,LT.NS,Fujiyama Power Systems targets 4.1 GW in manufacturing expansion amid strong Q2 FY27 growth,Business Upturn,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:24,LT.NS,Seamec vessel 'Seamec Princess' departs Mumbai for ONGC's PRP-X project,Business Upturn,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:25,LT.NS,Cesalatamig Monotherapy Shows Dose-Dependent Activity in PD-(L)1 Inhibitor–Experienced NSCLC,OncLive,positive,0.7288,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:25,LT.NS,Form 4 LXP Industrial Trust: Lawrence L. Gray (Director) For: 2 November By Investing.com,Investing.com India,neutral,0.7743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:25,LT.NS,Billionaire L’Oreal Family Expands Team at Investment Vehicle,Bloomberg.com,neutral,0.6855,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:25,LT.NS,"Sikkim Adventure Tourism Fest concludes, int’l paragliding championship announced",Sikkimexpress,neutral,0.7117,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:25,LT.NS,Jewellery craftsman vanishes with 276g of gold worth ₹27.6L,The Times of India,negative,0.5557,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:27,M&M.NS,Diwali Muhurat Trading 2026: 3 Stocks With 25% Potential Upside,NDTV,positive,0.6877,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:27,M&M.NS,Weekly Recap: Q2 income and profit rise and GDR joins Diwali Picks,TradingView,positive,0.6251,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:27,M&M.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:27,M&M.NS,"""Khushiyon Ki Eid"": M Kharge's Diwali Greeting Draws BJP's Appeasement Charge",NDTV,positive,0.7248,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:27,M&M.NS,Box Office Global: 'Godzilla Minus Zero' Beats 'Ramayana' $63M to $55M WW,Deadline,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:27,M&M.NS,"New Jersey town reveals staggering $26M theft days after election, sparking backlash",Fox News,negative,0.6489,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:27,M&M.NS,‘Godzilla Minus Zero’ roars with $63m at global box office; ‘Ramayana: Rise Of A Legend’ strong with $52.2m; ‘The Cat In The Hat’ leads US openers,Screen Daily,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:27,M&M.NS,1st Chola Chess GM 2026: GM Pranesh M Wins Title as Historic 9 Norms Are Scored,ChessBase India,positive,0.5197,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:29,NESTLEIND.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:30,NTPC.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:30,NTPC.NS,Weekly Recap: Q2 earnings growth and 30 GW nuclear capacity target by 2037,TradingView,neutral,0.5982,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:30,NTPC.NS,"GAIL (India) Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:32,ONGC.NS,Weekly Recap: Q2 profit rises 57.3% and Venezuela rights expected,TradingView,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:32,ONGC.NS,Seamec vessel 'Seamec Princess' departs Mumbai for ONGC's PRP-X project,Business Upturn,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:33,POWERGRID.NS,"Power Grid Corporation Of India Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:33,POWERGRID.NS,"Weekly Recap: Q2 profit up 8.41%, ₹3 dividend and six transmission wins",TradingView,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:33,POWERGRID.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:33,POWERGRID.NS,Here's Why We're Wary Of Buying Indigrid Infrastructure Trust's (NSE:INDIGRID) For Its Upcoming Dividend,Simply Wall St,negative,0.6575,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:34,RELIANCE.NS,"NSE Investor Base Hits 13.7 Crore, Smaller Cities Drive Indias Stock Market Expansion",Free Press Journal,positive,0.649,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:34,RELIANCE.NS,"South West Pinnacle Exploration highlights robust order book of INR 7,671 Mn",Business Upturn,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:35,SBILIFE.NS,India stocks lower at close of trade; Nifty 50 down 0.18%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:35,SBILIFE.NS,India shares lower at close of trade; Nifty 50 down 0.18% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:35,SBILIFE.NS,"Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading",Firstpost,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:35,SBILIFE.NS,"Muhurat Trading 2026: Sensex, Nifty edge lower; key sectors to watch -",IndiaIPO,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:35,SBILIFE.NS,"Sensex ends 29 points lower, Nifty at 24,986 in Muhurat trade as FPIs return to Indian equities",ANI News,negative,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:36,SBIN.NS,"State Bank Of India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:36,SBIN.NS,"PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",Business Standard,positive,0.5466,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:36,SBIN.NS,Weekly Recap: Q2 profit rises 14.28% and GDR falls 1.7% after results,TradingView,positive,0.4725,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:36,SBIN.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:36,SBIN.NS,"Trade Spotlight: How should you trade Motilal Oswal, Adani Green Energy, ITC, SBI, Va Tech Wabag, Groww,...",Moneycontrol.com,neutral,0.9423,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:38,SUNPHARMA.NS,Weekly Recap: Eye-product halt at Assam plant and 32% Q2 profit fall,TradingView,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:38,SUNPHARMA.NS,"Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers",Business Today,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:38,SUNPHARMA.NS,"Diwali Muhurat Trading: Sun Pharma, Tata Steel Headline Gains As Index Nears 25,100",NDTV Profit,positive,0.8767,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:38,SUNPHARMA.NS,"Muhurat Trading 2026: Sensex, Nifty edge lower; key sectors to watch",Business Today,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:39,TATAMOTORS.NS,"Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers",Business Today,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:39,TATAMOTORS.NS,India stocks lower at close of trade; Nifty 50 down 0.18%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:39,TATAMOTORS.NS,"ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session",Business Standard,positive,0.8952,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:39,TATAMOTORS.NS,"Muhurat Trading 2026: Sensex, Nifty edge lower; key sectors to watch -",IndiaIPO,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:39,TATAMOTORS.NS,India shares lower at close of trade; Nifty 50 down 0.18% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:40,TATASTEEL.NS,Tata Steel spurts 3% in Muhurat trading session post steady Q2 earnings,Business Standard,positive,0.8635,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:40,TATASTEEL.NS,"Tata Steel shares jump 3% as Q2 FY27 net profit rises to ₹3,700 crore; check all numbers",Upstox,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:40,TATASTEEL.NS,"Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers",Business Today,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:40,TATASTEEL.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:40,TATASTEEL.NS,"Diwali Muhurat Trading: Sun Pharma, Tata Steel Headline Gains As Index Nears 25,100",NDTV Profit,positive,0.8767,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:41,TATASTEEL.NS,"Tata Steel Q2 FY27 Net Profit Rises 16%; Revenue Crosses ₹65,436 Crore as India Operations Drive Growth",www.nationpathindia.com,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:41,TATASTEEL.NS,"Tata Steel Q2 India profit rises 20% to Rs 5,055 crore",The Avenue Mail,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:41,TATASTEEL.NS,"Tata Steel expects UK break-even in Q4FY27, India gains in H2",scanx.trade,neutral,0.4861,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:41,TATACONSUM.NS,"AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27",The Economic Times,neutral,0.627,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:41,TATACONSUM.NS,"Honasa Consumer gains 5% as brokerages raise target, earnings post Q2",Business Standard,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:41,TATACONSUM.NS,Tata Chemicals Q2 FY27 Results Published by Board,Kalkine India,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:41,TATACONSUM.NS,"Samvat 2083: Mirae Asset Sharekhan's top Diwali stock picks across large, mid and small caps; upside up to 37%",ET Now,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:43,TCS.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:43,TCS.NS,"WITCH Stocks Rally 23%, but Earnings Recovery Is Unproven",Multibagg AI,positive,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:44,TECHM.NS,What Samvardhana Motherson Doubters Overlooked,Yahoo Finance Singapore,negative,0.4075,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-09 06:27:44,TECHM.NS,IT firms with lower capital requirements may gain as investors shift focus to AI monetisation: Report,The Economic Times,positive,0.8951,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:45,TITAN.NS,"The Indian Hotels Company Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:46,ULTRACEMCO.NS,Weekly Recap: Fuel costs up 24% and Diwali stock pick inclusion,TradingView,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:46,ULTRACEMCO.NS,"Nifty, Sensex decline in early trade as profit-taking sets in",The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:46,ULTRACEMCO.NS,"Muhurat Trading 2026: Sensex, Nifty open higher in special session; Tata Steel, Sun Pharma shares among top gainers",Business Today,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:46,ULTRACEMCO.NS,"Rail Vikas Nigam Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:49,WIPRO.NS,"Stocks in news: M&M, BHEL, Adani Enterprises, Wipro, Tata Steel, Siemens and Divi's Labs",The Economic Times,neutral,0.8905,AUTO_ACCEPTED,indi-finbert
+2026-11-09 06:27:49,WIPRO.NS,"SBI, Wipro, IOCL, Union Bank among top stocks to buy for short-term gains; check price targets",Business Today,neutral,0.5735,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
