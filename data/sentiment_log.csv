@@ -8502,3 +8502,59 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-10 07:18:30,TECHM.NS,"Suyog Telematics Ltd (BOM:537259) (Q2 2026) Earnings Call Highlights: 60% EBITDA Margin, ...",Yahoo Finance Singapore,positive,0.7417,AUTO_ACCEPTED,indi-finbert
 2026-11-10 07:18:31,TITAN.NS,Titan Company NSE:TITAN Analyst Meet November 2026,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
 2026-11-10 07:18:31,TITAN.NS,Retail India News: Titan Reports 25 Pc Revenue Growth in Q2FY27,Indian Retailer,positive,0.7397,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:17,ADANIENT.NS,Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27,Business Standard,positive,0.8564,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:17,ADANIENT.NS,"NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange",Livemint,neutral,0.8238,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:17,ADANIENT.NS,Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report,Business Today,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:18,ADANIPORTS.NS,Adani Ports stock draws fresh targets after Evos deal,ad-hoc-news.de,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:18,ADANIPORTS.NS,"Adani Ports stock: Nomura backs INR 2,150 target after cargo surge",ad-hoc-news.de,positive,0.7036,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:19,APOLLOHOSP.NS,Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27,Business Standard,positive,0.8564,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:22,AXISBANK.NS,"Jefferies sees largecaps benefiting from FPI revival; Reliance, HDFC Bank, Axis Bank among potential benef",The Economic Times,positive,0.8871,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:22,AXISBANK.NS,"HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2",Business Today,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:24,BAJFINANCE.NS,"Bajaj Finance stock sets warrant issue at INR 1,010",ad-hoc-news.de,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:24,BAJFINANCE.NS,"Bajaj Finance approves issue of warrants worth ₹5,799,99,97,400 to promoter",Business Upturn,positive,0.6563,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:24,BAJFINANCE.NS,Jyothy Labs announces increase in buyback price to ₹240 per share,Business Upturn,positive,0.7017,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:24,BAJFINANCE.NS,"Kalyan Jewellers reports Rs 20,912 crore in revenue for first half of FY27",Business Upturn,positive,0.387,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:50:24,BAJFINANCE.NS,eClerx Services announces investor meeting with Oyster Rock Capital,Business Upturn,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:26,BAJAJFINSV.NS,"Bajaj Finance stock sets warrant issue at INR 1,010",ad-hoc-news.de,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:26,BAJAJFINSV.NS,"Bajaj Finance approves issue of warrants worth ₹5,799,99,97,400 to promoter",Business Upturn,positive,0.6563,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:26,BAJAJFINSV.NS,Jyothy Labs announces increase in buyback price to ₹240 per share,Business Upturn,positive,0.7017,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:26,BAJAJFINSV.NS,"Kalyan Jewellers reports Rs 20,912 crore in revenue for first half of FY27",Business Upturn,positive,0.387,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:50:26,BAJAJFINSV.NS,Apeejay Surrendra Park Hotels launches Zone Connect by The Park Mathura,Business Upturn,neutral,0.5571,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:50:27,BPCL.NS,"Crude drops to $91: Can IOC, BPCL & HPCL deliver a Q3 margin recovery?",The Financial Express,negative,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:37,GRASIM.NS,Kaushalya Infrastructure auditor Bira Kishore Barik dies,scanx.trade,neutral,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:40,HDFCBANK.NS,"Banks, stock markets closed today? Check city-wise bank holidays and trading schedule for November",Mathrubhumi English,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:47,ICICIBANK.NS,"Up to 12,000% growth! 181 companies more than doubled profits in Q2 earnings boom for India Inc",The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:47,ITC.NS,"Competition for Britannia, Parle, ITC? Reliance Consumer Products expands with 'Independence' biscuits portfolio",Business Today,positive,0.6524,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:47,ITC.NS,"Jindal Steel faces INR 8,41,20,475 order from CGST & Central Excise for alleged excess ITC claim, plans appeal",Business Upturn,negative,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:49,INDUSINDBK.NS,"HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2",Business Today,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:50,INFY.NS,General Insurance Corp of India (NSE:GICRE) (Q2 2027) Earnings Call Highlights: Premium Growth ...,Yahoo Finance Australia,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:53,KOTAKBANK.NS,"HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2",Business Today,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:53,KOTAKBANK.NS,"RIL, HDFC Bank, Axis, Kotak Bank, VBL and Sona BLW shares among plays on FPI reversal -",IndiaIPO,neutral,0.6976,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:54,LT.NS,More int'l co-op needed to accelerate electrification: GWEC chief | Daily Sabah,Daily Sabah,neutral,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:54,LT.NS,Form 4 Shenandoah Telecommunications Co: Kenneth L. Quaglio (Director) For: 6 November By Investing.com,Investing.com India,neutral,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:54,LT.NS,"How facial recognition, Aadhaar verification helped Telangana weed out 4.71L ineligible pensioners",NewsMeter,neutral,0.6822,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:57,M&M.NS,U.K. writer M. John Harrison wins Booker for AI-tinged apocalyptic novel,The Hindu,neutral,0.4624,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:50:57,M&M.NS,CPI(M) accuses UDF of making higher education sole privilege of students from entitled families and undermining reservation criteria,The Hindu,negative,0.3727,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:50:57,M&M.NS,The $1M Trial Is Real. So Is the Question It Can’t Answer.,The Clinical Trial Vanguard,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:57,M&M.NS,Accounting tech firm Sumary raises $25m in funding,International Accounting Bulletin,positive,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:58,MARUTI.NS,Maruti Suzuki India (NSE:MARUTI) Files Parent’s First-Half Results Reference,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:50:59,NESTLEIND.NS,"Stock Market Holiday November 10: Why NSE, BSE Are Closed Today Check Next Trading Session",ABP Live English,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,"Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News",TechGraph,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,Foreign investors keep faith in 83 stocks despite prolonged India selloff,The Economic Times,positive,0.8442,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,ONGC Q2 Net Profit Rises 57 Per Cent to Rs. 154.89 bn,Construction World,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,"BHEL, ONGC, LIC, Indian Bank, SAIL and BOM among PSUs with 4 quarters of FII buying -",IndiaIPO,positive,0.6389,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,Earnings call transcript: Natural Gas Services Group tops revenue in Q3 2026,Investing.com,positive,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:02,ONGC.NS,Uniper Raises 2026 Profit Outlook as Adjusted Earnings More Than Double,Crude Oil Prices Today | OilPrice.com,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:03,POWERGRID.NS,"Vilas Transcore Ltd (NSE:VILAS) Q2 2027 Earnings Call Highlights: Revised Guidance, Margin ...",Yahoo Finance Singapore,neutral,0.6937,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:03,POWERGRID.NS,Battery And Renewable Energy Stocks Rally As Sensex Ends Higher Amid Mixed Sectoral Performance (10 November 2026),SolarQuarter,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:07,SBIN.NS,"Stock Market Holiday Today: NSE, BSE shut for Diwali-Balipratipada; MCX to resume trading in evening session",Zee Business,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:09,TATAMOTORS.NS,Tube Investments of India Ltd (NSE:TIINDIA) (Q2 2027) Earnings Call Highlights: 33% Revenue ...,Yahoo Finance,positive,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:09,TATAMOTORS.NS,Sumax Engineering Limited Reports Strong H1 FY27 Results; Net Profit Up 60% YoY,India's News.Net,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:11,TATASTEEL.NS,"Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",Business Standard,neutral,0.8931,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:11,TATASTEEL.NS,"Macquarie's Ed Northam sees India as high-growth market, flags multiple growth drivers: Report",Business Today,positive,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:14,TCS.NS,Learn Why The Bull Case For Teradata Stock Could Change Following Earnings Beat,Yahoo Finance Singapore,neutral,0.6731,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:15,TECHM.NS,India not a refuge but 'compelling' AI opportunity: Anand Mahindra,Business Standard,neutral,0.4444,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 17:51:15,TECHM.NS,"It's the ecosystem, stupid! Anand Mahindra celebrates India's rise to the top 3 in the AI race, beating th",The Economic Times,positive,0.6944,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:15,TECHM.NS,'Not A Refuge From Hype': Anand Mahindra Says India Has A Compelling AI Opportunity Of Its Own,NDTV Profit,positive,0.7609,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:15,TECHM.NS,"‘It's the ecosystem, stupid!’ Anand Mahindra sees big AI opportunity for India, links it to renewed investor interest",ET Now,positive,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-11-10 17:51:16,TITAN.NS,"Kalyan Jewellers Q2 Results: Net profit jumps 64% YoY to Rs 427 crore, revenue rises 31%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
