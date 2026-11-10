@@ -8430,3 +8430,75 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-09 20:45:01,TITAN.NS,Titan Company redeems commercial papers worth ₹850 crore,Business Upturn,neutral,0.5124,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-09 20:45:02,ULTRACEMCO.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
 2026-11-09 20:45:02,ULTRACEMCO.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:31,INFY.NS,"Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3%",moneycontrol,negative,0.9421,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:31,TATASTEEL.NS,"Tata Steel shares down 3% post-Q2 results, brokerages cautious about UK operations' growth",moneycontrol,negative,0.9442,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:31,BHARTIARTL.NS,Buy Bharti Airtel: target of Rs 2430: ICICI Securities,moneycontrol,positive,0.9017,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:31,TATASTEEL.NS,Buy Tata Steel: target of Rs 235: ICICI Securities,moneycontrol,positive,0.8667,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:31,HINDALCO.NS,Buy Hindalco Industries: target of Rs 1204: ICICI Securities,moneycontrol,positive,0.9365,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:33,ADANIENT.NS,"Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r",The Economic Times,neutral,0.8938,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:33,ADANIENT.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:33,ADANIENT.NS,"IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus",Livemint,positive,0.7841,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:35,APOLLOHOSP.NS,"Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",Livemint,neutral,0.8438,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:35,APOLLOHOSP.NS,Stock Market Holiday: NSE And BSE To Remain Shut On November 10 For Diwali-Balipratipada,Free Press Journal,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:37,AXISBANK.NS,"Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed",INDToday,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:37,AXISBANK.NS,"Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?",شبكة تواصل الإخبارية,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:37,AXISBANK.NS,"Another billion-dollar IPO: After Jio and NSE, what should investors know about Mahanadi Coalfields?",The Economic Times,neutral,0.8843,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:38,AXISBANK.NS,"Up to 12,000% growth! 181 companies more than doubled profits in Q2 earnings boom for India Inc",The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:39,BAJAJ-AUTO.NS,Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?,The Economic Times,neutral,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:40,BAJFINANCE.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:17:40,BAJFINANCE.NS,"Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance",Rediff,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:40,BAJFINANCE.NS,"Stock Market Holiday Today: Why NSE, BSE are closed on November 10? Check MCX, NCDEX trading schedule and remaining 2026 holidays",ET Now,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:40,BAJFINANCE.NS,Radico Khaitan faces ₹2.64 crore goods seizure due to customs classification issue,Business Upturn,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:40,BAJFINANCE.NS,IRB Infrastructure Developers reports ₹836 crore toll revenue for October 2026,Business Upturn,neutral,0.6548,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:41,BAJAJFINSV.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",ANI News,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:17:41,BAJAJFINSV.NS,Radico Khaitan faces ₹2.64 crore goods seizure due to customs classification issue,Business Upturn,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:44,BHARTIARTL.NS,Bharti Hexacom Ltd (NSE:BHARTIHEXA) Q2 2027 Earnings Call Highli,GuruFocus,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:48,COALINDIA.NS,"Another billion-dollar IPO: After Jio and NSE, what should investors know about Mahanadi Coalfields?",The Economic Times,neutral,0.8843,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:50,DRREDDY.NS,"Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains",Big News Network.com,positive,0.5164,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:17:51,DRREDDY.NS,Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?,The Economic Times,neutral,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:53,GRASIM.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:53,GRASIM.NS,"IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus",Livemint,positive,0.7841,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:54,HCLTECH.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:54,HCLTECH.NS,"Stock Market Holiday Today: NSE, BSE shut for Diwali-Balipratipada; MCX to resume trading in evening session",Zee Business,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:55,HDFCBANK.NS,"PC Jeweller, Vodafone Idea, YES Bank Shares Fall",HDFC Sky,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:55,HDFCBANK.NS,"Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed",INDToday,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:55,HDFCBANK.NS,"Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?",شبكة تواصل الإخبارية,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:56,HDFCBANK.NS,Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?,The Economic Times,neutral,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:58,HEROMOTOCO.NS,Honda's 4-Month Winning Streak Puts Pressure on Hero MotoCorp's Market Lead,Rediff,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:17:58,HEROMOTOCO.NS,The Hi-Tech Gears reports Q2 FY27 revenue of INR 2850 million,Business Upturn,positive,0.4371,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:00,HINDUNILVR.NS,Hindustan Unilever HINDUNILVR CITIC CLSA India Forum 2026,Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:01,ICICIBANK.NS,"Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed",INDToday,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:01,ICICIBANK.NS,"Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?",شبكة تواصل الإخبارية,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:01,ICICIBANK.NS,"Banks, stock markets closed today? Check city-wise bank holidays and trading schedule for November",Mathrubhumi English,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:03,ITC.NS,"Stock Market Holiday Today: Why NSE, BSE are closed on November 10? Check MCX, NCDEX trading schedule and remaining 2026 holidays",ET Now,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:07,JSWSTEEL.NS,"Up to 12,000% growth! 181 companies more than doubled profits in Q2 earnings boom for India Inc",The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:09,LT.NS,"Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance",Rediff,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:09,LT.NS,"Stock Market Holiday Today: Why NSE, BSE are closed on November 10? Check MCX, NCDEX trading schedule and remaining 2026 holidays",ET Now,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:10,LT.NS,Syneos Health gets Tina L Sirmal as executive director-HR,HR Katha,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:10,LT.NS,"Green, CRZ clearances for Rs 1.03L cr BPCL refinery in coastal Andhra Pradesh",The New Indian Express,negative,0.304,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:11,M&M.NS,Landmark Cars Signs Letters of Intent for JSW Motors Dealerships in Ahmedabad and Bhopal,Machine Maker,neutral,0.6431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:12,M&M.NS,"Author M John Harrison wins Booker Prize 2026, becoming oldest ever winner aged 81",BBC,neutral,0.5205,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:12,M&M.NS,10 years with my Suzuki Hayabusa: How I'm celebrating the milestone,Team-BHP,positive,0.6747,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:12,M&M.NS,Firms tied to West Bank settlements win $15m UK deals despite sanctions,Al Jazeera,positive,0.6841,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:12,M&M.NS,M John Harrison’s ‘The End of Everything’ wins the 2026 Booker Prize for fiction,Financial Times,positive,0.393,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:13,MARUTI.NS,"Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",Livemint,neutral,0.8438,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:15,NTPC.NS,"Stock Market Holiday Today: Why NSE, BSE are closed on November 10? Check MCX, NCDEX trading schedule and remaining 2026 holidays",ET Now,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:17,ONGC.NS,Aemetis reports higher RNG and ethanol sales for Q3,Biomass Magazine,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:17,ONGC.NS,Occidental earnings on deck: Cash flow plan faces production test By Investing.com,Investing.com India,positive,0.5408,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:18,POWERGRID.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:19,RELIANCE.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:19,RELIANCE.NS,Whirlpool of India Q2 FY27 results: Net profit drops 39% YoY; cost upcharges impact margins,Upstox,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:22,SBIN.NS,"Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?",شبكة تواصل الإخبارية,neutral,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:24,SUNPHARMA.NS,Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?,The Economic Times,neutral,0.8922,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:24,TATAMOTORS.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:24,TATAMOTORS.NS,Nippon Life India Asset Management announces diverse range of investment schemes,Business Upturn,neutral,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:25,TATASTEEL.NS,Tata Steel Limited Just Missed EPS By 11%: Here's What Analysts Think Will Happen Next,Simply Wall St,negative,0.7253,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:25,TATASTEEL.NS,India stocks higher at close of trade; Nifty 50 up 0.23%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:25,TATASTEEL.NS,India shares higher at close of trade; Nifty 50 up 0.23% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:25,TATASTEEL.NS,NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit,The Economic Times,positive,0.646,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-10 07:18:26,TATASTEEL.NS,"Tata Steel Q2 Profit Rises 16.2% to ₹3,699.6 Crore; Revenue Up 11.5%",Dainik Jagran MP CG,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:27,TATACONSUM.NS,"AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",Livemint,positive,0.8444,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:29,TECHM.NS,"Stock Market Holiday Today: NSE, BSE shut for Diwali-Balipratipada; MCX to resume trading in evening session",Zee Business,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:30,TECHM.NS,"Suyog Telematics Ltd (BOM:537259) (Q2 2026) Earnings Call Highlights: 60% EBITDA Margin, ...",Yahoo Finance Singapore,positive,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:31,TITAN.NS,Titan Company NSE:TITAN Analyst Meet November 2026,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-10 07:18:31,TITAN.NS,Retail India News: Titan Reports 25 Pc Revenue Growth in Q2FY27,Indian Retailer,positive,0.7397,AUTO_ACCEPTED,indi-finbert
