@@ -8558,3 +8558,89 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-10 17:51:15,TECHM.NS,'Not A Refuge From Hype': Anand Mahindra Says India Has A Compelling AI Opportunity Of Its Own,NDTV Profit,positive,0.7609,AUTO_ACCEPTED,indi-finbert
 2026-11-10 17:51:15,TECHM.NS,"‘It's the ecosystem, stupid!’ Anand Mahindra sees big AI opportunity for India, links it to renewed investor interest",ET Now,positive,0.7368,AUTO_ACCEPTED,indi-finbert
 2026-11-10 17:51:16,TITAN.NS,"Kalyan Jewellers Q2 Results: Net profit jumps 64% YoY to Rs 427 crore, revenue rises 31%",The Economic Times,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:48,ASIANPAINT.NS,"IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude slump",moneycontrol,positive,0.946,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:48,HINDALCO.NS,"Hindalco shares slip 0.3%; brokerages bullish on realisations after Q2 results, but warn about near-term risks",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:49,ADANIENT.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:49,ADANIENT.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:51,ADANIPORTS.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:53,ASIANPAINT.NS,"IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude...",Moneycontrol.com,positive,0.9468,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:53,ASIANPAINT.NS,"Wall Street falls, Dalal Street roars! What powered the massive Sensex and Nifty rally?",NewsDrum,negative,0.7374,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:54,AXISBANK.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:54,AXISBANK.NS,Siemens Q2 FY27 Results | Annu Projects Bags Major Solar Supply Contract | Top Buzzing Stocks Today,Equitymaster,neutral,0.6784,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:54,AXISBANK.NS,D-St set for a cautious opening as GIFT Nifty signals muted start,The Economic Times,negative,0.7674,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:55,BAJAJ-AUTO.NS,"Auto sector stocks today, November 11: Force Motors jumps 5.24%, M&M gains 4.13%, Ola Electric rises 2.92%",Business Upturn,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,"Bajaj Finance (NSE:BAJFINANCE) Prices Promoter Warrants at ₹1,010",Kalkine India,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained,Kalkine India,neutral,0.68,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,"Kalyan Jewellers shares zoom 10%, hit upper circuit after strong Q2 earnings. What analysts are saying",The Economic Times,positive,0.8921,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,Cochin Shipyard shares tumble 8% as Q2 profit falls 50% YoY despite revenue growth,The Economic Times,negative,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,"Stocks in news: Cochin Shipyard, Kalyan Jewellers, MRF, Coal India, BHEL and Bajaj Finance",The Economic Times,neutral,0.8918,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:57,BAJFINANCE.NS,"Earnings recovery, FII revival: 5 factors that will shape Dalal Street's next move after Q2",The Economic Times,neutral,0.8805,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:58,BAJAJFINSV.NS,Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained,Kalkine India,neutral,0.68,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:58,BAJAJFINSV.NS,"Bajaj Finance (NSE:BAJFINANCE) Prices Promoter Warrants at ₹1,010",Kalkine India,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:58,BAJAJFINSV.NS,"Bajaj Finance Allots Warrants Worth Rs 5,799 Crore",HDFC Sky,neutral,0.7386,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:58,BAJAJFINSV.NS,"Stocks in news: Cochin Shipyard, Kalyan Jewellers, MRF, Coal India, BHEL and Bajaj Finance",The Economic Times,neutral,0.8918,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:17:59,BPCL.NS,"IndiGo jumps nearly 5%, Asian Paints gains 2% as aviation, tyre, oil marketing stocks rally amid crude...",Moneycontrol.com,positive,0.9468,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:00,BHARTIARTL.NS,"Stock markets surge in early trade; Sensex jumps 1,097 points",The New Indian Express,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:06,DRREDDY.NS,RDY: SEC Form 6-K filed by Dr. Reddy's Laboratories Ltd,Quantisnow,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:08,EICHERMOT.NS,"Auto sector stocks today, November 11: Force Motors jumps 5.24%, M&M gains 4.13%, Ola Electric rises 2.92%",Business Upturn,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:10,GRASIM.NS,Grasim stock set for November 13 earnings call on Q2 FY27,ad-hoc-news.de,positive,0.51,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:10,HCLTECH.NS,HCLTech NSE:HCLTECH Semiconductor PLM PTC Windchill Deal,Kalkine India,neutral,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:10,HCLTECH.NS,HCL Technologies and PTC collaborate to enhance semiconductor lifecycle management,Business Upturn,positive,0.628,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:11,HDFCBANK.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:11,HDFCBANK.NS,"Stock markets surge in early trade; Sensex jumps 1,097 points",The New Indian Express,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:11,HDFCBANK.NS,"HDFC Bank, IREDA, Mankind Pharma: Top stocks to trade — Check key levels, targets & stop loss",Business Today,neutral,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:11,HDFCBANK.NS,"Banking sector stocks rally today, November 11: Punjab & Sind Bank jumps 5.38%, Karnataka Bank up 4.53%, Axis Bank rises 2.43%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:13,HDFCLIFE.NS,HDFC Life schedules investor meets in Mumbai and Dubai from Nov 16 to 30,scanx.trade,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:14,HEROMOTOCO.NS,Siemens Q2 FY27 Results | Annu Projects Bags Major Solar Supply Contract | Top Buzzing Stocks Today,Equitymaster,neutral,0.6784,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:14,HEROMOTOCO.NS,"Auto sector stocks today, November 11: Force Motors jumps 5.24%, M&M gains 4.13%, Ola Electric rises 2.92%",Business Upturn,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:17,HINDUNILVR.NS,"HUL raises prices, Dabur signals increase: Is India's FMCG sector entering a new pricing cycle?",Upstox,positive,0.6329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:17,ICICIBANK.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:17,ICICIBANK.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:17,ICICIBANK.NS,"Banking sector stocks rally today, November 11: Punjab & Sind Bank jumps 5.38%, Karnataka Bank up 4.53%, Axis Bank rises 2.43%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:20,INDUSINDBK.NS,"Banking sector stocks rally today, November 11: Punjab & Sind Bank jumps 5.38%, Karnataka Bank up 4.53%, Axis Bank rises 2.43%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:22,JSWSTEEL.NS,JSW Steel releases new investor presentation,Business Upturn,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:22,JSWSTEEL.NS,JSW Steel reports consolidated crude steel production of 25.73 lakh tonnes for October 2026,Business Upturn,neutral,0.7242,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:22,JSWSTEEL.NS,Kalyan Jewellers India presents Q2 FY 2026 standalone and consolidated financial results,Business Upturn,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:22,JSWSTEEL.NS,Titagarh Rail Systems reports Rs. 199.99 crore preferential issue utilization for Q3 2026,Business Upturn,neutral,0.6619,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:22,JSWSTEEL.NS,Sun Pharma Advanced Research Company addresses increase in trading volume,Business Upturn,positive,0.6355,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:24,KOTAKBANK.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:24,KOTAKBANK.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:24,KOTAKBANK.NS,"Banking sector stocks rally today, November 11: Punjab & Sind Bank jumps 5.38%, Karnataka Bank up 4.53%, Axis Bank rises 2.43%",Business Upturn,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:26,LT.NS,Form 4 Snowflake Inc: Michael L. Speiser (Director) For: 6 November,Investing.com India,neutral,0.7749,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:26,LT.NS,Rash Mela set for int’l push; 15-day Ganga Aarti planned,MillenniumPost,positive,0.6571,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:26,LT.NS,L’OCCITANE Group strikes deal to sell Elemis brand to PAI Partners,Moodie Davitt Report,neutral,0.6138,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:26,LT.NS,Senior Seoul diplomat says crypto heists carry 'significant' int'l security implications,The Korea Times,neutral,0.7202,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:27,M&M.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:27,M&M.NS,"JTEKT India Q2 FY27 Results: Revenue Up 29%, PAT Drops 20%",Kalkine India,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:27,M&M.NS,"Stock markets surge in early trade; Sensex jumps 1,097 points",The New Indian Express,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:27,M&M.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:27,M&M.NS,"Auto sector stocks today, November 11: Force Motors jumps 5.24%, M&M gains 4.13%, Ola Electric rises 2.92%",Business Upturn,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:28,M&M.NS,All 7 Anthropic founders will each cash out about $250M in IPO,TechCrunch,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:28,M&M.NS,Richard Li’s FWD sets world record with sale of US$318m life policy,South China Morning Post,positive,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:28,M&M.NS,Senior managing directors on $17m unhappy about their $15m pay cut,eFinancialCareers,negative,0.641,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:28,M&M.NS,David Corenswet Done As Superman as Skydance Braces for $100M Man of Tomorrow Loss (Exclusive),Cosmic Book News,neutral,0.7118,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:28,M&M.NS,Tech’s biggest names sank a tax on billionaires’ wealth with $425m and a familiar playbook,The Guardian,positive,0.5651,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:29,MARUTI.NS,"JTEKT India Q2 FY27 Results: Revenue Up 29%, PAT Drops 20%",Kalkine India,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:32,NTPC.NS,NSE EGRs: Want to invest in gold without buying jewellery or coins? Check how to buy electronic gold receipts online,Livemint,neutral,0.8433,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:32,NTPC.NS,Battery And Renewable Energy Stocks Rally As Sensex Ends Higher Amid Mixed Sectoral Performance (10 November 2026),SolarQuarter,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:33,ONGC.NS,"Crude oil prices at 2-month low: What it means for OMCs, ONGC, paint, tyre and aviation stocks",Upstox,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:33,ONGC.NS,"RIL, ONGC and BP weigh shared offshore hub to cut deepwater costs",Indiatimes,positive,0.6052,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:33,ONGC.NS,"Petrobras Earnings Disappoint Despite Oil, Refining Tailwinds",Bloomberg.com,negative,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:33,ONGC.NS,"Occidental Petroleum Q4 Guidance: Lease costs up, gas income down",scanx.trade,negative,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:35,RELIANCE.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:35,RELIANCE.NS,Sanathan Textiles Ltd (NSE:SANATHAN) (Q2 2027) Earnings Call Highlights: Revenue Jumps 35% QoQ ...,Yahoo Finance,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:35,RELIANCE.NS,Sudarshan Pharma (NSE:SUDARSHAN) Company Secretary Resigns,Kalkine India,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:38,SBIN.NS,Taking stock of stock exchanges,The Daily Brief by Zerodha,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:39,SUNPHARMA.NS,Sun Pharma Advanced Research Company addresses increase in trading volume,Business Upturn,positive,0.6355,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:40,TATAMOTORS.NS,"JTEKT India Q2 FY27 Results: Revenue Up 29%, PAT Drops 20%",Kalkine India,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:40,TATAMOTORS.NS,"Auto sector stocks today, November 11: Force Motors jumps 5.24%, M&M gains 4.13%, Ola Electric rises 2.92%",Business Upturn,positive,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:42,TATASTEEL.NS,Tata Steel Posts Q2FY27 Consolidated EBITDA Of Rs 105 Billion As India Production Rises 9%,Sahi,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:43,TATACONSUM.NS,Ganesh Consumer Products' (NSE:GANESHCP) Solid Earnings Have Been Accounted For Conservatively,Simply Wall St,positive,0.55,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:43,TATACONSUM.NS,Rentomojo shares in focus after Q2 results as profits shrink 62% despite healthy revenue growth; here’s why,Upstox,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:46,TECHM.NS,Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already?,NDTV Profit,positive,0.6166,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:46,TECHM.NS,"TIM Brasil Q3 revenue misses estimates, but margins expand",Yahoo Finance Singapore,negative,0.4665,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 06:18:46,TECHM.NS,LG Electronics is moving beyond its two-track strategy,Livemint,positive,0.8183,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:46,TITAN.NS,"Kalyan Jewellers Q2 profit jumps 64% to Rs 427 cr; H1 revenue crosses Rs 20,900 cr",The Financial Express,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:47,TITAN.NS,"Titan bets on studded jewellery, premium watches and eyewear to drive growth",The Economic Times,positive,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:47,TITAN.NS,Titan H2 Outlook: Can Falling Gold Prices Pressure Profitability?,Trade Brains,neutral,0.6857,AUTO_ACCEPTED,indi-finbert
+2026-11-11 06:18:48,ULTRACEMCO.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
