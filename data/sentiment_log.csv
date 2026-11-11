@@ -8644,3 +8644,86 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-11 06:18:47,TITAN.NS,"Titan bets on studded jewellery, premium watches and eyewear to drive growth",The Economic Times,positive,0.89,AUTO_ACCEPTED,indi-finbert
 2026-11-11 06:18:47,TITAN.NS,Titan H2 Outlook: Can Falling Gold Prices Pressure Profitability?,Trade Brains,neutral,0.6857,AUTO_ACCEPTED,indi-finbert
 2026-11-11 06:18:48,ULTRACEMCO.NS,"RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback",NDTV Profit,neutral,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:39,BAJFINANCE.NS,"Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher",moneycontrol,positive,0.9466,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:39,TATASTEEL.NS,"Tata Steel shares gain 2% as brokerages see stronger India earnings, flag risks in Europe",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:40,ADANIENT.NS,National Stock Exchange of India to host analyst meetings in Mumbai on Nov 16-17,scanx.trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:40,ADANIENT.NS,Hindustan Copper fined ₹14.43 lakh by BSE and NSE for governance lapses,scanx.trade,negative,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:40,ADANIENT.NS,"ValueQuest commits ₹775 cr to 3 Indian manufacturing, defence companies",Business Standard,neutral,0.8751,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:40,ADANIENT.NS,"Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion",Business Standard,positive,0.4532,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:41,ADANIENT.NS,Adani Enterprises stock enters major airport and data-center investment cycle,ad-hoc-news.de,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:41,ADANIPORTS.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:41,ADANIPORTS.NS,Whirlpool gains 3% even as Q2 PAT sinks 40%; ICICI Sec maintains 'Reduce',Business Standard,positive,0.8299,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:41,ADANIPORTS.NS,Adani Ports stock faces two rivals for Tuticorin port project,ad-hoc-news.de,neutral,0.7081,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:43,APOLLOHOSP.NS,"PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal?",Business Standard,neutral,0.7096,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:43,APOLLOHOSP.NS,Shalby's (NSE:SHALBY) Earnings Are Weaker Than They Seem,Simply Wall St,negative,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:44,ASIANPAINT.NS,"Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why",Upstox,negative,0.5133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:46,AXISBANK.NS,"NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why",Upstox,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:46,AXISBANK.NS,NSE shares climb 12% in a month; should investors enter now?,Business Today,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:46,AXISBANK.NS,"NSE shares rise 2%, recover 20% from record low in less than a month. Why Motilal Oswal sees 19% upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:46,AXISBANK.NS,Tata Steel shares rise 2%. Why brokerages remain bullish; see up to 30% upside potential,The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:47,BAJAJ-AUTO.NS,LG Electronics India Ltd (NSE:LGEINDIA) (Q2 2027) Earnings Call Highlights: Record 19. ...,Yahoo Finance Singapore,positive,0.7333,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:48,BAJAJ-AUTO.NS,"Two-wheeler makers see H2 growth moderating on high base, uneven demand",Business Standard,positive,0.6432,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:49,BAJFINANCE.NS,"Bajaj Finance launches ₹11,700 crore QIP at 5% discount to closing price",Business Standard,neutral,0.5161,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:49,BAJFINANCE.NS,"NSE shares rise 2%, recover 20% from record low in less than a month. Why Motilal Oswal sees 19% upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:49,BAJFINANCE.NS,Sun Pharma Advanced Research Company addresses increase in trading volume,Business Upturn,positive,0.6355,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:49,BAJFINANCE.NS,"Aditya Infotech block deal: Dixon Tech offloads shares worth Rs 582 crore; Motilal Oswal MF, Kotak MF buye",The Economic Times,neutral,0.8689,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:49,BAJFINANCE.NS,Bajaj Finance announces equity share placement with a floor price of ₹992.25 per share,Business Upturn,neutral,0.6184,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:50,BAJAJFINSV.NS,"Bajaj Finance launches ₹11,700 crore QIP at 5% discount to closing price",Business Standard,neutral,0.5161,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:50,BAJAJFINSV.NS,"NSE shares rise 2%, recover 20% from record low in less than a month. Why Motilal Oswal sees 19% upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:50,BAJAJFINSV.NS,"Bajaj Finance may launch Rs 11,700-crore QIP to fund growth; shares trade higher",Moneycontrol.com,positive,0.9466,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:50,BAJAJFINSV.NS,India's Bajaj Finance launches over $1 billion share sale to institutional investors,marketscreener.com,neutral,0.5741,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:51,BPCL.NS,"Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why",Upstox,negative,0.5133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:54:51,BPCL.NS,Bharat Petroleum to hold investor meets in Mumbai from Nov 16,scanx.trade,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:54:53,BHARTIARTL.NS,Earnings To Watch: Amber Enterprises India Ltd (NSE:AMBER) Q2 2027 -- GF Value Sees 102% Upside,Yahoo Finance,positive,0.7397,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:04,HCLTECH.NS,"Hindustan Copper faces Rs. 14,43,140 fine from NSE and BSE for regulatory non-compliance",Business Upturn,negative,0.7278,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:06,HDFCBANK.NS,"Bank Nifty surges 3% to nearly 61,400 as crude prices fall; BoB, PNB, Yes Bank rally up to 6%",Moneycontrol.com,positive,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:06,HDFCBANK.NS,"NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why",Upstox,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:06,HDFCBANK.NS,"NSE shares rise 2%, recover 20% from record low in less than a month. Why Motilal Oswal sees 19% upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:12,ICICIBANK.NS,Whirlpool gains 3% even as Q2 PAT sinks 40%; ICICI Sec maintains 'Reduce',Business Standard,positive,0.8299,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:14,ITC.NS,India stocks higher at close of trade; Nifty 50 up 0.84%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:14,ITC.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:14,ITC.NS,Dodla Dairy Faces Rs 5.73 Crore GST Demand Orders for FY 2022-24: What Investors Should Know,Kalkine Media,neutral,0.6569,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:18,JSWSTEEL.NS,LG Electronics India Ltd (NSE:LGEINDIA) (Q2 2027) Earnings Call Highlights: Record 19. ...,Yahoo Finance Singapore,positive,0.7333,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:22,LT.NS,India's int'l air passenger traffic rose to 78.7 mn in 2025-26: Official data,ET TravelWorld,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:22,LT.NS,Man cheats packaging firm of Rs 18 L through fake GST challans,Pioneer Edge,negative,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:22,LT.NS,Form 4 Selectquote Inc: Donald L. Hawks III (Director) For: 6 November By Investing.com,Investing.com India,neutral,0.7742,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:22,LT.NS,Mumbai Airport T1 Rebuild: 91% Int'l Traffic Unaffected,Rediff MoneyWiz,negative,0.6015,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:22,LT.NS,The Room as Interface: How L-Acoustics Transforms Sound Into Spatial Data,Techerati,neutral,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:24,M&M.NS,India stocks higher at close of trade; Nifty 50 up 0.84%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:24,M&M.NS,LG Electronics India Ltd (NSE:LGEINDIA) (Q2 2027) Earnings Call Highlights: Record 19. ...,Yahoo Finance Singapore,positive,0.7333,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:25,M&M.NS,Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up,BBC,neutral,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:25,M&M.NS,Alina Habba fired from $50m contract with banker’s family after Trump calls deal ‘outrageous’,The Times of India,negative,0.6852,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:25,M&M.NS,Maersk Tankers lands $33m profit from offloading product carriers into Nigeria,TradeWinds News,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:25,M&M.NS,Trump's ex-lawyer Alina Habba loses whopping $50M contract after president blasted ‘outrageous’ deal,New York Post,negative,0.737,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:27,NESTLEIND.NS,India stocks higher at close of trade; Nifty 50 up 0.84%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:27,NESTLEIND.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:28,NTPC.NS,Dodla Dairy Faces Rs 5.73 Crore GST Demand Orders for FY 2022-24: What Investors Should Know,Kalkine Media,neutral,0.6569,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:30,ONGC.NS,"Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why",Upstox,negative,0.5133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:30,ONGC.NS,"Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion",Business Standard,positive,0.4532,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:30,ONGC.NS,Earnings call transcript: Freehold Royalties posts steady Q3 2026 results By Investing.com,Investing.com India,positive,0.4566,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:30,ONGC.NS,"Earnings call transcript: Occidental tops Q3 2026 profit forecasts, shares rise",Investing.com India,positive,0.7776,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:31,POWERGRID.NS,BHEL shares up 3.5% on Power Grid order for Gujarat synchronous condensers,Business Standard,positive,0.8976,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:31,POWERGRID.NS,"Transrail Lighting Ltd (NSE:TRANSRAILL) (Q2 2027) Earnings Call Highlights: Record Revenue, Rs ...",Yahoo Finance Singapore,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:31,POWERGRID.NS,NSE shares climb 12% in a month; should investors enter now?,Business Today,positive,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:31,POWERGRID.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:31,POWERGRID.NS,BHEL Bags ₹900 Crore Power Grid Order To Install 2 Synchronous Condensers In Gujarat,Free Press Journal,positive,0.7294,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:33,RELIANCE.NS,"Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why",Upstox,negative,0.5133,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:33,RELIANCE.NS,Dodla Dairy Faces Rs 5.73 Crore GST Demand Orders for FY 2022-24: What Investors Should Know,Kalkine Media,neutral,0.6569,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:33,RELIANCE.NS,GIFT NIFTY futures indicate gap-up open on November 11; what investors need to track before market opens,Upstox,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:33,RELIANCE.NS,From 13% Down To Near Flat: How Nifty And Sensex Recovered From War-Time Losses,NDTV Profit,negative,0.703,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:38,TATAMOTORS.NS,Tata Motors And Turno Partner To Simplify Ownership Of Electric Small Commercial Vehicles And Pickups.,TRIPURA STAR NEWS,neutral,0.484,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-11 17:55:38,TATAMOTORS.NS,"At new highs! Eternal, Groww, Adani Ports, Ather, 16 more NSE 500 stocks",Business Standard,positive,0.8923,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:38,TATAMOTORS.NS,National Stock Exchange of India to host analyst meetings in Mumbai on Nov 16-17,scanx.trade,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:38,TATAMOTORS.NS,"Transrail Lighting Ltd (NSE:TRANSRAILL) (Q2 2027) Earnings Call Highlights: Record Revenue, Rs ...",Yahoo Finance Singapore,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:40,TATASTEEL.NS,Tata Steel shares rise 2%. Why brokerages remain bullish; see up to 30% upside potential,The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:40,TATASTEEL.NS,"PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal?",Business Standard,neutral,0.7096,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:41,TATASTEEL.NS,"Tata Steel Share Price Rises 2.15%: India Operations, Q2 Results and Brokerage Outlook",India Infoline,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:41,TATASTEEL.NS,"Tata Steel Q2 FY27 net profit rises 16% to INR 3,700 crore as revenue increases to INR 65,436 crore",Prop News Time,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:44,TECHM.NS,India stocks higher at close of trade; Nifty 50 up 0.84%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:44,TECHM.NS,"Sensex, Nifty jump nearly 1% as FIIs, Q2 results fuel market rally",Rediff,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:44,TECHM.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:44,TECHM.NS,"Aditya Infotech block deal: Dixon Tech offloads shares worth Rs 582 crore; Motilal Oswal MF, Kotak MF buye",The Economic Times,neutral,0.8689,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:45,TECHM.NS,"Why did market rise today? Sensex jumps 773 pts, Nifty ends above 25,250 as rally continues. 4 factors beh",The Economic Times,positive,0.8937,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:46,TITAN.NS,"How Titan is using Tanishq, Mia and CaratLane to reach India's evolving jewellery consumer",Storyboard18,neutral,0.7157,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:46,TITAN.NS,"Nifty at 25,500: Book profits or bet on new highs? Market expert picks 2 stocks to buy for Samvat 2083",Moneycontrol.com,neutral,0.9358,AUTO_ACCEPTED,indi-finbert
+2026-11-11 17:55:46,TITAN.NS,Dodla Dairy Faces Rs 5.73 Crore GST Demand Orders for FY 2022-24: What Investors Should Know,Kalkine Media,neutral,0.6569,AUTO_ACCEPTED,indi-finbert
