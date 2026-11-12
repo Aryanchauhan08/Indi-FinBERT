@@ -8727,3 +8727,60 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-11 17:55:46,TITAN.NS,"How Titan is using Tanishq, Mia and CaratLane to reach India's evolving jewellery consumer",Storyboard18,neutral,0.7157,AUTO_ACCEPTED,indi-finbert
 2026-11-11 17:55:46,TITAN.NS,"Nifty at 25,500: Book profits or bet on new highs? Market expert picks 2 stocks to buy for Samvat 2083",Moneycontrol.com,neutral,0.9358,AUTO_ACCEPTED,indi-finbert
 2026-11-11 17:55:46,TITAN.NS,Dodla Dairy Faces Rs 5.73 Crore GST Demand Orders for FY 2022-24: What Investors Should Know,Kalkine Media,neutral,0.6569,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:41,BAJFINANCE.NS,"Bajaj Finance shares jump over 2% as NBFC launches Rs 11,700-crore QIP; floor price set at Rs 992.25",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:41,COALINDIA.NS,Mahanadi Coalfields IPO: Coal India to divest up to 10% stake; here's everything you should know,moneycontrol,neutral,0.5021,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:09:42,ADANIENT.NS,Adani's Kutch Copper and Codelco sign MoU to explore Kaburkaala copper project in Chile,MLQ.ai,positive,0.6629,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:42,ADANIENT.NS,Adani’s Kutch Copper partners with Codelco for Kaburkaala project exploration in Chile,Business Upturn,positive,0.59,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:09:42,ADANIENT.NS,"Adani Green: Morgan Stanley holds Overweight at Rs 1,577, lifts cost of equity to 14%",Business Upturn,positive,0.7009,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:42,ADANIENT.NS,"Adani Group stocks today, November 12: Adani Enterprises jumps 1.28%, Adani Ports up 1.22%, Adani Energy rises 1.19%",Business Upturn,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:47,AXISBANK.NS,Nifty eyes record as largecaps lead charge on strong corporate earnings,IndiaIPO,positive,0.677,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:48,BAJAJ-AUTO.NS,"Auto sector stocks today, November 12: Ola Electric surges 5%; M&M falls 1.59%, Hyundai Motor down 1.01%",Business Upturn,positive,0.6477,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:09:49,BAJFINANCE.NS,PIX Transmissions Limited (NSE:PIXTRANS) Confirms Q2 FY27 Unaudited Results Publication in Leading Newspapers,Kalkine Media,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:49,BAJFINANCE.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:49,BAJFINANCE.NS,"Life Insurance Corporation of India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:50,BAJAJFINSV.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:50,BAJAJFINSV.NS,"Stock Market Today: Sensex, Nifty Rise Amid Sustained FII Buying, Lower Crude Oil Prices",ETV Bharat,positive,0.3329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:09:50,BAJAJFINSV.NS,"Sensex rebounds over 280 points, Nifty tops 25,300; Bajaj twins gain, M&M, Sun Pharma fall",NewsDrum,positive,0.6865,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:09:50,BAJAJFINSV.NS,Bajaj Finance announces equity share placement with a floor price of ₹992.25 per share,Business Upturn,neutral,0.6184,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:09:59,DRREDDY.NS,Dr. Reddy's DRREDDY Lost Share Certificate Notice Nov 2026,Kalkine India,negative,0.5441,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:02,GRASIM.NS,Hindustan Copper fined ₹14.43 lakh by BSE and NSE for governance lapses,scanx.trade,negative,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:04,HDFCBANK.NS,"Indian shares extend gains as lower crude oil, foreign inflows boost sentiment",Reuters,positive,0.9168,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:04,HDFCBANK.NS,"NSE Most Active Stocks: Jyoti Structures, Vi, YES Bank",HDFC Sky,neutral,0.7395,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:07,HEROMOTOCO.NS,"Indian Stock Market News, Equity Market and Sensex Today in India",Equitymaster,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:09,HINDALCO.NS,"Hindalco bets on value-added products for earnings growth, stock re-rating",The Economic Times,neutral,0.4538,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:10,ICICIBANK.NS,"Stock Market Today: Sensex, Nifty Rise Amid Sustained FII Buying, Lower Crude Oil Prices",ETV Bharat,positive,0.3329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:12,ITC.NS,Cigarette Stocks Rally: ITC Hikes Gold Flake Premium Prices For Second Time In 2026,NDTV Profit,positive,0.8762,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:15,JSWSTEEL.NS,NSE shares: Brokerage initiates coverage with 'Buy'; highlights valuation discount to BSE,Business Today,positive,0.6838,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:17,KOTAKBANK.NS,"Bank earnings rise 20% in Q2 as lower provisions, healthy income growth support performance: Kotak",ANI News,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:18,LT.NS,L'Oreal appoints Kanika Sud as commercial Director for E-Commerce and Selective Retail,IMPACT Magazine,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:18,LT.NS,Kanika Sud joins L’Oréal as Commercial Director for E-commerce and Selective Retail,Exchange4Media,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:18,LT.NS,-carnitine links red meat consumption to inflammation,Nature,neutral,0.3952,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:18,LT.NS,CM Satheesan’s power U-turn puts minister Sunny Joseph in a tight spot,The New Indian Express,negative,0.7165,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:20,M&M.NS,India shares higher at close of trade; Nifty 50 up 0.84% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:20,M&M.NS,"Benchmarks rise nearly 1%; auto, bank stocks lead gains amid FPI inflows",Business Standard,positive,0.8948,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:20,M&M.NS,"Auto sector stocks today, November 12: Ola Electric surges 5%; M&M falls 1.59%, Hyundai Motor down 1.01%",Business Upturn,positive,0.6477,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:21,M&M.NS,"With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",TechCrunch,positive,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:21,M&M.NS,"Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",Endpoints News,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:21,M&M.NS,Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?,The Guardian,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:21,M&M.NS,Kotak Alts puts $34.7M in debt into India's Gainwell Group,Dealroom,neutral,0.6157,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:25,ONGC.NS,"PSU stocks today, November 12: ONGC falls 3.42%, HPCL down 1.61%; SAIL gains 2.11%",Business Upturn,negative,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:26,ONGC.NS,"Very Large Gas Carrier Market Size, Share, Trends 2036",Future Market Insights,neutral,0.64,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:26,ONGC.NS,How Investors May Respond To Magnolia Oil & Gas Stock After An Earnings Beat,Simply Wall St,neutral,0.7312,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:27,POWERGRID.NS,Power Grid Corporation (NSE:POWERGRID): Why Was It Named Successful Bidder for Karnataka TBCB Project?,Kalkine India,positive,0.6176,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:27,POWERGRID.NS,POWERGRID Declared Successful Bidder for Humnabad Transmission Project under TBCB,PSU Connect,positive,0.6642,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:27,POWERGRID.NS,Power Grid Corporation secures TBCB project with Rs. 243.34 crore annual charges,Business Upturn,positive,0.7335,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:27,POWERGRID.NS,"POWERGRID Wins ₹243.34 Crore Transmission Project in Humnabad, Karnataka; Q2 Net Profit Rises To ₹3,866.16 Cr",Trade Brains,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:29,SBILIFE.NS,"Life insurance October data: HDFC Life fastest at 16%, SBI Life soft at 2%",Business Upturn,neutral,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:29,SBILIFE.NS,"Stock Picks Today: Bharat Electronics, Navin Fluorine, NSE, And More On Brokerages' Radar",NDTV Profit,neutral,0.8534,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:29,SBILIFE.NS,"Brokerage calls today, November 12: Garden Reach split, Citi calls two rate hikes",Business Upturn,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:29,SBILIFE.NS,MF flows: equity inflows down 21% to Rs 335 billion as SIPs hold at Rs 322 billion,Business Upturn,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:30,SBIN.NS,"Brokerage calls today, November 12: Garden Reach split, Citi calls two rate hikes",Business Upturn,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:31,SBIN.NS,"Q2 Results, Nov 12: HAL, Vodafone Idea, Hitachi Energy, RVNL, IRCTC, Alkem Labs, Oil India, Page Industries, Bharat Dynamics, others to post earnings",Upstox,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:33,TATAMOTORS.NS,"Life Insurance Corporation of India Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8746,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:33,TATAMOTORS.NS,"Brokerage calls today, November 12: Garden Reach split, Citi calls two rate hikes",Business Upturn,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:34,TATASTEEL.NS,"Brokerage calls today, November 12: Garden Reach split, Citi calls two rate hikes",Business Upturn,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:34,TATASTEEL.NS,"NSE: Nuvama initiates Buy at Rs 2,220, between Morgan Stanley and JPMorgan",Business Upturn,positive,0.4726,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 07:10:38,TECHM.NS,The Bet Tech Mahindra Holders Made,Simply Wall St,positive,0.6513,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:38,TECHM.NS,"VEEFIN SOLUTIONS Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:38,TECHM.NS,"Mahindra Holida Standalone September 2026 Net Sales at Rs 354.30 crore, up 2.94% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-12 07:10:38,TECHM.NS,"BSE SENSEX Jumps 773 Points to 81,879.40 as Autos and PSU Banks Lead the Rally",BBN Times,positive,0.7463,AUTO_ACCEPTED,indi-finbert
