@@ -8784,3 +8784,88 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-12 07:10:38,TECHM.NS,"VEEFIN SOLUTIONS Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
 2026-11-12 07:10:38,TECHM.NS,"Mahindra Holida Standalone September 2026 Net Sales at Rs 354.30 crore, up 2.94% Y-o-Y",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
 2026-11-12 07:10:38,TECHM.NS,"BSE SENSEX Jumps 773 Points to 81,879.40 as Autos and PSU Banks Lead the Rally",BBN Times,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:38,ONGC.NS,"Chennai Petro, ONGC, Oil India fall up to 3% amid declining crude oil prices",moneycontrol,negative,0.9444,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:40,HDFCLIFE.NS,"HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in Oct",moneycontrol,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:40,ADANIENT.NS,"Adani Enterprises, Adani Ports, Adani Green: How Adani Group stocks are performing as benchmarks stay flat",Upstox,neutral,0.6799,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:40,ADANIENT.NS,"Why are milk prices rising again in India? Amul, Mother Dairy and Nandini hike rates by up to ₹8 per litre from November",Upstox,positive,0.6101,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:40,ADANIENT.NS,Adani Enterprises stock maps copper expansion with Codelco MoU,ad-hoc-news.de,positive,0.6902,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:40,ADANIENT.NS,"NSE shares hit fresh highs, rise over 2%; Nuvama sees 14% upside, calls the stock exchange a ‘compelling buy’",Livemint,positive,0.8472,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:43,APOLLOHOSP.NS,From Trichy to Chennai: How Kauvery Hospital became Chennai's most formidable healthcare challenger,Moneycontrol.com,positive,0.6716,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:43,APOLLOHOSP.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:45,AXISBANK.NS,"HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:46,AXISBANK.NS,Axis Bank Share Price: Financial Performance and Banking Sector Trends,Trade Brains,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:46,AXISBANK.NS,Good days for markets ahead? Here's what Nithin Kamath says on Q2 earnings recovery,The Economic Times,neutral,0.7699,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:47,BAJAJ-AUTO.NS,Hindustan Copper fined ₹14.43 lakh by BSE and NSE for governance lapses,scanx.trade,negative,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:47,BAJAJ-AUTO.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:47,BAJAJ-AUTO.NS,"India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",Livemint,positive,0.4398,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:48,BAJFINANCE.NS,India stocks higher at close of trade; Nifty 50 up 0.18%,Investing.com,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:48,BAJFINANCE.NS,Hindustan Copper fined ₹14.43 lakh by BSE and NSE for governance lapses,scanx.trade,negative,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:48,BAJFINANCE.NS,India shares higher at close of trade; Nifty 50 up 0.18% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:48,BAJFINANCE.NS,"HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:49,BAJFINANCE.NS,"SENSEX off the day’s high, NIFTY trades flat in noon deals; Bajaj Finance, Cupid, Ola Electric among buzzing stocks",Upstox,negative,0.5394,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:50,BAJAJFINSV.NS,"Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices",DD News,positive,0.736,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:50,BAJAJFINSV.NS,Bajaj Finserv to host investor meet at Avendus Spark Conference on Nov 18,scanx.trade,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:50,BAJAJFINSV.NS,"SENSEX off the day’s high, NIFTY trades flat in noon deals; Bajaj Finance, Cupid, Ola Electric among buzzing stocks",Upstox,negative,0.5394,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:50,BAJAJFINSV.NS,"Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil",bfsi.economictimes.indiatimes.com,positive,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:50,BAJAJFINSV.NS,"Bajaj Finance shares jump over 2% as NBFC launches Rs 11,700-crore QIP; floor price set at Rs 992.25",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:51,BPCL.NS,"BPCL Standalone September 2026 Net Sales at Rs 149,041.05 crore, up 42.06% Y-o-Y",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:52,BHARTIARTL.NS,Earnings To Watch: Amber Enterprises India Ltd (NSE:AMBER) Q2 2027 -- GF Value Sees 103% Upside,Yahoo Finance,positive,0.7355,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:54,BRITANNIA.NS,"India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",Livemint,positive,0.4398,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:57,COALINDIA.NS,"India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",Livemint,positive,0.4398,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:19:58,DIVISLAB.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:59,DRREDDY.NS,"Dr Reddys Labs Standalone September 2026 Net Sales at Rs 5,572.60 crore, up 20.66% Y-o-Y",Moneycontrol.com,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:19:59,DRREDDY.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:02,GRASIM.NS,"India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",Livemint,positive,0.4398,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:20:02,GRASIM.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:05,HDFCBANK.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:05,HDFCBANK.NS,"HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara",Business Standard,neutral,0.6306,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:20:05,HDFCBANK.NS,"HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:05,HDFCBANK.NS,"Up in 8 of last 10 sessions, HDFC Bank share price jumps 22% in this period - Why should you still buy the bank stock?",Livemint,positive,0.8448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:06,HDFCLIFE.NS,"HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:06,HDFCLIFE.NS,"Life insurance October data: HDFC Life fastest at 16%, SBI Life soft at 2%",Business Upturn,neutral,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:06,HDFCLIFE.NS,"Stock Picks Today: Bharat Electronics, Navin Fluorine, NSE, And More On Brokerages' Radar",NDTV Profit,neutral,0.8534,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:06,HDFCLIFE.NS,MF flows: equity inflows down 21% to Rs 335 billion as SIPs hold at Rs 322 billion,Business Upturn,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:07,HDFCLIFE.NS,"Stocks in news: Tata Power, Cupid, Garden Reach, ITC, Aurobindo Pharma and Vodafone Idea",The Economic Times,neutral,0.8893,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:08,HEROMOTOCO.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:10,HINDALCO.NS,Hindalco plans ₹1 trillion investment pipeline as India aluminium demand grows,AL Circle,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:12,ICICIBANK.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:12,ICICIBANK.NS,"HDFC Life Allocates 1,25,977 Equity Shares to Employees Under ESOP on November 12, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:16,INFY.NS,"VEEFIN SOLUTIONS Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:18,JSWSTEEL.NS,"Upcoming IPOs with shareholder quota: Reliance Retail, JSW One, IGX, Mahanadi Coalfields & more",Upstox,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:20,KOTAKBANK.NS,"Banks' Q2 FY27 Earnings Rise 20% on Lower Provisions, Stronger Income Growth Support: Kotak Report",KNN India,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:21,LT.NS,"On November 7, Samuel L. Jackson and his wife were honoured by a charity that has helped more than 50,000",The Times of India,positive,0.5288,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:20:21,LT.NS,Circana and L'Oréal Showcase at Advertising Week LATAM How Marketing Mix Modeling Drives Investment Decisions,Circana,neutral,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:21,LT.NS,L Ambekar Meetei Secures India's First-Ever Youth Olympics Boxing Gold,Rediff,positive,0.6083,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-12 18:20:21,LT.NS,Kanika Sud Joins L’Oréal As Commercial Director For E-commerce & Selective Retail,BW Marketing World,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:21,LT.NS,EASD 2026 Interview: Décio L. Eizirik,EMJ,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:23,M&M.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:23,M&M.NS,"Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty",INDIA New England News,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:23,M&M.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:24,M&M.NS,Why is it costing £1.5m to investigate mine shaft under tram tracks?,BBC,neutral,0.6861,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:24,M&M.NS,CPI(M) seeks withdrawal of proposed Water Regulatory Commission,The Hindu,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:24,M&M.NS,Andhra Pradesh’s M Venkata Ruthvik becomes FIDE Master,Telangana Today,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:24,M&M.NS,Colette Kress Net Worth: How Nvidia’s Interim CEO Built A $750M Fortune Without Founding A Company,NDTV Profit,neutral,0.8731,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:29,ONGC.NS,India shares higher at close of trade; Nifty 50 up 0.18% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:29,ONGC.NS,Ahead of Market: 10 things that will decide stock market action on Friday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:30,ONGC.NS,"Oil India Q2 net profit surges 62% to ₹2,309 crore",ET EnergyWorld,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:30,ONGC.NS,"Share Market Today: Nifty 50, Bank Nifty | Nov 12, 2026",Liquide Blog,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:32,RELIANCE.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:32,RELIANCE.NS,"Upcoming IPOs with shareholder quota: Reliance Retail, JSW One, IGX, Mahanadi Coalfields & more",Upstox,neutral,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:33,SBILIFE.NS,"HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in...",Moneycontrol.com,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:33,SBILIFE.NS,"Nifty Ends at 25,299 as Nifty Bank Surges 1.19%, Realty Jumps 4.5% and Insurers Rally on Strong October Premium Data",India Infoline,positive,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:35,SBIN.NS,"SBI shares gain 1%, among top Nifty gainers, as brokerages bullish on loan growth, profitability outlook",Moneycontrol.com,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:35,SBIN.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:35,SBIN.NS,Vodafone Idea Shares Rise Ahead of Q2 Results; Stock Gains Nearly 40% in 2026,Lokmat Times,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:37,TATAMOTORS.NS,"Tata Motors Com Standalone September 2026 Net Sales at Rs 23,930.00 crore, up 41.93% Y-o-Y",Moneycontrol.com,positive,0.9474,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:37,TATAMOTORS.NS,"Breakout stock: CDSL gains 4%, up 30% from 52-week low; more upside ahead?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:37,TATAMOTORS.NS,"Bharat Heavy Electricals Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8743,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:37,TATAMOTORS.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:39,TATASTEEL.NS,Steel Stocks Are Defying Market Gloom. Here's What Investors Are Betting On,NDTV,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:39,TATASTEEL.NS,Steel Stocks Rise as India’s Construction Demand Defies Global Gloom,Urban Acres,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:39,TATASTEEL.NS,NSE shares: Brokerage initiates coverage with 'Buy'; highlights valuation discount to BSE,Business Today,positive,0.6838,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:40,TATASTEEL.NS,"Oil India Q2 standalone net profit more than doubles to Rs 2,259 crore",The Financial Express,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:44,TECHM.NS,"16% up in a month! Bajaj Finance shares climb 3.4% on ₹11,700 crore QIP launch | Check floor price, discount, returns",Livemint,positive,0.8476,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:44,TECHM.NS,'Sabko Maar Dunga': Shocking CCTV Footage Captures Ex-Tech Mahindra Executive's Murder In Faridabad | Watch Viral Video,NDTV Profit,negative,0.7106,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:44,TECHM.NS,₹150 per share dividend: Check record date of firm behind Jockey in India - Mega payout after Q2 results 2026,Livemint,positive,0.8423,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:44,TECHM.NS,Vodafone Idea’s Q2 performance misses expectations,Livemint,negative,0.8133,AUTO_ACCEPTED,indi-finbert
+2026-11-12 18:20:44,TECHM.NS,"Singapore Air backs Tewolde's Air India reset, but losses keep investors on edge",Livemint,positive,0.5677,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
