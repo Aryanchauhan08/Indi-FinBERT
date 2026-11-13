@@ -8965,3 +8965,112 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-13 06:45:44,TECHM.NS,"Tech Mahindra, Persistent, Coforge: Why Kotak backs mid-tier IT challengers over TCS, Infy",The Financial Express,positive,0.387,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-13 06:45:45,TITAN.NS,Titan stock: Q2 profit surges as jewellery leads growth,ad-hoc-news.de,positive,0.7478,AUTO_ACCEPTED,indi-finbert
 2026-11-13 06:45:46,ULTRACEMCO.NS,UltraTech Cement stock balances capacity growth with cost pressure,ad-hoc-news.de,positive,0.5511,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:10,ADANIENT.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:10,ADANIENT.NS,"NSE International Exchange opens UK, France, 5 more European markets to Indian investors",The Economic Times,neutral,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:11,ADANIENT.NS,Vodafone Idea Shares Drop Over 3% After Widened Q2 Loss,Rediff MoneyWiz,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:12,APOLLOHOSP.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:12,APOLLOHOSP.NS,Care Ratings sells partial stake in CGIL to SBI and NSE IX,scanx.trade,neutral,0.4329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:14,ASIANPAINT.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:14,ASIANPAINT.NS,"Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150",DD News,negative,0.7342,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:14,ASIANPAINT.NS,India shares lower at close of trade; Nifty 50 down 0.61% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:14,ASIANPAINT.NS,India stocks lower at close of trade; Nifty 50 down 0.61%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:15,AXISBANK.NS,"Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation",Kalkine Media,negative,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:15,AXISBANK.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:15,AXISBANK.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:15,AXISBANK.NS,Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:16,BAJAJ-AUTO.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:16,BAJAJ-AUTO.NS,Care Ratings sells partial stake in CGIL to SBI and NSE IX,scanx.trade,neutral,0.4329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:17,BAJFINANCE.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:17,BAJFINANCE.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:17,BAJFINANCE.NS,Karma Energy (NSE:KARMAENG) Confirms Publication of Q2 FY27 Unaudited Financial Results in Newspapers,Kalkine Media,neutral,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:17,BAJFINANCE.NS,Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:17,BAJFINANCE.NS,"NSE shares cross Rs 2,000 mark for first time, jump 22% from record low in less than a month. More upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:19,BAJAJFINSV.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:19,BAJAJFINSV.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:19,BAJAJFINSV.NS,Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:19,BAJAJFINSV.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:21,BHARTIARTL.NS,India stocks lower at close of trade; Nifty 50 down 0.61%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:21,BHARTIARTL.NS,India shares lower at close of trade; Nifty 50 down 0.61% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:22,BRITANNIA.NS,"Bikaji Q2 FY27: Sales Up 13%, Profit Down 11%, and Diwali Turned Up a Quarter Late",Howl.Link,positive,0.7328,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:22,BRITANNIA.NS,"Hindustan Coca-Cola Holdings IPO: DRHP, Issue Size & Review",IndiaIPO,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:25,COALINDIA.NS,"NSE International Exchange opens UK, France, 5 more European markets to Indian investors",The Economic Times,neutral,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:28,EICHERMOT.NS,"Q2 Results, Nov 13: Grasim, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Indo-MIM, RVNL, Godrej Industries, others to post earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:28,EICHERMOT.NS,Eicher Motors releases Q2 FY 2027 investor presentation,Business Upturn,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:28,EICHERMOT.NS,"Q2 results today, November 13: Grasim Industries, Eicher Motors, ABB India, Tata Motors PV, Godrej Industries among companies to announce earnings",Business Upturn,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:28,EICHERMOT.NS,Trent urges shareholders to dematerialise physical shares at the earliest,Business Upturn,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:29,EICHERMOT.NS,"Eicher Motors Q2 Results: PAT Rises 15% to Rs 1,573 Crore,",APAC Media,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,India stocks lower at close of trade; Nifty 50 down 0.61%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,India shares lower at close of trade; Nifty 50 down 0.61% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,Care Ratings sells partial stake in CGIL to SBI and NSE IX,scanx.trade,neutral,0.4329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,India's Grasim Industries posts profit surge on dividend income from UltraTech,www.marketscreener.com,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,"Grasim Industries Q2 profit triples: How a ₹3,968 crore dividend cushioned a one-time loss",The Week,positive,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,"Earnings call transcript: Grasim posts record Q2 revenue, shares slip on profit hit By Investing.com",Investing.com India,negative,0.7738,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:30,GRASIM.NS,"Q2 Results Today, November 13: Tata Motors PV, Grasim Industries, Eicher Motors, Godrej Industries, ABB India among companies to announce earnings",ET Now,neutral,0.74,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:31,HCLTECH.NS,Mankind Pharma (NSE:MANKIND) Announces KFin Technologies RTA Corporate Office Relocation: What Shareholders Should Know,Kalkine Media,neutral,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:31,HCLTECH.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:32,HDFCBANK.NS,Markets fall in early trade after 3-day rally; Sensex tumbles 460 points,The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:32,HDFCBANK.NS,"NSE shares cross Rs 2,000 mark for first time, jump 22% from record low in less than a month. More upside",The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:32,HDFCBANK.NS,"NSE International Exchange opens UK, France, 5 more European markets to Indian investors",The Economic Times,neutral,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:34,HDFCLIFE.NS,Unipol 9M earnings top forecasts as non-life combined ratio improves,Yahoo Finance Singapore,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:36,HINDALCO.NS,"Sensex falls 319 points, Nifty slips below 25,200: What dragged Dalal Street today?",IndiaIPO,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:38,ICICIBANK.NS,"Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation",Kalkine Media,negative,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:38,ICICIBANK.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:38,ICICIBANK.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:38,ICICIBANK.NS,Kopran Limited (NSE:KOPRAN) Addresses Surge in Trading Volume with Market-Driven Explanation,Kalkine Media,positive,0.7045,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:38,ICICIBANK.NS,Weizmann Limited (NSE:WEIZMANIND) Announces Q2 FY27 Unaudited Financial Results Publication,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:40,ITC.NS,ITC stock rebounds after Q2 profit drop as brokers stay bullish,ad-hoc-news.de,positive,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:41,INDUSINDBK.NS,Care Ratings sells partial stake in CGIL to SBI and NSE IX,scanx.trade,neutral,0.4329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:42,INFY.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:42,INFY.NS,"Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation",Kalkine Media,negative,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:42,INFY.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:42,INFY.NS,"Aegis Logistics (NSE:AEGISLOG) to Host Investor Meeting in Mumbai on November 18, 2026",Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:43,JSWSTEEL.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:46,LT.NS,PSU bank learns 3.8L stolen records posted on dark web one month after data theft; FIR registered,The Times of India,negative,0.7212,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:46,LT.NS,L'affaire Jensen Huang: Personal Vulnerabilities As Geopolitical Risks,orfonline.org,negative,0.378,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:46,LT.NS,L’Oréal’s Venture Fund Bold Appoints Jasjot Kaur As Investment Director For India,TradingView,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:46,LT.NS,Jasjot Kaur joins L’Oréal’s BOLD as strategic investment lead,Exchange4Media,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:46,LT.NS,NU hosts int’l seminar on environmental humanities,MorungExpress,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:48,M&M.NS,India shares lower at close of trade; Nifty 50 down 0.61% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:48,M&M.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:49,M&M.NS,"CPI(M) to boost its legal cell in Keralam to counter ‘fake news, misinformation’ targeting party",The Hindu,neutral,0.728,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:49,M&M.NS,"Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",The Hacker News,neutral,0.6541,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:49,M&M.NS,Johnny Depp’s ‘Ebenezer’ Unearths $1.5M in Box Office Previews,The Hollywood Reporter,neutral,0.3212,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:51,NESTLEIND.NS,India stocks lower at close of trade; Nifty 50 down 0.61%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:51,NESTLEIND.NS,India shares lower at close of trade; Nifty 50 down 0.61%,Investing.com UK,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:51,NESTLEIND.NS,"Sensex falls 319 points, Nifty slips below 25,200: What dragged Dalal Street today?",IndiaIPO,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:54,ONGC.NS,"Sensex snaps 3-day winning streak; Shriram Finance, Tata Motors slide over 3%, Airtel, ONGC gain",NewsDrum,positive,0.4105,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:54,ONGC.NS,Earnings call transcript: Oil India posts record half-year profit in Q2 2026,Investing.com,positive,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:54,ONGC.NS,Gillette India Q2 FY27 results: Net profit rises 10% YoY; revenue increases to ₹846 crore,Upstox,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:55,POWERGRID.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:55,POWERGRID.NS,SPML Infra Bags ₹186.41 Crore POWERGRID Order For 765 kV Transmission Infrastructure; Q2 Net Profit Rises 43.8%,Trade Brains,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:56,RELIANCE.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:56,RELIANCE.NS,"Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation",Kalkine Media,negative,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:56,RELIANCE.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:56,RELIANCE.NS,Kopran Limited (NSE:KOPRAN) Addresses Surge in Trading Volume with Market-Driven Explanation,Kalkine Media,positive,0.7045,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:56,RELIANCE.NS,"Aegis Logistics (NSE:AEGISLOG) to Host Investor Meeting in Mumbai on November 18, 2026",Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:58,SBILIFE.NS,Unipol 9M earnings top forecasts as non-life combined ratio improves,Yahoo Finance Singapore,positive,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:59,SBIN.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:45:59,SBIN.NS,Care Ratings sells partial stake in CGIL to SBI and NSE IX,scanx.trade,neutral,0.4329,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 17:45:59,SBIN.NS,Stock Market Crash Wipes Out Over Two Lakh Crores In Just Seven Minutes,Zoom News,negative,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:00,SUNPHARMA.NS,Markets fall in early trade after 3-day rally; Sensex tumbles 460 points,The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:00,SUNPHARMA.NS,Mankind Pharma (NSE:MANKIND) Announces KFin Technologies RTA Corporate Office Relocation: What Shareholders Should Know,Kalkine Media,neutral,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:01,TATAMOTORS.NS,India stocks lower at close of trade; Nifty 50 down 0.61%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:01,TATAMOTORS.NS,India shares lower at close of trade; Nifty 50 down 0.61% By Investing.com,Investing.com India,negative,0.7748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:01,TATAMOTORS.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:01,TATAMOTORS.NS,"Tata Motors PV posts Rs 5,531-crore net loss in Q2 as JLR restructuring costs bite",Moneycontrol.com,negative,0.6847,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:02,TATAMOTORS.NS,"Tata Motors PV narrows Q2FY27 loss to ₹5,451 cr as revenue rises 34%",Business Standard,positive,0.8375,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:02,TATAMOTORS.NS,Tata Motors EV Sales Surge 90% in Q2FY27,Urban Acres,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:02,TATASTEEL.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:02,TATASTEEL.NS,SpiceJet to file overdue financial results after BSE warns of suspension,Business Standard,negative,0.889,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:02,TATASTEEL.NS,"Q2 Results, Nov 13: Grasim, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Indo-MIM, RVNL, Godrej Industries, others to post earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:03,TATASTEEL.NS,"India Remains a Key Growth Market, Says Tata Steel MD & CEO T V Narendran",Siliconindia,positive,0.7417,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:03,TATACONSUM.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:05,TCS.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:06,TECHM.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:07,TECHM.NS,Tech Mahindra schedules AI Day 2026 for Dec 7 in Pune,scanx.trade,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:07,TITAN.NS,Hitachi Energy India (NSE:POWERINDIA) Discloses Q2 FY27 Unaudited Financial Results via Newspaper Publication,Kalkine Media,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:07,TITAN.NS,"Khaitan Chemicals (NSE:KHAICHEM) Fined Rs 11,800 Each by NSE and BSE for Delay in Board Meeting Intimation",Kalkine Media,negative,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:07,TITAN.NS,"Aegis Logistics (NSE:AEGISLOG) to Host Investor Meeting in Mumbai on November 18, 2026",Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:07,TITAN.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-13 17:46:09,ULTRACEMCO.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
