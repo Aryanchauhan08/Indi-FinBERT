@@ -8869,3 +8869,99 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-12 18:20:44,TECHM.NS,₹150 per share dividend: Check record date of firm behind Jockey in India - Mega payout after Q2 results 2026,Livemint,positive,0.8423,AUTO_ACCEPTED,indi-finbert
 2026-11-12 18:20:44,TECHM.NS,Vodafone Idea’s Q2 performance misses expectations,Livemint,negative,0.8133,AUTO_ACCEPTED,indi-finbert
 2026-11-12 18:20:44,TECHM.NS,"Singapore Air backs Tewolde's Air India reset, but losses keep investors on edge",Livemint,positive,0.5677,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:44:42,EICHERMOT.NS,"Q2 results LIVE: Eicher Motors, Grasim, Tata Motors PV among key firms to declare September quarter earnings today",moneycontrol,neutral,0.9394,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,GRASIM.NS,"Q2 results LIVE: Eicher Motors, Grasim, Tata Motors PV among key firms to declare September quarter earnings today",moneycontrol,neutral,0.9394,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,TATAMOTORS.NS,"Q2 results LIVE: Eicher Motors, Grasim, Tata Motors PV among key firms to declare September quarter earnings today",moneycontrol,neutral,0.9394,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,HDFCBANK.NS,"Bank Nifty snaps 3-day rally, trades near 61,100; IndusInd, HDFC Bank lead losses: What lies ahead?",moneycontrol,positive,0.8274,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,ULTRACEMCO.NS,"Weekly Tactical Pick | UltraTech Cement: Can better realisations, easing input costs unlock stock upside?",moneycontrol,neutral,0.7718,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,ADANIENT.NS,"India equity surge brightens outlook for exchanges, brokerages",The Economic Times,positive,0.8926,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:42,ADANIENT.NS,"India's Next Billion-Dollar IPO? Coal India subsidiary Mahanadi Coalfields in line after Jio, NSE - key things to know",Livemint,positive,0.4398,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:44:43,ADANIENT.NS,"HAL Q2 FY27 results: Net profit jumps 16% YoY; revenue grows to ₹7,613 crore, margin slips",Upstox,positive,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:43,ADANIENT.NS,Foreign inflows lift Indian stocks' dollar returns above rupee gains as currency rebounds,Livemint,positive,0.8416,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:43,ADANIENT.NS,"Adani Group stocks today, November 13: Adani Energy gains 1.26%, Adani Power, ACC and Ambuja Cements decline",Business Upturn,positive,0.6586,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:44,ADANIPORTS.NS,"Adani Enterprises, Adani Ports, Adani Green: How Adani Group stocks are performing as benchmarks stay flat",Upstox,neutral,0.6799,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:45,APOLLOHOSP.NS,APOLLOHOSP Share Price Today - Apollo Hospitals on NSE/BSE,scanx.trade,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:45,APOLLOHOSP.NS,Apollo Hospitals stock: Q2 growth lifts revenue and margins,ad-hoc-news.de,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:48,AXISBANK.NS,"Stock Market Today: Sensex Falls 289 Points, Nifty Slips",HDFC Sky,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:48,AXISBANK.NS,How to invest abroad through GIFT City: A step-by-step guide,Business Standard,neutral,0.695,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:48,AXISBANK.NS,"Bank Nifty snaps 3-day rally, trades near 61,100; IndusInd, HDFC Bank lead losses: What lies ahead?",Moneycontrol.com,positive,0.8274,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:48,AXISBANK.NS,Viceroy Hotels (NSE:VHLTD) Q2 & H1 FY27 Investor Presentation Highlights Strong Growth and Expansion Plans,Kalkine Media,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:49,BAJAJ-AUTO.NS,IIRM Holdings Q2FY27 Results: Consolidated net profit rises 23% YoY,scanx.trade,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:49,BAJAJ-AUTO.NS,"Auto sector stocks today, November 13: Sharda Motor surges 11%, SML Mahindra gains 1.42%; Ola Electric falls 3.30%",Business Upturn,positive,0.6228,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:44:50,BAJFINANCE.NS,Bajaj Finance Ltd. Share Price Today - Bajaj Finance Ltd. Stock Price Live NSE/BSE,CNBC TV18,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:50,BAJFINANCE.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:50,BAJFINANCE.NS,Viceroy Hotels (NSE:VHLTD) Q2 & H1 FY27 Investor Presentation Highlights Strong Growth and Expansion Plans,Kalkine Media,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:50,BAJFINANCE.NS,Godrej Properties Expands Footprint with 31-Acre Land Acquisition for Residential Plots in Indore,Kalkine Media,positive,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:50,BAJFINANCE.NS,"India equity surge brightens outlook for exchanges, brokerages",The Economic Times,positive,0.8926,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:52,BAJAJFINSV.NS,Bajaj Finance Ltd. Share Price Today - Bajaj Finance Ltd. Stock Price Live NSE/BSE,CNBC TV18,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:52,BAJAJFINSV.NS,Markets fall in early trade after 3-day rally; Sensex tumbles 460 points,The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:44:54,BHARTIARTL.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:01,DRREDDY.NS,"Sensex tumbles nearly 500 points, Nifty slips below 25,150; pharma bucks selloff",NewsDrum,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:01,DRREDDY.NS,Sun Pharma stock: Nomura trims target as specialty growth slows,ad-hoc-news.de,negative,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:02,EICHERMOT.NS,Earnings To Watch: Eicher Motors Ltd (NSE:EICHERMOT) Q2 2027 -- GF Value Sees 20% Upside,GuruFocus,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:02,EICHERMOT.NS,"Auto sector stocks today, November 13: Sharda Motor surges 11%, SML Mahindra gains 1.42%; Ola Electric falls 3.30%",Business Upturn,positive,0.6228,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:04,GRASIM.NS,"Auto sector stocks today, November 13: Sharda Motor surges 11%, SML Mahindra gains 1.42%; Ola Electric falls 3.30%",Business Upturn,positive,0.6228,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:04,GRASIM.NS,"Q2 Results, Nov 13: Grasim, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Indo-MIM, RVNL, Godrej Industries, others to post earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:04,GRASIM.NS,"Q2 results today, November 13: Grasim Industries, Eicher Motors, ABB India, Tata Motors PV, Godrej Industries among companies to announce earnings",Business Upturn,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:05,HCLTECH.NS,"NSE shares hit fresh highs, rise over 2%; Nuvama sees 14% upside, calls the stock exchange a ‘compelling buy’",Livemint,positive,0.8472,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:06,HDFCBANK.NS,"Sensex falls over 400 points, Nifty above 25,100; HDFC Bank, M&M among top losers",India Today,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:06,HDFCBANK.NS,HDFC Bank HDFCBANK Morgan Stanley Asia Pacific Summit 2026,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:06,HDFCBANK.NS,"Indian shares decline as oil surge, inflation jitters weigh",Reuters,negative,0.9146,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:06,HDFCBANK.NS,"Stock Market Today: Sensex Falls 289 Points, Nifty Slips",HDFC Sky,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:08,HDFCLIFE.NS,India stocks higher at close of trade; Nifty 50 up 0.18%,Investing.com,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:08,HDFCLIFE.NS,"HDFC Life, other life insurance companies' stocks rise up to 4% as 1st-year premium income up 26% YoY in...",Moneycontrol.com,positive,0.9476,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:09,HEROMOTOCO.NS,"Auto sector stocks today, November 13: Sharda Motor surges 11%, SML Mahindra gains 1.42%; Ola Electric falls 3.30%",Business Upturn,positive,0.6228,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:11,HINDALCO.NS,"Hindalco stock: Record copper EBITDA, INR 12-13 billion outlook",ad-hoc-news.de,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:12,HINDUNILVR.NS,Hindustan Unilever stock faces margin test after price increases,ad-hoc-news.de,negative,0.7352,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:14,ICICIBANK.NS,"Bank Nifty snaps 3-day rally, trades near 61,100; IndusInd, HDFC Bank lead losses: What lies ahead?",Moneycontrol.com,positive,0.8274,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:14,ICICIBANK.NS,How to invest abroad through GIFT City: A step-by-step guide,Business Standard,neutral,0.695,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:14,ICICIBANK.NS,Viceroy Hotels (NSE:VHLTD) Q2 & H1 FY27 Investor Presentation Highlights Strong Growth and Expansion Plans,Kalkine Media,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:14,ICICIBANK.NS,Fino Payments Bank secures RBI nod for appointment of Pratap Singh as MD & CEO,Business Upturn,positive,0.5754,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:15,ITC.NS,Waaree Energies clarifies US ITC solar probe brings no new penalty,Solarbytes,neutral,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:15,ITC.NS,"Adani Enterprises, Adani Ports, Adani Green: How Adani Group stocks are performing as benchmarks stay flat",Upstox,neutral,0.6799,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:16,INDUSINDBK.NS,India stocks higher at close of trade; Nifty 50 up 0.18%,Investing.com,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:16,INDUSINDBK.NS,"Bank Nifty snaps 3-day rally, trades near 61,100; IndusInd, HDFC Bank lead losses: What lies ahead?",Moneycontrol.com,positive,0.8274,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:16,INDUSINDBK.NS,India shares higher at close of trade; Nifty 50 up 0.18% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:16,INDUSINDBK.NS,"Banking sector stocks fall today, November 13: HDFC Bank declines 1.43%, IndusInd Bank down 1.48%, Axis Bank falls 0.93%",Business Upturn,negative,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:19,JSWSTEEL.NS,Steel Stocks Are Defying Market Gloom. Here's What Investors Are Betting On,NDTV,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:20,KOTAKBANK.NS,Kotak Mahindra Bank discloses ₹20 lakh fine from Chennai court,scanx.trade,negative,0.7277,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:23,LT.NS,"Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues",The Times of India,negative,0.7288,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:23,LT.NS,Form 4 Flowserve Corp: John L. Garrison Jr (Director) For: 11 November By Investing.com,Investing.com India,neutral,0.7742,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:23,LT.NS,"Vietnam Int'l Finance Center, Touchstone Partners launch $100M 1:1 co-investment program for startups",TNGlobal,positive,0.7016,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,Mahindra & Mahindra's (NSE:M&M) Earnings Are Weaker Than They Seem,Simply Wall St,negative,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,SML Mahindra Ltd. Share Price Today - SML Mahindra Ltd. Stock Price Live NSE/BSE,CNBC TV18,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,"Sensex falls over 400 points, Nifty above 25,100; HDFC Bank, M&M among top losers",India Today,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,Markets fall in early trade after 3-day rally; Sensex tumbles 460 points,The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,"North Korean hackers used fake video calls in $400m crypto hack, says FBI",BBC,negative,0.5893,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:25,M&M.NS,’I’m a piece of sh…’: Jensen Huang’s last hours as Nvidia CEO,Moneycontrol.com,neutral,0.9042,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,DC gym shooter ID’d as Dr. Matt Lambert — who went berserk at HOA over black mold in his $1.1M apartment,New York Post,neutral,0.7184,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:25,M&M.NS,McDaid's: Derry bakery manufacture announces £1.6m investment and 15 new jobs,BBC,neutral,0.5843,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:25,M&M.NS,Paraguay Central Bank Pays $644M to Ueno Depositors,Global Finance Magazine,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:26,MARUTI.NS,Bull run triggers Rs 61 lakh crore wealth bonanza for investors,The New Indian Express,positive,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:29,NTPC.NS,Viceroy Hotels (NSE:VHLTD) Q2 & H1 FY27 Investor Presentation Highlights Strong Growth and Expansion Plans,Kalkine Media,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:29,NTPC.NS,Godrej Properties Expands Footprint with 31-Acre Land Acquisition for Residential Plots in Indore,Kalkine Media,positive,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:31,ONGC.NS,"Oil India maintains FY27 crude output goal, Duliajan feeder pipeline to unlock more gas production",CNBC TV18,positive,0.6985,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:32,POWERGRID.NS,"Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty",INDIA New England News,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:32,POWERGRID.NS,Is It Smart To Buy Power Finance Corporation Limited (NSE:PFC) Before It Goes Ex-Dividend?,Simply Wall St,neutral,0.7316,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:32,POWERGRID.NS,SPML Infra reports a 46% increase in profit for Q2 FY27 with positive cash flow,Business Upturn,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:33,RELIANCE.NS,Viceroy Hotels (NSE:VHLTD) Q2 & H1 FY27 Investor Presentation Highlights Strong Growth and Expansion Plans,Kalkine Media,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:33,RELIANCE.NS,Godrej Properties Expands Footprint with 31-Acre Land Acquisition for Residential Plots in Indore,Kalkine Media,positive,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:34,SBILIFE.NS,"Top gainers and losers, Nov 12: HDFC LIC, Shriram Finance gain 4%, Bajaj Finance rises 3%, Nestle falls 2%; check list",Upstox,neutral,0.7229,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:34,SBILIFE.NS,"Sensex gives up over 400 points from day's high; insurers rally, IT stocks drag",NewsDrum,negative,0.4636,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:36,SBIN.NS,India stocks higher at close of trade; Nifty 50 up 0.18%,Investing.com,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:36,SBIN.NS,India shares higher at close of trade; Nifty 50 up 0.18% By Investing.com,Investing.com India,positive,0.7774,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:36,SBIN.NS,"Sensex gives up over 400 points from day's high; insurers rally, IT stocks drag",NewsDrum,negative,0.4636,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:37,SUNPHARMA.NS,Sun Pharma stock: Nomura trims target as specialty growth slows,ad-hoc-news.de,negative,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:38,TATAMOTORS.NS,"Q2 Results, Nov 13: Grasim, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Indo-MIM, RVNL, Godrej Industries, others to post earnings",Upstox,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:38,TATAMOTORS.NS,Amber Enterprises shares jump over 9% despite widening Q2 loss to ₹80 crore; further pain ahead in FY27 guidance?,Upstox,positive,0.7403,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:38,TATAMOTORS.NS,"Auto sector stocks today, November 13: Sharda Motor surges 11%, SML Mahindra gains 1.42%; Ola Electric falls 3.30%",Business Upturn,positive,0.6228,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:38,TATAMOTORS.NS,Popular Vehicles and Services Ltd (NSE:PVSL) (Q2 2027) Earnings,GuruFocus,neutral,0.7198,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:40,TATASTEEL.NS,Manappuram Finance Q2 profit jumps three-fold to Rs 701 crore,The Financial Express,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:40,TATASTEEL.NS,Tata Steel stock weighs strong Q2 against uneven Europe outlook,ad-hoc-news.de,negative,0.5097,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:41,TATACONSUM.NS,Tata Consumer Products is Filling Carts Despite Pressures,www.marketscreener.com,positive,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:44,TECHM.NS,Markets fall in early trade after 3-day rally; Sensex tumbles 460 points,The New Indian Express,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:44,TECHM.NS,"Why is market falling today? Sensex drops 600 points, Nifty below 25,100 as explosive rally hits the brake",The Economic Times,negative,0.8932,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:44,TECHM.NS,"Nvidia Trades Cheaper Than TechM, LTIMindtree on P/E Ratio: Should You Buy It?",NDTV Profit,neutral,0.6702,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:44,TECHM.NS,"Tech Mahindra, Persistent, Coforge: Why Kotak backs mid-tier IT challengers over TCS, Infy",The Financial Express,positive,0.387,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-13 06:45:45,TITAN.NS,Titan stock: Q2 profit surges as jewellery leads growth,ad-hoc-news.de,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-13 06:45:46,ULTRACEMCO.NS,UltraTech Cement stock balances capacity growth with cost pressure,ad-hoc-news.de,positive,0.5511,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
