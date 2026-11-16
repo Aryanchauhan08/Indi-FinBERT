@@ -9074,3 +9074,114 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-13 17:46:07,TITAN.NS,"Aegis Logistics (NSE:AEGISLOG) to Host Investor Meeting in Mumbai on November 18, 2026",Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
 2026-11-13 17:46:07,TITAN.NS,MSTC Limited (NSE:MSTCLTD) Q2 FY27 Financial Results: Key Insights and Performance Analysis,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
 2026-11-13 17:46:09,ULTRACEMCO.NS,"Indian stocks slip as oil, inflation cap weekly rally",Reuters,negative,0.915,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:21,GRASIM.NS,Buy Grasim Industries; target of Rs 3740: Choice Institutional Equities,moneycontrol,positive,0.9367,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:21,JSWSTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector",moneycontrol,positive,0.8718,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:21,TATASTEEL.NS,"Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector",moneycontrol,positive,0.8718,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:21,TATAMOTORS.NS,"Tata Motors PV shares plunge 7%, top Nifty loser as weak JLR margins, guidance cut weigh on outlook",moneycontrol,negative,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:21,HINDALCO.NS,Hindalco shares fall 1% after Novelis announces $265-million sale of China units,moneycontrol,negative,0.9436,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:22,ADANIENT.NS,"Jefferies issues strongest Adani call yet, screams buy on 6 stocks and predicts 23% earnings CAGR",The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:22,ADANIENT.NS,"Jefferies Backs All Adani Group Stocks, Sees $51 Billion Capex Push And 23% Earnings CAGR Through FY29",NDTV Profit,positive,0.8753,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:22,ADANIENT.NS,"Adani group stocks today, November 16: Adani Enterprises, Adani Green and Adani Total Gas decline; Ambuja Cements gains",Business Upturn,positive,0.619,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:22,ADANIENT.NS,"Stock Picks Today: Tata Motors PV, Amber Enterprises, Ashok Leyland, Paytm, And More On Brokerages' Radar",NDTV Profit,neutral,0.8684,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:22,ADANIENT.NS,"Bharti Airtel, ICICI Bank, Meesho: Motilal Oswal Backs These 25 Stocks, But Flags An Earnings Slowdown",NDTV Profit,neutral,0.652,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:23,ADANIPORTS.NS,Weekly Recap: Evos deal credit profile steady and Outer Harbour bid,TradingView,neutral,0.6686,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:24,APOLLOHOSP.NS,"Dalal Street roars back! Sensex jumps 644 points, Nifty reclaims 25,300",NewsDrum,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:25,ASIANPAINT.NS,"Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead",Fortune India,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:25,ASIANPAINT.NS,"Stock markets rally in early trade led by foreign fund inflows, lower crude oil",The Sen Times,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:25,ASIANPAINT.NS,"Stock Market Opening Bell: Sensex jumps over 600 points, Nifty above 25,250; IT stocks lead gains",Zee Business,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:25,ASIANPAINT.NS,GIFT NIFTY signals positive start for Indian markets on Nov 16; key things to know before the opening bell,Dailyhunt,positive,0.5911,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:25,ASIANPAINT.NS,"Dalal Street roars back! Sensex jumps 644 points, Nifty reclaims 25,300",NewsDrum,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:27,AXISBANK.NS,Weekly Recap: Profit up nearly 5% and shares rebound on governance easing,TradingView,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:27,AXISBANK.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:27,AXISBANK.NS,"Dalal Street roars back! Sensex jumps 644 points, Nifty reclaims 25,300",NewsDrum,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:27,AXISBANK.NS,"Banking sector stocks today, November 16: Dhanlaxmi Bank jumps 7.23%, PNB gains 2.25%, City Union Bank up 2.22%",Business Upturn,positive,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:28,BAJAJ-AUTO.NS,"Sensex Rises 418 Points, Nifty Crosses 25,200",HDFC Sky,positive,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:28,BAJAJ-AUTO.NS,"Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:28,BAJAJ-AUTO.NS,"Auto sector stocks today, November 16: Tata Motors PV falls 7.43%, Ola Electric down 1.67%, Force Motors down 0.85%",Business Upturn,negative,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:28,BAJAJ-AUTO.NS,"Dalal Street roars back! Sensex jumps 644 points, Nifty reclaims 25,300",NewsDrum,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:29,BAJFINANCE.NS,"Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:29,BAJFINANCE.NS,Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target,Business Standard,negative,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:29,BAJFINANCE.NS,Weekly Recap: Capital raising and quarterly profit and AUM growth,TradingView,neutral,0.4929,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:29,BAJFINANCE.NS,"Bajaj Finance, Radico, Clean Science top stock ideas by Choice Broking",Business Standard,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:29,BAJFINANCE.NS,"VA Tech Wabag cracks 10% as Saudi cancels ₹2,332 cr desalination tender",Business Standard,negative,0.8943,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:30,BAJFINANCE.NS,Q2 earnings lay bare India’s two-speed consumer economy,The Financial Express,neutral,0.6774,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:30,BAJAJFINSV.NS,"Bajaj Finance, Radico, Clean Science top stock ideas by Choice Broking",Business Standard,neutral,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:30,BAJAJFINSV.NS,Weekly Recap: Capital raising and quarterly profit and AUM growth,TradingView,neutral,0.4929,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:30,BAJAJFINSV.NS,"Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:30,BAJAJFINSV.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:31,BPCL.NS,"DEE Development Engineers reports strong growth with a ₹2,531 crore order book",Business Upturn,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:33,BHARTIARTL.NS,"Sensex Jumps Over 414 Points, Nifty Reclaims 25,250 In Early Trade",Deccan Chronicle,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:33,BHARTIARTL.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:33,BHARTIARTL.NS,"Stock Market Opening Bell: Sensex jumps over 600 points, Nifty above 25,250; IT stocks lead gains",Zee Business,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:33,BHARTIARTL.NS,GIFT NIFTY signals positive start for Indian markets on Nov 16; key things to know before the opening bell,Dailyhunt,positive,0.5911,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:37,COALINDIA.NS,"Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates",Livemint,neutral,0.8405,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:37,COALINDIA.NS,"Coal India's Mahanadi Coalfields IPO: Stage set for launch, price band tomorrow; GMP, allotment, listing, other details",Livemint,neutral,0.7017,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:37,COALINDIA.NS,NSE shares hit fresh peak; market cap tops Rs 5.1 lakh crore,Business Today,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:39,DRREDDY.NS,"Winter session likely in Dec first week, govt may push women's quota bill",Business Standard,neutral,0.7318,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:40,EICHERMOT.NS,"Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:40,EICHERMOT.NS,"Citi maintains Buy rating on Eicher Motors with Rs 9,500 target price, raises FY27 to FY29 volume estimates",Business Upturn,positive,0.7398,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:41,EICHERMOT.NS,Eicher Motors shares gain 3.5% on record Q2 show; margin recovery key,Business Standard,positive,0.8963,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:43,HCLTECH.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:44,HDFCBANK.NS,Weekly Recap: Profit up nearly 5% and shares rebound on governance easing,TradingView,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:44,HDFCBANK.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:44,HDFCBANK.NS,Ahead of Market: 10 things that will decide D-Street action on Monday,The Economic Times,neutral,0.8945,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:44,HDFCBANK.NS,HDFC Bank Share: Key Financial Metrics Investors Should Track,Analytics Insight,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:44,HDFCBANK.NS,"Stock market cues to watch today: GIFT Nifty, FII, crude, and other data",ET Now,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:47,HINDALCO.NS,Hindalco’s Novelis to sell two China units for $265 million,Mining.com,negative,0.5631,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:49,HINDUNILVR.NS,Weekly Recap: 21-quarter-best volume growth and detergent price hikes,TradingView,positive,0.5593,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:50,ICICIBANK.NS,ICICI Bank Allots Shares Under Employee Stock Option Scheme,marketscreener.com,neutral,0.7178,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:50,ICICIBANK.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:50,ICICIBANK.NS,Ahead of Market: 10 things that will decide D-Street action on Monday,The Economic Times,neutral,0.8945,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:51,ICICIBANK.NS,"Bharti Airtel, ICICI Bank, Meesho: Motilal Oswal Backs These 25 Stocks, But Flags An Earnings Slowdown",NDTV Profit,neutral,0.652,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:51,ICICIBANK.NS,"Nifty profit growth hits 17-quarter high at 27%, upgrades now outpace downgrades. Is earnings cycle turnin",The Economic Times,positive,0.8931,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:51,ITC.NS,Weekly Recap: Q2 profit falls 20.1% and Gold Flake RSFT rises to ₹135,TradingView,negative,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:51,ITC.NS,"Cigarette Stock Jumps: ITC Rallies 4%, Up 11% In November; Here's Why",NDTV Profit,positive,0.8776,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:52,INDUSINDBK.NS,"Banking sector stocks today, November 16: Dhanlaxmi Bank jumps 7.23%, PNB gains 2.25%, City Union Bank up 2.22%",Business Upturn,positive,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:54,INFY.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:54,INFY.NS,"Stock Market Opening Bell: Sensex jumps over 600 points, Nifty above 25,250; IT stocks lead gains",Zee Business,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:56,KOTAKBANK.NS,Weekly Recap: Preferred bank pick and ECL provision under 2% of net worth,TradingView,neutral,0.688,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:56,KOTAKBANK.NS,"Sensex Jumps Over 414 Points, Nifty Reclaims 25,250 In Early Trade",Deccan Chronicle,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:58,LT.NS,SWM Stormbreaker Speciale is a 1.2L V-twin Bagger,BikeWale,positive,0.5904,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:58,LT.NS,Govt healthcare spend up 3x since 2013-14 to 4.1L cr,The Times of India,positive,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:58,LT.NS,George L. Kumar Shares New Research on Blood-Based Early Gastric Cancer Detection,Oncodaily,positive,0.5582,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:28:58,LT.NS,‍‍‍((DIRECT-TV)) Couverture de l’événement Coupe Grey 2026 - UB,UB - Universitat de Barcelona,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:28:58,LT.NS,Government health expenditure triples to ₹4.14L crore; OOPE drops to 42.7%,Medical Buyer,negative,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:00,M&M.NS,"Auto sector stocks today, November 16: Tata Motors PV falls 7.43%, Ola Electric down 1.67%, Force Motors down 0.85%",Business Upturn,negative,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,M&M.NS,Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow,Deadline,positive,0.7354,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,M&M.NS,Council plans £9.5m revamp of town shopping centre,BBC,neutral,0.6613,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,M&M.NS,M Abul Kalam Azad resigns as Acting Editor - Daily TIMES of Bangladesh,Exchange4Media,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,M&M.NS,Baby2Baby Gala Fetes Demi Moore and Raises Over $20M for the Cause,The Hollywood Reporter,neutral,0.6882,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,M&M.NS,World Bank ‘satisfied’ with $370m National Health Support Programme,Dawn,positive,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:01,MARUTI.NS,Weekly Recap: Exports surpass 2025 total and analyst target price falls,TradingView,negative,0.6988,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:04,NTPC.NS,"Stock markets rally in early trade led by foreign fund inflows, lower crude oil",DT Next,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:04,NTPC.NS,Srinibas Pradhan Constructions Limited Reports 17.18% Growth in EBITDA and 33.87% Growth in PAT,NewsX,positive,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:05,ONGC.NS,Weekly Recap: CB-OS-02 block control and ₹8 interim dividend,TradingView,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:05,ONGC.NS,Jindal Drilling reports impressive Q2 FY27 earnings with revenue of Rs 294 crore,Business Upturn,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,ONGC.NS,"Oil, commodities drive corporate earnings to record high in Q2FY27",Business Standard,positive,0.8954,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,ONGC.NS,"Oil India: Nomura maintains 'Neutral', keeps target price at Rs 500 after Q2 results",TradingView,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,ONGC.NS,"India Inc’s Q2 profit jumps 26%; auto, financials, oil & gas lead growth",The Economic Times,positive,0.8966,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,ONGC.NS,Oil India share price target: Brokerages see up to 27% upside after Q2 results - Should you buy?,ET Now,positive,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,POWERGRID.NS,"Sensex up over 300 points, Nifty above 25,200; Tata Motors PV down 9%",The Financial Express,positive,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:06,POWERGRID.NS,Tata Power commissions 100.8 MW wind project in Maharashtra,Business Upturn,positive,0.5299,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:29:08,RELIANCE.NS,Weekly Recap: CB-OS-02 block control and ₹8 interim dividend,TradingView,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:08,RELIANCE.NS,Ahead of Market: 10 things that will decide D-Street action on Monday,The Economic Times,neutral,0.8945,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:08,RELIANCE.NS,GIFT NIFTY signals positive start for Indian markets on Nov 16; key things to know before the opening bell,Dailyhunt,positive,0.5911,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:29:08,RELIANCE.NS,"Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",NDTV Profit,neutral,0.8136,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:10,SBIN.NS,Weekly Recap: Profit and net interest income climb and GDR gains 2%,TradingView,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:10,SBIN.NS,Pricol shares plunge 20% at market open; Warburg Pincus deal puts demerged business in focus,Upstox,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:10,SBIN.NS,"SENSEX up 400 pts, NIFTY50 hovers around 25,200 in early trade; Eicher Motors, Airtel gain, TMPV skids over 7%",Upstox,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:12,TATAMOTORS.NS,Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target,Business Standard,negative,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:12,TATAMOTORS.NS,"Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",Business Standard,negative,0.8939,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:12,TATAMOTORS.NS,"Weekly Recap: Q2 loss of Rs. 5,531 crore and JLR cuts FY27 outlook",TradingView,negative,0.709,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:12,TATAMOTORS.NS,NSE's market-cap crosses ₹5 trillion-mark; stock up 16% from IPO price,Business Standard,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:12,TATAMOTORS.NS,"India deserves re-rating; Sensex may hit 95,000 by Dec 2027: Morgan Stanley",Business Standard,neutral,0.6057,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-16 06:29:13,TATAMOTORS.NS,"Tata Motors PV posts record Q2 volumes, but margins remain under pressure",The Economic Times,negative,0.8725,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:14,TATASTEEL.NS,"Sensex Rises 418 Points, Nifty Crosses 25,200",HDFC Sky,positive,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:14,TATASTEEL.NS,"Stock markets rally in early trade led by foreign fund inflows, lower crude oil",The Sen Times,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:14,TATASTEEL.NS,Tata Steel Plans To Finalize Neelachal Ispat Merger By End Of FY27,Sahi,neutral,0.7209,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:14,TATASTEEL.NS,"Sensex up over 300 points, Nifty above 25,200; Tata Motors PV down 9%",The Financial Express,positive,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:14,TATASTEEL.NS,Will rising steel prices lift steel stocks? Key growth drivers and input cost risks investors should watch,The Economic Times,neutral,0.8898,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:15,TATACONSUM.NS,Gopal Snacks launches consumer schemes for wafer category to drive growth,Business Upturn,positive,0.7319,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:18,TECHM.NS,"IT majors see sluggish organic performance; TechM, LTM outperform",The Economic Times,negative,0.8772,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:19,TITAN.NS,Investors Shouldn't Be Too Comfortable With Titan's (NSE:TITAN) Earnings,Simply Wall St,negative,0.7107,AUTO_ACCEPTED,indi-finbert
+2026-11-16 06:29:20,ULTRACEMCO.NS,"Weekly Recap: Q2 growth, lower EBITDA per tonne and reduced pet-coke share",TradingView,negative,0.6869,AUTO_ACCEPTED,indi-finbert
