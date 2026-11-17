@@ -9276,3 +9276,96 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-16 20:29:06,TECHM.NS,Market winners: 16 bluechip stocks beat Nifty 50 with up to 21% gains in a month; is it too late to buy?,The Economic Times,positive,0.8585,AUTO_ACCEPTED,indi-finbert
 2026-11-16 20:29:06,TECHM.NS,"SML Mahindra to raise up to Rs. 1,450 crore through rights issue",Business Upturn,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
 2026-11-16 20:29:08,ULTRACEMCO.NS,"Indian Equities Rise: Sensex Up 512 Points, Nifty Nears 25,300 Amidst FII Inflows",Rediff,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:09,TATAMOTORS.NS,"Tata Motors PV: Nomura cuts target price to Rs 287, retains 'Neutral'; JLR launches key to recovery",moneycontrol,neutral,0.8713,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:09,INFY.NS,"TCS, Infosys stock ratings: CLSA cautious, flags growth, margin concerns; check target prices, downside risk",moneycontrol,negative,0.8428,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:09,TCS.NS,"TCS, Infosys stock ratings: CLSA cautious, flags growth, margin concerns; check target prices, downside risk",moneycontrol,negative,0.8428,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:10,EICHERMOT.NS,"Eicher Motors: Nomura maintains 'Neutral', cuts target price to Rs 8,022 after 2Q margin miss",moneycontrol,negative,0.8758,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:12,ASIANPAINT.NS,Indian shares edge higher on easing oil prices despite Asia slide,Reuters,positive,0.9158,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:12,ASIANPAINT.NS,"Sensex opens over 100 points higher, Nifty above 25,300; Adani Ports, Asian Paints among top gainers",India Today,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:12,ASIANPAINT.NS,"Oil-sensitive stocks rally up to 3% as crude prices extend decline; Asian Paints, IndiGo, JK Tyre, HPCL,...",Moneycontrol.com,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:12,ASIANPAINT.NS,'Largecaps Are The Place To Be': Piper Serica's Abhay Agarwal On India's Next Market Rally,NDTV Profit,neutral,0.7027,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:14,BAJAJ-AUTO.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:14,BAJAJ-AUTO.NS,"MTAR Tech, TVS Holdings and 6 Other Stocks Whose Upper Circuit Limits Increased From 5% to 20%",Trade Brains,neutral,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:15,BAJAJFINSV.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:15,BAJAJFINSV.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:15,BAJAJFINSV.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:15,BAJAJFINSV.NS,Dwarikesh Sugar Industries (NSE:DWARKESH) Issues Postal Ballot Notice via Newspaper Publication,Kalkine Media,neutral,0.738,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:15,BAJAJFINSV.NS,Buy Bajaj Finance: target of Rs 1350: ICICI Securities,Moneycontrol.com,positive,0.9261,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:16,BPCL.NS,"Oil-sensitive stocks rally up to 3% as crude prices extend decline; Asian Paints, IndiGo, JK Tyre, HPCL,...",Moneycontrol.com,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:18,BHARTIARTL.NS,ARSS Infrastructure appoints IAS officer Mohanty as independent director,scanx.trade,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:18,BHARTIARTL.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:20,CIPLA.NS,Directorate of Revenue Intelligence conducts search at Cipla facilities,Business Upturn,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:20,CIPLA.NS,"Cipla says DRI conducts search at Mumbai office, Bhiwandi depot over imported drug",IndiaIPO,neutral,0.481,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 07:55:24,HDFCBANK.NS,HDFC Bank inches up as Board locks in senior leadership,TradingView,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:24,HDFCBANK.NS,"Honasa Consumer, HDFC Bank: Two stock ideas by Shrikant Chouhan",Business Standard,neutral,0.8917,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:24,HDFCBANK.NS,"Capital Market stocks shine: Angel One jumps 6%; Groww, NSE hit new highs",Business Standard,positive,0.8966,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:24,HDFCBANK.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:26,HDFCLIFE.NS,HDFC Life Insurance to raise up to ₹500 crore through 10-year subordinated NCD issue,CNBC TV18,neutral,0.733,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:26,HDFCLIFE.NS,HDFC Life Approves Rs 500 Cr Fundraise Through Subordinated NCD Issue,BW Businessworld,positive,0.6534,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:26,HDFCLIFE.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:28,HINDALCO.NS,"Metal stocks today, November 17: Welspun Corp jumps 3.74%; Coal India falls 1.90%, APL Apollo Tubes down 1.79%",Business Upturn,positive,0.723,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,"India's stock market premium faces test from slower growth, tight rates: UBS",Business Standard,negative,0.8705,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,"NIFTY Bank hits record high of 61,875.05; ICICI Bank, SBI, PNB top gainers",Upstox,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,"Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run",Business Standard,positive,0.8799,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:30,ICICIBANK.NS,"Bank Nifty hits all-time high, jumps 10% in 1 month: 5 reasons fuelling the surge",The Financial Express,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,ITC shares jump 4% to 5-month high as FMCG index tops sectoral gainers; know reason behind today’s rally?,TradingView,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,India stocks higher at close of trade; Nifty 50 up 0.58%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,India shares higher at close of trade; Nifty 50 up 0.58% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,"Capital Market stocks shine: Angel One jumps 6%; Groww, NSE hit new highs",Business Standard,positive,0.8966,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,"Top gainers and losers, Nov 16: Max Health soars 7%, Tata Consumer surges 4%, TMPV tumbles 9%; check list",Upstox,positive,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:31,ITC.NS,ITC stock: UBS cuts target as cigarette tax risks persist,ad-hoc-news.de,negative,0.714,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:32,INDUSINDBK.NS,IndusInd Bank and Mastercard Join Forces to Speed Up Outbound Remittances and Student Payments,PSU Connect,positive,0.6295,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 07:55:32,INDUSINDBK.NS,Mastercard Move and IndusInd Bank collaborate to enhance outbound cross-border payments from India,Business Upturn,positive,0.7178,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:34,JSWSTEEL.NS,JSW Steel (NSE: JSWSTEEL): Sambalpur Joint Venture Expansion and October Output Growth,Kalkine India,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:34,JSWSTEEL.NS,GIFT NIFTY futures hint flat opening on November 17; what investors need to track ahead of market open,Upstox,neutral,0.7335,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:34,JSWSTEEL.NS,"Metal stocks today, November 17: Welspun Corp jumps 3.74%; Coal India falls 1.90%, APL Apollo Tubes down 1.79%",Business Upturn,positive,0.723,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:34,JSWSTEEL.NS,"Sensex Gains 215 Points And Nifty Tops 25,348, Falling Crude And Strong Foreign Inflows Lift Market Sentiment",Free Press Journal,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:35,LT.NS,NSE Joins 5-L cr Market Cap Club with 16% Nov Run,TradingView,neutral,0.5456,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 07:55:38,LT.NS,L'Oreal US settles four women's cancer claims over chemical hair straightening products,Telegraph India,positive,0.3887,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 07:55:38,LT.NS,Wheels of justice grind slowly; new cases add more pressure. 4.3L cases pending before lower courts in Bengaluru,The Times of India,negative,0.5539,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 07:55:38,LT.NS,L'Oréal Settles Hair Relaxer Cancer Cases In First US Trial: Can Chemical Hair Straighteners Cause Cancer?,Health and Me,positive,0.7003,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:38,LT.NS,L’Oréal appoints Adharsh Arulalan as Senior Manager – Trade Marketing (central India),Exchange4Media,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:39,M&M.NS,"SML Mahindra Rights Issue: Rs 1,450 Crore at Rs 3,506 Per Share",Kalkine India,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:39,M&M.NS,"Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices",The New Indian Express,positive,0.6897,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:39,M&M.NS,"SML Mahindra to raise up to ₹1,450 crore through rights issue",Business Upturn,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:41,MARUTI.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:41,MARUTI.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:41,MARUTI.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:42,NESTLEIND.NS,India stocks higher at close of trade; Nifty 50 up 0.58%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:44,ONGC.NS,ONGC battles geological challenges and declining output at flagship deepwater asset,Upstream Online,negative,0.655,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:44,ONGC.NS,"India Wholesale Prices Rise 12.29% as Fuel Costs Accelerate, Boosting Rate-Hike Expectations",finance.biggo.com,positive,0.739,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:44,ONGC.NS,India’s Russian Fossil Fuel Imports Hit Record EUR 6.4 bn in October,Construction World,positive,0.6852,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:44,ONGC.NS,United Heat Transfer wins Rs 2.12 crore work order from overseas Oil & Gas client,scanx.trade,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:45,POWERGRID.NS,"Power Grid (POWERGRID) Share Price Today (NSE), Market News",TechGraph,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:45,POWERGRID.NS,Power Grid (NSE:POWERGRID) Approves Rs 220 Cr Reconductoring Project,Kalkine India,positive,0.7323,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:45,POWERGRID.NS,"J.K. Shah Commerce Education set to list on BSE and NSE on November 18, 2026",Business Upturn,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:46,RELIANCE.NS,Reliance Industries refining margins boosted by strong diesel cracks,scanx.trade,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:46,RELIANCE.NS,Dwarikesh Sugar Industries (NSE:DWARKESH) Issues Postal Ballot Notice via Newspaper Publication,Kalkine Media,neutral,0.738,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:46,RELIANCE.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:46,RELIANCE.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:48,SUNPHARMA.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:48,SUNPHARMA.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:50,TATAMOTORS.NS,6 of 10 NSE stocks remain below their December 2025 closing levels,Business Standard,negative,0.8896,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:50,TATAMOTORS.NS,Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why,Moneycontrol.com,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:50,TATAMOTORS.NS,Zee Business. . Tata Motors PV में बड़ी गिरावट क्यों नतीजों के बाद फिसला Tata Motors PV? क्यों ब्रोकरेजेज का भरोसा घटा? #TataMotors #TataMotorsPV #TataMotorsShare #TataMotorsStock #TataMotorsResults,Facebook,neutral,0.7356,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:50,TATAMOTORS.NS,Tata Motors Passenger Vehicles shares rise 2% to ₹267 as RBI tells Tata Sons in writing to comply with listing rules,Business Upturn,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:50,TATAMOTORS.NS,"Tata Motors PV: Q2 pain may extend on geopolitical, cost headwinds",Business Standard,negative,0.8936,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:51,TATASTEEL.NS,GIFT NIFTY futures hint flat opening on November 17; what investors need to track ahead of market open,Upstox,neutral,0.7335,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:51,TATASTEEL.NS,Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why,Moneycontrol.com,positive,0.9471,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:51,TATASTEEL.NS,India stocks higher at close of trade; Nifty 50 up 0.58%,Investing.com,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:51,TATASTEEL.NS,India shares higher at close of trade; Nifty 50 up 0.58% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:51,TATASTEEL.NS,"JSW Steel, Tata Steel shares in focus as EU imposes 9.5% duty on Indian steel",Upstox,negative,0.704,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:52,TATACONSUM.NS,India shares higher at close of trade; Nifty 50 up 0.58% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:53,TCS.NS,"Stock Market Today: Sensex, Nifty Open Higher",HDFC Sky,positive,0.729,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:53,TCS.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:53,TCS.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:53,TCS.NS,HFS Research recognises Tata Consultancy Services as leader in agentic application management services,Business Upturn,positive,0.7428,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:54,TCS.NS,"AI adoption, weak demand to keep India's IT services revenue growth subdued in FY27: Report",The Economic Times,negative,0.8703,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:55,TITAN.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:55,TITAN.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:55,TITAN.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:55,TITAN.NS,Dwarikesh Sugar Industries (NSE:DWARKESH) Issues Postal Ballot Notice via Newspaper Publication,Kalkine Media,neutral,0.738,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:56,ULTRACEMCO.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 07:55:56,ULTRACEMCO.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
