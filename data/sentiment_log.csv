@@ -9369,3 +9369,116 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-17 07:55:55,TITAN.NS,Dwarikesh Sugar Industries (NSE:DWARKESH) Issues Postal Ballot Notice via Newspaper Publication,Kalkine Media,neutral,0.738,AUTO_ACCEPTED,indi-finbert
 2026-11-17 07:55:56,ULTRACEMCO.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
 2026-11-17 07:55:56,ULTRACEMCO.NS,Fineotex Chemical (NSE:FCL) Releases Q2 FY27 Investor and Analyst Call Recording,Kalkine Media,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,Nifty Reaches Nine-Month High as Bank Nifty Hits Record on Strong Buying,INDIA New England News,positive,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,"Capital Market stocks shine: Angel One jumps 6%; Groww, NSE hit new highs",Business Standard,positive,0.8966,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,"NSE or BSE: Why are experts bullish on NSE shares? Here's what technical charts hint at? | Target price, stop-loss",Livemint,positive,0.5088,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,"Adani Group stocks today, November 17: Ambuja Cements jumps 1.53%, Adani Enterprises gains 1.45%, ACC up 1.11%",Business Upturn,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:51,ADANIENT.NS,"Stocks in news: Adani Enterprises, BSE, Senco Gold, Hero Motors, HDFC Life, Anand Rathi Wealth and Urban C",The Economic Times,neutral,0.8927,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:54,ASIANPAINT.NS,"Stock Market Opening Bell: Sensex opens higher, gains 65 points; Nifty crosses 25,300",Zee Business,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:54,ASIANPAINT.NS,"Sensex jumps 427 points, Nifty closes near 25,400 as banking, realty stocks rally",NewsDrum,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:56,AXISBANK.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:56,AXISBANK.NS,"Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices",The New Indian Express,positive,0.6897,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:56,AXISBANK.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:56,AXISBANK.NS,"Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run",Business Standard,positive,0.8799,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:56,AXISBANK.NS,"Dalal Street extends winning streak; Sensex up 427 points, Nifty above 25,350",India Today,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:57,BAJAJ-AUTO.NS,Hero MotoCorp (NSE:HEROMOTOCO) Announces Investor Meetings Scheduled for Late November to Early December 2026,Kalkine Media,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:58,BAJFINANCE.NS,Ujjivan Small Finance Bank (NSE:UJJIVANSFB) Announces Relocation of Registrar and Share Transfer Agent's Office,Kalkine Media,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:58,BAJFINANCE.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:58,BAJFINANCE.NS,Capital Small Finance Bank (NSE:CAPITALSFB) Issues Postal Ballot Notice in Newspapers: Key Details Explained,Kalkine Media,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:58,BAJFINANCE.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:58,BAJFINANCE.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:59,BAJFINANCE.NS,Salzer Electronics (NSE:SALZERELEC) Q2 & H1 FY27 Earnings Call Highlights and Insights,Kalkine Media,neutral,0.5669,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:11:59,BAJAJFINSV.NS,Ujjivan Small Finance Bank (NSE:UJJIVANSFB) Announces Relocation of Registrar and Share Transfer Agent's Office,Kalkine Media,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:59,BAJAJFINSV.NS,Oracle Financial Services Software (NSE:OFSS) Announces Relocation of Share Transfer Agent's Corporate Office,Kalkine Media,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:11:59,BAJAJFINSV.NS,Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat,Kalkine Media,neutral,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:00,BPCL.NS,Dr. M. Beena appointed to Bharat Petroleum Corporation Board,Business Upturn,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:02,BHARTIARTL.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:02,BHARTIARTL.NS,Airtel Payments Bank Q2 Results: Profit jumps 139% to Rs 28 crore; revenue rises 9% to Rs 875 crore,The Economic Times,positive,0.8974,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:04,CIPLA.NS,Cipla (NSE:CIPLA) Issues Postal Ballot Notice in Newspapers: Key Details and Compliance Update,Kalkine Media,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:04,CIPLA.NS,Cipla reports 'No Action Indicated' classification from USFDA for InvaGen facility inspection,Business Upturn,neutral,0.6618,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:05,CIPLA.NS,Cipla stock faces DRI search at Mumbai office and depot,ad-hoc-news.de,neutral,0.5104,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:12:05,COALINDIA.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:05,COALINDIA.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:05,COALINDIA.NS,"Sebi sets up NSE chief Ashish Chauhan-led panel to review IPO, FPO, QIP norms",Fortune India,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:05,COALINDIA.NS,"Tata Chemicals, Tata Investment shares trim gains after NSE, BSE clarification",Business Today,negative,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:07,DRREDDY.NS,"Gilead grants voluntary licenses of experimental Ebola drug to Dr Reddy’s, two others",pharma.economictimes.indiatimes.com,positive,0.6888,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:09,EICHERMOT.NS,Earnings Miss: Eicher Motors Limited Missed EPS By 5.9% And Analysts Are Revising Their Forecasts,Simply Wall St,negative,0.7407,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:09,EICHERMOT.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:09,EICHERMOT.NS,NSE at Record High: 155% Surge in Mutual Fund Orders and New Product Launches Fuel Growth,Trade Brains,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:10,GRASIM.NS,Tega Industries secures listing approval for 4.78 lakh preferential shares,scanx.trade,positive,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:11,HCLTECH.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:11,HCLTECH.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:11,HCLTECH.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:12,HDFCBANK.NS,HDFC Bank (NSEI:HDFCBANK) Stock Looks Above Fair Value On Earnings Today,Simply Wall St,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:12,HDFCBANK.NS,South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026,Kalkine Media,positive,0.7357,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:14,HDFCLIFE.NS,"Groww block deal: Ribbit Capital entities sell shares worth Rs 1,905 crore; Morgan Stanley Asia, BlackRock",The Economic Times,negative,0.7625,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:14,HDFCLIFE.NS,"Sensex jumps 427 points, Nifty closes near 25,400 as banking, realty stocks rally",NewsDrum,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:15,HEROMOTOCO.NS,Hero MotoCorp (NSE:HEROMOTOCO) Announces Investor Meetings Scheduled for Late November to Early December 2026,Kalkine Media,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:16,HINDALCO.NS,"Stock Market Today: Sensex, Nifty Rise on Foreign Fund Buying and Lower Crude",Dainik Jagran MP CG,positive,0.3718,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:12:18,ICICIBANK.NS,Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat,Kalkine Media,neutral,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:18,ICICIBANK.NS,Ujjivan Small Finance Bank (NSE:UJJIVANSFB) Announces Relocation of Registrar and Share Transfer Agent's Office,Kalkine Media,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:18,ICICIBANK.NS,Hero MotoCorp (NSE:HEROMOTOCO) Announces Investor Meetings Scheduled for Late November to Early December 2026,Kalkine Media,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:19,ICICIBANK.NS,Azad India Mobility denies guarantee in ICICI Bank SARFAESI notice,scanx.trade,negative,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:21,INDUSINDBK.NS,"IndusInd Bank, Mastercard join hands for cross-border payments; stock rises 1.2%",BusinessLine,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:21,INDUSINDBK.NS,IndusInd Bank Partners With Mastercard for Cross-Border Payments; Shares Rise Nearly 1.5%,HDFC Sky,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:22,INFY.NS,"TCS, Infosys stock ratings: CLSA cautious, flags growth, margin concerns; check target prices, downside...",Moneycontrol.com,negative,0.888,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:22,INFY.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:22,INFY.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:23,JSWSTEEL.NS,"JSW Steel, Tata Steel shares in focus as EU imposes 9.5% duty on Indian steel",Upstox,negative,0.704,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:24,JSWSTEEL.NS,"Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL",Livemint,positive,0.7673,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:24,KOTAKBANK.NS,"Nifty Bank hits record high above 62,300; analysts see room for more gains",Business Standard,positive,0.8964,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:24,KOTAKBANK.NS,South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026,Kalkine Media,positive,0.7357,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:26,LT.NS,Thales Alenia Space to develop an L-band Synthetic Aperture Radar satellite for the Italian Space Agency,Thales Alenia Space,neutral,0.7383,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:26,LT.NS,L’Oréal’s Bold hires Kaur as investment director for India,Global Venturing,neutral,0.7435,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:26,LT.NS,Europe’s Proposed Anti-Dumping Duty Hike on Chinese Lysine Reshapes L-Lysine Hydrochloride Market Outlook,ChemAnalyst,positive,0.7239,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:26,LT.NS,Haryana’s Kushal Business Challenge Reaches 1.18 L Students,BW Education,positive,0.6751,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:26,LT.NS,"Gold & Silver Prices Plunge: Gold at Rs 1.38L, Silver One-Year Low",Rediff MoneyWiz,negative,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:28,M&M.NS,Hero MotoCorp (NSE:HEROMOTOCO) Announces Investor Meetings Scheduled for Late November to Early December 2026,Kalkine Media,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:28,M&M.NS,"SML Mahindra announces Rs. 1,450 crore rights issue at Rs. 3,506 per share: Check Key Details",Indiablooms,neutral,0.7323,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:28,M&M.NS,"Sensex jumps 427 points, Nifty closes near 25,400 as banking, realty stocks rally",NewsDrum,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:29,M&M.NS,"Mohd Shami and M. Siddharth traded to Rajasthan Royals, Sam Curran traded to Lucknow Super Giants",IPL,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:29,M&M.NS,Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine,The Guardian,positive,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:29,M&M.NS,I’m Hiring Someone Into a Disaster I Plan to Leave. Is That Unethical?,Inc.com,neutral,0.3732,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:12:29,M&M.NS,Shock Turkey move ON for £42.9m Man Utd star as Pochettino clears path for elite upgrade - Exclusive,TEAMtalk,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:29,M&M.NS,"IPL 2027: Mohammed Shami, M Siddharth move to Rajasthan Royals; Sam Curran joins Lucknow Super Giants in",The Times of India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:32,NTPC.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:32,NTPC.NS,Havells India (NSE:HAVELLS) Unveils Three Innovative Ceiling Fans Featuring Advanced BLDC Technology and AI,Kalkine Media,positive,0.6536,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:33,NTPC.NS,Tata Power to NTPC: Ambit picks 5 power stocks for up to 25% upside as demand hits 270GW,The Financial Express,positive,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:34,ONGC.NS,"Crude oil prices drop 5.6%: IndiGo, HPCL, Indian Oil, Asian Paints, other oil-sensitive stocks rise; here's why",Upstox,negative,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:34,ONGC.NS,"Top Gainers & Losers Today, 17 November 2026 at 12:00 PM IST: Asian Paints Ltd Leads Gainers",HDFC Sky,positive,0.7292,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:34,ONGC.NS,"India Inc logs best quarterly profit growth in four years, fuelling market revival hopes",Reuters,positive,0.9172,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:35,POWERGRID.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:35,POWERGRID.NS,"Sensex jumps 427 points, Nifty closes near 25,400 as banking, realty stocks rally",NewsDrum,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:35,POWERGRID.NS,Maharashtra Seamless relocates registered office to Haryana,Business Upturn,neutral,0.7416,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:36,RELIANCE.NS,India stocks higher at close of trade; Nifty 50 up 0.38%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:36,RELIANCE.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:36,RELIANCE.NS,Supreme Court Dismisses Rs 59.14 Crore GST Demand Against Sterling and Wilson (NSE:SWSOLAR),Kalkine Media,negative,0.6188,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-17 19:12:36,RELIANCE.NS,Patanjali Foods (NSE:PATANJALI) Confirms Publication of Q2 FY27 Financial Results Extracts,Kalkine Media,neutral,0.7163,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:37,SBILIFE.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:38,SBIN.NS,"Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run",Business Standard,positive,0.8799,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:38,SBIN.NS,"Vedanta Aluminium, Vedanta Oil and Gas: Stocks rise up to 3% on Nov 17; why are Vedanta Group stocks rising today?",Upstox,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:38,SBIN.NS,"Nifty Bank hits record high, tops 62,000; HDFC Bank jumps 20% from Oct low",IndiaIPO,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:38,SBIN.NS,"NSE joins Rs 5 lakh crore m-cap club, overtakes LIC in valuation",The Economic Times,neutral,0.7128,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:38,SBIN.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:39,SUNPHARMA.NS,Cipla (NSE:CIPLA) Issues Postal Ballot Notice in Newspapers: Key Details and Compliance Update,Kalkine Media,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:39,SUNPHARMA.NS,"Trent Limited (NSE:TRENT) Announces Meetings with Global Investors from November 25 to December 4, 2026",Kalkine Media,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:39,SUNPHARMA.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:41,TATAMOTORS.NS,"Tata Chemicals, Tata Investment shares trim gains after NSE, BSE clarification",Business Today,negative,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:41,TATAMOTORS.NS,Ahead of Market: 10 things that will decide stock market action on Wednesday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:42,TATASTEEL.NS,"Tata Steel eyes 50 mt capacity in India, to pump 75% of capex into domestic growth: TV Narendran",BusinessLine,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:42,TATASTEEL.NS,"Tata Chemicals, Tata Investment shares trim gains after NSE, BSE clarification",Business Today,negative,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:42,TATASTEEL.NS,"Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL",Livemint,positive,0.7673,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:42,TATASTEEL.NS,"EU targets Indian steel with 9.5% duty. What it means for Tata Steel, JSW Steel",Firstpost,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:43,TATACONSUM.NS,"Tata Chemicals, Tata Investment shares trim gains after NSE, BSE clarification",Business Today,negative,0.7345,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,India shares higher at close of trade; Nifty 50 up 0.38% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"Stock markets rally for second day on foreign fund inflows, softer crude prices",The Federal,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"Indian Stock Markets Climb on FII Inflows, Falling Crude",Rediff MoneyWiz,positive,0.7023,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices",The New Indian Express,positive,0.6897,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"IT stocks gain from global AI worries, but Jefferies feels the sector is not out of the woods yet. Should",The Economic Times,positive,0.8941,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"Stock Picks Today: ABB India, Cummins, Ashok Leyland, Tech Mahindra, Astral, And More On Brokerages' Radar",NDTV Profit,neutral,0.8602,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:46,TECHM.NS,"AI adoption, weak demand to keep India's IT services revenue growth subdued in FY27: Report",The Economic Times,negative,0.8703,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:47,TITAN.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:47,TITAN.NS,South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026,Kalkine Media,positive,0.7357,AUTO_ACCEPTED,indi-finbert
+2026-11-17 19:12:47,TITAN.NS,"Trent Limited (NSE:TRENT) Announces Meetings with Global Investors from November 25 to December 4, 2026",Kalkine Media,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
