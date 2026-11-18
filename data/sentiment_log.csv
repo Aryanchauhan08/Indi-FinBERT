@@ -9482,3 +9482,73 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-17 19:12:47,TITAN.NS,India Ratings Downgrades STL Networks (NSE:STLNETWORK) Credit Rating Amid Financial Challenges,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
 2026-11-17 19:12:47,TITAN.NS,South Indian Bank Expands Presence with New Branch Launch in Bengaluru on 17 November 2026,Kalkine Media,positive,0.7357,AUTO_ACCEPTED,indi-finbert
 2026-11-17 19:12:47,TITAN.NS,"Trent Limited (NSE:TRENT) Announces Meetings with Global Investors from November 25 to December 4, 2026",Kalkine Media,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:27:55,ADANIENT.NS,NSE Nifty 50 Could Open Strong as Nasdaq Futures Jumps on Positive Nvidia Quarterly Results,TopNews,positive,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:27:59,ASIANPAINT.NS,"Stock Markets Today: Sensex, Nifty Down on Profit-taking",Rediff,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:00,AXISBANK.NS,"Tech view on Axis, ICICI and HDFC Bank as Nifty Bank quotes near new high",Business Standard,positive,0.8573,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:00,AXISBANK.NS,"Nifty tops 25,500 to hit 9-month high, banking stocks lead the rally",The New Indian Express,positive,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:02,BAJAJ-AUTO.NS,"Auto stocks today, November 18: Ashok Leyland falls 2.18%, Ola Electric declines 1.35%, Eicher Motors down 1.31%",Business Upturn,negative,0.7395,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:02,BAJAJ-AUTO.NS,NSE Nifty 50 Could Open Strong as Nasdaq Futures Jumps on Positive Nvidia Quarterly Results,TopNews,positive,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:03,BAJFINANCE.NS,"If EPS Growth Is Important To You, Bajaj Finance (NSE:BAJFINANCE) Presents An Opportunity",Simply Wall St,positive,0.7238,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:03,BAJFINANCE.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:03,BAJFINANCE.NS,Oracle Financial Services Software (NSE:OFSS) Announces Relocation of Share Transfer Agent's Corporate Office,Kalkine Media,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:03,BAJFINANCE.NS,Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat,Kalkine Media,neutral,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:03,BAJFINANCE.NS,Oracle Financial Services Software (NSE:OFSS) ESOP Share Allotment: Key Details and Investor Impact,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:04,BAJAJFINSV.NS,"If EPS Growth Is Important To You, Bajaj Finance (NSE:BAJFINANCE) Presents An Opportunity",Simply Wall St,positive,0.7238,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:04,BAJAJFINSV.NS,"Stock Markets Today: Sensex, Nifty Down on Profit-taking",Rediff,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:04,BAJAJFINSV.NS,Oracle Financial Services Software (NSE:OFSS) ESOP Share Allotment: Key Details and Investor Impact,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:11,COALINDIA.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:16,GRASIM.NS,Grasim Industries Limited Just Missed Earnings With A Surprise Loss - Here Are Analysts Latest Forecasts,Simply Wall St,negative,0.4566,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:16,GRASIM.NS,"SELL | Autos | Tata Motors Passenger Vehicles - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8473,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:18,HDFCBANK.NS,Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat,Kalkine Media,neutral,0.7275,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:18,HDFCBANK.NS,"Tech view on Axis, ICICI and HDFC Bank as Nifty Bank quotes near new high",Business Standard,positive,0.8573,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:18,HDFCBANK.NS,Karnataka Bank Names Udaya Kumar Hebbar as New MD and CEO for Three-Year Term,Kalkine Media,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:18,HDFCBANK.NS,"Groww, CDSL, NSE, BSE: Jefferies says impact of likely MTF curbs limited",Business Today,neutral,0.7316,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:19,HDFCBANK.NS,Meet India’s 3 cheapest PSU banks. All are growing loans faster than SBI,Financial Express,positive,0.8062,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:25,ICICIBANK.NS,Karnataka Bank Names Udaya Kumar Hebbar as New MD and CEO for Three-Year Term,Kalkine Media,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:25,ICICIBANK.NS,Oracle Financial Services Software (NSE:OFSS) Announces Relocation of Share Transfer Agent's Corporate Office,Kalkine Media,neutral,0.743,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:25,ICICIBANK.NS,"CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:26,ICICIBANK.NS,Bank earnings expected to strengthen in Q4 as NII growth hits 11-quarter high: Jefferies,The Tribune,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:28,INDUSINDBK.NS,IndusInd Bank Share Price - Live NSE: INDUSINDBK Stock Price & Chart,Upstox,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:29,INFY.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:29,INFY.NS,"Falling crude, FII inflows keep bulls in charge on Dalal Street",The Hans India,negative,0.7171,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:31,JSWSTEEL.NS,"Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what triggered the selloff?",Moneycontrol.com,negative,0.9427,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:31,JSWSTEEL.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:31,JSWSTEEL.NS,NSE shares rise 3% as Anand Rathi sets highest target on Street,Business Today,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:31,JSWSTEEL.NS,"Axis Bank, M&M, Clean Max among 10 Asian stocks to buy in 2027, says HSBC",Business Today,positive,0.7289,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:31,JSWSTEEL.NS,"Coforge shares: CLSA maintains high conviction 'Outperform' rating on strong execution, AI play",Business Today,positive,0.7463,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:35,LT.NS,"TN govt sets Rs 2.5L income cap, 15-day registration norm for Annan Seer Scheme",The New Indian Express,neutral,0.5992,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:35,LT.NS,Form 4 Expensify Inc: Timothy L. Christen (Director) For: 9 November By Investing.com,Investing.com India,neutral,0.7742,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:37,M&M.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:38,M&M.NS,APOD: 2026 November 18 - An M-class Solar Flare,NASA Science (.gov),neutral,0.7263,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:38,M&M.NS,Model ML raises $250M to automate investment banking grunt work,TechCrunch,positive,0.7137,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:38,M&M.NS,Rakuten Securities warns of data leak for 4.47M accounts,NHKニュース,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:38,M&M.NS,Jared Kushner’s $500M Foreign Hotel Deal Is DOA After Intense Backlash,HuffPost,positive,0.5397,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:42,NTPC.NS,ACME Solar signs PPA with NTPC for 150 MW hybrid power project at Rs. 3.21 per unit,Business Upturn,positive,0.6788,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:43,ONGC.NS,"India new issue-ONGC Petro Additions accepts bids for 5-year bonds, bankers say",marketscreener.com,neutral,0.5563,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:43,ONGC.NS,"NSE, BSE, Groww shares lose gains as SEBI weighs trading curbs | SEBI is not looking to curb the use of MT | Inshorts",Inshorts,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:43,ONGC.NS,5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates,Yahoo Finance,negative,0.742,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:43,ONGC.NS,Topaz Energy Corp: Can Royalty and Infrastructure Income Keep the Dividend Climbing?,kalkine.ca,neutral,0.4816,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:44,POWERGRID.NS,"Top gainers and losers, Nov 17: Adani Ent, Eicher Motors jump 3%, HCLTech, Power Grid fall 2%; check list",Upstox,neutral,0.3788,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:44,POWERGRID.NS,Here is why FirstCry shares soared over 13% on Tuesday,Upstox,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:46,RELIANCE.NS,Reliance Industries NSE:RELIANCE JM Financial Conference Update,Kalkine India,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:46,RELIANCE.NS,"Ambani’s Reliance plans Indian alternative to Starlink with 1,600 satellites",Communications Today,neutral,0.5046,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:48,SBIN.NS,GIFT NIFTY futures indicate towards weak open on November 18; what investors need to know ahead of opening bell,Upstox,neutral,0.4699,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:48,SBIN.NS,"Sensex, Nifty hit 9-month highs as bank stocks lead market rally",The Economic Times,positive,0.8798,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:49,SBIN.NS,Meet India’s 3 cheapest PSU banks. All are growing loans faster than SBI,Financial Express,positive,0.8062,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:50,SUNPHARMA.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:51,TATAMOTORS.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:52,TATASTEEL.NS,"Stock Markets Today: Sensex, Nifty Down on Profit-taking",Rediff,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:52,TATASTEEL.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:52,TATASTEEL.NS,NSE shares rise 3% as Anand Rathi sets highest target on Street,Business Today,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:52,TATASTEEL.NS,Stock markets fall in early trade after two-day rally,The Siasat Daily,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:53,TATASTEEL.NS,Tata Steel plans hydrogen production project at Kalinganagar,scanx.trade,neutral,0.4995,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:53,TATASTEEL.NS,Utility Global and Tata Steel Plan to Deploy Utility's First Industrial H2Gen® Project in India,Yahoo! Finance Canada,positive,0.5764,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 07:28:53,TATASTEEL.NS,Not everyone's winning! How Nifty's 14% sprint left 10 heavyweight stocks in the dust,The Economic Times,negative,0.749,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:53,TATASTEEL.NS,"Reliance, Hindustan Zinc and other metal stocks shine in Q2FY27 earnings; while auto sector faces pressure: Check key highlights",Dailyhunt,positive,0.7307,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:55,TCS.NS,"Stock Markets Today: Sensex, Nifty Down on Profit-taking",Rediff,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:56,TCS.NS,TCS share price down 26% in 2026: Is this a buying opportunity? What do technical charts suggest? Key levels to watch,Livemint,negative,0.8439,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:56,TECHM.NS,"Sensex, Nifty hit 9-month highs as bank stocks lead market rally",The Economic Times,positive,0.8798,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:56,TECHM.NS,"Falling crude, FII inflows keep bulls in charge on Dalal Street",The Hans India,negative,0.7171,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:58,TITAN.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:28:58,TITAN.NS,"CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-18 07:29:00,ULTRACEMCO.NS,"SELL | Autos | Tata Motors Passenger Vehicles - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8473,AUTO_ACCEPTED,indi-finbert
