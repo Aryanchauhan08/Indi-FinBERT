@@ -9552,3 +9552,137 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-18 07:28:58,TITAN.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
 2026-11-18 07:28:58,TITAN.NS,"CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
 2026-11-18 07:29:00,ULTRACEMCO.NS,"SELL | Autos | Tata Motors Passenger Vehicles - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8473,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:19,ADANIENT.NS,Tata Communications lists ₹200 crore commercial paper on NSE,scanx.trade,neutral,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:19,ADANIENT.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:19,ADANIENT.NS,"Qualcomm India restructuring job losses: CEO says layoffs ‘performance-based’, but 47% of employees allege favouritism",Livemint,neutral,0.5629,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:20,ADANIENT.NS,Largecaps pull ahead of small and mid caps in Q2 profit growth by over 25%. What’s driving the gap?,The Economic Times,positive,0.8568,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:20,ADANIENT.NS,Not everyone's winning! How Nifty's 14% sprint left 10 heavyweight stocks in the dust,The Economic Times,negative,0.749,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:21,APOLLOHOSP.NS,Tata Communications lists ₹200 crore commercial paper on NSE,scanx.trade,neutral,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:21,APOLLOHOSP.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:21,APOLLOHOSP.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:22,APOLLOHOSP.NS,Max Healthcare to Manipal: Jefferies hospital stock bets after healthy Q2,The Financial Express,negative,0.549,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:23,ASIANPAINT.NS,"Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking",Telangana Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:23,ASIANPAINT.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:23,ASIANPAINT.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:24,AXISBANK.NS,Axis Bank Allots 3.41 Lakh Equity Shares Under ESOP Scheme; Shares Fall Nearly 0.7%,HDFC Sky,negative,0.737,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:24,AXISBANK.NS,Federal Bank (NSE:FEDERALBNK) Seeks Member Approval via Postal Ballot for Board Appointments and KMP Pay Revisions,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:24,AXISBANK.NS,Karnataka Bank Names Udaya Kumar Hebbar as New MD and CEO for Three-Year Term,Kalkine Media,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:25,BAJAJ-AUTO.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:25,BAJAJ-AUTO.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:25,BAJAJ-AUTO.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:27,BAJFINANCE.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:27,BAJFINANCE.NS,Federal Bank (NSE:FEDERALBNK) Seeks Member Approval via Postal Ballot for Board Appointments and KMP Pay Revisions,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:27,BAJFINANCE.NS,Macpower CNC Machines (NSE:MACPOWER) Schedules Key Virtual Investor Meetings in Nov-Dec 2026,Kalkine Media,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:28,BAJFINANCE.NS,Bajaj Finance - Max Healthcare among 10 Nifty stocks rallied up to 22% in 1 month. Did you miss the rally?,The Economic Times,positive,0.8974,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:28,BAJAJFINSV.NS,India's MTF Boom: What's Driving the Rise of Margin-Funded Stock Trading?,The New Indian Express,neutral,0.3951,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:28,BAJAJFINSV.NS,"CAMS (NSE:CAMS) Announces Investor Meeting with SPARX Asset Management on November 23, 2026",Kalkine Media,neutral,0.7399,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:33,BRITANNIA.NS,Britannia reports 16% revenue growth in Q2 FY27 as higher input costs weigh on margins,Milling Middle East & Africa,positive,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:35,COALINDIA.NS,"Mahanadi draws Abu Dhabi wealth fund, Indian insurer ahead of IPO",Mining.com.au,positive,0.621,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:35,COALINDIA.NS,"Mahanadi Coalfields IPO: Price Band, Dates and Valuation",Univest,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:35,COALINDIA.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:36,COALINDIA.NS,Mahanadi Coalfields IPO: Should you bet on Coal India’s cash cow despite muted growth?,Livemint,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:36,COALINDIA.NS,Mahanadi Coalfields IPO: Should investors apply for the Coal India subsidiary?,The Financial Express,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:36,DIVISLAB.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:38,DRREDDY.NS,"Sensex pares losses after 750-point intraday slide, Nifty reclaims 25,200; metals, consumer durables drag",Fortune India,negative,0.3644,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:38,DRREDDY.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:39,EICHERMOT.NS,"Stock Picks Today: NSE, ABB India, Lupin, Syrma And More On Brokerages' Radar",NDTV Profit,neutral,0.8467,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:39,EICHERMOT.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:39,EICHERMOT.NS,NSE Nifty 50 Could Open Strong as Nasdaq Futures Jumps on Positive Nvidia Quarterly Results,TopNews,positive,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:40,EICHERMOT.NS,"UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8948,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:40,GRASIM.NS,Grasim Industries NSE:GRASIM Non-Deal Roadshow Nov 2026,Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:40,GRASIM.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:41,GRASIM.NS,"Grasim Industries posts record quarterly revenue of Rs. 50,105 crore as standalone EBITDA surges 158%",Indian Chemical News,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:41,GRASIM.NS,"UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8948,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:43,HDFCBANK.NS,NSE Reaches Investors Across 99% of India’s Pin Codes,Elets BFSI,positive,0.5884,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:43,HDFCBANK.NS,"Nifty Bank 62,000: Record Run, Key Levels and Bank Stocks",Univest,positive,0.3934,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:43,HDFCBANK.NS,Federal Bank (NSE:FEDERALBNK) Seeks Member Approval via Postal Ballot for Board Appointments and KMP Pay Revisions,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:43,HDFCBANK.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:44,HDFCLIFE.NS,India shares lower at close of trade; Nifty 50 down 0.63%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:44,HDFCLIFE.NS,India stocks lower at close of trade; Nifty 50 down 0.63%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:44,HDFCLIFE.NS,"Kotak MF, BlackRock, others buy stake worth Rs 1,905 cr in Groww",The Economic Times,positive,0.7994,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:46,HEROMOTOCO.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:46,HEROMOTOCO.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:47,HINDALCO.NS,"Metal meltdown: SAIL, NALCO, Hindalco drag Nifty Metal 2% lower; here's why",Business Standard,negative,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:47,HINDALCO.NS,India stocks lower at close of trade; Nifty 50 down 0.63%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:47,HINDALCO.NS,India shares lower at close of trade; Nifty 50 down 0.63%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:47,HINDALCO.NS,"Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250",INDIA New England News,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:47,HINDALCO.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:50,ICICIBANK.NS,Federal Bank (NSE:FEDERALBNK) Seeks Member Approval via Postal Ballot for Board Appointments and KMP Pay Revisions,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:50,ICICIBANK.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:50,ICICIBANK.NS,Indian Energy Exchange (NSE:IEX) Announces Virtual One-on-One Analyst Meeting on 20 November 2026,Kalkine Media,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:50,ICICIBANK.NS,Phoenix Mills (NSE:PHOENIXLTD) Boosts Stake in Island Star Mall Developers Private Limited to 71.23%,Kalkine Media,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:50,ICICIBANK.NS,Macpower CNC Machines (NSE:MACPOWER) Schedules Key Virtual Investor Meetings in Nov-Dec 2026,Kalkine Media,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:51,ICICIBANK.NS,Karnataka Bank appoints Udaya Kumar Hebbar as MD & CEO for three years,Business Standard,neutral,0.8951,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:51,ICICIBANK.NS,"PNB, Union Bank, BoB, SBI, ICICI shares soar up to 30% in a month; why banking stocks are rising",Business Today,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:53,INDUSINDBK.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:53,INDUSINDBK.NS,Which banks are most exposed to insurance commission curbs?,bfsi.economictimes.indiatimes.com,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:54,INFY.NS,Infosys RTA KFin Technologies shifts corporate office from Dec 1,scanx.trade,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:54,INFY.NS,Infosys Share Price Down 25% in a Year: Causes and Valuation,Univest,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:54,INFY.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:54,INFY.NS,Avenue Supermarts redeems commercial paper worth Rs. 200 crores,Business Upturn,neutral,0.6308,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:56,JSWSTEEL.NS,"Metal meltdown: SAIL, NALCO, Hindalco drag Nifty Metal 2% lower; here's why",Business Standard,negative,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:56,JSWSTEEL.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:58,KOTAKBANK.NS,Bank earnings expected to strengthen in Q4 as NII growth hits 11-quarter high: Jefferies,https://www.indiagazette.com/,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:59,LT.NS,Senior IIS officer L Madhu Nag joins as DG | Akashvani News,News On AIR,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:59,LT.NS,Rainforest adaptation in late Homo erectus from southern China,Nature,neutral,0.6063,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:52:59,LT.NS,L’Oréal Enlists Goldman as It Weighs Buying a Stake in Armani,Modaes,positive,0.6972,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:59,LT.NS,"No transactions made, no OTPs shared: Bengaluru techie loses Rs 5.5L in AMEX, RBL card fraud",The Times of India,negative,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:52:59,LT.NS,Here's where you know GTA 6 voice actress Manni L. Perez from,USA Today,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:01,M&M.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:01,M&M.NS,"As the Indian stock market has been strong in the past month, the yield of the Indian Investment Exc..",매일경제,positive,0.722,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:01,M&M.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:02,M&M.NS,Falcon 6X: Why Ghana is facing backlash over new $60m presidential jet,BBC,negative,0.7382,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:02,M&M.NS,US official says Hormuz insurance hits $64m: Is the strait really open?,Al Jazeera,positive,0.6695,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:02,M&M.NS,India’s Humyn Labs raises $47M to feed US robotics companies the data they need,TechCrunch,positive,0.7346,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:02,M&M.NS,I'm a Celeb: Joanna Page reveals 'awful' comments from male actor,BBC,negative,0.7267,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:02,M&M.NS,Goldman Sachs leads $280M funding round in Payhawk,Tech.eu,positive,0.6018,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:04,NESTLEIND.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:07,ONGC.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:07,ONGC.NS,"PSC policy change can drive upstream investments; ICICI Securities prefers Oil India, GAIL",CNBC TV18,neutral,0.6636,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:07,ONGC.NS,Petrobras Awards $410M Subsea Contract to Expand Brazil Operations,TradingView,positive,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:07,ONGC.NS,Rising Input Costs Pose Margin Challenge For India Inc Despite Strong Q2 Growth,ETV Bharat,negative,0.7325,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:08,POWERGRID.NS,IRFC Board Meeting Outcome: CRO Extension and CVO Appointment,Kalkine India,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:08,POWERGRID.NS,Transrail Lighting (NSE:TRANSRAILL) to Participate in Kotak Midcap Conference 2026 in Mumbai,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:08,POWERGRID.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:08,POWERGRID.NS,Indian Railway Finance Corporation announces key appointments and tenure extension,Business Upturn,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:08,POWERGRID.NS,Indian Railway Finance Corporation renews Ajoy Choudhury's tenure and appoints Ms. Pallavi Joshi for key roles,Business Upturn,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:09,RELIANCE.NS,"Ambani's Reliance Courts Local Manufacturers for 1,600-Satellite Push Against Starlink",BigGo Finance,negative,0.4404,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:09,RELIANCE.NS,"Ambani, Mittal Could Turbocharge India’s Space Ambitions",Bloomberg.com,negative,0.6795,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:09,RELIANCE.NS,Ambani aims to build satellite capacity for direct challenge to Starlink,Communications Today,positive,0.6838,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:09,RELIANCE.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:09,RELIANCE.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:11,SBILIFE.NS,Only 3 of 10 insurance stocks trade above listing-day prices; PSUs lag,Moneycontrol.com,neutral,0.5611,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:11,SBILIFE.NS,NSE Reaches Investors Across 99% of India’s Pin Codes,Elets BFSI,positive,0.5884,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:11,SBILIFE.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:11,SBILIFE.NS,"Kotak MF, BlackRock, others buy stake worth Rs 1,905 cr in Groww",The Economic Times,positive,0.7994,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:11,SBILIFE.NS,Mahanadi Coalfields IPO one lot profit calculator on GMP: What’s expected listing gains for investors?,Livemint,positive,0.7031,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:12,SBIN.NS,India stocks lower at close of trade; Nifty 50 down 0.63%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:12,SBIN.NS,India shares lower at close of trade; Nifty 50 down 0.63%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:12,SBIN.NS,"Trending Stocks Today, November 18, 2026: Vodafone Idea, PC Jeweller, Tata Gold ETF, Sagility In Focus",HDFC Sky,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:12,SBIN.NS,"NSE has technological capability to extend trading hours across market segments, subject to regulatory approval: Ashish Chauhan",https://www.indiagazette.com/,neutral,0.5064,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:12,SBIN.NS,"Metal meltdown: SAIL, NALCO, Hindalco drag Nifty Metal 2% lower; here's why",Business Standard,negative,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:15,TATAMOTORS.NS,India shares lower at close of trade; Nifty 50 down 0.63%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:15,TATAMOTORS.NS,Tata Communications lists ₹200 crore commercial paper on NSE,scanx.trade,neutral,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:15,TATAMOTORS.NS,"Tata Motors Enters Syria, Appoints Ghassan Aboud Automotive as Commercial Vehicle Distributor",Indianweb2.com,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:15,TATAMOTORS.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:16,TATASTEEL.NS,"Metal meltdown: SAIL, NALCO, Hindalco drag Nifty Metal 2% lower; here's why",Business Standard,negative,0.89,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:16,TATASTEEL.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:16,TATASTEEL.NS,"Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking",Telangana Today,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:16,TATASTEEL.NS,"Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what triggered the selloff?",Moneycontrol.com,negative,0.9427,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:17,TATASTEEL.NS,Green transition could reshape steel plant locations: Tata Steel MD,Business Standard,positive,0.8018,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:17,TATASTEEL.NS,Tata Steel plans hydrogen production project using steel plant off-gases at Kalinganagar,India Education Diary,positive,0.6695,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:17,TATASTEEL.NS,Tata Steel to Produce Hydrogen from Steel Off-Gases in Odisha,Rediff MoneyWiz,neutral,0.6167,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-18 18:53:18,TATACONSUM.NS,"Tata Consumer schedules investor meetings in New York, London for late 2026",scanx.trade,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:18,TATACONSUM.NS,Tata Communications lists ₹200 crore commercial paper on NSE,scanx.trade,neutral,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:18,TATACONSUM.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:18,TATACONSUM.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:18,TATACONSUM.NS,"Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250",NewsDrum,negative,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:20,TECHM.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:21,TECHM.NS,Tech Mahindra to host JP Morgan fireside chat on November 25,scanx.trade,neutral,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:21,TECHM.NS,"TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri",The Economic Times,negative,0.8937,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:22,TITAN.NS,India shares lower at close of trade; Nifty 50 down 0.63%,Investing.com India,negative,0.7745,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:22,TITAN.NS,"Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4%",India Today,negative,0.7394,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:22,TITAN.NS,India stocks lower at close of trade; Nifty 50 down 0.63%,Investing.com,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:22,TITAN.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:22,TITAN.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
+2026-11-18 18:53:24,ULTRACEMCO.NS,"UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8948,AUTO_ACCEPTED,indi-finbert
