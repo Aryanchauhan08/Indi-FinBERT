@@ -9686,3 +9686,99 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-18 18:53:22,TITAN.NS,"Cipla, Tata Consumer, SBI Share Price Remains Firm, HDFC Life, Titan Bajaj Finance Decline; NSE Nifty Trades One Percent Lower",TopNews,negative,0.7295,AUTO_ACCEPTED,indi-finbert
 2026-11-18 18:53:22,TITAN.NS,Ahead of Market: 10 things that will decide stock market action on Thursday,The Economic Times,neutral,0.8946,AUTO_ACCEPTED,indi-finbert
 2026-11-18 18:53:24,ULTRACEMCO.NS,"UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",The Economic Times,neutral,0.8948,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:18,EICHERMOT.NS,"Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:18,MARUTI.NS,"Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:18,TATAMOTORS.NS,"Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:18,INFY.NS,Price Action: Infosys sheds 2% on JV with Japanese firm; Tonbo Imaging up 2% on order win,moneycontrol,negative,0.9301,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:18,SBIN.NS,"Trade Spotlight: How should you trade State Bank of India, Indraprastha Gas, Bank of Baroda, Vijaya Diagnostic Centre, Prestige Estates, and others on November 19?",moneycontrol,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:19,ADANIENT.NS,"JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:19,ADANIENT.NS,Mastek (NSE:MASTEK) Appoints B S R & Co. LLP as Statutory Auditors for Next Five Years,Kalkine Media,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:19,ADANIENT.NS,"NSE natural gas options cross 50% market share for first time on expiry day, with record volume of 39.9 lakh contracts",Business Upturn,positive,0.7336,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:19,ADANIENT.NS,"Adani group stocks today, November 19: Adani Green up 1.48%, Adani Enterprises gains 0.66%, Adani Power up 0.46%",Business Upturn,positive,0.7391,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,"Nifty Bank 62,000: Record Run, Key Levels and Bank Stocks",Univest,positive,0.3934,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,Phoenix Mills (NSE:PHOENIXLTD) Boosts Stake in Island Star Mall Developers Private Limited to 71.23%,Kalkine Media,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026,Kalkine Media,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:24,AXISBANK.NS,"Metal stocks to buy! APL Apollo Tubes, Hindalco: Axis Sec lists 2 conviction picks post Q2 results 2026; check targets",Livemint,neutral,0.8148,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:25,BAJAJ-AUTO.NS,"Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off",TradingView,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:25,BAJAJ-AUTO.NS,"Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside",NDTV Profit,positive,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:25,BAJAJ-AUTO.NS,"HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites",The Economic Times,positive,0.8511,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,Bajaj Finserv bets $4 million on Indian AI startup Soket AI,TradingView,positive,0.5697,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026,Kalkine Media,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,"Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success?",bfsi.economictimes.indiatimes.com,neutral,0.7311,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,"The comeback club: ICICI Bank, Kotak Mahindra Bank, Bajaj Finance and Adani Port recovered up to 50% from their 52-week lows. What changed?",Upstox,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,"Q2 earnings review: Revenue growth hits 15-quarter high of 21%, says Jefferies",Fortune India,positive,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:27,BAJFINANCE.NS,"HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites",The Economic Times,positive,0.8511,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:28,BAJAJFINSV.NS,Bajaj Finserv bets $4 million on Indian AI startup Soket AI,TradingView,positive,0.5697,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:28,BAJAJFINSV.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:28,BAJAJFINSV.NS,"JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:28,BAJAJFINSV.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:33,CIPLA.NS,"Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off",TradingView,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:36,DIVISLAB.NS,"CAPLIN POINT Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:38,EICHERMOT.NS,"Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:38,EICHERMOT.NS,"Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside",NDTV Profit,positive,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:39,GRASIM.NS,"JK SHAH COMMERCE EDUCATION LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes",Equitymaster,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:40,HCLTECH.NS,HCL Technologies (NSE:HCLTECH) in Focus Among IT Majors Today,Kalkine India,neutral,0.7385,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:42,HDFCBANK.NS,Individual investors’ combined NSE ownership hits record 19.5 per cent,Elets BFSI,positive,0.7232,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:42,HDFCBANK.NS,"NSE Most Active Stocks: Vodafone Idea, PC Jeweller",HDFC Sky,neutral,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:42,HDFCBANK.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:43,HDFCLIFE.NS,"Top gainers and losers, Nov 18: Titan tumbles 4%, HDFC Life falls 3%, Cipla shares jump 3%; check list",Upstox,negative,0.721,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:43,HDFCLIFE.NS,"Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250",INDIA New England News,negative,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:43,HDFCLIFE.NS,"Rs 7,871 crore and counting: Ribbit Capital trims Groww stake again with Rs 1,905 crore block deal",Indian Startup News,negative,0.741,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:44,HEROMOTOCO.NS,"Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:44,HEROMOTOCO.NS,Nifty Auto Jumps Over 4% As Falling Crude Oil Prices Boost Sentiment,Free Press Journal,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:44,HEROMOTOCO.NS,"Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside",NDTV Profit,positive,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:45,HINDALCO.NS,"Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off",TradingView,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,Mastek (NSE:MASTEK) Appoints B S R & Co. LLP as Statutory Auditors for Next Five Years,Kalkine Media,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,CEAT Ltd (NSE:CEATLTD) Updates on Court's Cancellation of Attendance Warrant in 2012 Factories Act Case,Kalkine Media,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,ICICI Bank Hits a 52-Week High: Can Growth Drivers Sustain the Rally?,TradingView,positive,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,"Video | India Inc Q2 Review: Citi Sees 15-16% CAGR Ahead, Prefers Private Banks, Telecom Shares",NDTV Profit,positive,0.5132,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:48,ICICIBANK.NS,FCNR-related costs and benefits yet to fully play out for banks: Report,The Tribune,neutral,0.7305,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:52,INFY.NS,"Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters",The New Indian Express,negative,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:52,INFY.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:52,INFY.NS,Bharat Forge (NSE:BHARATFORG) Finalizes Rs 290.5 Crore Equity Investment in Kalyani Strategic Systems Limited,Kalkine Media,neutral,0.6824,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:52,INFY.NS,Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall?,NiftyTrader,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:53,JSWSTEEL.NS,"Metal sector stocks today, November 19: Hindustan Zinc falls 1.52%, NALCO down 1.31%, Vedanta declines 1.08%",Business Upturn,negative,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:53,JSWSTEEL.NS,"HNIs now own a record Rs 10 lakh crore worth of Indian stocks. Laurus Labs, Cupid among top 10 favourites",The Economic Times,positive,0.8511,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:54,KOTAKBANK.NS,Transrail Lighting (NSE:TRANSRAILL) to Participate in Kotak Midcap Conference 2026 in Mumbai,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:56,LT.NS,Digital arrest scam costs man Rs 15.98L,The New Indian Express,negative,0.7183,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:56,LT.NS,"A 47-year-old Chandigarh professor undergoes Rs 27.97L heart transplant, gets only Rs 10L reimbursed unde",The Times of India,negative,0.5793,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:56,LT.NS,"L'Oréal-led group eyes up to 15% stake in Armani, paper says",TradingView,positive,0.4021,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 07:25:56,LT.NS,L’Oréal leads group seeking 15% stake in Armani - report By Investing.com,Investing.com India,neutral,0.6848,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:58,M&M.NS,"Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:58,M&M.NS,"Maruti Suzuki shares jump 5%, M&M, Tata Motors, Eicher Motors rally as Nifty Auto surges 2.6%",Moneycontrol.com,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:58,M&M.NS,"NIFTY Auto rallies 3% as Maruti Suzuki, Tata Motors PV, M&M, TVS Motor shares lead gains on Nov 19",Upstox,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:58,M&M.NS,LT Foods shares gain 10% as US subsidiary acquires 100% stake in MK Foods Holdings; key details,Upstox,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:58,M&M.NS,"Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside",NDTV Profit,positive,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,M&M.NS,"Coal India unit draws ADIA, LIC in over $245m IPO anchor book",Mining Weekly,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,M&M.NS,314kmph BMW M 1000 RR Joins Dubai Police,BikeWale,neutral,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,M&M.NS,"UEF, IIT-M join hands for Tamil Nadu Growth Conclave 2026; focus on 10 key sectors",The Hindu,neutral,0.711,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,M&M.NS,"Ariyil Shukkoor Murder: Kerala Court Acquits 18, Including CPI(M) Leaders P Jayarajan And TV Rajesh",Live Law,neutral,0.7296,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,M&M.NS,"‘Pretty foolish’: Musk admits $500m gamble on Trump failed in midterms, wishes he could ‘rewind’ the cloc",The Times of India,negative,0.6763,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,MARUTI.NS,"Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:25:59,MARUTI.NS,"Maruti, M&M, Eicher In Fast Lane As Auto Stocks Rally Up To 5.5%; Citi Sees More Upside",NDTV Profit,positive,0.8771,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:05,RELIANCE.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:05,RELIANCE.NS,CEAT Ltd (NSE:CEATLTD) Updates on Court's Cancellation of Attendance Warrant in 2012 Factories Act Case,Kalkine Media,neutral,0.7393,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:06,SBILIFE.NS,Individual investors’ combined NSE ownership hits record 19.5 per cent,Elets BFSI,positive,0.7232,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:06,SBILIFE.NS,Mahanadi Coalfields IPO GMP today at ₹3 vs ₹136 price band - Should you apply for Coal India arm's shares or not?,Livemint,neutral,0.8421,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:06,SBILIFE.NS,"Mahanadi Coalfields IPO Opens Today: Rs 2,295 Crore Raised From Anchor Investors; GMP, Price Details",ETV Bharat,positive,0.6996,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:06,SBILIFE.NS,"Goldman Sachs, Citigroup, Morgan Stanley help Mahanadi Coalfields mop up Rs 2,295 crore from anchor invest",The Economic Times,neutral,0.7101,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:08,SBIN.NS,"Trade Spotlight: How should you trade State Bank of India, Indraprastha Gas, Bank of Baroda, Vijaya...",Moneycontrol.com,neutral,0.9423,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:08,SBIN.NS,"PSU Bank index nears record high; SBI, PNB, BoI rally up 27% in November",Business Standard,positive,0.8942,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:08,SBIN.NS,"NSE Most Active Stocks: Vodafone Idea, PC Jeweller",HDFC Sky,neutral,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:10,TATAMOTORS.NS,"Maruti, M&M, Hero Moto, Eicher rally up to 5%; what's driving auto stocks?",Business Standard,positive,0.8972,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:10,TATAMOTORS.NS,NSE seeks clarifications from several listed companies over unusual trading activity,Traders Union,neutral,0.677,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:10,TATAMOTORS.NS,"NIFTY Auto rallies 3% as Maruti Suzuki, Tata Motors PV, M&M, TVS Motor shares lead gains on Nov 19",Upstox,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:10,TATAMOTORS.NS,Tata Motors Appoints GAMCO As Commercial Vehicle Distributor In Syria,Forbes Middle East,neutral,0.7425,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:12,TATASTEEL.NS,F&O Buildup Nov 18: Why 158 Short Signals Differ From NSE Final OI,NiftyTrader,neutral,0.7443,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:12,TATASTEEL.NS,Tata Communications lists ₹200 crore commercial paper on NSE,scanx.trade,neutral,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:12,TATASTEEL.NS,NSE uses equity option script to up ante in commodity F&O,Livemint,neutral,0.7982,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:12,TATASTEEL.NS,"Tata Steel, Utility Global partner for 10 TPD hydrogen plant in Odisha",The Financial Express,positive,0.7276,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:15,TCS.NS,Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall?,NiftyTrader,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:15,TECHM.NS,"Sensex rises 150 points, Nifty above 25,250. Why analysts see potential for more uptrend?",The Economic Times,positive,0.8963,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:16,TECHM.NS,"Infosys, Wipro, other IT stocks fall as Nvidia earnings beat eases AI concerns",Business Today,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:17,TITAN.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
+2026-11-19 07:26:21,WIPRO.NS,"Infosys, Wipro, other IT stocks fall as Nvidia earnings beat eases AI concerns",Business Today,negative,0.7442,AUTO_ACCEPTED,indi-finbert
