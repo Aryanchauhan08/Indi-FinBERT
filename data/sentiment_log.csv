@@ -9782,3 +9782,46 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-19 07:26:16,TECHM.NS,"Infosys, Wipro, other IT stocks fall as Nvidia earnings beat eases AI concerns",Business Today,negative,0.7442,AUTO_ACCEPTED,indi-finbert
 2026-11-19 07:26:17,TITAN.NS,Sangam (India) (NSE:SANGAMIND) Addresses Recent Surge in Trading Volume with Official Clarification,Kalkine Media,positive,0.6648,AUTO_ACCEPTED,indi-finbert
 2026-11-19 07:26:21,WIPRO.NS,"Infosys, Wipro, other IT stocks fall as Nvidia earnings beat eases AI concerns",Business Today,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:32,ADANIENT.NS,VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger,scanx.trade,neutral,0.4403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 19:00:32,ADANIENT.NS,"NSE stock closes 5% higher amid renewed interest in large caps, 'buy' rating from brokerages; should you h",The Economic Times,positive,0.896,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:34,APOLLOHOSP.NS,"Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off",TradingView,negative,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:34,APOLLOHOSP.NS,VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger,scanx.trade,neutral,0.4403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 19:00:35,ASIANPAINT.NS,"Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag",Zee Business,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:37,AXISBANK.NS,India shares higher at close of trade; Nifty 50 up 1.14% By Investing.com,Investing.com India,positive,0.7775,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:37,AXISBANK.NS,Equitas Small Finance Bank (NSE:EQUITASBNK) Announces Investor Conferences for November-December 2026,Kalkine Media,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:37,AXISBANK.NS,"Varroc Engineering (NSE:VARROC) Announces Analyst Conference Call on November 25, 2026",Kalkine Media,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:37,AXISBANK.NS,DiGiSPICE Technologies (NSE:DIGISPICE) Q2 FY27 Earnings Call Insights: Management Discusses Financials and Merger Progress,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:38,BAJAJ-AUTO.NS,Bajaj Auto announces change in corporate office address of RTA,Business Upturn,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:39,BAJFINANCE.NS,Equitas Small Finance Bank (NSE:EQUITASBNK) Announces Investor Conferences for November-December 2026,Kalkine Media,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:39,BAJFINANCE.NS,"Varroc Engineering (NSE:VARROC) Announces Analyst Conference Call on November 25, 2026",Kalkine Media,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:39,BAJFINANCE.NS,DiGiSPICE Technologies (NSE:DIGISPICE) Q2 FY27 Earnings Call Insights: Management Discusses Financials and Merger Progress,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:39,BAJFINANCE.NS,AGI Greenpac (NSE:AGI) Announces SEBI-Mandated Special Window for Physical Share Transfer Re-Lodgement,Kalkine Media,neutral,0.6704,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:41,BAJAJFINSV.NS,Equitas Small Finance Bank (NSE:EQUITASBNK) Announces Investor Conferences for November-December 2026,Kalkine Media,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:41,BAJAJFINSV.NS,DiGiSPICE Technologies (NSE:DIGISPICE) Q2 FY27 Earnings Call Insights: Management Discusses Financials and Merger Progress,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:41,BAJAJFINSV.NS,Pondy Oxides and Chemicals (NSE:POCL) Announces Analyst Meeting with SPARX Asset Management on 24 November 2026,Kalkine Media,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:42,BPCL.NS,Oil marketing companies return to profitability in Q2FY27: Report,Awaz The Voice,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:43,BPCL.NS,"Lower crude prices, higher diesel cracks restore profitability of oil marketing companies in Q2FY27: Report",The Economic Times,positive,0.8769,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:44,BRITANNIA.NS,Britannia Industries rises 4.17% in Thursday's session,Global Banking & Finance Review,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:46,CIPLA.NS,CIPLA Stock Price and Chart — NSE:CIPLA,TradingView,neutral,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:51,EICHERMOT.NS,"NSE shares surge 26% in a month, hit fresh record high",Business Today,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:51,EICHERMOT.NS,"BT Closing Bell: Sensex surges 990 points; Nifty reclaims 25,500 for first time since February 26",Business Today,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:54,HDFCBANK.NS,PI Industries Schedules One-on-One Meeting with HDFC Mutual Fund: Key Details and Investor Implications,Kalkine Media,neutral,0.7457,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:54,HDFCBANK.NS,खुद Research करने वाले CA ने Kwala Intel को क्यों चुना? | Amit Gupta की Story अमित गुप्ता एक Chartered Accountant (CA) हैं. उन्होंने स्कूल-कॉलेज के समय से ही Mutual Funds और दूसरे Investments में पैसा लगाना शुरू,Facebook,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:54,HDFCBANK.NS,"News by CNBC TV18 on TradingView, 2026-11-19 — cnbctv:77daaad88094b:0",TradingView,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:54,HDFCBANK.NS,Equitas Small Finance Bank (NSE:EQUITASBNK) Announces Investor Conferences for November-December 2026,Kalkine Media,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:55,HDFCBANK.NS,Airtel overtakes HDFC Bank to become India's most valuable brand: Report,Business Standard,positive,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:57,HEROMOTOCO.NS,Auto Stocks Surge as Easing Commodity Prices Boost Outlook,Rediff MoneyWiz,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:00:57,HEROMOTOCO.NS,Hero MotoCorp Q1 FY27 Earnings Call Scheduled for August 7 at 10:30 AM IST,scanx.trade,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:01,ICICIBANK.NS,Equitas Small Finance Bank (NSE:EQUITASBNK) Announces Investor Conferences for November-December 2026,Kalkine Media,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:01,ICICIBANK.NS,"Varroc Engineering (NSE:VARROC) Announces Analyst Conference Call on November 25, 2026",Kalkine Media,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:01,ICICIBANK.NS,DiGiSPICE Technologies (NSE:DIGISPICE) Q2 FY27 Earnings Call Insights: Management Discusses Financials and Merger Progress,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:01,ICICIBANK.NS,"FCNR Deposits Could Shape Banks' Funding Costs, Earnings Over the Next 12 Months; Full Impact Yet to Be Reflected: Report",KNN India,neutral,0.7401,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:01,ICICIBANK.NS,"FCNR Deposits Could Reshape Indias Banking Sector, ICICI Bank Identifies Key Triggers That May Decide Stock",Free Press Journal,neutral,0.7253,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:06,JSWSTEEL.NS,VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger,scanx.trade,neutral,0.4403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 19:01:08,LT.NS,"L'Oreal looks to buy 10% Armani stake, LVMH out of the race, report says",Reuters,positive,0.537,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 19:01:08,LT.NS,L’Accueil Primary School / CCM2 Architectes + Roy Jacques Darisse architectes,ArchDaily,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:08,LT.NS,"L: Retail growth held firm as discount, pharmacy and digital gains offset fuel-driven pressure",TradingView,positive,0.7189,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:17,TATAMOTORS.NS,"NIFTY Auto surges 4%: Maruti zooms 6%, Tata Motors PV, M&M, TVS Motor also see healthy gains; key triggers",Upstox,positive,0.7476,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:17,TATAMOTORS.NS,LT Foods shares gain 10% as US subsidiary acquires 100% stake in MK Foods Holdings; key details,Upstox,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-19 19:01:18,TATASTEEL.NS,VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger,scanx.trade,neutral,0.4403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-19 19:01:20,TCS.NS,India shares higher at close of trade; Nifty 50 up 1.14% By Investing.com,Investing.com India,positive,0.7775,AUTO_ACCEPTED,indi-finbert
