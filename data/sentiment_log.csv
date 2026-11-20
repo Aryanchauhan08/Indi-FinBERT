@@ -9825,3 +9825,108 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-19 19:01:17,TATAMOTORS.NS,LT Foods shares gain 10% as US subsidiary acquires 100% stake in MK Foods Holdings; key details,Upstox,positive,0.7478,AUTO_ACCEPTED,indi-finbert
 2026-11-19 19:01:18,TATASTEEL.NS,VMS TMT gets No Objection from BSE and NSE for Aditya Ultra Steel merger,scanx.trade,neutral,0.4403,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-19 19:01:20,TCS.NS,India shares higher at close of trade; Nifty 50 up 1.14% By Investing.com,Investing.com India,positive,0.7775,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:32,TCS.NS,"Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",moneycontrol,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:32,TECHM.NS,"Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",moneycontrol,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:34,APOLLOHOSP.NS,"Macquarie double upgrade: Max Healthcare, Apollo Hospitals shares rise up to 4.5%, become top Nifty gainers",moneycontrol,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:34,ADANIENT.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:34,ADANIENT.NS,"NSE, Jio to Shiprocket: $35 billion IPO lock-in expiry hits 116 stocks by Feb 2027",The Financial Express,positive,0.7327,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:34,ADANIENT.NS,"NSE becomes world's fifth largest exchange by market cap, ahead of Nasdaq and HKEX, and India's 9th most valued company ahead of Kotak Bank",Business Upturn,positive,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:34,ADANIENT.NS,Union Bank of India - NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month,The Economic Times,positive,0.8962,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:35,ADANIENT.NS,"After a stellar Q1, ace investors’ portfolio gains lose sheen by September",Livemint,negative,0.8421,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:37,APOLLOHOSP.NS,"Max Healthcare, Apollo Hospitals shares rally up to 5% as Macquarie double upgrades",BusinessLine,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:37,APOLLOHOSP.NS,NSE shares jump 3% to fresh high; JM Financial sees MSCI entry in March,Business Standard,positive,0.8961,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:37,APOLLOHOSP.NS,Why Apollo Hospitals and Max Healthcare stocks are up today?,India Infoline,positive,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:37,APOLLOHOSP.NS,"BSE Hospitals index soars 3%; Apollo, Max, Narayana Hrudayalaya surge 5%",Business Standard,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:37,APOLLOHOSP.NS,"Max Healthcare, Apollo Hospitals surge as brokerage upgrades boost sentiment",Dailyhunt,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:39,AXISBANK.NS,"Nifty Bank hits new high; HDFC Bank, ICICI Bank rally up to 21% in November",Business Standard,positive,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:39,AXISBANK.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:39,AXISBANK.NS,"Indian Stock Market News, Equity Market and Sensex Today in India",Equitymaster,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:39,AXISBANK.NS,Kaynes Technology KAYNES Analyst Meet Axis Capital Nov 2026,Kalkine India,neutral,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:40,AXISBANK.NS,Financial sector leads India's overseas investment; domestic rates eye 8 pc: Report,The Hans India,positive,0.7071,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:40,BAJAJ-AUTO.NS,Auto Stocks Surge as Easing Commodity Prices Boost Outlook,Rediff MoneyWiz,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:40,BAJAJ-AUTO.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:40,BAJAJ-AUTO.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:40,BAJAJ-AUTO.NS,"Bajaj Consumer Care receives tax demand order valued at Rs. 33,89,618",Business Upturn,positive,0.6443,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:15:42,BAJFINANCE.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:42,BAJFINANCE.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:42,BAJFINANCE.NS,Why Tips Music (NSE:TIPSMUSIC) Is Set to Attend Kotak Midcap Conference 2026,Kalkine Media,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:42,BAJFINANCE.NS,Zydus Wellness (NSE:ZYDUSWELL): Reasons Behind NCLT's Disposal of Naturell (India) Private Limited Dissolution Petition,Kalkine Media,neutral,0.6495,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:15:44,BPCL.NS,Bharat Petroleum stock faces planned INR 90 billion bond sale,ad-hoc-news.de,neutral,0.5331,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:15:45,BPCL.NS,"Lower crude prices, higher diesel cracks restore profitability of oil marketing companies in Q2FY27: Repor",The Economic Times,positive,0.8735,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:45,BHARTIARTL.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:45,BHARTIARTL.NS,"NSE stock closes 5% higher amid renewed interest in large caps, 'buy' rating from brokerages; should you h",The Economic Times,positive,0.896,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:49,COALINDIA.NS,NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month,The Economic Times,positive,0.8965,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:50,DIVISLAB.NS,"Why LIC, Adani Power, NSE, DMart and HAL are not in the NIFTY50 index despite their large market caps",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:50,DIVISLAB.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:51,DRREDDY.NS,"Why LIC, Adani Power, NSE, DMart and HAL are not in the NIFTY50 index despite their large market caps",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:51,DRREDDY.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:52,EICHERMOT.NS,Zee Business. . Stock In Action ‘इन्वेस्टर डे’ पर Tata Tech में Investment का मौका ? Wockhardt में क्या करें निवेशक ? Eicher Motors और Maruti में दमदार तेजी क्यों ? कॉपर की कीमतों में गिरावट से चढ़ा Voltas ? MCX बेचक,Facebook,neutral,0.6586,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:54,GRASIM.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:55,HCLTECH.NS,"Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",Moneycontrol.com,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:55,HCLTECH.NS,"NSE stock closes 5% higher amid renewed interest in large caps, 'buy' rating from brokerages; should you h",The Economic Times,positive,0.896,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:56,HDFCLIFE.NS,"Urban Company raises ₹2,500 crore through qualified institutions placement",Business Upturn,positive,0.7085,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:58,HEROMOTOCO.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:15:59,HINDALCO.NS,Hindalco stock: Q2 revenue and PAT hit records,ad-hoc-news.de,positive,0.6775,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:00,ICICIBANK.NS,"Nifty Bank hits new high; HDFC Bank, ICICI Bank rally up to 21% in November",Business Standard,positive,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:00,ICICIBANK.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:00,ICICIBANK.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:00,ICICIBANK.NS,Zydus Wellness (NSE:ZYDUSWELL): Reasons Behind NCLT's Disposal of Naturell (India) Private Limited Dissolution Petition,Kalkine Media,neutral,0.6495,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,"Nifty Bank hits new high; HDFC Bank, ICICI Bank rally up to 21% in November",Business Standard,positive,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,"NSE becomes world's fifth largest exchange by market cap, ahead of Nasdaq and HKEX, and India's 9th most valued company ahead of Kotak Bank",Business Upturn,positive,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,"Nifty Bank hits fresh all-time high of 63,228.20, led by IndusInd Bank, Kotak Mahindra Bank and HDFC Bank",Business Upturn,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,SEBI chief declines to comment on tax cut proposals,Business Upturn,neutral,0.7107,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:02,INDUSINDBK.NS,"RIL, SAIL, IndusInd Bank among top upgrades, TMPV, Waaree, ACC among top downgrades post Q2",Business Today,neutral,0.3925,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:03,INFY.NS,Infosys (NSEI:INFY) Stock Could Be Undervalued As AI Telecom Demand Builds,Simply Wall St,negative,0.7369,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:03,INFY.NS,Zee Business. . Stock In Action ‘इन्वेस्टर डे’ पर Tata Tech में Investment का मौका ? Wockhardt में क्या करें निवेशक ? Eicher Motors और Maruti में दमदार तेजी क्यों ? कॉपर की कीमतों में गिरावट से चढ़ा Voltas ? MCX बेचक,Facebook,neutral,0.6586,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:03,INFY.NS,"Sensex Surges Nearly 1,000 Pts, Nifty Reclaims 25,500 As Auto Stocks Lead Broad-based Rally",TradingView,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:03,INFY.NS,"Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",Moneycontrol.com,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:04,JSWSTEEL.NS,"Stock Market Open Report November 20, 2026: Sensex, Nifty Edge Lower, Managing To Buck Global Selloff",HDFC Sky,negative,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:04,JSWSTEEL.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:05,KOTAKBANK.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:05,KOTAKBANK.NS,"NSE becomes world's fifth-largest listed exchange by market cap, overtakes Nasdaq and HKEX",www.indiagazette.com,positive,0.74,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:05,KOTAKBANK.NS,"NSE becomes world's fifth largest exchange by market cap, ahead of Nasdaq and HKEX, and India's 9th most valued company ahead of Kotak Bank",Business Upturn,positive,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:06,KOTAKBANK.NS,"Nifty Bank hits new hight: MOFSL picks ICICI Bank, HDFC Bank, Kotak Bank, SBI, AU Bank as top bets",Business Today,positive,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:06,LT.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,India stocks higher at close of trade; Nifty 50 up 1.14%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,"Nifty, Sensex surge more than 1% by closing as sustained foreign inflows boost investor sentiment",ANI News,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,Auto Stocks Surge as Easing Commodity Prices Boost Outlook,Rediff MoneyWiz,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,"Nifty IT jumps over 1% as TCS, Tech Mahindra, HCL Tech gain; Indian IT stocks buck global AI selloff",Moneycontrol.com,positive,0.9454,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,Indian driver wins $1.3m in life-changing lottery prize,BBC,positive,0.7284,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,"ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",The Hacker News,negative,0.6172,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:09,M&M.NS,Democrats say law firm gave $11.8m in free services to Trump administration,Al Jazeera,neutral,0.6954,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:09,M&M.NS,Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories,TechCrunch,positive,0.647,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:09,M&M.NS,Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck,Endpoints News,positive,0.7166,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:12,NESTLEIND.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:13,NTPC.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:13,NTPC.NS,Zydus Wellness (NSE:ZYDUSWELL): Reasons Behind NCLT's Disposal of Naturell (India) Private Limited Dissolution Petition,Kalkine Media,neutral,0.6495,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:15,ONGC.NS,"Lower crude prices, higher diesel cracks restore profitability of oil marketing companies in Q2FY27: Repor",The Economic Times,positive,0.8735,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:15,POWERGRID.NS,Over 70% of 2026 IPOs trade above issue price as companies leave more on the table,Livemint,neutral,0.8208,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:15,POWERGRID.NS,Acme Solar Holdings commissions FDRE project with 5C.69 MW battery capacity,Business Upturn,positive,0.6858,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:17,RELIANCE.NS,Newly-listed companies add ₹32-trillion to BSE market-cap in 2026,Business Standard,positive,0.5692,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-20 07:16:17,RELIANCE.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:17,RELIANCE.NS,Reliance Industries Market and Business,Kalkine India,neutral,0.7444,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:17,RELIANCE.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:18,SBILIFE.NS,NSE shares jump 3% to fresh high; JM Financial sees MSCI entry in March,Business Standard,positive,0.8961,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:18,SBILIFE.NS,"SBI Life Insurance Allots 43,430 Equity Shares under ESOP Scheme 2018",PSU Connect,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:19,SBIN.NS,"Nifty Bank hits new high; HDFC Bank, ICICI Bank rally up to 21% in November",Business Standard,positive,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:19,SBIN.NS,NSE stock price rallies 5% on huge volume; zooms 35% from October low,Business Standard,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:19,SBIN.NS,"Nifty IT tanks for 3rd day, down 6.5% in Nov so far: What's behind fall?",Business Standard,negative,0.8935,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:19,SBIN.NS,"SAMIL rises 4% on volume surge, Korea unit liquidation; Geojit keeps 'Buy'",Business Standard,positive,0.8965,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:19,SBIN.NS,"SBI Life Insurance Allots 43,430 Equity Shares under ESOP Scheme 2018",PSU Connect,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:22,TATAMOTORS.NS,"Why LIC, Adani Power, NSE, DMart and HAL are not in the NIFTY50 index despite their large market caps",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:22,TATAMOTORS.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:22,TATAMOTORS.NS,NSE Natural Gas Options Cross 50% Market Share on Expiry Day,Business Upturn,positive,0.6513,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:22,TATAMOTORS.NS,Jupiter Wagons secures repeat order worth over INR 128 crore from JSW Rail Logistics,Business Upturn,positive,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:23,TATASTEEL.NS,Zee Business. . Stock In Action ‘इन्वेस्टर डे’ पर Tata Tech में Investment का मौका ? Wockhardt में क्या करें निवेशक ? Eicher Motors और Maruti में दमदार तेजी क्यों ? कॉपर की कीमतों में गिरावट से चढ़ा Voltas ? MCX बेचक,Facebook,neutral,0.6586,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:23,TATASTEEL.NS,Stock markets fall in early trade amid profit-taking,The Siasat Daily,negative,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:24,TATACONSUM.NS,"Why LIC, Adani Power, NSE, DMart and HAL are not in the NIFTY50 index despite their large market caps",Upstox,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:24,TATACONSUM.NS,FMCG companies are selling more but earning less. Here's why,Business Today,neutral,0.7099,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:26,TCS.NS,"NSE Emerges as World’s Fifth Largest Stock Exchange, Surpasses Nasdaq and HKEX",The Newsman of India,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,India stocks higher at close of trade; Nifty 50 up 1.14%,Investing.com,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,India shares higher at close of trade; Nifty 50 up 1.14% By Investing.com,Investing.com India,positive,0.7775,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,"Nifty, Sensex surge more than 1% by closing as sustained foreign inflows boost investor sentiment",ANI News,positive,0.747,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,Guidewire Software Q1FY27 Results: Earnings call set for Dec 3,scanx.trade,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,"Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",Livemint,positive,0.8457,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:27,TECHM.NS,Meta looks to appoint public policy chief in India amid growing friction with Modi government: Report,Livemint,neutral,0.8141,AUTO_ACCEPTED,indi-finbert
+2026-11-20 07:16:28,TITAN.NS,Hyundai Motor India (NSE:HYUNDAI) Announces Investor Meeting on 26 November 2026,Kalkine Media,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
