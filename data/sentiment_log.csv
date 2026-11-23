@@ -10021,3 +10021,97 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-20 18:39:03,TITAN.NS,INOX India (NSE:INOXINDIA) Announces Virtual Investor and Analyst Meeting on 25 November 2026,Kalkine Media,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
 2026-11-20 18:39:04,TITAN.NS,"Titan stock: Q2 adjusted profit rises 54% to INR 1,722 crore",ad-hoc-news.de,positive,0.7481,AUTO_ACCEPTED,indi-finbert
 2026-11-20 18:39:07,WIPRO.NS,"Sensex rejig: Shriram Finance replaces Trent; Vedanta Aluminium, MCX enters BSE 100",Dailyhunt,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,TATASTEEL.NS,"‘Tata Steel deal negative for APL Apollo Tubes minority shareholders; co faces earnings downgrades, derating’",moneycontrol,negative,0.9427,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,TATASTEEL.NS,"Momentum Stocks: Tata Steel, Inspire Films, Blue Coast under pressure, down 3-5%",moneycontrol,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,AXISBANK.NS,"Bank Nifty plunges nearly 1,000 points; Axis Bank, ICICI Bank, SBI among top losers as banking stocks slide",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,ICICIBANK.NS,"Bank Nifty plunges nearly 1,000 points; Axis Bank, ICICI Bank, SBI among top losers as banking stocks slide",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,TATASTEEL.NS,"APL Apollo Tubes shares plunge 20%, Tata Steel falls 8.5% as Rs 5,825 crore block deal follows acquisition news",moneycontrol,negative,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:34,POWERGRID.NS,"Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?",moneycontrol,neutral,0.944,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:35,ADANIENT.NS,"STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket",Facebook,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:36,ADANIENT.NS,Big upside potential for this Adani stock: Check Jefferies assessment,News9live,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:36,ADANIPORTS.NS,"STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket",Facebook,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:36,ADANIPORTS.NS,3 Indian Logistics Stocks Investors May Watch After The India EU Trade Deal,Simply Wall St,neutral,0.7274,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:38,APOLLOHOSP.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:39,ASIANPAINT.NS,"Crystal Crop Protection IPO allotment: How to check status online on NSE, BSE, MUFG Intime India; listing date, time revealed",Upstox,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:39,ASIANPAINT.NS,GIFT NIFTY futures signal gap-up opening on November 23; what investors should track ahead of market open,Dailyhunt,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:39,ASIANPAINT.NS,"Brokerage calls November 23: Bharat Forge, Polycab, Ajax",Business Upturn,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:40,AXISBANK.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:40,AXISBANK.NS,3 Indian Bank Stocks Facing Margin Pressure As RBI Rates Stay High,Simply Wall St,negative,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:40,AXISBANK.NS,Weekly Recap: Director and Axis Finance deal vote and Sharda reappointment,TradingView,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:40,AXISBANK.NS,Stock market holiday on Nov 24: Are NSE and BSE closed for Guru Nanak Jayanti? Check details,Upstox,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:40,AXISBANK.NS,"Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?",Business Standard,negative,0.8915,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:41,AXISBANK.NS,"UBS Overweight On Indian Banks; HDFC Bank, ICICI Bank, Axis Bank Remain Top Picks",NDTV Profit,positive,0.837,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:41,BAJAJ-AUTO.NS,"Brokerage calls November 23: Bharat Forge, Polycab, Ajax",Business Upturn,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:42,BAJAJ-AUTO.NS,"Full showrooms, slim margins",The Financial Express,positive,0.7025,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:43,BAJFINANCE.NS,Butterfly Gandhimathi Appliances (NSE:BUTTERFLY) Announces SEBI-Mandated Special Window for Physical Share Transfer Re-Lodgement,Kalkine Media,neutral,0.5297,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:37:43,BAJFINANCE.NS,"Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",Kalkine Media,positive,0.4155,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:37:43,BAJFINANCE.NS,"Brokerage calls November 23: Bharat Forge, Polycab, Ajax",Business Upturn,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:50,COALINDIA.NS,"Mahanadi Coalfields IPO Day 3: Check subscription status, allotment date and steps",Dailyhunt,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:51,DIVISLAB.NS,"Street signs: NSE tightens algo access, SAT's new jurisdiction, and more",Business Standard,neutral,0.6122,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:37:51,DIVISLAB.NS,"Citi reiterates Buy on Divi's Laboratories with ₹15,100 target, sees about 35% upside as earnings accelerate in 2H FY27",Business Upturn,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:54,EICHERMOT.NS,Weekly Recap: Q2 earnings growth and supply-constrained booking gains,TradingView,neutral,0.4675,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:37:54,EICHERMOT.NS,Eicher Motors hits all-time high; here's why stock rallied 17% in one month,Business Standard,positive,0.8973,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:55,GRASIM.NS,Weekly Recap: Q2 EBITDA falls and Choice upgrades Grasim to BUY,TradingView,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:56,HCLTECH.NS,Nifty IT up nearly 3% becomes top NSE sector,NewsBytes,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:58,HDFCBANK.NS,"STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket",Facebook,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:58,HDFCBANK.NS,"Stock Market Holiday Tomorrow: NSE, BSE Closed for Guru Nanak Jayanti on November 24",HDFC Sky,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:58,HDFCBANK.NS,"Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?",Business Standard,negative,0.8915,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:37:58,HDFCBANK.NS,"Street signs: NSE tightens algo access, SAT's new jurisdiction, and more",Business Standard,neutral,0.6122,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:37:58,HDFCBANK.NS,"UBS Overweight On Indian Banks; HDFC Bank, ICICI Bank, Axis Bank Remain Top Picks",NDTV Profit,positive,0.837,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:00,HEROMOTOCO.NS,"Watrana Rentals IPO Allotment Status: Check Online on Maashitla , NSE SME for Live Updates",Kotak Neo,neutral,0.7215,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:01,HINDALCO.NS,"Hindalco shares fall 2% to ₹910.30 after a 3% gap down at the open, as copper slides below $12,000 a ton",Business Upturn,negative,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:01,HINDALCO.NS,"Brokerage calls November 23: Bharat Forge, Polycab, Ajax",Business Upturn,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,"Stock markets decline in early trade amid global sell-off, profit taking after two-day rally",The New Indian Express,negative,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,"Bulls take a breather! Sensex dives 1,000 pts intraday; a short-term blip?",Business Standard,negative,0.8915,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,Butterfly Gandhimathi Appliances (NSE:BUTTERFLY) Announces SEBI-Mandated Special Window for Physical Share Transfer Re-Lodgement,Kalkine Media,neutral,0.5297,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,"Brokerage calls November 23: Bharat Forge, Polycab, Ajax",Business Upturn,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:04,ICICIBANK.NS,"UBS Overweight On Indian Banks; HDFC Bank, ICICI Bank, Axis Bank Remain Top Picks",NDTV Profit,positive,0.837,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:06,INDUSINDBK.NS,Weekly Recap: HDFC Mutual Fund buys shares and Bank grants stock awards,TradingView,neutral,0.6984,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:06,INDUSINDBK.NS,"Weekly Recap: NPAs decline and SBIN breaks Rs 1,120 supply zone",TradingView,negative,0.7414,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:06,INDUSINDBK.NS,Weekly Recap: Earnings beat estimates and shares hit record after upgrade,TradingView,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:06,INDUSINDBK.NS,Weekly Recap: Sanjay Banga named CEO-designate and Ausa wind commissioning,TradingView,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:06,INDUSINDBK.NS,Ahead of Market: 10 things that will decide stock market action on Monday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:08,INFY.NS,"Infosys Share Price Today, Infosys Stock Price Live NSE/BSE Updates",The Economic Times,neutral,0.894,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:09,JSWSTEEL.NS,"Morgan Stanley: steel spreads supported, prices capped",Business Upturn,neutral,0.5822,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:12,LT.NS,Larsen & Toubro secures large AI cluster order for Chennai campus,Business Upturn,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:12,LT.NS,L&T Technology Services addresses cybersecurity concerns and ensures system security,Business Upturn,neutral,0.6964,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:13,LT.NS,Cashier arrested for fraudulently withdrawing Rs 7.5 L; money recovered,The Hitavada,negative,0.7207,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:13,LT.NS,Busan Int'l Children's Book Fair to showcase 'world beyond map',Korea.net,neutral,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:13,LT.NS,Pulse Polio drive: 5.4L kids below 5 yrs to be covered by Nov 30,The Times of India,neutral,0.663,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:13,LT.NS,Jammu runners shine at Chandigarh Intl Marathon,Daily Excelsior,positive,0.6958,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:13,LT.NS,Maruti Suzuki Fronx 2026 Nov Price Change - Hiked Up To 5k,V3Cars,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:14,M&M.NS,Nifty IT up nearly 3% becomes top NSE sector,NewsBytes,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:15,M&M.NS,"CPI-M leaves West Bengal alliance decision to state leadership, says M A Baby",The New Indian Express,neutral,0.727,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:15,M&M.NS,Gallery of M-House / Country House. Architecture - 1,ArchDaily,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:15,M&M.NS,‘You Can See Everything’ has made more than $100M worldwide,TechCrunch,positive,0.497,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:15,M&M.NS,Rice exports up by 0.35m tonnes in four months,Dawn,positive,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:15,M&M.NS,"""M+ M"": Miley Cyrus Shares Official Wedding Photos With Maxx Morando",NDTV,neutral,0.7351,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:16,MARUTI.NS,India now Suzuki Motor’s biggest growth engine,The Financial Express,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:17,NESTLEIND.NS,"Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian...",Moneycontrol.com,neutral,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:21,ONGC.NS,India Inc earnings outlook remains upbeat for second half of FY27 on broad-based demand: Report,bfsi.economictimes.indiatimes.com,positive,0.7221,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:21,ONGC.NS,Welspun Corp says US pipe capacity is booked through FY29,Multibagg AI,neutral,0.5982,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:21,ONGC.NS,Lower Crude Prices Restore OMC Profitability in Q2 FY27,Construction World,positive,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:21,POWERGRID.NS,"Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian...",Moneycontrol.com,neutral,0.9431,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:21,POWERGRID.NS,"STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket",Facebook,positive,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:21,POWERGRID.NS,CESC Commissions 147 MW Solar Project in Rajasthan,Energetica India Magazine,positive,0.3996,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:24,SBILIFE.NS,"Union Bank, BoB, Canara, BoI, PNB, SBI shares fall up to 5%: What experts say on PSU bank stocks",Business Today,negative,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"APL Apollo Tubes crashes 15%, Tata Steel down nearly 5%: Inside the ₹28,000 crore deal with a twist",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"News by CNBC TV18 on TradingView, 2026-11-23 — cnbctv:35e191aaf094b:0",TradingView,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"Tata Steel (NSE:TATASTEEL) Approves Acquisition of 26.38% Stake in APL Apollo Tubes for Rs 15,511 Crore",Kalkine Media,neutral,0.3791,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,Tata Steel TATASTEEL sells tubes business to APL Apollo,Kalkine India,neutral,0.4318,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",Kalkine Media,positive,0.4155,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,Why Tata Steel and APL Apollo Tyres are down today?,India Infoline,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,Tata Steel moves to take control of APL Apollo in $1.67 billion deal,PRESS Insider,neutral,0.7251,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,Tata Steel expects 53% downstream integration with APL Apollo,Multibagg AI,positive,0.7258,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"Tata Steel launches ₹16,755 crore open offer for APL Apollo at ₹2,301 per share",scanx.trade,neutral,0.564,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:29,TATASTEEL.NS,"Tata Steel Approves ₹28,000 Crore Tubes, Colors Divestments",Multibagg AI,positive,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:30,TATACONSUM.NS,"Bisleri water found unsafe: FSSAI sanctions prosecution, and Varun Beverages and Tata Consumer come into focus",Business Upturn,negative,0.7121,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:31,TCS.NS,"Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",Kalkine Media,positive,0.4155,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:33,TECHM.NS,5 Macro Trends Defining the Bank of Tomorrow,Fintech Singapore,neutral,0.7454,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:33,TECHM.NS,"TCS, Tech Mahindra Surge Up To 5% As Global Anti AI Trade Lifts Indian IT Stocks",NDTV Profit,positive,0.8775,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:33,TECHM.NS,"TCS, Infosys, Tech Mahindra And More: Why Nirmal Bang Remains Bearish On Large-Cap IT Stocks; Details Inside",NDTV Profit,negative,0.8703,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:34,TITAN.NS,Weekly Recap: Helios grow 35% and network targets 500 stores by 2030,TradingView,positive,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-23 07:38:34,TITAN.NS,"Tata Steel to Acquire 26.38% Stake in APL Apollo Tubes (NSE:APLAPOLLO) in Rs 2,100 Per Share Deal",Kalkine Media,positive,0.4155,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:37,WIPRO.NS,"Weekly Recap: PERM suspension and lower utilisation, higher headcount",TradingView,negative,0.4761,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-23 07:38:37,WIPRO.NS,Nifty IT up nearly 3% becomes top NSE sector,NewsBytes,positive,0.7472,AUTO_ACCEPTED,indi-finbert
