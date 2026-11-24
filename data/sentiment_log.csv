@@ -10189,3 +10189,63 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-23 22:05:02,TECHM.NS,Tech Mahindra TECHM Bonus Share Record Date November 2026,Kalkine India,positive,0.5058,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-23 22:05:02,TECHM.NS,Tech Mahindra fixes 30 November as record date for 1:1 bonus issue; bonus shares to trade from 2 December,Business Upturn,neutral,0.6785,AUTO_ACCEPTED,indi-finbert
 2026-11-23 22:05:07,WIPRO.NS,Shriram Finance Share Price Rises as It Replaces Trent in Sensex,Univest,positive,0.7377,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:32,TATASTEEL.NS,Block Deals: Tata Steel acquires 9.99% stake in APL Apollo Tubes from promoter entity in first tranche,moneycontrol,neutral,0.6219,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 09:54:32,TATASTEEL.NS,Who wins and who loses in the Tata Steel and APL Apollo Tubes deal?,moneycontrol,neutral,0.9429,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:32,AXISBANK.NS,"Bank Nifty crashes over 2,000 points, plunges 3.1%; HDFC Bank, ICICI Bank, Axis Bank, SBI among top losers",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:32,HDFCBANK.NS,"Bank Nifty crashes over 2,000 points, plunges 3.1%; HDFC Bank, ICICI Bank, Axis Bank, SBI among top losers",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:32,ICICIBANK.NS,"Bank Nifty crashes over 2,000 points, plunges 3.1%; HDFC Bank, ICICI Bank, Axis Bank, SBI among top losers",moneycontrol,negative,0.943,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:32,TATASTEEL.NS,"APL Apollo Tubes shares crash 22%, Tata Steel falls 8.5% as Rs 5,825-crore block deal follows acquisition news",moneycontrol,negative,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:34,TATASTEEL.NS,"APL Apollo will continue to remain listed, says Tata Steel management",moneycontrol,neutral,0.9117,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:35,ADANIENT.NS,"Brigade Enterprises acquires land parcel in Hyderabad with ₹1,000 crore revenue potential; shares gain 6.5% in a month",Upstox,positive,0.7462,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:35,ADANIENT.NS,"ONGC, Jio Financial to SBI Life: Kotak sees 10–59% upside in 21 Nifty stocks",The Financial Express,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:35,ADANIPORTS.NS,"OneClick Logistics Gets NSE In-Principle Approval for Main Board Migration; H1 Revenue Jumps 320%, Net Profit Surges 698%",Loktej English,positive,0.7478,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:38,ASIANPAINT.NS,Asian Paints ASIANPAINT Promoter Meet Q2 FY27,Kalkine India,neutral,0.7349,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,"Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti",Moneycontrol.com,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,"Sensex slides 1,484 points as global market weakness weighs on D-Street investors",The Times of India,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,India stocks lower at close of trade; Nifty 50 down 1.75%,Investing.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,India shares lower at close of trade; Nifty 50 down 1.75% By Investing.com,Investing.com India,negative,0.775,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,"No 9:15 AM opening bell today: What's keeping Dalal Street shut on Tuesday, November 24?",Upstox,neutral,0.6711,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:40,AXISBANK.NS,Axis Max Life Reveals NRI Financial Trends Through Bharosa Talks,Passionate In Marketing,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:43,BAJFINANCE.NS,10 Large-Cap Stocks That Turned ₹1 Lakh Into Up to ₹15 Lakh in 10 Years; Do You Own Any?,Trade Brains,neutral,0.6921,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:43,BAJFINANCE.NS,"ONGC, Jio Financial to SBI Life: Kotak sees 10–59% upside in 21 Nifty stocks",The Financial Express,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:43,BAJAJFINSV.NS,Dev Information Technology (NSE:DEVIT) Q2 FY27 Investor Presentation Highlights and Insights,Kalkine Media,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:43,BAJAJFINSV.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:43,BAJAJFINSV.NS,"NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November",Kalkine Media,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:44,BAJAJFINSV.NS,"ONGC, Jio Financial to SBI Life: Kotak sees 10–59% upside in 21 Nifty stocks",The Financial Express,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:45,BPCL.NS,Bharat Petroleum BPCL IEPF Share Transfer Notice 2026,Kalkine India,neutral,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:51,COALINDIA.NS,"Mahanadi Coalfields IPO allotment tomorrow; check status on BSE, NSE and registrar",Moneycontrol.com,neutral,0.9425,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:51,COALINDIA.NS,Coal India (NSE:COALINDIA): Has Subsidiary Mahanadi Coalfields Filed Its IPO Prospectus?,Kalkine India,neutral,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:51,COALINDIA.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:51,COALINDIA.NS,"Mahanadi Coalfields IPO: Allotment date, status check online by PAN number on BSE, NSE, Kfin Tech websites; listing date",Livemint,neutral,0.8399,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:57,HCLTECH.NS,"Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar",Livemint,neutral,0.8441,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:59,HDFCBANK.NS,"Sensex slides 1,484 points as global market weakness weighs on D-Street investors",The Times of India,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:59,HDFCBANK.NS,"Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti",Moneycontrol.com,neutral,0.9437,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:59,HDFCBANK.NS,"No 9:15 AM opening bell today: What's keeping Dalal Street shut on Tuesday, November 24?",Upstox,neutral,0.6711,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:59,HDFCBANK.NS,Are banks open or closed today? Check RBI’s 21-city holiday list for Guru Nanak Jayanti,The Financial Express,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:54:59,HDFCBANK.NS,"ICICI Bank Share Price Declines 3.32 Percent; ICICI Reverses from 52-week Highs, NSE Nifty Drops 450 Points",TopNews,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:01,HEROMOTOCO.NS,Hero MotoCorp Secures Relief from ITAT Against Outstanding Tax Demand of Rs 27 Crore for AY 2013-14 to 2019-20,StudyCafe,positive,0.7402,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:06,ICICIBANK.NS,ICICI Bank (NSE: ICICIBANK) : Why banking sector market pressure matters,Kalkine India,neutral,0.6976,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:10,INFY.NS,"NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November",Kalkine Media,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:10,INFY.NS,Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines,Kalkine Media,neutral,0.6806,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:10,INFY.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:15,LT.NS,"Bengaluru man deposits Rs 2.5L in FD with cooperative society, but society stops paying after June 2024,",The Times of India,neutral,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:15,LT.NS,Gujarat man wanted in Rs 11cr land fraud held,The New Indian Express,negative,0.6259,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 09:55:15,LT.NS,"Form 4 Itron Inc: Donald L. Reeves III (SVP, Outcomes) For: 20 November By Investing.com",Investing.com India,neutral,0.7697,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:15,LT.NS,The American Society of Cinematographers | Sekonic Announces L-878D/D-U,The ASC,neutral,0.698,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:18,M&M.NS,Trump made up to $15m on Nvidia stock after Huang’s return,The Guardian,neutral,0.7225,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:18,M&M.NS,Supertake raises $20M to let AI agents turn your market predictions into stock portfolios,TechCrunch,positive,0.4672,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 09:55:18,M&M.NS,‘Hunger Games: Sunrise On The Reaping’ Heading To Potential Franchise-Record Monday With $12M,Deadline,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:18,M&M.NS,"Led by founders of J&J-acquired Intra-Cellular, Ritzey debuts with $112M for DYRK1A inhibitors",Fierce Biotech,positive,0.7332,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:24,POWERGRID.NS,Smarten Power Systems Brings Advanced HERIC Technology to Its Indigenous 3kW On-Grid Solar Inverter,SMEStreet,positive,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:27,SBILIFE.NS,"ONGC, Jio Financial to SBI Life: Kotak sees 10–59% upside in 21 Nifty stocks",The Financial Express,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:28,SBIN.NS,"Bank holiday today Tuesday, 24 November: Branches closed in these 21 cities across India — Check RBI list and reasons",Livemint,neutral,0.8357,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:28,SBIN.NS,SBI to VA Tech Wabag: Axis Securities’ 7 top conviction picks with 12.6% to 48% upside,Financial Express,neutral,0.8029,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:28,SBIN.NS,Are banks open or closed today? Check RBI’s 21-city holiday list for Guru Nanak Jayanti,The Financial Express,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:28,SBIN.NS,"Stock market holiday on November 24: Are NSE, BSE closed for Guru Nanak Jayanti?",Business Today,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:32,TATASTEEL.NS,Why Tata Steel Shares Crashed 8% After APL Apollo Deal,Equitypandit,negative,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:32,TATASTEEL.NS,Tata Steel Limited (NSE:TATASTEEL) Completes First Tranche of Steel Tubes Stake Buy,Kalkine India,positive,0.6717,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:32,TATASTEEL.NS,F&O Buildup Report Nov 23: 149 Short Signals as Nifty Falls 451 Points,NiftyTrader,negative,0.7387,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:33,TATASTEEL.NS,"Tata Steel completes ₹5,825 crore purchase for 9.91% stake in APL Apollo",scanx.trade,positive,0.6395,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 09:55:37,TECHM.NS,"Tech Mahindra Fixes November 30 Record Date for 1:1 Bonus Issue, Shares Rise 2.13 per cent",Dalal Street Investment Journal,positive,0.7458,AUTO_ACCEPTED,indi-finbert
+2026-11-24 09:55:37,TECHM.NS,Ceinsys Tech signs MoU with Pixxel to integrate space data and geospatial tools,scanx.trade,positive,0.5958,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 09:55:37,TECHM.NS,Tech Mahindra announces record date for 1:1 bonus issue. Check details,The Economic Times,positive,0.7228,AUTO_ACCEPTED,indi-finbert
