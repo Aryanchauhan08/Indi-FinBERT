@@ -10249,3 +10249,57 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-24 09:55:37,TECHM.NS,"Tech Mahindra Fixes November 30 Record Date for 1:1 Bonus Issue, Shares Rise 2.13 per cent",Dalal Street Investment Journal,positive,0.7458,AUTO_ACCEPTED,indi-finbert
 2026-11-24 09:55:37,TECHM.NS,Ceinsys Tech signs MoU with Pixxel to integrate space data and geospatial tools,scanx.trade,positive,0.5958,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-24 09:55:37,TECHM.NS,Tech Mahindra announces record date for 1:1 bonus issue. Check details,The Economic Times,positive,0.7228,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:46,ADANIENT.NS,Adani Enterprises stock: Attero copper deal worth $1 billion,ad-hoc-news.de,positive,0.5238,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:40:46,ADANIENT.NS,"Nissan's SUV Patrol could launch in India by 2027: Expected price, engine, features and rivals",Livemint,neutral,0.8353,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:47,ADANIENT.NS,"Adani Enterprises Shares: Volume, Earnings and Technical Readings",Kalkine India,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:51,AXISBANK.NS,"ICICI Bank Share Price Declines 3.32 Percent; ICICI Reverses from 52-week Highs, NSE Nifty Drops 450 Points",TopNews,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:51,AXISBANK.NS,SBI to VA Tech Wabag: Axis Securities’ 7 top conviction picks with 12.6% to 48% upside,The Financial Express,neutral,0.7344,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:51,AXISBANK.NS,"Stock market closed today after Sensex's 1,484-point crash; NSE, BSE to reopen Wednesday",NewsDrum,neutral,0.5643,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:40:53,BAJAJ-AUTO.NS,"Gurpurb: Is Stock Market Open Or Closed Today, November 24? Check BSE, NSE Holiday List",Times Now,neutral,0.7408,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:54,BAJFINANCE.NS,Dev Information Technology (NSE:DEVIT) Q2 FY27 Investor Presentation Highlights and Insights,Kalkine Media,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:54,BAJFINANCE.NS,Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines,Kalkine Media,neutral,0.6806,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:54,BAJFINANCE.NS,"NSE and BSE Holiday Notice: Trading Segments Closed on 24 November 2026, Markets Resume on 25 November",Kalkine Media,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:54,BAJFINANCE.NS,"Ram Ratna Wires (NSE:RAMRAT) to Participate in Avendus Spark Small-Cap Investor Conference on December 10, 2026",Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:54,BAJFINANCE.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:40:57,BPCL.NS,"5 energy stocks with attractive dividend yield - Hindustan Petroleum, Indian Oil, Bharat Petroleum, ONGC, to Gulf Oil",IndiaIPO,neutral,0.5021,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:40:59,BRITANNIA.NS,"Britannia Industries Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:08,HDFCBANK.NS,HDFC Bank (NSE: HDFCBANK) : Why private bank share performance matters,Kalkine India,neutral,0.7276,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:11,HEROMOTOCO.NS,Rajasthan High Court Quashes ₹165 Crore Demand Against Hero MotoCorp Over TRC Fees,PSU Connect,negative,0.4205,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:13,HINDALCO.NS,"Hindalco Industries Shares: Volume, Earnings and Technical Readings",Kalkine India,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:13,HINDALCO.NS,"Hindalco Industries Limited (NSE:HINDALCO) Re-Appoints Satish Pai, Names Deputy MD",Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:13,HINDALCO.NS,Hindalco Managing Director and Phased Leadership Transition,Kalkine India,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:13,HINDALCO.NS,Why Nifty Metal sector performance matters,Kalkine India,neutral,0.7337,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:16,ICICIBANK.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:16,ICICIBANK.NS,"ICICI Bank Share Price Declines 3.32 Percent; ICICI Reverses from 52-week Highs, NSE Nifty Drops 450 Points",TopNews,negative,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:16,ICICIBANK.NS,Are banks open or closed today? Check RBI’s 21-city holiday list for Guru Nanak Jayanti,The Financial Express,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:16,ICICIBANK.NS,Automotive to FMCG: India Inc's earnings charge puts bulls back in saddle,Business Standard,negative,0.7491,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:19,INDUSINDBK.NS,"IndusInd Bank Stock: Price Action, Valuation and Momentum",Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:22,JSWSTEEL.NS,"JSW Steel Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:25,LT.NS,Larsen & Toubro's Chennai AI Cluster Expansion,Kalkine India,neutral,0.7174,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:26,LT.NS,"BJP leader L Murugan detained on way to Thirupparankundram, threatens HC move",The New Indian Express,negative,0.5975,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:26,LT.NS,"BJP leaders Nainar Nagenthran, L Murugan head to Madurai as suspense mounts over Tiruparankundram Deepam",DT Next,neutral,0.7204,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:26,LT.NS,Test-drove the Renault Duster 1.3L DCT; came back very impressed,Team-BHP,positive,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:26,LT.NS,Le Brésil demande l'établissement d'un groupe spécial concernant les droits additionnels imposés par les États-Unis,World Trade Organization,neutral,0.7365,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:26,LT.NS,BJP leader L. Murugan stopped from proceeding to Thirupparankundram; terms police action ‘murder of democracy’,The Hindu,negative,0.6724,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:29,M&M.NS,Darts Grand Slam a '£3.7m boost for city economy',BBC,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:29,M&M.NS,"Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",The Guardian,positive,0.4727,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:29,M&M.NS,Navis Mater raises SEK 12.6m for AI agent organisations,FinTech Global,positive,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:33,NTPC.NS,"NTPC Green Energy Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.7388,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:34,ONGC.NS,Oil and Natural Gas Corporation stock: Six offshore rig contracts,ad-hoc-news.de,neutral,0.7409,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:35,POWERGRID.NS,"Ram Ratna Wires (NSE:RAMRAT) to Participate in Avendus Spark Small-Cap Investor Conference on December 10, 2026",Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:37,RELIANCE.NS,Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines,Kalkine Media,neutral,0.6806,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:43,TATAMOTORS.NS,Hyundai Motor India Announces Price Hike of up to 8000 Rupees Across Select Models Starting December 1 2026,CNBC TV18,positive,0.6927,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:43,TATAMOTORS.NS,Tata Motors Passenger Vehicles to increase car and SUV prices from December 2026,Business Upturn,neutral,0.4967,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:43,TATAMOTORS.NS,"Tata Motors to Hike Car and SUV Prices 0.5% from Dec 1, 2026",PSU Connect,neutral,0.6069,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:43,TATAMOTORS.NS,"Tata Motors cars, SUVs to get costlier from December 1; how much are Hyundai, Audi and Maruti Suzuki raising prices?",ET Now,neutral,0.3946,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:43,TATAMOTORS.NS,Tata Motors Passenger Vehicles To Increase Prices Of Its Cars & Suvs From December 2026,Menafn,neutral,0.7164,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:44,TATASTEEL.NS,"Tata Steel Stock: Price Action, Valuation and Momentum",Kalkine India,neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:44,TATASTEEL.NS,Tata Steel APL Apollo Deal and Downstream Expansion,Kalkine India,neutral,0.6271,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:44,TATASTEEL.NS,Tata Steel's APL Apollo Deal and Downstream Strategy,Kalkine India,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:44,TATASTEEL.NS,APL Apollo Tata Steel Deal and Downstream Capacity Plan,Kalkine India,neutral,0.7225,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:49,TECHM.NS,Tech Mahindra Margin Recovery and AI Growth Investment,Kalkine India,positive,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:50,TECHM.NS,Rupee appreciation to hit IT firms’ margins by up to 110 bps: Report,The Times of India,negative,0.5756,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-24 20:41:50,TITAN.NS,"Mahanadi Coalfields, Coal India's Subsidiary, Files Final IPO Prospectus with Registrar of Companies",Kalkine Media,neutral,0.7413,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:50,TITAN.NS,"Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti",TradingView,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:50,TITAN.NS,Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines,Kalkine Media,neutral,0.6806,AUTO_ACCEPTED,indi-finbert
+2026-11-24 20:41:55,WIPRO.NS,"Wipro Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
