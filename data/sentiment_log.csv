@@ -10303,3 +10303,97 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-24 20:41:50,TITAN.NS,"Stock market holiday today: BSE, NSE to remain closed for Guru Nanak Jayanti",TradingView,neutral,0.745,AUTO_ACCEPTED,indi-finbert
 2026-11-24 20:41:50,TITAN.NS,Finolex Industries (NSE:FINPIPE) Announces Special Window for Re-Lodging Physical Share Transfers as per SEBI Guidelines,Kalkine Media,neutral,0.6806,AUTO_ACCEPTED,indi-finbert
 2026-11-24 20:41:55,WIPRO.NS,"Wipro Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TATACONSUM.NS,"Nifty FMCG hits over three-month high as HUL, Tata Consumer, ITC rally 2-4%; FII buying lifts market sentiment",moneycontrol,positive,0.9465,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,CIPLA.NS,"Cipla, Teva get FDA nod for first generic Flovent HFA; eye $350-million US asthma market",moneycontrol,positive,0.9416,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,ASIANPAINT.NS,"IndiGo, BPCL, Asian Paints, other crude-sensitive shares rise up to 4% as Brent eases to $88",moneycontrol,positive,0.9466,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,BPCL.NS,"IndiGo, BPCL, Asian Paints, other crude-sensitive shares rise up to 4% as Brent eases to $88",moneycontrol,positive,0.9466,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TATASTEEL.NS,Buy Tata Steel; target of Rs 210: Emkay,moneycontrol,positive,0.9319,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TATASTEEL.NS,Buy TATA Steel; target of Rs 190: Motilal Oswal,moneycontrol,positive,0.9179,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,INFY.NS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TCS.NS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,WIPRO.NS,"Anti-AI play? IT shares jump up to 4%; Infosys, TCS, Wipro among top gainers",moneycontrol,positive,0.9467,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TATASTEEL.NS,"APL Apollo Tubes stock: Brokerages slash price targets on debt, earnings concerns following Tata Steel deal",moneycontrol,negative,0.9367,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,TATASTEEL.NS,"APL Apollo Tubes shares hit 15% lower circuit, crash 33% from Friday's close amid Tata Steel deal concerns",moneycontrol,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,HDFCBANK.NS,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains",moneycontrol,positive,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:19,ICICIBANK.NS,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains",moneycontrol,positive,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:20,TATASTEEL.NS,"Open to restructuring deal with APL Apollo, says Tata Steel CEO Narendran",moneycontrol,positive,0.4995,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:32:20,TATASTEEL.NS,Chart of the Day | Value-added steel’s importance is at heart of Tata Steel-APL Apollo deal,moneycontrol,neutral,0.9347,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:20,HDFCLIFE.NS,"PB Fintech, Turtlemint, HDFC Life shares rise up to 6.5% as IRDAI sets up expert panel to review distribution reforms",moneycontrol,positive,0.947,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:22,ADANIPORTS.NS,BHEL (NSE:BHEL) Announces Retirement of Executive Director K G Vijayalakshmi,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:22,ADANIPORTS.NS,"Ram Ratna Wires (NSE:RAMRAT) to Participate in Avendus Spark Small-Cap Investor Conference on December 10, 2026",Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:26,ASIANPAINT.NS,"Shalimar Paints to merge with promoter Infra.Market in Rs 19,839-cr deal; Tiger Global, Accel, Nexus among i..",ET Retail,positive,0.4955,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:32:29,BAJAJ-AUTO.NS,NSE shares get their highest target price on the Street from ICICI Securities; how high can the stock go?,CNBC TV18,positive,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:29,BAJAJ-AUTO.NS,"Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India,...",Moneycontrol.com,neutral,0.9419,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:29,BAJAJ-AUTO.NS,"Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India, Motilal Oswal, and others on November 25?",TradingView,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:32,BAJAJFINSV.NS,"Sensex Surges Over 2,000 Points, Nifty Jumps 602 Points",Deccan Chronicle,positive,0.7465,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:32,BAJAJFINSV.NS,UCO Bank's Registrar KFin Technologies Shifts Corporate Office to Hyderabad Effective December 2026,Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:32,BAJAJFINSV.NS,BHEL (NSE:BHEL) Announces Retirement of Executive Director K G Vijayalakshmi,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:32,BAJAJFINSV.NS,"Ram Ratna Wires (NSE:RAMRAT) to Participate in Avendus Spark Small-Cap Investor Conference on December 10, 2026",Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:32,BAJAJFINSV.NS,Radico Khaitan Unveils Rampur Jugalbandi #7 & #8 India Editions with Limited Domestic Launch,Kalkine Media,neutral,0.7318,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:35,BHARTIARTL.NS,BHEL (NSE:BHEL) Announces Retirement of Executive Director K G Vijayalakshmi,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:35,BHARTIARTL.NS,"Ram Ratna Wires (NSE:RAMRAT) to Participate in Avendus Spark Small-Cap Investor Conference on December 10, 2026",Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:39,CIPLA.NS,"Pharma stocks rally, NIFTY PHARMA up 11% in a month: Why Gland Pharma, Cipla, Sun Pharma are in focus",Upstox,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:39,CIPLA.NS,"Watrana Rentals IPO allotment: How to check status online on NSE, Maashitla Securities; listing date, time revealed",Upstox,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:39,CIPLA.NS,HMA Agro Industries to explore poultry opportunities at 18th Poultry India 2026 Expo,Business Upturn,neutral,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:39,CIPLA.NS,GK Energy reports insider trading code violation without financial penalty,Business Upturn,negative,0.6913,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:40,COALINDIA.NS,"Mahanadi Coalfields IPO allotment today: How to check status online on KFin Technologies, BSE, NSE",CNBC TV18,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:43,DIVISLAB.NS,"Divi's Laboratories Shares: Volume, Earnings and Technical Readings",Kalkine India,neutral,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:43,DRREDDY.NS,Dr. Reddy's Laboratories (RDY): Dr. Reddy's to meet Citi investors in Hyderabad on Dec 2,Quantisnow,neutral,0.7434,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:45,EICHERMOT.NS,India's pension funds pivot to govt bonds as equity exposure nears cap,Business Standard,negative,0.4366,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:32:45,EICHERMOT.NS,NSE shares get their highest target price on the Street from ICICI Securities; how high can the stock go?,CNBC TV18,positive,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:46,EICHERMOT.NS,3 two-wheeler stocks. The cheapest has 35.2% ROCE and the fastest 3-year profit growth,The Financial Express,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:51,HDFCLIFE.NS,"PB Fintech, Turtlemint, HDFC Life shares rise up to 6.5% as IRDAI sets up expert panel to review...",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:51,HDFCLIFE.NS,"Sensex jumps over 1500 points, Nifty gains 1.7% as banking and IT stocks lead market rally",Firstpost,positive,0.7467,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:51,HDFCLIFE.NS,HDFC Life stock in focus after INR 500 crore debt approval,ad-hoc-news.de,negative,0.6452,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:32:52,HDFCLIFE.NS,"Insurance stocks in demand: PB Fintech, Max Life, HDFC Life rally up to 8%",Business Standard,positive,0.8977,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:52,HDFCLIFE.NS,"PB Fintech, HDFC Life and Other Insurance Stocks Rally Up to 8% Today; Here's What's Driving the Surge",Trade Brains,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:52,HDFCLIFE.NS,"ONGC, Jio Financial to SBI Life: Kotak sees 10–59% upside in 21 Nifty stocks",The Financial Express,positive,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:53,HEROMOTOCO.NS,"Hero MotoCorp Stock: Trading, Earnings and Momentum",Kalkine India,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:54,HEROMOTOCO.NS,3 two-wheeler stocks. The cheapest has 35.2% ROCE and the fastest 3-year profit growth,The Financial Express,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:54,HINDALCO.NS,Hindalco Industries Input Costs and Commodity Prices,Kalkine India,neutral,0.7302,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:58,ICICIBANK.NS,"NIFTY Bank soars over 2% as ICICI Bank shares surge 4%; HDFC Bank, Axis Bank lead gains",Upstox,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:58,ICICIBANK.NS,NSE shares get their highest target price on the Street from ICICI Securities; how high can the stock go?,CNBC TV18,positive,0.7363,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:58,ICICIBANK.NS,UCO Bank's Registrar KFin Technologies Shifts Corporate Office to Hyderabad Effective December 2026,Kalkine Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:58,ICICIBANK.NS,"ICICI Bank to participate in Macquarie Annual India Tour on December 1, 2026",Business Upturn,neutral,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:59,ICICIBANK.NS,"ICICI Bank schedules investor meet with Macquarie for Dec 1, 2026",scanx.trade,neutral,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:59,ICICIBANK.NS,"HDFC Bank, ICICI Bank shares trade at a discount to global peers despite rally: Jefferies",The Economic Times,negative,0.8077,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:59,ICICIBANK.NS,"ICICI Bank, Titan, Eternal: BofA Names 11 Stocks For India's Consumption Revival",NDTV Profit,neutral,0.8705,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:32:59,ICICIBANK.NS,"ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",NDTV Profit,positive,0.8714,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:01,INDUSINDBK.NS,"Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains",Moneycontrol.com,positive,0.9445,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:01,INDUSINDBK.NS,"ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",NDTV Profit,positive,0.8714,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:04,JSWSTEEL.NS,"Mid-market update: Indian equities defend opening gains; NIFTY50 trades above 25,700, SENSEX jumps 1700 pts",Upstox,positive,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:04,JSWSTEEL.NS,"Brokerage calls November 25: APL Apollo cut to Sell, Tata Steel Buy",Business Upturn,positive,0.5231,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:05,KOTAKBANK.NS,Kotak Bank Allots 5.57 Lakh Shares Under ESOP Schemes,PSU Connect,neutral,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:06,KOTAKBANK.NS,"ICICI, HDFC, SBI To IndusInd Bank: Why Jefferies Is Bullish On Indian Lenders, Hikes Target Prices",NDTV Profit,positive,0.8714,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:06,KOTAKBANK.NS,"HDFC Bank, Kotak, Axis need faster retail deposit growth for share re-rating: Jefferies",The Economic Times,neutral,0.8742,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:07,LT.NS,Larsen & Toubro secures significant order for Battery Energy Storage System in Gujarat,Business Upturn,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:07,LT.NS,"Aarti Industries announces investor presentation highlighting strategic fund raise up to ₹1,000 crore",Business Upturn,neutral,0.5465,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:07,LT.NS,Aurobindo Pharma announces change in registrar's corporate office address,Business Upturn,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:08,LT.NS,#e4mExclusive: Omnicom Media India wins L’Oréal’s influencer marketing mandate,Exchange4Media,positive,0.703,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:08,LT.NS,"Post Malone, Travis Scott & Charli xcx to Headline Tecate Pa’l Norte 2027: See the Full Lineup",Billboard,neutral,0.7348,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:08,LT.NS,Omnicom Media India wins influencer marketing mandate for L’Oréal India,ET BrandEquity,positive,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:08,LT.NS,Omnicom Media to handle L’Oréal India’s influencer marketing mandate,afaqs!,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:11,M&M.NS,"Maple raises $5.3M to build AI products that protect your data, even from itself",TechCrunch,positive,0.7277,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:11,M&M.NS,"Nabyendu M joins NVIDIA as Head - Enterprise Partnerships, India",Exchange4Media,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:11,M&M.NS,$150m Punjab education project downgraded,Dawn,negative,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:11,M&M.NS,CPI(M) activist murder: Three RSS-BJP workers sentenced to life,The Siasat Daily,neutral,0.4045,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:11,M&M.NS,CPI(M) activist Dhanraj murder case: 3 BJP workers get life imprisonment in Keralam,The Hindu,negative,0.5232,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:12,MARUTI.NS,Maruti Suzuki India announces relocation of registrar and transfer agent's office,Business Upturn,neutral,0.7392,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:14,NESTLEIND.NS,"Nifty FMCG hits over three-month high as HUL, Tata Consumer, ITC rally 2-4%; FII buying lifts market...",Moneycontrol.com,positive,0.9464,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:15,NTPC.NS,BHEL (NSE:BHEL) Announces Retirement of Executive Director K G Vijayalakshmi,Kalkine Media,neutral,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:18,ONGC.NS,Automotive to FMCG: India Inc's earnings charge puts bulls back in saddle,Business Standard,negative,0.7491,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:18,ONGC.NS,DTC to Partner with Indian Oil for Fuel Pumps at Bus Depots,Construction World,neutral,0.686,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:18,POWERGRID.NS,"Why is market rising today? Sensex soars 1,500 pts, Nifty above 25,700. 5 factors behind Rs 4 lakh crore g",The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:18,POWERGRID.NS,Larsen & Toubro secures significant order for Battery Energy Storage System in Gujarat,Business Upturn,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:20,RELIANCE.NS,Reliance Industries Promoter Group Share Purchases,Kalkine India,neutral,0.416,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:22,SBILIFE.NS,"PB Fintech, Turtlemint, HDFC Life shares rise up to 6.5% as IRDAI sets up expert panel to review...",Moneycontrol.com,positive,0.9472,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:22,SBILIFE.NS,"PB Fintech shares jump 8%, insurance stocks rally: Is IRDAI review raising hopes of regulatory relief?",Upstox,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:22,SBILIFE.NS,"PB Fintech, HDFC Life and Other Insurance Stocks Rally Up to 8% Today; Here's What's Driving the Surge",Trade Brains,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:23,SBIN.NS,State Bank of India Market Reopening and Market Performance,Kalkine India,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:25,SUNPHARMA.NS,"Pharma stocks rally, NIFTY PHARMA up 11% in a month: Why Gland Pharma, Cipla, Sun Pharma are in focus",Upstox,positive,0.7479,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:25,SUNPHARMA.NS,"Watrana Rentals IPO allotment: How to check status online on NSE, Maashitla Securities; listing date, time revealed",Upstox,neutral,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:25,SUNPHARMA.NS,"Why is market rising today? Sensex soars 1,500 pts, Nifty above 25,700. 5 factors behind Rs 4 lakh crore g",The Economic Times,positive,0.8971,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:27,TATAMOTORS.NS,"NSE, Milky Mist, Tata Motors PV: Top stocks to see fresh brokerage initiations with upto 67% upside",Business Today,positive,0.5749,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-25 08:33:28,TATASTEEL.NS,"APL Apollo Tubes shares hit 15% lower circuit, crash 33% from Friday's close amid Tata Steel deal...",Moneycontrol.com,negative,0.9433,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:28,TATASTEEL.NS,Tata Steel (NSE:TATASTEEL): Did It Acquire a 9.99% Stake in APL Apollo Tubes?,Kalkine India,neutral,0.7378,AUTO_ACCEPTED,indi-finbert
+2026-11-25 08:33:31,TCS.NS,"TCS, Infosys, Mphasis shares climb as IT stocks see selective buying; what analysts say",Business Today,positive,0.7474,AUTO_ACCEPTED,indi-finbert
