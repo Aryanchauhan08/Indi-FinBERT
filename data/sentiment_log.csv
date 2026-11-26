@@ -10550,3 +10550,83 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-26 08:17:38,WIPRO.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-26 08:17:38,WIPRO.NS,"Wipro shares gain 3% after over $500 million BP deal, but Kotak says 'sell' - CNBC TV18",LinkedIn,positive,0.6431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-26 08:17:38,WIPRO.NS,Wipro partners with bp for finance operations transformation,Business Upturn,positive,0.6872,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:27,ADANIENT.NS,"Adani Enterprises, Adani Power shares rise 2%: Here’s why Adani Group stocks are in focus on Nov 26",Upstox,positive,0.7424,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:27,ADANIENT.NS,Top 30 Stocks For New Investors In India November 2026,Samco,neutral,0.7447,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:27,ADANIENT.NS,Adani Enterprises stock plans public bond sale of up to 20 billion rupees,ad-hoc-news.de,neutral,0.7234,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:30,APOLLOHOSP.NS,Mafatlal Industries secures NSE listing approval for equity shares,scanx.trade,positive,0.741,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:30,APOLLOHOSP.NS,NSE secures RBI approval for corporate bond index futures,scanx.trade,positive,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:32,ASIANPAINT.NS,India stocks higher at close of trade; Nifty 50 up 0.25%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:32,ASIANPAINT.NS,India shares higher at close of trade; Nifty 50 up 0.25% By Investing.com,Investing.com India,positive,0.7773,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:32,ASIANPAINT.NS,NSE receives RBI nod for introduction of corporate bond index futures; what investors should know,Upstox,neutral,0.5982,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:38:32,ASIANPAINT.NS,Asian Paints reveals corporate presentation for Nomura Investment Forum in Tokyo,Business Upturn,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:32,ASIANPAINT.NS,Ahead of Market: 10 things that will decide stock market action on Friday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:33,ASIANPAINT.NS,Asian Paints has 74 décor stores across 20 Indian states,Multibagg AI,neutral,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:33,ASIANPAINT.NS,Asian Paints posts 15.6% H1 FY27 decorative value growth,Multibagg AI,positive,0.7358,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:33,AXISBANK.NS,"Zee Business. . Why are MCX, BSE and NSE witnessing strong action? Which AI and power equipment stocks are rallying? Why have sugar stocks regained their sweetness? Why are FMCG stocks witnessing profit booking? Prestige and Lodha rally: What sh",Facebook,positive,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:33,AXISBANK.NS,Credit Card Spends Overtake ATM Withdrawals for First Time,Elets BFSI,positive,0.4951,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:38:33,AXISBANK.NS,ESAF Small Finance Bank (NSE:ESAFSFB) Announces Equity Share Allotment on 26 November 2026 Under Employee Stock Option Scheme,Kalkine Media,neutral,0.5185,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:38:33,AXISBANK.NS,Interarch Building Solutions (NSE:INTERARCH) Activates New ISIN INE00M901026 Ahead of 5-for-1 Stock Split,Kalkine Media,neutral,0.7224,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:33,AXISBANK.NS,Precision Camshafts (NSE:PRECAM) Q2 FY27 Earnings Call Insights: Revenue Growth and Exceptional Loss Explained,Kalkine Media,negative,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:34,AXISBANK.NS,"Siemens Energy shares rally 6% on strong Q4 earnings, dividend announcement",The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:36,BAJFINANCE.NS,ESAF Small Finance Bank (NSE:ESAFSFB) Announces Equity Share Allotment on 26 November 2026 Under Employee Stock Option Scheme,Kalkine Media,neutral,0.5185,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:38:36,BAJFINANCE.NS,NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn,IndiaIPO,positive,0.748,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:36,BAJFINANCE.NS,Ahead of Market: 10 things that will decide stock market action on Friday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:39,BAJAJFINSV.NS,"JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid",NDTV Profit,neutral,0.8708,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:40,BPCL.NS,"Coal India Leads Government Dividend Collections With ₹7,912 Crore as CPSE Payouts Reach ₹32,626 Crore",Kotak Neo,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:46,COALINDIA.NS,Mahanadi Coalfields IPO Listing: Can Coal India Subsidiary Exceed Expectations?,FlipItMoney,neutral,0.7326,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:49,DRREDDY.NS,"Zee Business. . STOCK OF THE DAY Buy Coforge Futures: SL 2000 SL 2050, 2075, 2100 Strong buy report from Bernstein today Buy Persistent Futures: SL 6100 SL 6250, 6325, 6400 Strong buy report from Bernstein today Buy DMart Futures: SL 3500 Tgt 36",Facebook,positive,0.7243,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:52,GRASIM.NS,Mafatlal Industries secures NSE listing approval for equity shares,scanx.trade,positive,0.741,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:52,GRASIM.NS,NSE secures RBI approval for corporate bond index futures,scanx.trade,positive,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:38:57,HDFCLIFE.NS,"JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid",NDTV Profit,neutral,0.8708,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:00,HINDALCO.NS,"News by CNBC TV18 on TradingView, 2026-11-26 — cnbctv:9b34bc0db094b:0",TradingView,neutral,0.745,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:00,HINDALCO.NS,"NIFTY trades above 25,850, SENSEX jumps over 370 pts; Wipro, HZL, Siemens Energy among buzzing stocks",Upstox,positive,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:00,HINDALCO.NS,"NSE becomes world's 3rd largest listed exchange, overtakes London Stock Exchange and Deutsche Boerse AG",The Economic Times,positive,0.8588,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:00,HINDALCO.NS,Ahead of Market: 10 things that will decide stock market action on Friday,The Economic Times,neutral,0.8947,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:07,INFY.NS,Zaggle Prepaid shares rally 13% on entering into five-year agreement with Infosys; key details,Upstox,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:07,INFY.NS,NSE becomes third-largest stock exchange at about $64.1 billion market cap,India Infoline,positive,0.565,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:10,KOTAKBANK.NS,NSE becomes world's third largest listed exchange operator as shares scale fresh peak -,IndiaIPO,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:13,LT.NS,"After ''Raanjhanaa', Atrangi Re', 'Tere Ishk Mein' Aanand L Rai and Dhanush join hands again for period a",The Times of India,neutral,0.6651,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:13,LT.NS,"Case against L. Murugan, two others",The Hindu,negative,0.3753,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:13,LT.NS,CRYSTAL CROP PROTECTION L Share Price,Upstox,neutral,0.7254,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:13,LT.NS,Ultraviolette invests Rs. 779 crore in new factory; targets 2.5L units,Team-BHP,positive,0.6997,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:13,LT.NS,Respond to L. Khiyangte’s bail plea: Jharkhand high court to CID,The Times of India,neutral,0.6194,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:15,M&M.NS,SML Mahindra Rights Issue 2026: Key Details for Shareholders,Kalkine India,neutral,0.746,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:16,M&M.NS,2026 BMW M 1000 RR Launch Price Rs 59.90 Lakh in India,BikeAdvice,neutral,0.7279,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:16,M&M.NS,"Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him",USA Today,neutral,0.6266,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:16,M&M.NS,CPI (M) leader finds fault with the TVK govt on Kallakurichi MLA issue,The Hindu,negative,0.7396,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:16,M&M.NS,"GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",GamesIndustry.biz,neutral,0.4077,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:22,ONGC.NS,"Nifty 500 profits surge 32% to 12-quarter high, but 75% of stocks remain more than 15% below peaks: Motilal Oswal",Fortune India,positive,0.7291,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:22,ONGC.NS,"Coal India Leads Government Dividend Collections With ₹7,912 Crore as CPSE Payouts Reach ₹32,626 Crore",Kotak Neo,positive,0.735,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:22,ONGC.NS,Reliance vs ONGC: Oil and Gas Stocks Compared 2027,Univest,neutral,0.7368,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:22,ONGC.NS,Enbridge stock could be at risk of falling to $61.5 despite strong revenue growth,Invezz,negative,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:23,POWERGRID.NS,Jyoti Structures Bags Rs 272 Crore LOI from Sterlite Grid 5 for Goa-Karnataka Transmission Project,Kalkine Media,positive,0.5528,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:23,POWERGRID.NS,"POWERGRID Board Meeting on Nov 30: ₹45,000 Crore Borrowing, USD 600 Million EDC Loan on Agenda",Indian Masterminds,positive,0.655,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:24,RELIANCE.NS,"NSE enters India's top 10 companies by market cap; overtakes L&T, LIC",Zee Business,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:25,RELIANCE.NS,Who Is Isha Ambani? Meet the Head of Reliance Retail,BBN Times,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:30,SUNPHARMA.NS,"Sun Pharma FY26 India sales hit Rs 19,300 crore; share is 8.6%",Multibagg AI,positive,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:30,SUNPHARMA.NS,"Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3%",scanx.trade,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:30,SUNPHARMA.NS,Sun Pharma Q2 reported profit fell 36% as charges offset growth,Multibagg AI,negative,0.7446,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:30,SUNPHARMA.NS,"Sun Pharma Gross Margin Hits 80.2%, 13 Points Above Peers",Multibagg AI,positive,0.7324,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:31,TATAMOTORS.NS,Tata Motors CV Share Price Falls 2% Despite Sensex Gains; Why?,Equitypandit,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:31,TATAMOTORS.NS,Mafatlal Industries secures NSE listing approval for equity shares,scanx.trade,positive,0.741,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:31,TATAMOTORS.NS,NSE secures RBI approval for corporate bond index futures,scanx.trade,positive,0.7362,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:31,TATAMOTORS.NS,Tata Motors’ ACGL stake rises to over 50% without buying a single additional share,IndiaIPO,positive,0.7418,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:31,TATAMOTORS.NS,"NSE becomes world's 3rd largest listed exchange, overtakes London Stock Exchange and Deutsche Boerse AG",The Economic Times,positive,0.8588,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:32,TATASTEEL.NS,Tata Steel’s revised APL Apollo deal must win over shareholders with a history of dissent,Moneycontrol.com,neutral,0.9339,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:32,TATASTEEL.NS,"Top Stories: Sensex nears 10-month high, Tata Trusts take Chandra to court, SC redraws food labels",LinkedIn,positive,0.6755,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:32,TATASTEEL.NS,"NSE becomes world’s third-largest listed stock exchange, overtakes Deutsche Boerse and LSEG",Fortune India,positive,0.7255,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:32,TATASTEEL.NS,"The business built the fortune. What builds the legacy? Watch highlights from Amit Patni, Founder & Director of RAAY, at The Global Wealth Corridor, presented by Standard Chartered in association with CNBC-TV18. He shares an entrepreneur's view on the",LinkedIn,neutral,0.5452,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 19:39:34,TATACONSUM.NS,"NIFTY trades above 25,850, SENSEX jumps over 370 pts; Wipro, HZL, Siemens Energy among buzzing stocks",Upstox,positive,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:37,TECHM.NS,"Nifty IT jumps over 2% as Wipro, Infosys, HCL Tech rally; Indian IT stocks defy global AI weakness",Moneycontrol.com,positive,0.9456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:37,TECHM.NS,"Sensex gains for second day in a row on foreign fund inflows, IT stocks",The New Indian Express,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:37,TECHM.NS,"Zee Business. . STOCK OF THE DAY Buy Coforge Futures: SL 2000 SL 2050, 2075, 2100 Strong buy report from Bernstein today Buy Persistent Futures: SL 6100 SL 6250, 6325, 6400 Strong buy report from Bernstein today Buy DMart Futures: SL 3500 Tgt 36",Facebook,positive,0.7243,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TECHM.NS,Tech Mahindra hosts conclave on AI adoption in financial services in India,Telecompaper,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TECHM.NS,"Rupee rebound is bad news for IT stocks. Jefferies sees rerating potential only for Infosys, Sagility",The Economic Times,negative,0.8053,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TECHM.NS,"Jefferies, Bernstein Split On IT Stocks: Coforge, HCL Tech Get Thumbs-Up, Infosys And Wipro Get Underperform Ratings",NDTV Profit,neutral,0.8354,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TECHM.NS,"Wipro, Infosys, Coforge: IT Stocks Rally As Bernstein Sees A $2.1 Trillion AI Opportunity, But Warns Of A Widening Gap",NDTV Profit,positive,0.8761,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TITAN.NS,"NIFTY trades above 25,850, SENSEX jumps over 370 pts; Wipro, HZL, Siemens Energy among buzzing stocks",Upstox,positive,0.7411,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TITAN.NS,"Zee Business. . STOCK OF THE DAY Buy Coforge Futures: SL 2000 SL 2050, 2075, 2100 Strong buy report from Bernstein today Buy Persistent Futures: SL 6100 SL 6250, 6325, 6400 Strong buy report from Bernstein today Buy DMart Futures: SL 3500 Tgt 36",Facebook,positive,0.7243,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TITAN.NS,Precision Camshafts (NSE:PRECAM) Q2 FY27 Earnings Call Insights: Revenue Growth and Exceptional Loss Explained,Kalkine Media,negative,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:38,TITAN.NS,"Titan Company - Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",The Economic Times,neutral,0.8268,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:40,ULTRACEMCO.NS,"Stock markets climb in early trade on foreign fund inflows, buying in IT shares",The New Indian Express,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-11-26 19:39:40,ULTRACEMCO.NS,"BofA lifts cement demand forecast, stays cautious on prices",Business Upturn,positive,0.716,AUTO_ACCEPTED,indi-finbert
