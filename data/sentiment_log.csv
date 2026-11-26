@@ -10478,3 +10478,75 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-25 19:58:59,WIPRO.NS,"LG Electronics India promoter may offload 2% stake for ₹2,320.5 crore",Business Standard,neutral,0.6941,AUTO_ACCEPTED,indi-finbert
 2026-11-25 19:58:59,WIPRO.NS,"TCS, Infosys, Wipro, other IT stocks gain up to 5%. What’s driving the rally?",The Economic Times,positive,0.8967,AUTO_ACCEPTED,indi-finbert
 2026-11-25 19:58:59,WIPRO.NS,"TCS, Infosys, Mphasis shares climb as IT stocks see selective buying; what analysts say",Business Today,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:29,INFY.NS,"Nifty IT jumps over 2% as Wipro, Infosys, HCL Tech rally; Indian IT stocks defy global AI weakness",moneycontrol,positive,0.9456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:29,WIPRO.NS,"Nifty IT jumps over 2% as Wipro, Infosys, HCL Tech rally; Indian IT stocks defy global AI weakness",moneycontrol,positive,0.9456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:29,HEROMOTOCO.NS,"Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries, Endurance Technologies, and others on November 26?",moneycontrol,neutral,0.9443,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:30,COALINDIA.NS,Mahanadi Coalfield shares to list tomorrow; analysts recommend trading strategy for Coal India unit,moneycontrol,neutral,0.7717,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:31,ADANIENT.NS,"NSE becomes world's 3rd largest listed exchange, overtakes London Stock Exchange and Deutsche Boerse AG",The Economic Times,positive,0.8588,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:31,ADANIENT.NS,"Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",The Economic Times,neutral,0.7667,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:34,APOLLOHOSP.NS,"NIFTY50 tops 25,700 in early trade, SENSEX up 1,400 pts; financials, Infosys among top gainers",Dailyhunt,positive,0.7464,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:39,BAJFINANCE.NS,"QUICK TAKE | Meet NSE, India’s Ninth Most Valuable Company: Seven Things to Know",Open Magazine,neutral,0.5787,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:16:39,BAJFINANCE.NS,"NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:39,BAJFINANCE.NS,"NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",ANI News,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:39,BAJFINANCE.NS,"NSE Top 10 Entry: Shares Hit Record High of Rs 2,332",theopenpress.in,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:40,BAJFINANCE.NS,FIIs pour $13 bn in 14 sessions: Will crude & AI trade rotation sustain momentum?,The Financial Express,neutral,0.531,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:16:41,BAJAJFINSV.NS,Bajaj Finance Share Price Jumps 3.27 Percent; NSE Nifty Registers Bullish Session,TopNews,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:42,BPCL.NS,"BPCL, IOCL Stocks Remain Hurt By Iran War, But Backed By Jefferies And JPMorgan: Here's Why",NDTV Profit,negative,0.8341,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:42,BPCL.NS,"Buy BPCL, IOCL shares as crude oil prices fall, risk-reward favourable, says Jefferies",Business Today,positive,0.718,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:48,COALINDIA.NS,Coal India (NSEI:COALINDIA) Stock Trades At A Premium To Cash Flow,Simply Wall St,positive,0.7123,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:50,DRREDDY.NS,"Dr. Reddy's Laboratories (RDY): Allots 7,050 equity shares on employee stock option exercise",Quantisnow,neutral,0.5926,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:16:50,DRREDDY.NS,AANJAAY Share Price Today - Kabra Drugs Ltd. Stock Price Live NSE/BSE,Univest,neutral,0.7449,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:50,DRREDDY.NS,"Dr. Reddy's Laboratories allots 7,050 equity shares under employee stock options schemes",Business Upturn,neutral,0.7426,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:50,DRREDDY.NS,Capri Global Capital secures USD 30 million from BlueOrchard Microfinance Fund,Business Upturn,positive,0.7166,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:52,EICHERMOT.NS,Eicher Motors faces GST demand order of ₹1.41 crore,Business Upturn,negative,0.3906,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:16:54,HCLTECH.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:16:54,HCLTECH.NS,"Nifty IT jumps over 2% as Wipro, Infosys, HCL Tech rally; Indian IT stocks defy global AI weakness",Moneycontrol.com,positive,0.9456,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:55,HDFCBANK.NS,"ITC Limited, HDFC Bank, NMDC Limited post divergent returns",Multibagg AI,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:57,HDFCLIFE.NS,HDFC Life Insurance updates address for registrar and share transfer agent,Business Upturn,neutral,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:58,HDFCLIFE.NS,"Insurance Stocks Rally: PB Fintech, HDFC Life Gain Up to 8%",Business Outreach Magazine,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:16:58,HEROMOTOCO.NS,"Hero MotoCorp and Harley-Davidson launch Mission: The Big RIDE, adding Raipur and Indore dealerships to take India network to 23",Business Upturn,positive,0.7198,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:02,ICICIBANK.NS,"NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:02,ICICIBANK.NS,"NSE Top 10 Entry: Shares Hit Record High of Rs 2,332",theopenpress.in,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:02,ICICIBANK.NS,NSE shares hit record high after ICICI Securities initiates coverage with Buy; check target price and key triggers,Livemint,positive,0.8436,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:03,ICICIBANK.NS,"PL Capital Raises Nifty Target To 28,561: Amnish Aggarwal Names 18 Stocks For The Next Rally",NDTV Profit,positive,0.8514,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:03,ICICIBANK.NS,"Siemens Energy shares rally 6% on strong Q4 earnings, dividend announcement",The Economic Times,positive,0.8975,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:05,INDUSINDBK.NS,"The Jammu & Kashmir Bank Ltd. Share Price, Stock Price - NSE/BSE Live",NDTV Profit,neutral,0.8745,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:05,INDUSINDBK.NS,"Bernstein favours private banks, four rated Outperform",Business Upturn,positive,0.5768,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:06,INFY.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:06,INFY.NS,Infosys Becomes the World’s First Organization to Achieve CMMI AI Maturity (AIM) Level 5,India Education Diary,positive,0.7436,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:09,KOTAKBANK.NS,"NSE enters India's top 10 companies by market cap; overtakes L&T, LIC",Zee Business,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:09,KOTAKBANK.NS,"Bernstein favours private banks, four rated Outperform",Business Upturn,positive,0.5768,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:11,LT.NS,"NSE enters India's top 10 companies by market cap; overtakes L&T, LIC",Zee Business,positive,0.7295,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:11,LT.NS,"NSE Top 10 Entry: Shares Hit Record High of Rs 2,332",theopenpress.in,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:12,LT.NS,Hallyu spurs Iranian translator to win int'l Korean speech contest,Korea.net,positive,0.4289,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:12,LT.NS,Over 11.89L graduates in draft electoral rolls,The New Indian Express,neutral,0.7429,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:12,LT.NS,Form 4 First Interstate BancSystem Inc: Christopher L. Shepler (Chief Banking Officer) For: 24 November,Investing.com India,neutral,0.7731,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:12,LT.NS,"Kinnar Akhada members attacked in Junagadh, ₹1.6L in cash looted",The Times of India,negative,0.6816,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:12,LTIM.NS,Nifty IT Live | NSE Nifty IT Index Today - S&P CNX Nifty IT,The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:14,M&M.NS,"‘Sunrise On The Reaping’ Firing Up Thanksgiving With $85M+ 5-Day, 2nd Best Holiday Haul For Franchise – Update",Deadline,positive,0.7466,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:14,M&M.NS,‘Avengers: Doomsday’ Eyes $270M Opening as ‘Dune: Part Three’ Also Heads for Big Start,The Hollywood Reporter,positive,0.7431,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:14,M&M.NS,CBS News seeks to settle $20M defamation lawsuit filed by Maryland teenager over reflecting pool report,Fox News,negative,0.6153,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:17,NESTLEIND.NS,"Sensex jumps 1,500 points, Nifty reclaims 25,800 as FMCG, private banks lead rally; broader markets lag",Fortune India,positive,0.7405,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:17,NESTLEIND.NS,India shares higher at close of trade; Nifty 50 up 1.85%,Investing.com UK,positive,0.7471,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:19,NTPC.NS,"Juniper Green Energy arm signs 150 MW NTPC deal, expects ₹155 crore annual revenue",IndiaIPO,positive,0.7432,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:22,POWERGRID.NS,Powergrid Infrastructure Q2FY27 Results: Earnings call audio recording released,scanx.trade,neutral,0.7433,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:22,RELIANCE.NS,"NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",ANI News,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:22,RELIANCE.NS,"NSE Top 10 Entry: Shares Hit Record High of Rs 2,332",theopenpress.in,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:24,SBIN.NS,"NSE market cap crosses Rs 5.76 lakh crore, shares rally over 27% in two months, 9th most valued company",ANI News,positive,0.7475,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:24,SBIN.NS,P N Gadgil Jewellers (NSE:PNGJL) Announces Analyst and Investor Meeting on 30 November 2026,Kalkine Media,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:24,SBIN.NS,Vikran Engineering (NSE:VIKRAN) Faces SEBI Warning and Rs 12.50 Crore Litigation from GS Products India,Kalkine Media,negative,0.7133,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:27,TATAMOTORS.NS,Tata Motors Passenger Vehicles (NSE: TMPV) Prepares a Price Revision for December,Kalkine India,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:28,TATASTEEL.NS,NSE becomes world's third-largest exchange after stock extends gains; Market cap near ₹6 lakh crore - CNBC TV18,LinkedIn,positive,0.7313,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:28,TATASTEEL.NS,"LG Electronics India falls 3% as parent launches ₹2,320-cr stake sale",Business Standard,negative,0.8937,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:29,TATASTEEL.NS,8 ‘Buy’ stock recommendations by Jefferies with 22% to 51% upside potential,The Financial Express,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:31,TCS.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:31,TCS.NS,"NSE rises 5.5% to enter India's top 10 most valuable companies list; overtakes L&T, LIC, Infosys",Moneycontrol.com,positive,0.9473,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:31,TCS.NS,"Stock markets climb in early trade on foreign fund inflows, buying in IT shares",The New Indian Express,positive,0.7423,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:31,TCS.NS,"NSE Top 10 Entry: Shares Hit Record High of Rs 2,332",theopenpress.in,positive,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-26 08:17:32,TECHM.NS,"Tech Mahindra Bonus Shares 2026: Record Date Set for 30 November, Trading to Begin on 2 December",Kotak Neo,positive,0.5382,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:32,TECHM.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:32,TECHM.NS,"JP Morgan stays Overweight on Tech Mahindra at Rs 1,900",Business Upturn,positive,0.6018,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:34,TITAN.NS,"Gold Prices Fall 28% From January Peak but Titan, Kalyan Jewellers and PC Jeweller Gain Up to 47%; What's Driving Jewellery Stocks?",Kotak Neo,negative,0.4688,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:38,WIPRO.NS,"Wipro, TCS, Infosys push Nifty IT to 33,000 mark",India Infoline,neutral,0.4126,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:38,WIPRO.NS,"Wipro shares gain 3% after over $500 million BP deal, but Kotak says 'sell' - CNBC TV18",LinkedIn,positive,0.6431,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-26 08:17:38,WIPRO.NS,Wipro partners with bp for finance operations transformation,Business Upturn,positive,0.6872,AUTO_ACCEPTED,indi-finbert
