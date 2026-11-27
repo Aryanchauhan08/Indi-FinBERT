@@ -10725,3 +10725,85 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-27 08:31:45,TITAN.NS,"SENSEX falls over 700 pts, NIFTY below 25,700 in noon deals; MCX, Waaree Renewables among buzzing stocks",Upstox,negative,0.744,AUTO_ACCEPTED,indi-finbert
 2026-11-27 08:31:45,TITAN.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
 2026-11-27 08:31:49,WIPRO.NS,"NIFTY50 and SENSEX put a resilient show on Thursday; Wipro, ABSL AMC, KPIL, Abbot and others cross 200 EMA levels",Upstox,positive,0.7117,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:29:54,ADANIENT.NS,Inox India secures BSE and NSE approval for ESOP share listing,scanx.trade,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:29:54,ADANIENT.NS,DIY Investing in India: The Rise of Independent Investors,Kotak Neo,neutral,0.5395,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:29:54,ADANIENT.NS,Watrana Rentals shares jump 3% after listing at a discount on NSE SME,The Economic Times,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:29:54,ADANIENT.NS,"Bosch fixes December 23 as record date for 1:5 stock split, 3:1 bonus issue",The Economic Times,neutral,0.7583,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:29:59,ASIANPAINT.NS,Asian Paints ASIANPAINT: Investor Meet Cancellation Nov 2026,Kalkine India,neutral,0.7339,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:01,AXISBANK.NS,Axis Bank S&P RXG Rating BBBrxg Assigned Nov 2026,Kalkine India,neutral,0.6563,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:02,BAJAJ-AUTO.NS,India stocks lower at close of trade; Nifty 50 down 1.07%,Investing.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:02,BAJAJ-AUTO.NS,"Schaeffler India Promoter Sells 6.5% Stake for Rs 3,549 Cr",HDFC Sky,negative,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:02,BAJAJ-AUTO.NS,India's retail investor boom: NSE investor base jumps 4.4 times to 13.5 crore since March 2020,Upstox,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:02,BAJAJ-AUTO.NS,Mahanadi Coalfields shares debut at 1.5% discount on NSE; here's how much investors lost per lot,Upstox,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:02,BAJAJ-AUTO.NS,India shares lower at close of trade; Nifty 50 down 1.07%,Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:05,BAJAJFINSV.NS,NSE overtakes London Stock Exchange to become worlds 3rd largest,Daily Excelsior,positive,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:05,BAJAJFINSV.NS,"Profit Booking, Rising Crude Prices Drag Sensex Down 989 Points",Rediff.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:05,BAJAJFINSV.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:05,BAJAJFINSV.NS,Infomerics Downgrades Salasar Techno Engineering's Credit Ratings: Key Details and Investor Impact,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:05,BAJAJFINSV.NS,"Vikas Lifecare (NSE:VIKASLIFE) Board Approves 31st Annual Report and AGM Date for December 28, 2026",Kalkine Media,neutral,0.6337,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:08,BHARTIARTL.NS,Bharti Airtel (NSE:BHARTIARTL): Why Did It Receive a DoT Penalty Notice in November 2026?,Kalkine India,negative,0.7012,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:08,BHARTIARTL.NS,Bharti Airtel Assam data centre expansion plans,Kalkine India,neutral,0.7003,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:08,BHARTIARTL.NS,"Indian Stock Market News Today: Tata Steel–APL Apollo SEBI Review, US GDP Controversy, NSE Rally, JLR EV Launch and Airtel Data Centre Investment – Telangana NavaNirmana Sena",Telangana NavaNirmana Sena,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:09,BRITANNIA.NS,Britannia Industries CMO Puneet Das Resigns – NSE:BRITANNIA,Kalkine India,neutral,0.7427,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:09,BRITANNIA.NS,"Britannia Industries Shares Fall Over 2% After Chief Marketing Officer Puneet Das Resigns, Set to Exit on 9 December",Kotak Neo,negative,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:09,BRITANNIA.NS,"Britannia, Nestle, ITC: FMCG stocks decline as SC orders separate warning labels for high sugar, salt, fat",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:09,BRITANNIA.NS,Britannia Industries shares fall over 2% as Chief Marketing Officer Puneet Das resigns,Moneycontrol.com,negative,0.939,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:09,BRITANNIA.NS,"Why Defence Stocks are Up Today: ₹3.7 Lakh Crore Project Pipeline Puts BEL, Solar Industries and HAL in Focus",Kotak Neo,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:12,COALINDIA.NS,Coal India unit Mahanadi Coalfields lists at 2% discount to IPO price,Business Standard,negative,0.8919,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:12,COALINDIA.NS,"Mahanadi Coalfields Shares List At Discount Of Up To 2% On NSE, BSE",Outlook Money,negative,0.7331,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:12,COALINDIA.NS,Coal India unit Mahanadi valued at $9.7 billion after subdued debut,marketscreener.com,negative,0.7332,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:19,HCLTECH.NS,India shares lower at close of trade; Nifty 50 down 1.07%,Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:20,HDFCBANK.NS,"HDFC Bank Brings PayZapp, Card Apps In-House to Cut Cyber Risk",Elets BFSI,positive,0.6733,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:20,HDFCBANK.NS,Union Bank of India Plans 500 Robotic Processes by FY28,Elets BFSI,neutral,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:20,HDFCBANK.NS,NIFTY50 rallies 12.5% in November so far: These 5 stocks deliver even bigger gains amid FII buying,Upstox,positive,0.7469,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:20,HDFCBANK.NS,"Mahanadi Coalfields Shares List At ₹134 On NSE, 1.47% Below IPO Price",HDFC Sky,neutral,0.7335,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:20,HDFCBANK.NS,Infomerics Downgrades Salasar Techno Engineering's Credit Ratings: Key Details and Investor Impact,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:21,HDFCLIFE.NS,"HDFC Group stocks: How are HDFC Bank, HDB Financial, AMC and Life Insurance shares performing?",Upstox,neutral,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:24,HINDALCO.NS,Mahanadi Coalfields shares debut at 1.5% discount on NSE; here's how much investors lost per lot,Upstox,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:24,HINDALCO.NS,F&O Buildup Report Nov 27: 101 Short Signals as Nifty Falls 277 Points,NiftyTrader,negative,0.7384,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:24,HINDALCO.NS,Watrana Rentals shares jump 3% after listing at a discount on NSE SME,The Economic Times,positive,0.8967,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:27,ICICIBANK.NS,ICICI Bank receives ₹36.80 Cr GST demand from West Bengal authorities,scanx.trade,positive,0.5788,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:27,ICICIBANK.NS,"Stocks in news: Tata Group companies, NSE, BSE, Zydus Lifesciences and KPI Green Energy",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:27,ICICIBANK.NS,"ICICI Bank faces GST demand of ₹36,80,41,563 under West Bengal GST Act",Business Upturn,neutral,0.5235,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:29,ITC.NS,"Britannia, Nestle, ITC: FMCG stocks decline as SC orders separate warning labels for high sugar, salt, fat",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:30,INDUSINDBK.NS,"IndusInd Bank ends ex-CEO Kathpalia employment, invokes clawback",ad-hoc-news.de,neutral,0.6953,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:33,JSWSTEEL.NS,India stocks lower at close of trade; Nifty 50 down 1.07%,Investing.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:33,JSWSTEEL.NS,India shares lower at close of trade; Nifty 50 down 1.07%,Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:33,JSWSTEEL.NS,Inox India secures BSE and NSE approval for ESOP share listing,scanx.trade,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:33,JSWSTEEL.NS,Highway Infrastructure submits revised valuation report to NSE,scanx.trade,neutral,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:33,JSWSTEEL.NS,"Sensex tanks nearly 1,000 points, Nifty slips below 25,650 as geopolitical tensions, rising oil prices weigh",ANI News,negative,0.7376,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:35,KOTAKBANK.NS,"India’s rare earnings upgrade: Jefferies names 9 stocks, with Reliance and JSW Steel among its top picks",The Economic Times,positive,0.7852,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:36,LT.NS,Woman duped of Rs 2.2 L over Diljit concert tickets,The Times of India,negative,0.7281,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:36,LT.NS,Sumadhura Group mulls 3 m sq-ft ind’l projects expansion in TN,Construction Week India,neutral,0.6606,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:36,LT.NS,Foreign affairs: the role of the Council and the European Council,"Council, European Union",neutral,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:36,LT.NS,Form 4 Federal Signal Corp: John L. Workman (Director) For: 25 November,Investing.com India,neutral,0.7749,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:39,M&M.NS,CPI(M) distances itself from party leader Madhusoodhanan’s threats of “retaliatory violence”,The Hindu,negative,0.7305,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:39,M&M.NS,Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have',BBC,negative,0.4928,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:39,M&M.NS,BMW M 1000 RR Launched In India: BMW's Most Powerful Production Superbike,ZigWheels.com,positive,0.7317,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:39,M&M.NS,"Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",The Guardian,negative,0.4454,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:39,M&M.NS,Shah Rukh Khan recreates Boney M's Daddy Cool with Kareena Kapoor in King: All about the original 1976 hit,India TV News,neutral,0.6761,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:40,MARUTI.NS,Inox India secures BSE and NSE approval for ESOP share listing,scanx.trade,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:45,ONGC.NS,"What Are Abrasive, Life Sciences and Oil Marketing Stocks?",Univest,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:45,ONGC.NS,"Welspun Corp order book at all-time high, crosses Rs 50,000 cr with 5-year revenue visibility",Financial Express,positive,0.8174,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:45,POWERGRID.NS,"SENSEX falls over 700 pts, NIFTY below 25,700 in noon deals; MCX, Waaree Renewables among buzzing stocks",Upstox,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:45,POWERGRID.NS,India stocks lower at close of trade; Nifty 50 down 1.07%,Investing.com,negative,0.7448,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:45,POWERGRID.NS,India shares lower at close of trade; Nifty 50 down 1.07%,Investing.com India,negative,0.7746,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:46,RELIANCE.NS,Shyam Metalics Boosts Stake in Ramsarup Industries to 98.06% via SSPL Share Allotment,Kalkine Media,positive,0.7477,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:46,RELIANCE.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:46,RELIANCE.NS,"Vikas Lifecare (NSE:VIKASLIFE) Board Approves 31st Annual Report and AGM Date for December 28, 2026",Kalkine Media,neutral,0.6337,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 19:30:46,RELIANCE.NS,Infomerics Downgrades Salasar Techno Engineering's Credit Ratings: Key Details and Investor Impact,Kalkine Media,negative,0.7461,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:46,RELIANCE.NS,Why did Dixon Technologies shares rally over 4% today? Here's what's driving the stock,Business Upturn,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:48,SBILIFE.NS,Mahanadi Coalfields shares debut at 1.5% discount on NSE; here's how much investors lost per lot,Upstox,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:48,SBILIFE.NS,"Closing Bell, 27 November 2026: Sensex, Nifty Fall as IT Stocks Face Selling Pressure",Kotak Neo,negative,0.7445,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:48,SBILIFE.NS,"Schaeffler India Promoter Sells 6.5% Stake for Rs 3,549 Cr",HDFC Sky,negative,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:48,SBILIFE.NS,SBI MSME Dream Loans to Rise to ₹50 Crore by March 2027,Elets BFSI,positive,0.7342,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:49,SBIN.NS,SBI MSME Dream Loans to Rise to ₹50 Crore by March 2027,Elets BFSI,positive,0.7342,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:49,SBIN.NS,"SBI, PNB, Bank of Baroda: PSBs in focus as lenders report record asset quality; advances grow 15% in 5 years",Upstox,positive,0.7163,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:49,SBIN.NS,RBI Asks Banks to Guard Peripheral Systems as Cyberattacks Rise,Elets BFSI,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:52,TATAMOTORS.NS,NSE Secures RBI Nod for Corporate Bond Index Futures After SEBI Clearance in October; Launch Date Awaited,Kotak Neo,positive,0.6934,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:52,TATAMOTORS.NS,"Indian Stock Market News Today: Tata Steel–APL Apollo SEBI Review, US GDP Controversy, NSE Rally, JLR EV Launch and Airtel Data Centre Investment – Telangana NavaNirmana Sena",Telangana NavaNirmana Sena,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:53,TATASTEEL.NS,SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18,LinkedIn,neutral,0.7379,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:53,TATASTEEL.NS,"SEBI summons APL Apollo officials over Tata Steel deal, examines possible RPT rule violations - CNBC TV18",LinkedIn,neutral,0.7213,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:53,TATASTEEL.NS,SEBI extends deadline for Tata Steel's 26% open offer statement in APL Apollo to December 8 - CNBC TV18,LinkedIn,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:54,TATASTEEL.NS,Tata Steel sells Steel Tubes and Colour Coated business,MediaBrief,neutral,0.7102,AUTO_ACCEPTED,indi-finbert
+2026-11-27 19:30:55,TATACONSUM.NS,"Indian Stock Market News Today: Tata Steel–APL Apollo SEBI Review, US GDP Controversy, NSE Rally, JLR EV Launch and Airtel Data Centre Investment – Telangana NavaNirmana Sena",Telangana NavaNirmana Sena,neutral,0.7441,AUTO_ACCEPTED,indi-finbert
