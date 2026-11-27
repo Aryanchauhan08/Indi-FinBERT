@@ -10630,3 +10630,98 @@ Date,Ticker,Headline,Source,Predicted_Class,Confidence,Action_Type,Engine
 2026-11-26 19:39:38,TITAN.NS,"Titan Company - Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",The Economic Times,neutral,0.8268,AUTO_ACCEPTED,indi-finbert
 2026-11-26 19:39:40,ULTRACEMCO.NS,"Stock markets climb in early trade on foreign fund inflows, buying in IT shares",The New Indian Express,positive,0.7423,AUTO_ACCEPTED,indi-finbert
 2026-11-26 19:39:40,ULTRACEMCO.NS,"BofA lifts cement demand forecast, stays cautious on prices",Business Upturn,positive,0.716,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,TATASTEEL.NS,APL Apollo Tubes shares rise 3.5% after 30% rout; Tata Steel weighs options to address investor concerns,moneycontrol,positive,0.9462,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,SBILIFE.NS,"Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,TCS.NS,"Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?",moneycontrol,neutral,0.9441,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,TATASTEEL.NS,"SEBI summons APL Apollo officials over Tata Steel deal, examines possible RPT rule violations",moneycontrol,neutral,0.8985,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,TATASTEEL.NS,"Minority stakeholder protection important in Tata Steel-APL Apollo deal, looking into it: SEBI Chairman",moneycontrol,neutral,0.9084,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,TCS.NS,"Nifty IT snaps 4-day winning streak on profit booking; HCL Tech, TCS lead losses: Here's how to trade the sectoral index",moneycontrol,positive,0.7087,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:40,COALINDIA.NS,Mahanadi Coalfields shares list flat at 2% discount to IPO price; here’s how to trade Coal India unit,moneycontrol,neutral,0.7719,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:41,ADANIENT.NS,"Stocks in news: Tata Group companies, NSE, BSE, Zydus Lifesciences and KPI Green Energy",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:42,ADANIENT.NS,"Adani Group stocks today, November 27: Adani Power, Adani Total Gas and Adani Enterprises lead gains",Business Upturn,positive,0.7453,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:45,ASIANPAINT.NS,India shares higher at close of trade; Nifty 50 up 0.25%,Investing.com India,positive,0.7766,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:45,ASIANPAINT.NS,"IndiGo, BPCL, Asian Paints, CEAT: Oil-linked stocks mixed as crude prices rise over $97/barrel",Upstox,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:45,ASIANPAINT.NS,"Top gainers and losers, Nov 26: HCLTech, BSE surge 6%, TCS rises 5%, Asian Paints falls 3%; check list",Upstox,neutral,0.7058,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:47,AXISBANK.NS,"Axis Bank Ltd (AXISBANK-NS) Share Price Today, Live Chart and News",TechGraph,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:50,BAJFINANCE.NS,NSE overtakes London Stock Exchange to become worlds 3rd largest,Daily Excelsior,positive,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:50,BAJFINANCE.NS,J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026,Reuters,positive,0.9151,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:50,BAJFINANCE.NS,KPI Green Energy (NSE:KPIGREEN) Forms Five New Step-Down Subsidiaries: Key Details and Implications,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:50,BAJFINANCE.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:30:51,BAJFINANCE.NS,"India’s rare earnings upgrade: Jefferies names 9 stocks, with Reliance and JSW Steel among its top picks",IndiaIPO,positive,0.6544,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJFINANCE.NS,"JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid",NDTV Profit,neutral,0.8708,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJFINANCE.NS,JPMorgan’s 33 Top Indian Stocks for 2027,News Karnataka,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJAJFINSV.NS,J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026,Reuters,positive,0.9151,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJAJFINSV.NS,"Sensex gains for second day in a row on foreign fund inflows, IT stocks",The New Indian Express,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJAJFINSV.NS,Interarch Building Solutions (NSE:INTERARCH) Activates New ISIN INE00M901026 Ahead of 5-for-1 Stock Split,Kalkine Media,neutral,0.7224,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJAJFINSV.NS,Precision Camshafts (NSE:PRECAM) Q2 FY27 Earnings Call Insights: Revenue Growth and Exceptional Loss Explained,Kalkine Media,negative,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:51,BAJAJFINSV.NS,KPI Green Energy (NSE:KPIGREEN) Forms Five New Step-Down Subsidiaries: Key Details and Implications,Kalkine Media,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:52,BAJAJFINSV.NS,"India’s rare earnings upgrade: Jefferies names 9 stocks, with Reliance and JSW Steel among its top picks",IndiaIPO,positive,0.6544,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:53,BPCL.NS,"IndiGo, BPCL, Asian Paints, CEAT: Oil-linked stocks mixed as crude prices rise over $97/barrel",Upstox,neutral,0.7421,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:56,BRITANNIA.NS,Britannia Industries announces resignation of Chief Marketing Officer,Business Upturn,neutral,0.7183,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:56,BRITANNIA.NS,Central Bank of India to participate in Alpha Connect Conference December 2026,Business Upturn,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:56,BRITANNIA.NS,"Britannia Industries Limited (BRITANNIA.NS) Stock Price, News, Quote & History",Yahoo! Finance Canada,neutral,0.7459,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:58,COALINDIA.NS,Mahanadi Coalfields shares debut at 1.5% discount on NSE; here's how much investors lost per lot,Upstox,negative,0.7422,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:30:58,COALINDIA.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:30:58,COALINDIA.NS,"Mahanadi Coalfields IPO Listing: Coal India Subsidiary Makes Disappointing Debut On On NSE, BSE",Goodreturns,negative,0.7183,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:00,DIVISLAB.NS,Small-cap stock under ₹100: Metal stock jumps following stock market rally; do you own?,Livemint,positive,0.8419,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:04,GRASIM.NS,Small-cap stock under ₹100: Metal stock jumps following stock market rally; do you own?,Livemint,positive,0.8419,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:05,HCLTECH.NS,India stocks higher at close of trade; Nifty 50 up 0.25%,Investing.com,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:05,HCLTECH.NS,"HCL Technologies Share Price Jumps 6.4 Percent; Infosys, TCS and Tech Mahindra Shares in Demand",TopNews,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:05,HCLTECH.NS,Why did Dixon Technologies shares rally over 4% today? Here's what's driving the stock,Business Upturn,positive,0.7474,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:05,HCLTECH.NS,"PSU stocks today: BEML surges 7.27%, GRSE jumps 5%, Bank of India gains 4.87%, NALCO up 2.59%",Business Upturn,positive,0.7438,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:06,HDFCBANK.NS,CORPWATCH: India clears SBI Mutual Fund for near-10% South Indian Bank stake,Yahoo Finance,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:06,HDFCBANK.NS,Top Traded by Value Today 26-Nov-2026: HDFC Bank Leads,Multibagg AI,positive,0.6558,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:06,HDFCBANK.NS,J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026,Reuters,positive,0.9151,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:06,HDFCBANK.NS,"Zee Business. . Why are MCX, BSE and NSE witnessing strong action? Which AI and power equipment stocks are rallying? Why have sugar stocks regained their sweetness? Why are FMCG stocks witnessing profit booking? Prestige and Lodha rally: What sh",Facebook,positive,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:06,HDFCBANK.NS,"Stocks in news: Tata Group companies, NSE, BSE, Zydus Lifesciences and KPI Green Energy",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:07,HDFCBANK.NS,"JPMorgan's 2027 India Stock List: 33 Top Picks, And The 10 Stocks It Wants You To Avoid",NDTV Profit,neutral,0.8708,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:07,HDFCBANK.NS,"$100 billion FII inflow possible? JPMorgan gives 29,000 target for Nifty",The Economic Times,neutral,0.8493,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:08,HDFCLIFE.NS,"Schaeffler India Promoter Sells 6.5% Stake for Rs 3,549 Cr",HDFC Sky,negative,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:09,HEROMOTOCO.NS,Cost Pressures and Uneven Segment Performance Could Challenge Hero MotoCorp's Growth Trajectory,Kalkine,negative,0.6766,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:14,ICICIBANK.NS,"ICICI Bank, RIL, SBI: Jefferies Names 10 Stocks To Buy As India Defies A 20-Year Earnings Trend",NDTV Profit,neutral,0.8312,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:19,JSWSTEEL.NS,"Zee Business. . Why are MCX, BSE and NSE witnessing strong action? Which AI and power equipment stocks are rallying? Why have sugar stocks regained their sweetness? Why are FMCG stocks witnessing profit booking? Prestige and Lodha rally: What sh",Facebook,positive,0.7308,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:19,JSWSTEEL.NS,"SENSEX falls over 700 pts, NIFTY below 25,700 in noon deals; MCX, Waaree Renewables among buzzing stocks",Upstox,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:19,JSWSTEEL.NS,"Sensex, Nifty fall as Brent crude crosses USD 96",Awaz The Voice,negative,0.7412,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:19,JSWSTEEL.NS,#BreakingNews | कॉमर्स मिनिस्टर पीयूष गोयल का बयान भारत-US ट्रेड डील अंतिम चरण में भारत-EU के बीच ट्रेड डील साल अंत तक मार्च या अप्रैल से EU के साथ ट्रेड एग्रीमेंट लागू होगा #IndiaUSTradeDeal #India,Facebook,neutral,0.7364,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:19,JSWSTEEL.NS,Small-cap stock under ₹100: Metal stock jumps following stock market rally; do you own?,Livemint,positive,0.8419,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:20,JSWSTEEL.NS,"India’s rare earnings upgrade: Jefferies names 9 stocks, with Reliance and JSW Steel among its top picks",The Economic Times,positive,0.7852,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:21,KOTAKBANK.NS,"ICICI Bank, RIL, SBI: Jefferies Names 10 Stocks To Buy As India Defies A 20-Year Earnings Trend",NDTV Profit,neutral,0.8312,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:22,LT.NS,NSE overtakes London Stock Exchange to become worlds 3rd largest,Daily Excelsior,positive,0.6843,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:22,LT.NS,NSE becomes world's third largest listed exchange operator as shares scale fresh peak -,IndiaIPO,positive,0.7472,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:23,LT.NS,"Phytometabolomic profiling, antidiabetic and antioxidant activities of Pisum sativum L. aerial part extracts",Nature,positive,0.5131,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:23,LT.NS,WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India,Inc42,neutral,0.5407,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:23,LT.NS,"Aanand L Rai admires the new generation of filmmakers, says their approach to cinema is gutsy and refreshing",Adgully,positive,0.7109,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:23,LT.NS,Sindhu named int’l ambassador for Pink City Half Marathon,Nagaland Post,neutral,0.7343,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:26,M&M.NS,Box Office: 'Hunger Games: Sunrise on Reaping' $85M 5-day Over Thanksgiving,Deadline,positive,0.7415,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:26,M&M.NS,2027 BMW M 1000 RR Launched At Rs 59.90 Lakh,Overdrive,neutral,0.6393,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:26,M&M.NS,CPI(M) urges DMK to spell out its position on delimitation,The Hindu,neutral,0.7437,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:26,M&M.NS,‘One or two PSUs should be suspended for non-compliance’: M Damodaran,The Financial Express,negative,0.7265,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:27,MARUTI.NS,Precision Camshafts (NSE:PRECAM) Q2 FY27 Earnings Call Insights: Revenue Growth and Exceptional Loss Explained,Kalkine Media,negative,0.7021,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:29,NESTLEIND.NS,"Nestle India Ltd (NESTLEIND-NS) Share Price Today, Live Chart and News",TechGraph,neutral,0.7455,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:29,NESTLEIND.NS,"Nestle India receives Rs. 36,36,548 order from Provident Fund Organisation",Business Upturn,neutral,0.5514,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:32,ONGC.NS,"India’s investment appeal strengthens amid global uncertainty, improving earnings: Report",PSU Watch,positive,0.7468,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:32,ONGC.NS,APL builds regulated specialty access through key approvals,Multibagg AI,positive,0.7404,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:32,ONGC.NS,Prabha Energy Limited (PEL) has 47 Jharia wells left for Q4 FY27,Multibagg AI,neutral,0.7439,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:32,ONGC.NS,"Aarvi Encon Latest Results: FY26 revenue up 27% to ₹6,499 million",scanx.trade,positive,0.7481,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:35,SBIN.NS,CORPWATCH: India clears SBI Mutual Fund for near-10% South Indian Bank stake,Yahoo Finance,positive,0.7442,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:35,SBIN.NS,"RBI Swaps State Govt Bonds worth 10,800 cr Mumbai: The Reserve Bank",TradingView,neutral,0.737,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:35,SBIN.NS,"SENSEX falls over 700 pts, NIFTY below 25,700 in noon deals; MCX, Waaree Renewables among buzzing stocks",Upstox,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:35,SBIN.NS,"Britannia, Nestle, ITC: FMCG stocks decline as SC orders separate warning labels for high sugar, salt, fat",Upstox,negative,0.7451,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:35,SBIN.NS,"Thieves Fail to Loot SBI ATM with JCB in Budgam, Flee Empty-Handed",Business Upturn,negative,0.7367,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:36,SBIN.NS,"ICICI Bank, RIL, SBI: Jefferies Names 10 Stocks To Buy As India Defies A 20-Year Earnings Trend",NDTV Profit,neutral,0.8312,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:37,TATAMOTORS.NS,J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026,Reuters,positive,0.9151,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:37,TATAMOTORS.NS,"Stocks in news: Tata Group companies, NSE, BSE, Zydus Lifesciences and KPI Green Energy",The Economic Times,neutral,0.8924,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:37,TATAMOTORS.NS,Tata Motors increases stake in Automobile Corporation of Goa to 50.17%,Business Upturn,positive,0.725,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:38,TATASTEEL.NS,Tata Steel's APL Apollo deal draws investor backlash as shares slide,BusinessLine,negative,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:38,TATASTEEL.NS,NSE Secures RBI Nod for Corporate Bond Index Futures After SEBI Clearance in October; Launch Date Awaited,Kotak Neo,positive,0.6934,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:38,TATASTEEL.NS,"NSE Warns Investors Against Telegram Trading Channels, Dabba Trading Platforms Offering Illegal Market Tips",Moneylife,negative,0.5334,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:39,TATASTEEL.NS,"Why TATA Steel Sold Two Key Businesses to APL Apollo For Rs 28,000 Crore (USD 3.02 Billion)",Spherical Insights,neutral,0.5129,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:40,TATACONSUM.NS,"Tata Consumer Products Ltd (TATACONSUM-NS) Share Price Today, Live Chart and News",TechGraph,neutral,0.7452,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:43,TCS.NS,"HCL Technologies Share Price Jumps 6.4 Percent; Infosys, TCS and Tech Mahindra Shares in Demand",TopNews,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:43,TECHM.NS,"Tech Mahindra Ltd (TECHM-NS) Share Price Today, Live Chart and News",TechGraph,neutral,0.7456,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:44,TECHM.NS,"Tech Mahindra shares in focus as record date for bonus issue nears – Check ratio, key dates",Moneycontrol.com,neutral,0.4937,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:44,TECHM.NS,"ICICI Bank, RIL, SBI: Jefferies Names 10 Stocks To Buy As India Defies A 20-Year Earnings Trend",NDTV Profit,neutral,0.8312,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:44,TECHM.NS,"HCL Technologies Share Price Jumps 6.4 Percent; Infosys, TCS and Tech Mahindra Shares in Demand",TopNews,positive,0.7473,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:45,TITAN.NS,"SENSEX falls over 700 pts, NIFTY below 25,700 in noon deals; MCX, Waaree Renewables among buzzing stocks",Upstox,negative,0.744,AUTO_ACCEPTED,indi-finbert
+2026-11-27 08:31:45,TITAN.NS,"Coal India Subsidiary Mahanadi Coalfields Launches IPO, Reducing Parent Stake to 90%",Kalkine Media,negative,0.6026,FLAGGED_FOR_HUMAN_REVIEW,indi-finbert
+2026-11-27 08:31:49,WIPRO.NS,"NIFTY50 and SENSEX put a resilient show on Thursday; Wipro, ABSL AMC, KPIL, Abbot and others cross 200 EMA levels",Upstox,positive,0.7117,AUTO_ACCEPTED,indi-finbert
